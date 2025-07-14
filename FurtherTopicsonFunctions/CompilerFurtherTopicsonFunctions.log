@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  25 JUN 2025 07:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  14 JUL 2025 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -966,7 +966,70 @@ e 318.
 LaTeX Warning: Reference `absolutevaluepiecewise' on page 28 undefined on input
  line 354.
 
-[28] [29] [30] [31] [32])) [33] (./FunctionComposition.tex
+
+LaTeX Warning: Reference `unitstepexercise' on page 28 undefined on input line 
+365.
+
+
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 28 undefined on i
+nput line 365.
+
+File: FunctionArithmetic.7 Graphic file (type mps)
+[MP to PDF] (./FunctionArithmetic.7) [28] [29] [30] [31] [32] [33]
+File: FunctionArithmetic.8 Graphic file (type mps)
+ [MP to PDF]
+(./FunctionArithmetic.8)
+File: FunctionArithmetic.9 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.9) [34]
+File: FunctionArithmetic.10 Graphic file (type mps)
+ [MP to PDF]
+(./FunctionArithmetic.10)
+File: FunctionArithmetic.11 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.11)
+File: FunctionArithmetic.12 Graphic file (type mps)
+ [MP to PDF]
+(./FunctionArithmetic.12)
+File: FunctionArithmetic.13 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.13)
+File: FunctionArithmetic.14 Graphic file (type mps)
+ [MP to PDF]
+(./FunctionArithmetic.14)
+File: FunctionArithmetic.15 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.15)
+Overfull \vbox (7.0321pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (7.0321pt too high) has occurred while \output is active []
+
+
+[35]
+File: FunctionArithmetic.16 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.16)
+File: FunctionArithmetic.17 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.17)
+File: FunctionArithmetic.18 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.18)
+File: FunctionArithmetic.19 Graphic file (type mps)
+ [MP to PDF] (./FunctionArithmetic.19)
+File: FunctionArithmetic.20 Graphic file (type mps)
+
+[MP to PDF] (./FunctionArithmetic.20)
+Underfull \vbox (badness 5578) has occurred while \output is active []
+
+ [36]
+Overfull \hbox (50.39418pt too wide) in paragraph at lines 1650--1651
+[]$\OT1/cmss/m/n/10.95 ^^A\OT1/phv/m/sl/10.95 A \OT1/phv/m/n/10.95 = \OT1/cmss/
+m/n/10.95 ^^A\OT1/phv/m/n/10.95 [\OML/cmm/m/it/10.95 `\OT1/phv/m/sl/10.95 w\OT1
+/phv/m/n/10.95 ] = \OT1/phv/m/sl/10.95 w\OT1/cmss/m/n/10.95 ^^A\OML/cmm/m/it/10
+.95 ` \OT1/phv/m/n/10.95 + \OML/cmm/m/it/10.95 `\OT1/cmss/m/n/10.95 ^^A\OT1/phv
+/m/sl/10.95 w \OT1/phv/m/n/10.95 + \OT1/cmss/m/n/10.95 ^^A\OT1/phv/m/sl/10.95 e
+ll\OT1/cmss/m/n/10.95 ^^A\OT1/phv/m/sl/10.95 w \OT1/phv/m/n/10.95 = (216 [])(\O
+MS/cmsy/m/n/10.95 ^^F\OT1/phv/m/n/10.95 0.5 []) + (280 [])(\OMS/cmsy/m/n/10.95 
+^^F\OT1/phv/m/n/10.95 0.5 []) + (\OMS/cmsy/m/n/10.95 ^^F\OT1/phv/m/n/10.95 0.5 
+[])(\OMS/cmsy/m/n/10.95 ^^F\OT1/phv/m/n/10.95 0.5 []) =
+ []
+
+)) [37] (./FunctionComposition.tex
 
 Mfpic: Initializing FunctionComposition.mp.
 \openout3 = `FunctionComposition.mp'.
@@ -976,44 +1039,44 @@ Mfpic: Apply metapost to FunctionComposition.mp.
 Mfpic: Then reprocess this file "CompilerFurtherTopicsonFunctions".
 
 File: FunctionComposition.1 Graphic file (type mps)
-[MP to PDF] (./FunctionComposition.1) [34]
+[MP to PDF] (./FunctionComposition.1) [38]
 File: FunctionComposition.2 Graphic file (type mps)
- [MP to PDF] (./FunctionComposition.2) [35] [36]
+ [MP to PDF] (./FunctionComposition.2) [39] [40]
 File: FunctionComposition.3 Graphic file (type mps)
- [MP to PDF] (./FunctionComposition.3) [37] [38] [39]
+ [MP to PDF] (./FunctionComposition.3) [41] [42] [43]
 
-LaTeX Warning: Reference `identityexercise' on page 40 undefined on input line 
+LaTeX Warning: Reference `identityexercise' on page 44 undefined on input line 
 324.
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 40 undefined on i
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 44 undefined on i
 nput line 324.
 
-[40]
+[44]
 File: FunctionComposition.4 Graphic file (type mps)
- [MP to PDF] (./FunctionComposition.4) [41]
+ [MP to PDF] (./FunctionComposition.4) [45]
 File: FunctionComposition.5 Graphic file (type mps)
  [MP to PDF]
-(./FunctionComposition.5) [42]
+(./FunctionComposition.5) [46]
 File: FunctionComposition.6 Graphic file (type mps)
- [MP to PDF] (./FunctionComposition.6) [43]
-[44] [45] [46] [47]
+ [MP to PDF] (./FunctionComposition.6) [47]
+[48] [49] [50] [51]
 File: FunctionComposition.7 Graphic file (type mps)
- [MP to PDF] (./FunctionComposition.7) [48] [49]
-(./ExercisesforFunctionComposition.tex [50]
+ [MP to PDF] (./FunctionComposition.7) [52] [53]
+(./ExercisesforFunctionComposition.tex [54]
 File: FunctionComposition.8 Graphic file (type mps)
  [MP to PDF]
 (./FunctionComposition.8)
 File: FunctionComposition.9 Graphic file (type mps)
- [MP to PDF] (./FunctionComposition.9) [51] [52]
-[53] [54] [55]
+ [MP to PDF] (./FunctionComposition.9) [55] [56]
+[57] [58] [59]
 Overfull \hbox (18.71786pt too wide) in paragraph at lines 984--985
 []$\OT1/phv/m/n/10.95 (\OT1/phv/m/sl/10.95 f \OMS/cmsy/m/n/10.95 ^^N \OT1/phv/m
 /sl/10.95 f\OT1/phv/m/n/10.95 )(\OT1/phv/m/sl/10.95 x\OT1/phv/m/n/10.95 ) = []$
 , do-main: $[] \OMS/cmsy/m/n/10.95 [ [] [ [] [ [] [
  []
 
-[56])) [57] (./Transformations.tex
+[60])) [61] (./Transformations.tex
 
 Mfpic: Initializing Transformations.mp.
 \openout3 = `Transformations.mp'.
@@ -1023,45 +1086,45 @@ Mfpic: Apply metapost to Transformations.mp.
 Mfpic: Then reprocess this file "CompilerFurtherTopicsonFunctions".
 
 
-LaTeX Warning: Reference `linearabsvaluegraphs' on page 58 undefined on input l
+LaTeX Warning: Reference `linearabsvaluegraphs' on page 62 undefined on input l
 ine 9.
 
 
-LaTeX Warning: Reference `standardformgraph' on page 58 undefined on input line
+LaTeX Warning: Reference `standardformgraph' on page 62 undefined on input line
  9.
 
 
-LaTeX Warning: Reference `linearmononialgraphs' on page 58 undefined on input l
+LaTeX Warning: Reference `linearmononialgraphs' on page 62 undefined on input l
 ine 9.
 
 
-LaTeX Warning: Reference `linearlaurentlgraphs' on page 58 undefined on input l
+LaTeX Warning: Reference `linearlaurentlgraphs' on page 62 undefined on input l
 ine 9.
 
 
-LaTeX Warning: Reference `linearrootgraphs' on page 58 undefined on input line 
+LaTeX Warning: Reference `linearrootgraphs' on page 62 undefined on input line 
 9.
 
 
-LaTeX Warning: Reference `linearrationalpowergraphs' on page 58 undefined on in
+LaTeX Warning: Reference `linearrationalpowergraphs' on page 62 undefined on in
 put line 9.
 
 
-LaTeX Warning: Reference `linearrationalpowergraphs' on page 58 undefined on in
+LaTeX Warning: Reference `linearrationalpowergraphs' on page 62 undefined on in
 put line 13.
 
 File: Transformations.1 Graphic file (type mps)
-[MP to PDF] (./Transformations.1) [58]
+[MP to PDF] (./Transformations.1) [62]
 File: Transformations.2 Graphic file (type mps)
  [MP to PDF] (./Transformations.2)
 File: Transformations.3 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.3) [59]
+[MP to PDF] (./Transformations.3) [63]
 File: Transformations.4 Graphic file (type mps)
  [MP to PDF] (./Transformations.4)
 File: Transformations.5 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.5) [60]
+[MP to PDF] (./Transformations.5) [64]
 File: Transformations.6 Graphic file (type mps)
  [MP to PDF] (./Transformations.6)
 File: Transformations.7 Graphic file (type mps)
@@ -1073,8 +1136,8 @@ Overfull \vbox (11.68434pt too high) has occurred while \output is active []
 Overfull \vbox (1.73262pt too high) has occurred while \output is active []
 
 
-[61]
-<./TransformationsGraphics/TransformationsEx01a.jpg, id=1074, 2820.5375pt x 150
+[65]
+<./TransformationsGraphics/TransformationsEx01a.jpg, id=1122, 2820.5375pt x 150
 7.6325pt>
 File: ./TransformationsGraphics/TransformationsEx01a.jpg Graphic file (type jpg
 )
@@ -1082,7 +1145,7 @@ File: ./TransformationsGraphics/TransformationsEx01a.jpg Graphic file (type jpg
 Package pdftex.def Info: ./TransformationsGraphics/TransformationsEx01a.jpg  us
 ed on input line 428.
 (pdftex.def)             Requested size: 216.81pt x 115.87411pt.
-<./TransformationsGraphics/TransformationsEx01b.jpg, id=1075, 2818.53pt x 1517.
+<./TransformationsGraphics/TransformationsEx01b.jpg, id=1123, 2818.53pt x 1517.
 67pt>
 File: ./TransformationsGraphics/TransformationsEx01b.jpg Graphic file (type jpg
 )
@@ -1095,9 +1158,9 @@ Overfull \hbox (18.72536pt too wide) in paragraph at lines 426--433
  [] 
  []
 
-[62 <./TransformationsGraphics/TransformationsEx01a.jpg> <./TransformationsGrap
+[66 <./TransformationsGraphics/TransformationsEx01a.jpg> <./TransformationsGrap
 hics/TransformationsEx01b.jpg>]
-<./TransformationsGraphics/TransformationsEx01c.jpg, id=1088, 2820.5375pt x 150
+<./TransformationsGraphics/TransformationsEx01c.jpg, id=1136, 2820.5375pt x 150
 7.6325pt>
 File: ./TransformationsGraphics/TransformationsEx01c.jpg Graphic file (type jpg
 )
@@ -1149,7 +1212,7 @@ LaTeX Font Warning: Command \normalsize invalid in math mode on input line 558.
 
 
 File: Transformations.11 Graphic file (type mps)
-[MP to PDF] (./Transformations.11) [63 <./TransformationsGraphics/Transformatio
+[MP to PDF] (./Transformations.11) [67 <./TransformationsGraphics/Transformatio
 nsEx01c.jpg>]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 582.
@@ -1202,16 +1265,16 @@ Overfull \hbox (33.80936pt too wide) detected at line 685
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
+ [68]
 
-LaTeX Warning: Reference `AppCartesianPlane' on page 65 undefined on input line
+LaTeX Warning: Reference `AppCartesianPlane' on page 69 undefined on input line
  707.
 
 
-LaTeX Warning: Reference `GraphsofPolynomials' on page 65 undefined on input li
+LaTeX Warning: Reference `GraphsofPolynomials' on page 69 undefined on input li
 ne 707.
 
-[65]
+[69]
 File: Transformations.16 Graphic file (type mps)
  [MP to PDF] (./Transformations.16)
 File: Transformations.17 Graphic file (type mps)
@@ -1220,7 +1283,7 @@ File: Transformations.18 Graphic file (type mps)
 
 [MP to PDF] (./Transformations.18)
 File: Transformations.19 Graphic file (type mps)
- [MP to PDF] (./Transformations.19) [66]
+ [MP to PDF] (./Transformations.19) [70]
 File: Transformations.20 Graphic file (type mps)
 
 [MP to PDF] (./Transformations.20)
@@ -1233,8 +1296,8 @@ Overfull \hbox (27.38924pt too wide) in paragraph at lines 955--956
  [][] 
  []
 
-[67] [68]
-<./TransformationsGraphics/TransformationsEx02a.jpg, id=1164, 2682.02pt x 1507.
+[71] [72]
+<./TransformationsGraphics/TransformationsEx02a.jpg, id=1212, 2682.02pt x 1507.
 6325pt>
 File: ./TransformationsGraphics/TransformationsEx02a.jpg Graphic file (type jpg
 )
@@ -1242,7 +1305,7 @@ File: ./TransformationsGraphics/TransformationsEx02a.jpg Graphic file (type jpg
 Package pdftex.def Info: ./TransformationsGraphics/TransformationsEx02a.jpg  us
 ed on input line 1036.
 (pdftex.def)             Requested size: 216.81pt x 121.8553pt.
-<./TransformationsGraphics/TransformationsEx02b.jpg, id=1165, 2682.02pt x 1505.
+<./TransformationsGraphics/TransformationsEx02b.jpg, id=1213, 2682.02pt x 1505.
 625pt>
 File: ./TransformationsGraphics/TransformationsEx02b.jpg Graphic file (type jpg
 )
@@ -1294,7 +1357,7 @@ LaTeX Font Warning: Command \normalsize invalid in math mode on input line 1149
 .
 
 File: Transformations.25 Graphic file (type mps)
-[MP to PDF] (./Transformations.25) [69 <./TransformationsGraphics/Transformatio
+[MP to PDF] (./Transformations.25) [73 <./TransformationsGraphics/Transformatio
 nsEx02a.jpg> <./TransformationsGraphics/TransformationsEx02b.jpg>]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 1178
@@ -1338,7 +1401,7 @@ File: Transformations.29 Graphic file (type mps)
 [MP to PDF] (./Transformations.29)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
+ [74]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 1298
 .
@@ -1381,20 +1444,20 @@ File: Transformations.33 Graphic file (type mps)
 [MP to PDF] (./Transformations.33)
 Underfull \vbox (badness 4072) has occurred while \output is active []
 
- [71]
-[72]
+ [75]
+[76]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1443.
 
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 8.27998pt on input line 1443.
- [73]
+ [77]
 File: Transformations.34 Graphic file (type mps)
  [MP to PDF] (./Transformations.34)
 File: Transformations.35 Graphic file (type mps)
  [MP to PDF] (./Transformations.35)
 File: Transformations.36 Graphic file (type mps)
-[MP to PDF] (./Transformations.36) [74]
+[MP to PDF] (./Transformations.36) [78]
 File: Transformations.37 Graphic file (type mps)
  [MP to PDF] (./Transformations.37)
 File: Transformations.38 Graphic file (type mps)
@@ -1410,7 +1473,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
 
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 5.51999pt on input line 1640.
- [75]
+ [79]
 File: Transformations.39 Graphic file (type mps)
  [MP to PDF] (./Transformations.39)
 File: Transformations.40 Graphic file (type mps)
@@ -1420,7 +1483,7 @@ File: Transformations.41 Graphic file (type mps)
  [MP to PDF] (./Transformations.41)
 File: Transformations.42 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.42) [76]
+[MP to PDF] (./Transformations.42) [80]
 File: Transformations.43 Graphic file (type mps)
  [MP to PDF] (./Transformations.43)
 File: Transformations.44 Graphic file (type mps)
@@ -1430,8 +1493,8 @@ Overfull \hbox (10.37308pt too wide) in paragraph at lines 1926--1927
  [][] 
  []
 
-[77] [78]
-<./TransformationsGraphics/TransformationsEx03a.jpg, id=1291, 2682.02pt x 1505.
+[81] [82]
+<./TransformationsGraphics/TransformationsEx03a.jpg, id=1340, 2682.02pt x 1505.
 625pt>
 File: ./TransformationsGraphics/TransformationsEx03a.jpg Graphic file (type jpg
 )
@@ -1439,7 +1502,7 @@ File: ./TransformationsGraphics/TransformationsEx03a.jpg Graphic file (type jpg
 Package pdftex.def Info: ./TransformationsGraphics/TransformationsEx03a.jpg  us
 ed on input line 2050.
 (pdftex.def)             Requested size: 216.81pt x 121.69305pt.
-<./TransformationsGraphics/TransformationsEx03b.jpg, id=1292, 2688.0425pt x 151
+<./TransformationsGraphics/TransformationsEx03b.jpg, id=1341, 2688.0425pt x 151
 7.67pt>
 File: ./TransformationsGraphics/TransformationsEx03b.jpg Graphic file (type jpg
 )
@@ -1452,7 +1515,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 2048--2055
  [] 
  []
 
-[79]
+[83]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 2093
 .
@@ -1495,7 +1558,7 @@ File: Transformations.48 Graphic file (type mps)
 [MP to PDF] (./Transformations.48)
 Underfull \vbox (badness 1005) has occurred while \output is active []
 
- [80 <./TransformationsGraphics/TransformationsEx03a.jpg> <./TransformationsGra
+ [84 <./TransformationsGraphics/TransformationsEx03a.jpg> <./TransformationsGra
 phics/TransformationsEx03b.jpg>]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 2201
@@ -1559,7 +1622,7 @@ File: Transformations.54 Graphic file (type mps)
 [MP to PDF] (./Transformations.54)
 Underfull \vbox (badness 3635) has occurred while \output is active []
 
- [81]
+ [85]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 2363
 .
@@ -1602,7 +1665,7 @@ File: Transformations.58 Graphic file (type mps)
 [MP to PDF] (./Transformations.58)
 Underfull \vbox (badness 4242) has occurred while \output is active []
 
- [82]
+ [86]
 
 LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 2488
 .
@@ -1651,32 +1714,32 @@ Overfull \hbox (40.15968pt too wide) detected at line 2591
 []
  []
 
-[83]
+[87]
 
-LaTeX Warning: Reference `linearabsvaluegraphs' on page 84 undefined on input l
+LaTeX Warning: Reference `linearabsvaluegraphs' on page 88 undefined on input l
 ine 2647.
 
 
-LaTeX Warning: Reference `standardformgraph' on page 84 undefined on input line
+LaTeX Warning: Reference `standardformgraph' on page 88 undefined on input line
  2647.
 
 
-LaTeX Warning: Reference `linearmononialgraphs' on page 84 undefined on input l
+LaTeX Warning: Reference `linearmononialgraphs' on page 88 undefined on input l
 ine 2647.
 
 
-LaTeX Warning: Reference `linearlaurentlgraphs' on page 84 undefined on input l
+LaTeX Warning: Reference `linearlaurentlgraphs' on page 88 undefined on input l
 ine 2647.
 
 
-LaTeX Warning: Reference `linearrootgraphs' on page 84 undefined on input line 
+LaTeX Warning: Reference `linearrootgraphs' on page 88 undefined on input line 
 2647.
 
 
-LaTeX Warning: Reference `linearrationalpowergraphs' on page 84 undefined on in
+LaTeX Warning: Reference `linearrationalpowergraphs' on page 88 undefined on in
 put line 2647.
 
-[84] [85]
+[88] [89]
 Overfull \hbox (6.64767pt too wide) in paragraph at lines 2710--2711
 [][]\OT1/phv/m/sc/10.95 Example \OT1/phv/m/n/10.95 1.4.4\OT1/phv/m/sc/10.95 . [
 ]\OT1/phv/m/n/10.95 Be-low is the com-plete graph of $\OT1/phv/m/sl/10.95 y \OT
@@ -1691,8 +1754,8 @@ File: Transformations.64 Graphic file (type mps)
  [MP to PDF] (./Transformations.64)
 File: Transformations.65 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.65) [86]
-<./TransformationsGraphics/TransformationsEx04a.jpg, id=1366, 2673.99pt x 1501.
+[MP to PDF] (./Transformations.65) [90]
+<./TransformationsGraphics/TransformationsEx04a.jpg, id=1415, 2673.99pt x 1501.
 61pt>
 File: ./TransformationsGraphics/TransformationsEx04a.jpg Graphic file (type jpg
 )
@@ -1700,7 +1763,7 @@ File: ./TransformationsGraphics/TransformationsEx04a.jpg Graphic file (type jpg
 Package pdftex.def Info: ./TransformationsGraphics/TransformationsEx04a.jpg  us
 ed on input line 2871.
 (pdftex.def)             Requested size: 216.81pt x 121.73514pt.
-<./TransformationsGraphics/TransformationsEx04b.jpg, id=1367, 2678.005pt x 1507
+<./TransformationsGraphics/TransformationsEx04b.jpg, id=1416, 2678.005pt x 1507
 .6325pt>
 File: ./TransformationsGraphics/TransformationsEx04b.jpg Graphic file (type jpg
 )
@@ -1713,8 +1776,8 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 2869--2876
  [] 
  []
 
-[87]
-<./TransformationsGraphics/TransformationsEx04c.jpg, id=1385, 2675.9975pt x 150
+[91]
+<./TransformationsGraphics/TransformationsEx04c.jpg, id=1434, 2675.9975pt x 150
 7.6325pt>
 File: ./TransformationsGraphics/TransformationsEx04c.jpg Graphic file (type jpg
 )
@@ -1722,7 +1785,7 @@ File: ./TransformationsGraphics/TransformationsEx04c.jpg Graphic file (type jpg
 Package pdftex.def Info: ./TransformationsGraphics/TransformationsEx04c.jpg  us
 ed on input line 2887.
 (pdftex.def)             Requested size: 216.81pt x 122.13136pt.
-<./TransformationsGraphics/TransformationsEx04d.jpg, id=1386, 2678.005pt x 1509
+<./TransformationsGraphics/TransformationsEx04d.jpg, id=1435, 2678.005pt x 1509
 .64pt>
 File: ./TransformationsGraphics/TransformationsEx04d.jpg Graphic file (type jpg
 )
@@ -1735,7 +1798,7 @@ Overfull \hbox (18.0362pt too wide) in paragraph at lines 2885--2892
  [] 
  []
 
-<./TransformationsGraphics/TransformationsEx04e.jpg, id=1389, 2678.005pt x 1501
+<./TransformationsGraphics/TransformationsEx04e.jpg, id=1438, 2678.005pt x 1501
 .61pt>
 File: ./TransformationsGraphics/TransformationsEx04e.jpg Graphic file (type jpg
 )
@@ -1743,7 +1806,7 @@ File: ./TransformationsGraphics/TransformationsEx04e.jpg Graphic file (type jpg
 Package pdftex.def Info: ./TransformationsGraphics/TransformationsEx04e.jpg  us
 ed on input line 2914.
 (pdftex.def)             Requested size: 216.81pt x 121.55183pt.
-<./TransformationsGraphics/TransformationsEx04f.jpg, id=1390, 2673.99pt x 1507.
+<./TransformationsGraphics/TransformationsEx04f.jpg, id=1439, 2673.99pt x 1507.
 6325pt>
 File: ./TransformationsGraphics/TransformationsEx04f.jpg Graphic file (type jpg
 )
@@ -1756,29 +1819,29 @@ Overfull \hbox (15.40266pt too wide) in paragraph at lines 2912--2919
  [] 
  []
 
-[88 <./TransformationsGraphics/TransformationsEx04a.jpg> <./TransformationsGrap
+[92 <./TransformationsGraphics/TransformationsEx04a.jpg> <./TransformationsGrap
 hics/TransformationsEx04b.jpg> <./TransformationsGraphics/TransformationsEx04c.
 jpg> <./TransformationsGraphics/TransformationsEx04d.jpg>]
 
-LaTeX Warning: Reference `PolarGraphs' on page 89 undefined on input line 2954.
+LaTeX Warning: Reference `PolarGraphs' on page 93 undefined on input line 2954.
 
 
 File: Transformations.66 Graphic file (type mps)
 [MP to PDF] (./Transformations.66)
 File: Transformations.67 Graphic file (type mps)
- [MP to PDF] (./Transformations.67) [89 <./TransformationsGraphics/Transformati
-onsEx04e.jpg> <./TransformationsGraphics/TransformationsEx04f.jpg>] [90] (./Exe
+ [MP to PDF] (./Transformations.67) [93 <./TransformationsGraphics/Transformati
+onsEx04e.jpg> <./TransformationsGraphics/TransformationsEx04f.jpg>] [94] (./Exe
 rcisesforTransformations.tex
 File: Transformations.68 Graphic file (type mps)
  [MP to PDF]
-(./Transformations.68) [91]
+(./Transformations.68) [95]
 File: Transformations.69 Graphic file (type mps)
  [MP to PDF] (./Transformations.69)
 File: Transformations.70 Graphic file (type mps)
  [MP to PDF]
-(./Transformations.70) [92]
+(./Transformations.70) [96]
 File: Transformations.71 Graphic file (type mps)
- [MP to PDF] (./Transformations.71) [93]
+ [MP to PDF] (./Transformations.71) [97]
 File: Transformations.72 Graphic file (type mps)
 
 [MP to PDF] (./Transformations.72)
@@ -1791,7 +1854,7 @@ File: Transformations.75 Graphic file (type mps)
  [MP to PDF] (./Transformations.75)
 File: Transformations.76 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.76) [94]
+[MP to PDF] (./Transformations.76) [98]
 File: Transformations.77 Graphic file (type mps)
  [MP to PDF] (./Transformations.77)
 File: Transformations.78 Graphic file (type mps)
@@ -1806,110 +1869,125 @@ Overfull \hbox (8.62344pt too wide) detected at line 652
 []
  []
 
-[95]
+[99]
 
-LaTeX Warning: Reference `makeaveewithabsval' on page 96 undefined on input lin
-e 678.
+LaTeX Warning: Reference `makeaveewithabsval' on page 100 undefined on input li
+ne 678.
 
 
-LaTeX Warning: Reference `AbsoluteValueFunctions' on page 96 undefined on input
- line 678.
+LaTeX Warning: Reference `AbsoluteValueFunctions' on page 100 undefined on inpu
+t line 678.
 
-[96]
+
+LaTeX Warning: Reference `absolutevaluepiecewise' on page 100 undefined on inpu
+t line 730.
+
+
+LaTeX Warning: Reference `absolutevaluepiecewise' on page 100 undefined on inpu
+t line 744.
+
+[100]
 File: Transformations.81 Graphic file (type mps)
- [MP to PDF] (./Transformations.81)
+ [MP to PDF] (./Transformations.81) [101]
 File: Transformations.82 Graphic file (type mps)
- [MP to PDF] (./Transformations.82)
+ [MP to PDF]
+(./Transformations.82)
 File: Transformations.83 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.83)
+ [MP to PDF] (./Transformations.83)
 File: Transformations.84 Graphic file (type mps)
- [MP to PDF] (./Transformations.84)
+ [MP to PDF]
+(./Transformations.84)
 File: Transformations.85 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.85)
+ [MP to PDF] (./Transformations.85)
 File: Transformations.86 Graphic file (type mps)
- [MP to PDF] (./Transformations.86) [97]
+ [MP to PDF]
+(./Transformations.86)
 File: Transformations.87 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.87)
+ [MP to PDF] (./Transformations.87) [102]
 File: Transformations.88 Graphic file (type mps)
- [MP to PDF] (./Transformations.88)
+ [MP to PDF]
+(./Transformations.88)
 File: Transformations.89 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.89)
+ [MP to PDF] (./Transformations.89)
 File: Transformations.90 Graphic file (type mps)
- [MP to PDF] (./Transformations.90)
+ [MP to PDF]
+(./Transformations.90)
 File: Transformations.91 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.91)
+ [MP to PDF] (./Transformations.91)
 File: Transformations.92 Graphic file (type mps)
- [MP to PDF] (./Transformations.92)
+ [MP to PDF]
+(./Transformations.92)
+File: Transformations.93 Graphic file (type mps)
+ [MP to PDF] (./Transformations.93)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
-File: Transformations.93 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.93)
+ [103]
 File: Transformations.94 Graphic file (type mps)
- [MP to PDF] (./Transformations.94)
+
+[MP to PDF] (./Transformations.94)
 File: Transformations.95 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.95)
+ [MP to PDF] (./Transformations.95)
 File: Transformations.96 Graphic file (type mps)
- [MP to PDF] (./Transformations.96)
+
+[MP to PDF] (./Transformations.96)
 File: Transformations.97 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.97)
+ [MP to PDF] (./Transformations.97)
 File: Transformations.98 Graphic file (type mps)
- [MP to PDF] (./Transformations.98) [99]
+
+[MP to PDF] (./Transformations.98)
 File: Transformations.99 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.99)
+ [MP to PDF] (./Transformations.99) [104]
 File: Transformations.100 Graphic file (type mps)
- [MP to PDF] (./Transformations.100)
+
+[MP to PDF] (./Transformations.100)
 File: Transformations.101 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.101)
+ [MP to PDF] (./Transformations.101)
 File: Transformations.102 Graphic file (type mps)
- [MP to PDF] (./Transformations.102)
+
+[MP to PDF] (./Transformations.102)
 File: Transformations.103 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.103)
+ [MP to PDF] (./Transformations.103)
 File: Transformations.104 Graphic file (type mps)
- [MP to PDF] (./Transformations.104)
-File: Transformations.105 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.105)
+[MP to PDF] (./Transformations.104)
+File: Transformations.105 Graphic file (type mps)
+ [MP to PDF] (./Transformations.105)
 File: Transformations.106 Graphic file (type mps)
- [MP to PDF] (./Transformations.106)
+
+[MP to PDF] (./Transformations.106)
+File: Transformations.107 Graphic file (type mps)
+ [MP to PDF] (./Transformations.107)
 Underfull \vbox (badness 2103) has occurred while \output is active []
 
- [100]
-File: Transformations.107 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.107)
+ [105]
 File: Transformations.108 Graphic file (type mps)
- [MP to PDF] (./Transformations.108)
-File: Transformations.109 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.109)
+[MP to PDF] (./Transformations.108)
+File: Transformations.109 Graphic file (type mps)
+ [MP to PDF] (./Transformations.109)
 File: Transformations.110 Graphic file (type mps)
- [MP to PDF] (./Transformations.110)
+
+[MP to PDF] (./Transformations.110)
+File: Transformations.111 Graphic file (type mps)
+ [MP to PDF] (./Transformations.111)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
-File: Transformations.111 Graphic file (type mps)
-
-[MP to PDF] (./Transformations.111)
+ [106]
 File: Transformations.112 Graphic file (type mps)
- [MP to PDF] (./Transformations.112)
-File: Transformations.113 Graphic file (type mps)
 
-[MP to PDF] (./Transformations.113)
+[MP to PDF] (./Transformations.112)
+File: Transformations.113 Graphic file (type mps)
+ [MP to PDF] (./Transformations.113)
 File: Transformations.114 Graphic file (type mps)
- [MP to PDF] (./Transformations.114)))
-[102] (./Relations.tex
+
+[MP to PDF] (./Transformations.114)
+File: Transformations.115 Graphic file (type mps)
+ [MP to PDF] (./Transformations.115)
+[107]
+File: Transformations.116 Graphic file (type mps)
+ [MP to PDF] (./Transformations.116)
+File: Transformations.117 Graphic file (type mps)
+ [MP to PDF] (./Transformations.117))) [108] (./Relations.tex
 
 Mfpic: Initializing Relations.mp.
 \openout3 = `Relations.mp'.
@@ -1919,25 +1997,25 @@ Mfpic: Apply metapost to Relations.mp.
 Mfpic: Then reprocess this file "CompilerFurtherTopicsonFunctions".
 
 
-LaTeX Warning: Reference `functiondefn' on page 103 undefined on input line 10.
+LaTeX Warning: Reference `functiondefn' on page 109 undefined on input line 10.
 
 
 
-LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 103 undefin
+LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 109 undefin
 ed on input line 10.
 
 
-LaTeX Warning: Reference `functiondefn' on page 103 undefined on input line 28.
+LaTeX Warning: Reference `functiondefn' on page 109 undefined on input line 28.
 
 
 
-LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 103 undefin
+LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 109 undefin
 ed on input line 28.
 
 File: Relations.1 Graphic file (type mps)
 [MP to PDF] (./Relations.1)
 File: Relations.2 Graphic file (type mps)
- [MP to PDF] (./Relations.2) [103]
+ [MP to PDF] (./Relations.2) [109]
 File: Relations.3 Graphic file (type mps)
  [MP to PDF]
 (./Relations.3)
@@ -1957,14 +2035,14 @@ Overfull \hbox (1.10442pt too wide) in paragraph at lines 164--165
 File: Relations.5 Graphic file (type mps)
 [MP to PDF] (./Relations.5)
 File: Relations.6 Graphic file (type mps)
- [MP to PDF] (./Relations.6) [104]
+ [MP to PDF] (./Relations.6) [110]
 File: Relations.7 Graphic file (type mps)
  [MP to PDF]
 (./Relations.7)
 File: Relations.8 Graphic file (type mps)
  [MP to PDF] (./Relations.8)
 
-LaTeX Warning: Reference `AppSetTheory' on page 105 undefined on input line 283
+LaTeX Warning: Reference `AppSetTheory' on page 111 undefined on input line 283
 .
 
 
@@ -1979,26 +2057,26 @@ T1/phv/m/n/10.95 is $\OT1/phv/m/sl/10.95 S \OT1/phv/m/n/10.95 = \OMS/cmsy/m/n/1
 File: Relations.9 Graphic file (type mps)
 [MP to PDF] (./Relations.9)
 File: Relations.10 Graphic file (type mps)
- [MP to PDF] (./Relations.10) [105]
+ [MP to PDF] (./Relations.10) [111]
 
-LaTeX Warning: Reference `LinSystems' on page 106 undefined on input line 344.
+LaTeX Warning: Reference `LinSystems' on page 112 undefined on input line 344.
 
 File: Relations.11 Graphic file (type mps)
 [MP to PDF] (./Relations.11)
 File: Relations.12 Graphic file (type mps)
- [MP to PDF] (./Relations.12) [106]
+ [MP to PDF] (./Relations.12) [112]
 File: Relations.13 Graphic file (type mps)
  [MP to PDF]
-(./Relations.13) [107]
+(./Relations.13) [113]
 File: Relations.14 Graphic file (type mps)
- [MP to PDF] (./Relations.14) [108]
+ [MP to PDF] (./Relations.14) [114]
 File: Relations.15 Graphic file (type mps)
  [MP to PDF]
-(./Relations.15) [109]
+(./Relations.15) [115]
 File: Relations.16 Graphic file (type mps)
- [MP to PDF] (./Relations.16) [110]
+ [MP to PDF] (./Relations.16) [116]
 
-LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 111 undefin
+LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 117 undefin
 ed on input line 750.
 
 File: Relations.17 Graphic file (type mps)
@@ -2020,9 +2098,9 @@ Overfull \hbox (3.27132pt too wide) in paragraph at lines 821--822
  []
 
 File: Relations.20 Graphic file (type mps)
-[MP to PDF] (./Relations.20) [111]
+[MP to PDF] (./Relations.20) [117]
 
-LaTeX Warning: Reference `VLT' on page 112 undefined on input line 875.
+LaTeX Warning: Reference `VLT' on page 118 undefined on input line 875.
 
 File: Relations.21 Graphic file (type mps)
 [MP to PDF] (./Relations.21)
@@ -2032,22 +2110,22 @@ File: Relations.23 Graphic file (type mps)
  [MP to PDF]
 (./Relations.23)
 
-LaTeX Warning: Reference `HLTExercise' on page 112 undefined on input line 957.
+LaTeX Warning: Reference `HLTExercise' on page 118 undefined on input line 957.
 
 
 
-LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 112 undefin
+LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 118 undefin
 ed on input line 957.
 
 
-LaTeX Warning: Reference `complexfactorization' on page 112 undefined on input 
+LaTeX Warning: Reference `complexfactorization' on page 118 undefined on input 
 line 961.
 
 
-LaTeX Warning: Reference `PolynomialFunctions' on page 112 undefined on input l
+LaTeX Warning: Reference `PolynomialFunctions' on page 118 undefined on input l
 ine 961.
 
-[112] (./ExercisesforRelations.tex
+[118] (./ExercisesforRelations.tex
 LaTeX Font Info:    Trying to load font information for OMS+phv on input line 1
 0.
 
@@ -2060,7 +2138,7 @@ File: Relations.24 Graphic file (type mps)
  [MP to PDF]
 (./Relations.24)
 File: Relations.25 Graphic file (type mps)
- [MP to PDF] (./Relations.25) [113]
+ [MP to PDF] (./Relations.25) [119]
 File: Relations.26 Graphic file (type mps)
  [MP to PDF] (./Relations.26)
 File: Relations.27 Graphic file (type mps)
@@ -2076,12 +2154,12 @@ File: Relations.31 Graphic file (type mps)
  [MP to PDF] (./Relations.31)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114]
+ [120]
 File: Relations.32 Graphic file (type mps)
 
 [MP to PDF] (./Relations.32)
 File: Relations.33 Graphic file (type mps)
- [MP to PDF] (./Relations.33) [115] [116]
+ [MP to PDF] (./Relations.33) [121] [122]
 File: Relations.34 Graphic file (type mps)
 
 [MP to PDF] (./Relations.34)
@@ -2096,7 +2174,7 @@ File: Relations.38 Graphic file (type mps)
  [MP to PDF] (./Relations.38)
 File: Relations.39 Graphic file (type mps)
 
-[MP to PDF] (./Relations.39) [117]
+[MP to PDF] (./Relations.39) [123]
 File: Relations.40 Graphic file (type mps)
  [MP to PDF] (./Relations.40)
 File: Relations.41 Graphic file (type mps)
@@ -2113,7 +2191,7 @@ File: Relations.45 Graphic file (type mps)
  [MP to PDF] (./Relations.45)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
+ [124]
 File: Relations.46 Graphic file (type mps)
 
 [MP to PDF] (./Relations.46)
@@ -2133,14 +2211,14 @@ File: Relations.52 Graphic file (type mps)
  [MP to PDF] (./Relations.52)
 File: Relations.53 Graphic file (type mps)
  [MP to PDF]
-(./Relations.53) [119]
+(./Relations.53) [125]
 File: Relations.54 Graphic file (type mps)
  [MP to PDF] (./Relations.54)
 File: Relations.55 Graphic file (type mps)
- [MP to PDF] (./Relations.55) [120]
+ [MP to PDF] (./Relations.55) [126]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121]
+ [127]
 Underfull \hbox (badness 10000) in paragraph at lines 1234--1235
 
  []
@@ -2151,7 +2229,7 @@ File: Relations.57 Graphic file (type mps)
  [MP to PDF] (./Relations.57)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
+ [128]
 File: Relations.58 Graphic file (type mps)
 
 [MP to PDF] (./Relations.58)
@@ -2159,12 +2237,12 @@ File: Relations.59 Graphic file (type mps)
  [MP to PDF] (./Relations.59)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [123]
+ [129]
 File: Relations.60 Graphic file (type mps)
 
 [MP to PDF] (./Relations.60)
 File: Relations.61 Graphic file (type mps)
- [MP to PDF] (./Relations.61) [124]))
+ [MP to PDF] (./Relations.61) [130]))
 (./InverseFunctions.tex
 
 Mfpic: Initializing InverseFunctions.mp.
@@ -2175,59 +2253,59 @@ Mfpic: Apply metapost to InverseFunctions.mp.
 Mfpic: Then reprocess this file "CompilerFurtherTopicsonFunctions".
 
 
-LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 125 undefin
+LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 131 undefin
 ed on input line 9.
 
 File: InverseFunctions.1 Graphic file (type mps)
-[MP to PDF] (./InverseFunctions.1) [125]
+[MP to PDF] (./InverseFunctions.1) [131]
 
-LaTeX Warning: Reference `identityexercise' on page 126 undefined on input line
+LaTeX Warning: Reference `identityexercise' on page 132 undefined on input line
  81.
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 126 undefined on 
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 132 undefined on 
 input line 81.
 
 
-LaTeX Warning: Reference `SystemsofEquationsandMatrices' on page 126 undefined 
+LaTeX Warning: Reference `SystemsofEquationsandMatrices' on page 132 undefined 
 on input line 93.
 
 
-LaTeX Warning: Reference `inversemidpointex1' on page 126 undefined on input li
+LaTeX Warning: Reference `inversemidpointex1' on page 132 undefined on input li
 ne 123.
 
 
-LaTeX Warning: Reference `AppCartesianPlane' on page 126 undefined on input lin
+LaTeX Warning: Reference `AppCartesianPlane' on page 132 undefined on input lin
 e 123.
 
 
-LaTeX Warning: Reference `inversemidpointex2' on page 126 undefined on input li
+LaTeX Warning: Reference `inversemidpointex2' on page 132 undefined on input li
 ne 123.
 
 
-LaTeX Warning: Reference `AppLines' on page 126 undefined on input line 123.
+LaTeX Warning: Reference `AppLines' on page 132 undefined on input line 123.
 
-[126]
+[132]
 File: InverseFunctions.2 Graphic file (type mps)
- [MP to PDF] (./InverseFunctions.2) [127]
+ [MP to PDF] (./InverseFunctions.2) [133]
 
-LaTeX Warning: Reference `basicradicalpropseqineq' on page 128 undefined on inp
+LaTeX Warning: Reference `basicradicalpropseqineq' on page 134 undefined on inp
 ut line 236.
 
 
-LaTeX Warning: Reference `linearrootgraphs' on page 128 undefined on input line
+LaTeX Warning: Reference `linearrootgraphs' on page 134 undefined on input line
  242.
 
 
-LaTeX Warning: Reference `RootRadicalFunctions' on page 128 undefined on input 
+LaTeX Warning: Reference `RootRadicalFunctions' on page 134 undefined on input 
 line 242.
 
 
-LaTeX Warning: Reference `linearmononialgraphs' on page 128 undefined on input 
+LaTeX Warning: Reference `linearmononialgraphs' on page 134 undefined on input 
 line 242.
 
 
-LaTeX Warning: Reference `GraphsofPolynomials' on page 128 undefined on input l
+LaTeX Warning: Reference `GraphsofPolynomials' on page 134 undefined on input l
 ine 242.
 
 File: InverseFunctions.3 Graphic file (type mps)
@@ -2244,13 +2322,13 @@ Overfull \hbox (3.74669pt too wide) in paragraph at lines 313--314
 [][] 
  []
 
-[128]
+[134]
 
-LaTeX Warning: Reference `IntroRational' on page 129 undefined on input line 37
+LaTeX Warning: Reference `IntroRational' on page 135 undefined on input line 37
 4.
 
 
-LaTeX Warning: Reference `RationalGraphs' on page 129 undefined on input line 3
+LaTeX Warning: Reference `RationalGraphs' on page 135 undefined on input line 3
 74.
 
 File: InverseFunctions.6 Graphic file (type mps)
@@ -2271,28 +2349,28 @@ Overfull \hbox (4.75044pt too wide) in paragraph at lines 452--453
 [][] 
  []
 
-[129]
+[135]
 File: InverseFunctions.9 Graphic file (type mps)
- [MP to PDF] (./InverseFunctions.9) [130]
+ [MP to PDF] (./InverseFunctions.9) [136]
 File: InverseFunctions.10 Graphic file (type mps)
  [MP to PDF]
 (./InverseFunctions.10)
 File: InverseFunctions.11 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.11)
 
-LaTeX Warning: Reference `VLT' on page 131 undefined on input line 577.
+LaTeX Warning: Reference `VLT' on page 137 undefined on input line 577.
 
 
-LaTeX Warning: Reference `HLTExercise' on page 131 undefined on input line 585.
+LaTeX Warning: Reference `HLTExercise' on page 137 undefined on input line 585.
 
 
 
-LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 131 undefin
+LaTeX Warning: Reference `FunctionsandtheirRepresentations' on page 137 undefin
 ed on input line 585.
 
-[131]
+[137]
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 132 undefined on input li
+LaTeX Warning: Reference `QuadraticFunctions' on page 138 undefined on input li
 ne 667.
 
 File: InverseFunctions.12 Graphic file (type mps)
@@ -2301,9 +2379,9 @@ Overfull \hbox (39.3301pt too wide) in paragraph at lines 671--715
  [] 
  []
 
-[132]
+[138]
 
-LaTeX Warning: Reference `RationalGraphs' on page 133 undefined on input line 7
+LaTeX Warning: Reference `RationalGraphs' on page 139 undefined on input line 7
 22.
 
 File: InverseFunctions.13 Graphic file (type mps)
@@ -2336,11 +2414,11 @@ Overfull \hbox (13.79875pt too wide) detected at line 821
 []
  []
 
-[133]
+[139]
 File: InverseFunctions.16 Graphic file (type mps)
- [MP to PDF] (./InverseFunctions.16) [134]
+ [MP to PDF] (./InverseFunctions.16) [140]
 
-LaTeX Warning: Reference `ParametricEquations' on page 135 undefined on input l
+LaTeX Warning: Reference `ParametricEquations' on page 141 undefined on input l
 ine 864.
 
 
@@ -2362,7 +2440,7 @@ LaTeX Font Warning: Command \normalsize invalid in math mode on input line 916.
 
 
 File: InverseFunctions.18 Graphic file (type mps)
-[MP to PDF] (./InverseFunctions.18) [135]
+[MP to PDF] (./InverseFunctions.18) [141]
 File: InverseFunctions.19 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.19)
 File: InverseFunctions.20 Graphic file (type mps)
@@ -2379,7 +2457,7 @@ Overfull \vbox (2.21413pt too high) has occurred while \output is active []
 Overfull \vbox (2.18243pt too high) has occurred while \output is active []
 
 
-[136]
+[142]
 File: InverseFunctions.22 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.22)
 File: InverseFunctions.23 Graphic file (type mps)
@@ -2404,14 +2482,14 @@ Overfull \hbox (17.9325pt too wide) in paragraph at lines 1154--1197
  [] 
  []
 
-[137]
+[143]
 File: InverseFunctions.27 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.27)
 Overfull \hbox (15.24005pt too wide) in paragraph at lines 1230--1265
  [] 
  []
 
-[138]
+[144]
 Overfull \hbox (39.98148pt too wide) in paragraph at lines 1290--1299
  []$[]$ 
  []
@@ -2424,7 +2502,7 @@ Overfull \hbox (15.24005pt too wide) in paragraph at lines 1336--1377
  [] 
  []
 
-[139]
+[145]
 Overfull \hbox (33.7671pt too wide) in paragraph at lines 1395--1404
 []$[]$ 
  []
@@ -2432,35 +2510,35 @@ Overfull \hbox (33.7671pt too wide) in paragraph at lines 1395--1404
 File: InverseFunctions.30 Graphic file (type mps)
 [MP to PDF] (./InverseFunctions.30)
 
-LaTeX Warning: Reference `PortaBoyDemand' on page 140 undefined on input line 1
+LaTeX Warning: Reference `PortaBoyDemand' on page 146 undefined on input line 1
 454.
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 140 undefined on 
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 146 undefined on 
 input line 1454.
 
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 140 undefined on input li
+LaTeX Warning: Reference `QuadraticFunctions' on page 146 undefined on input li
 ne 1466.
 
 
-LaTeX Warning: Reference `PortaBoyProfit' on page 140 undefined on input line 1
+LaTeX Warning: Reference `PortaBoyProfit' on page 146 undefined on input line 1
 468.
 
-[140]
+[146]
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 141 undefined on input li
+LaTeX Warning: Reference `QuadraticFunctions' on page 147 undefined on input li
 ne 1490.
 
 
-LaTeX Warning: Reference `vertexofquadraticfunctions' on page 141 undefined on 
+LaTeX Warning: Reference `vertexofquadraticfunctions' on page 147 undefined on 
 input line 1490.
 
 
-LaTeX Warning: Reference `PortaBoyProfit' on page 141 undefined on input line 1
+LaTeX Warning: Reference `PortaBoyProfit' on page 147 undefined on input line 1
 494.
 
-[141] (./ExercisesforInverseFunctions.tex [142]
+[147] (./ExercisesforInverseFunctions.tex [148]
 File: InverseFunctions.31 Graphic file (type mps)
  [MP to PDF]
 (./InverseFunctions.31)
@@ -2472,19 +2550,19 @@ File: InverseFunctions.33 Graphic file (type mps)
 File: InverseFunctions.34 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.34)
 
-LaTeX Warning: Reference `celsiustofahr' on page 143 undefined on input line 33
+LaTeX Warning: Reference `celsiustofahr' on page 149 undefined on input line 33
 3.
 
 
-LaTeX Warning: Reference `LinearFunctions' on page 143 undefined on input line 
+LaTeX Warning: Reference `LinearFunctions' on page 149 undefined on input line 
 333.
 
-[143]
+[149]
 
-LaTeX Warning: Reference `RationalGraphs' on page 144 undefined on input line 3
+LaTeX Warning: Reference `RationalGraphs' on page 150 undefined on input line 3
 42.
 
-[144] [145]
+[150] [151]
 File: InverseFunctions.35 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.35)
 File: InverseFunctions.36 Graphic file (type mps)
@@ -2494,7 +2572,7 @@ File: InverseFunctions.37 Graphic file (type mps)
  [MP to PDF] (./InverseFunctions.37)
 File: InverseFunctions.38 Graphic file (type mps)
  [MP to PDF]
-(./InverseFunctions.38) [146]))) (./CompilerFurtherTopicsonFunctions.aux
+(./InverseFunctions.38) [152]))) (./CompilerFurtherTopicsonFunctions.aux
 (./FurtherTopicsonFunctions.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -2512,10 +2590,10 @@ t changed.
 (rerunfilecheck)             Checksum: FEC3B351BA93B6B6155D947309EC0DE7;3529.
  ) 
 Here is how much of TeX's memory you used:
- 17124 strings out of 474116
- 265574 string characters out of 5743682
+ 17302 strings out of 474116
+ 269280 string characters out of 5743682
  1969187 words of memory out of 5000000
- 37309 multiletter control sequences out of 15000+600000
+ 37398 multiletter control sequences out of 15000+600000
  609440 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,22n,79p,1355b,1465s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2539,11 +2617,11 @@ b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm1
 0.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CompilerFurtherTopicsonFunctions.pdf (146 pages, 3169749 byte
+Output written on CompilerFurtherTopicsonFunctions.pdf (152 pages, 3204194 byte
 s).
 PDF statistics:
- 2573 PDF objects out of 2984 (max. 8388607)
- 2346 compressed objects within 24 object streams
- 1285 named destinations out of 1440 (max. 500000)
+ 2660 PDF objects out of 2984 (max. 8388607)
+ 2426 compressed objects within 25 object streams
+ 1337 named destinations out of 1440 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 

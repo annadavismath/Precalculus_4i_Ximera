@@ -1,19 +1,19 @@
 %!PS
 %%BoundingBox: -1 -1 120 120 
 %%HiResBoundingBox: -0.24907 -0.24907 119.80046 119.80046 
-%%Creator: MetaPost 1.9991
-%%CreationDate: 2017.08.03:0846
+%%Creator: MetaPost 2.10
+%%CreationDate: 2025.07.14:1045
 %%Pages: 1
 %%BeginProlog
 %%EndProlog
 %%Page: 1 1
  0 0 0 setrgbcolor 0 0.49814 dtransform truncate idtransform setlinewidth pop
  [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
-newpath 0 39.85046 moveto
-119.55139 39.85046 lineto stroke
-newpath 114.57008 42.34113 moveto
-115.74602 40.77321 117.5915 39.85046 119.55139 39.85046 curveto
-117.5915 39.85046 115.74602 38.92772 114.57008 37.3598 curveto stroke
+newpath 0 59.7757 moveto
+119.55139 59.7757 lineto stroke
+newpath 114.57008 62.26636 moveto
+115.74602 60.69844 117.5915 59.7757 119.55139 59.7757 curveto
+117.5915 59.7757 115.74602 58.85295 114.57008 57.28503 curveto stroke
  0.49814 0 dtransform exch truncate exch idtransform pop setlinewidth
 newpath 39.85046 0 moveto
 39.85046 119.55139 lineto stroke
@@ -22,19 +22,19 @@ newpath 37.3598 114.57008 moveto
 38.92772 115.74602 39.85046 117.5915 39.85046 119.55139 curveto
 39.85046 117.5915 40.77321 115.74602 42.34113 114.57008 curveto stroke
  0.49814 0 dtransform exch truncate exch idtransform pop setlinewidth
-newpath 99.62616 37.85794 moveto
-99.62616 41.84299 lineto stroke
-newpath 79.70093 37.85794 moveto
-79.70093 41.84299 lineto stroke
-newpath 59.7757 37.85794 moveto
-59.7757 41.84299 lineto stroke
-newpath 19.92523 37.85794 moveto
-19.92523 41.84299 lineto stroke
+newpath 99.62616 57.78317 moveto
+99.62616 61.76822 lineto stroke
+newpath 79.70093 57.78317 moveto
+79.70093 61.76822 lineto stroke
+newpath 59.7757 57.78317 moveto
+59.7757 61.76822 lineto stroke
+newpath 19.92523 57.78317 moveto
+19.92523 61.76822 lineto stroke
  0 0.49814 dtransform truncate idtransform setlinewidth pop
 newpath 41.84299 19.92523 moveto
 37.85794 19.92523 lineto stroke
-newpath 41.84299 59.7757 moveto
-37.85794 59.7757 lineto stroke
+newpath 41.84299 39.85046 moveto
+37.85794 39.85046 lineto stroke
 newpath 41.84299 79.70093 moveto
 37.85794 79.70093 lineto stroke
 newpath 41.84299 99.62616 moveto

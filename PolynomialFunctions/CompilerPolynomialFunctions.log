@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  26 JUN 2025 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  14 JUL 2025 09:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -785,14 +785,6 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 
 LaTeX Warning: Reference `AppPolyArith' on page 2 undefined on input line 9.
 
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 8.27998pt on input line 9.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 9.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 10.07397pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 11.03998pt on input line 11.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
@@ -814,7 +806,7 @@ File: GraphsofPolynomials.2 Graphic file (type mps)
 File: GraphsofPolynomials.3 Graphic file (type mps)
 
 [MP to PDF] (./GraphsofPolynomials.3)
-Overfull \hbox (47.99998pt too wide) in paragraph at lines 30--91
+Overfull \hbox (47.99998pt too wide) in paragraph at lines 32--93
 [][] 
  []
 
@@ -825,14 +817,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 
-LaTeX Warning: Reference `AppRadEqus' on page 3 undefined on input line 92.
+LaTeX Warning: Reference `AppRadEqus' on page 3 undefined on input line 94.
 
 
 LaTeX Warning: Reference `QuadraticFunctions' on page 3 undefined on input line
- 92.
+ 94.
 
 
-LaTeX Warning: Reference `symmetrydefn' on page 3 undefined on input line 96.
+LaTeX Warning: Reference `symmetrydefn' on page 3 undefined on input line 98.
 
 File: GraphsofPolynomials.4 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.4)
@@ -841,7 +833,7 @@ File: GraphsofPolynomials.5 Graphic file (type mps)
 File: GraphsofPolynomials.6 Graphic file (type mps)
 
 [MP to PDF] (./GraphsofPolynomials.6)
-Overfull \hbox (47.99998pt too wide) in paragraph at lines 118--174
+Overfull \hbox (47.99998pt too wide) in paragraph at lines 120--176
 [][] 
  []
 
@@ -850,157 +842,158 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
 
-LaTeX Warning: Reference `symmetrydefn' on page 4 undefined on input line 175.
+LaTeX Warning: Reference `symmetrydefn' on page 4 undefined on input line 177.
 
 
 LaTeX Warning: Reference `linearabsvaluegraphs' on page 4 undefined on input li
-ne 195.
+ne 197.
 
 [4]
 
 LaTeX Warning: Reference `linearabsvaluegraphs' on page 5 undefined on input li
-ne 241.
+ne 243.
 
 
 LaTeX Warning: Reference `AbsoluteValueFunctions' on page 5 undefined on input 
-line 241.
+line 243.
 
 
 LaTeX Warning: Reference `standardformgraph' on page 5 undefined on input line 
-241.
+243.
 
 
 LaTeX Warning: Reference `QuadraticFunctions' on page 5 undefined on input line
- 241.
+ 243.
+
+[5]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 282.
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 278.
 
-
-
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 284.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 288.
 
 
 File: GraphsofPolynomials.7 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.7)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 297.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 301.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 303.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 307.
 
 
 File: GraphsofPolynomials.8 Graphic file (type mps)
-[MP to PDF] (./GraphsofPolynomials.8) [5]
+[MP to PDF] (./GraphsofPolynomials.8)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 320.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 324.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 326.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 330.
 
 
 File: GraphsofPolynomials.9 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.9)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 340.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 344.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 346.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 350.
 
 
 File: GraphsofPolynomials.10 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.10)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 364.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 368.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 370.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 374.
 
 
 File: GraphsofPolynomials.11 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.11)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 385.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 389.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 391.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 395.
 
 
 File: GraphsofPolynomials.12 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.12) [6]
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 412.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 416.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 418.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 422.
 
 
 File: GraphsofPolynomials.13 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.13)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 431.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 435.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 437.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 441.
 
 
 File: GraphsofPolynomials.14 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.14)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 454.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 458.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 460.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 464.
 
 
 File: GraphsofPolynomials.15 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.15)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 473.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 477.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 479.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 483.
 
 
 File: GraphsofPolynomials.16 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.16)
 
-LaTeX Warning: Reference `IntroLimits' on page 7 undefined on input line 500.
+LaTeX Warning: Reference `IntroLimits' on page 7 undefined on input line 504.
 
 [7]
 File: GraphsofPolynomials.17 Graphic file (type mps)
  [MP to PDF] (./GraphsofPolynomials.17)
-Overfull \hbox (80.88695pt too wide) in paragraph at lines 538--539
+Overfull \hbox (80.88695pt too wide) in paragraph at lines 542--543
 []|[] 
  []
 
 File: GraphsofPolynomials.18 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.18)
-Overfull \hbox (50.88695pt too wide) in paragraph at lines 586--587
+Overfull \hbox (50.88695pt too wide) in paragraph at lines 587--588
 []|[]| 
  []
 
 
-Underfull \vbox (badness 5175) has occurred while \output is active []
+Underfull \vbox (badness 1565) has occurred while \output is active []
 
  [8]
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
-75.
+79.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 675.
+(Font)              scaled to size 10.07397pt on input line 679.
 File: GraphsofPolynomials.19 Graphic file (type mps)
  [MP to PDF]
 (./GraphsofPolynomials.19)
@@ -1012,86 +1005,81 @@ File: GraphsofPolynomials.21 Graphic file (type mps)
 File: GraphsofPolynomials.22 Graphic file (type mps)
  [MP to PDF] (./GraphsofPolynomials.22) [9]
 
-LaTeX Warning: Reference `AppPolyArith' on page 10 undefined on input line 695.
+LaTeX Warning: Reference `AppPolyArith' on page 10 undefined on input line 699.
 
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 726.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 731.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 7.35999pt on input line 726.
+(Font)              scaled to size 7.35999pt on input line 731.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 726.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 731.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 5.51999pt on input line 726.
+(Font)              scaled to size 5.51999pt on input line 731.
 [10]
 <./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg, id=196, 2075.755pt x 1513.655pt>
 
 File: ./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg  used on 
-input line 777.
-(pdftex.def)             Requested size: 198.21233pt x 144.54pt.
+input line 789.
+(pdftex.def)             Requested size: 173.41203pt x 126.47249pt.
 <./GraphsofPolynomialsGraphics/PolyEBEx1b.jpg, id=197, 2064.71375pt x 1414.2837
 5pt>
 File: ./GraphsofPolynomialsGraphics/PolyEBEx1b.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyEBEx1b.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyEBEx1b.jpg  used on 
-input line 777.
-(pdftex.def)             Requested size: 210.98868pt x 144.54pt.
-
-Underfull \vbox (badness 6675) has occurred while \output is active []
-
- [11]
+input line 789.
+(pdftex.def)             Requested size: 184.61903pt x 126.47249pt.
+ [11 <./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg> <./GraphsofPolynomialsGraph
+ics/PolyEBEx1b.jpg>]
 <./GraphsofPolynomialsGraphics/PolyEBEx2a.jpg, id=212, 1940.24875pt x 1521.685p
 t>
 File: ./GraphsofPolynomialsGraphics/PolyEBEx2a.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyEBEx2a.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyEBEx2a.jpg  used on 
-input line 806.
+input line 821.
 (pdftex.def)             Requested size: 184.29594pt x 144.54pt.
 <./GraphsofPolynomialsGraphics/PolyEBEx2b.jpg, id=213, 1940.24875pt x 1505.625p
 t>
 File: ./GraphsofPolynomialsGraphics/PolyEBEx2b.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyEBEx2b.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyEBEx2b.jpg  used on 
-input line 806.
+input line 821.
 (pdftex.def)             Requested size: 186.24992pt x 144.54pt.
+ [12 <./GraphsofPolynomialsGraphics/PolyEBEx2a.jpg> <./GraphsofPolynomialsGraph
+ics/PolyEBEx2b.jpg>]
 
-[12 <./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg> <./GraphsofPolynomialsGraphi
-cs/PolyEBEx1b.jpg>]
-
-LaTeX Warning: Reference `RatonalFunctions' on page 13 undefined on input line 
-837.
+LaTeX Warning: Reference `RationalFunctions' on page 13 undefined on input line
+ 853.
 
 
 LaTeX Warning: Reference `FirstStepsCalculus' on page 13 undefined on input lin
-e 837.
+e 853.
 
 
 LaTeX Warning: Reference `QuadraticFunctions' on page 13 undefined on input lin
-e 840.
+e 857.
 
 
 LaTeX Warning: Reference `LimitPropertiesandContinuity' on page 13 undefined on
- input line 840.
+ input line 857.
 
-[13 <./GraphsofPolynomialsGraphics/PolyEBEx2a.jpg> <./GraphsofPolynomialsGraphi
-cs/PolyEBEx2b.jpg>]
 File: GraphsofPolynomials.23 Graphic file (type mps)
- [MP to PDF] (./GraphsofPolynomials.23)
+[MP to PDF] (./GraphsofPolynomials.23)
 File: GraphsofPolynomials.24 Graphic file (type mps)
- [MP to PDF]
-(./GraphsofPolynomials.24)
+ [MP to PDF] (./GraphsofPolynomials.24)
+[13]
 
 LaTeX Warning: Reference `AppRealNumberArithmetic' on page 14 undefined on inpu
-t line 895.
+t line 917.
 
-<./GraphsofPolynomialsGraphics/PolyZeroEx01.jpg, id=233, 2220.295pt x 1379.1525
+<./GraphsofPolynomialsGraphics/PolyZeroEx01.jpg, id=234, 2220.295pt x 1379.1525
 pt>
 File: ./GraphsofPolynomialsGraphics/PolyZeroEx01.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyZeroEx01.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyZeroEx01.jpg  used o
-n input line 901.
+n input line 929.
 (pdftex.def)             Requested size: 232.68048pt x 144.54pt.
 [14 <./GraphsofPolynomialsGraphics/PolyZeroEx01.jpg>]
 <./GraphsofPolynomialsGraphics/PolyZeroEx02.jpg, id=240, 927.465pt x 1521.685pt
@@ -1099,21 +1087,21 @@ n input line 901.
 File: ./GraphsofPolynomialsGraphics/PolyZeroEx02.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyZeroEx02.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyZeroEx02.jpg  used o
-n input line 920.
+n input line 958.
 (pdftex.def)             Requested size: 144.53394pt x 144.53836pt.
 <./GraphsofPolynomialsGraphics/PolyZeroEx03.jpg, id=241, 1569.865pt x 1453.43pt
 >
 File: ./GraphsofPolynomialsGraphics/PolyZeroEx03.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyZeroEx03.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyZeroEx03.jpg  used o
-n input line 923.
+n input line 961.
 (pdftex.def)             Requested size: 144.53952pt x 144.53094pt.
 <./GraphsofPolynomialsGraphics/PolyZeroEx04.jpg, id=242, 1190.4475pt x 1397.22p
 t>
 File: ./GraphsofPolynomialsGraphics/PolyZeroEx04.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyZeroEx04.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyZeroEx04.jpg  used o
-n input line 927.
+n input line 965.
 (pdftex.def)             Requested size: 144.53685pt x 144.52715pt.
  [15 <./GraphsofPolynomialsGraphics/PolyZeroEx02.jpg> <./GraphsofPolynomialsGra
 phics/PolyZeroEx03.jpg> <./GraphsofPolynomialsGraphics/PolyZeroEx04.jpg>] [16]
@@ -1121,37 +1109,31 @@ File: GraphsofPolynomials.25 Graphic file (type mps)
  [MP to PDF]
 (./GraphsofPolynomials.25) [17]
 
-LaTeX Warning: Reference `AppCmpNums' on page 18 undefined on input line 1059.
+LaTeX Warning: Reference `AppCmpNums' on page 18 undefined on input line 1121.
 
 [18]
-<./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg, id=301, 2768.3425pt x 1
+<./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg, id=303, 2768.3425pt x 1
 517.67pt>
 File: ./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg Graphic file (type 
 jpg)
 <use ./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg 
- used on input line 1105.
-(pdftex.def)             Requested size: 361.34999pt x 198.09138pt.
-File: GraphsofPolynomials.26 Graphic file (type mps)
- [MP to PDF] (./GraphsofPolynomials.26)
-File: GraphsofPolynomials.27 Graphic file (type mps)
- [MP to PDF]
-(./GraphsofPolynomials.27)
-Underfull \vbox (badness 2005) has occurred while \output is active []
-
+ used on input line 1179.
+(pdftex.def)             Requested size: 433.62pt x 237.7143pt.
  [19 <./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg>]
-<./GraphsofPolynomialsGraphics/PolyBoxExample.jpg, id=311, 2768.3425pt x 1433.3
+File: GraphsofPolynomials.26 Graphic file (type mps)
+ [MP to PDF]
+(./GraphsofPolynomials.26)
+File: GraphsofPolynomials.27 Graphic file (type mps)
+ [MP to PDF] (./GraphsofPolynomials.27)
+<./GraphsofPolynomialsGraphics/PolyBoxExample.jpg, id=312, 2768.3425pt x 1433.3
 55pt>
 File: ./GraphsofPolynomialsGraphics/PolyBoxExample.jpg Graphic file (type jpg)
 <use ./GraphsofPolynomialsGraphics/PolyBoxExample.jpg>
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/PolyBoxExample.jpg  used
- on input line 1188.
+ on input line 1270.
 (pdftex.def)             Requested size: 361.34999pt x 187.0863pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-[21 <./GraphsofPolynomialsGraphics/PolyBoxExample.jpg>]
+ [20] [21 <./GraphsofPolynomialsGraphics/PolyBoxExample.jpg>]
 (./ExercisesforGraphsofPolynomials.tex
 File: GraphsofPolynomials.28 Graphic file (type mps)
  [MP to PDF] (./GraphsofPolynomials.28)
@@ -1184,6 +1166,10 @@ LaTeX Warning: Reference `arc' on page 24 undefined on input line 395.
 LaTeX Warning: Reference `AverageRateofChange' on page 24 undefined on input li
 ne 395.
 
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 418.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 10.07397pt on input line 418.
 [24]
 
 LaTeX Warning: Reference `PortaBoyCost' on page 25 undefined on input line 431.
@@ -1207,7 +1193,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 6.43999pt on input line 491.
 [26]
-<./GraphsofPolynomialsGraphics/GraphsofPolyExercise.jpg, id=452, 1050.92625pt x
+<./GraphsofPolynomialsGraphics/GraphsofPolyExercise.jpg, id=454, 1050.92625pt x
  983.675pt>
 File: ./GraphsofPolynomialsGraphics/GraphsofPolyExercise.jpg Graphic file (type
  jpg)
@@ -1387,7 +1373,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1155--1159
 
 File: GraphsofPolynomials.48 Graphic file (type mps)
 [MP to PDF] (./GraphsofPolynomials.48) [32] [33] [34]
-<./GraphsofPolynomialsGraphics/DaylightRegCubic.jpg, id=589, 1309.89375pt x 127
+<./GraphsofPolynomialsGraphics/DaylightRegCubic.jpg, id=591, 1309.89375pt x 127
 1.75125pt>
 File: ./GraphsofPolynomialsGraphics/DaylightRegCubic.jpg Graphic file (type jpg
 )
@@ -1395,7 +1381,7 @@ File: ./GraphsofPolynomialsGraphics/DaylightRegCubic.jpg Graphic file (type jpg
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/DaylightRegCubic.jpg  us
 ed on input line 1344.
 (pdftex.def)             Requested size: 180.67499pt x 175.40483pt.
-<./GraphsofPolynomialsGraphics/DaylightRegQuartic.jpg, id=590, 1308.89pt x 1269
+<./GraphsofPolynomialsGraphics/DaylightRegQuartic.jpg, id=592, 1308.89pt x 1269
 .74374pt>
 File: ./GraphsofPolynomialsGraphics/DaylightRegQuartic.jpg Graphic file (type j
 pg)
@@ -1405,7 +1391,7 @@ used on input line 1344.
 (pdftex.def)             Requested size: 180.67499pt x 175.26357pt.
  [35 <./GraphsofPolynomialsGraphics/DaylightRegCubic.jpg> <./GraphsofPolynomial
 sGraphics/DaylightRegQuartic.jpg>]
-<./GraphsofPolynomialsGraphics/CircuitRegQuadratic.jpg, id=595, 1309.89375pt x 
+<./GraphsofPolynomialsGraphics/CircuitRegQuadratic.jpg, id=597, 1309.89375pt x 
 1269.74374pt>
 File: ./GraphsofPolynomialsGraphics/CircuitRegQuadratic.jpg Graphic file (type 
 jpg)
@@ -1413,7 +1399,7 @@ jpg)
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/CircuitRegQuadratic.jpg 
  used on input line 1369.
 (pdftex.def)             Requested size: 130.08621pt x 126.09058pt.
-<./GraphsofPolynomialsGraphics/CircuitRegCubic.jpg, id=596, 1308.89pt x 1262.71
+<./GraphsofPolynomialsGraphics/CircuitRegCubic.jpg, id=598, 1308.89pt x 1262.71
 75pt>
 File: ./GraphsofPolynomialsGraphics/CircuitRegCubic.jpg Graphic file (type jpg)
 
@@ -1421,7 +1407,7 @@ File: ./GraphsofPolynomialsGraphics/CircuitRegCubic.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./GraphsofPolynomialsGraphics/CircuitRegCubic.jpg  use
 d on input line 1370.
 (pdftex.def)             Requested size: 130.08621pt x 125.48918pt.
-<./GraphsofPolynomialsGraphics/CircuitRegQuartic.jpg, id=597, 1304.875pt x 1270
+<./GraphsofPolynomialsGraphics/CircuitRegQuartic.jpg, id=599, 1304.875pt x 1270
 .7475pt>
 File: ./GraphsofPolynomialsGraphics/CircuitRegQuartic.jpg Graphic file (type jp
 g)
@@ -1443,25 +1429,21 @@ Mfpic: Apply metapost to Polydivision.mp.
 Mfpic: Then reprocess this file "CompilerPolynomialFunctions".
 
 
-LaTeX Warning: Reference `polylongdiv' on page 37 undefined on input line 12.
+LaTeX Warning: Reference `polylongdiv' on page 37 undefined on input line 22.
 
-<./PolydivisionGraphics/PolyDiv01.jpg, id=620, 2766.335pt x 1437.37pt>
+<./PolydivisionGraphics/PolyDiv01.jpg, id=622, 2766.335pt x 1437.37pt>
 File: ./PolydivisionGraphics/PolyDiv01.jpg Graphic file (type jpg)
 <use ./PolydivisionGraphics/PolyDiv01.jpg>
 Package pdftex.def Info: ./PolydivisionGraphics/PolyDiv01.jpg  used on input li
-ne 16.
+ne 30.
 (pdftex.def)             Requested size: 278.1693pt x 144.54pt.
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 14--42
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 28--56
 [][] 
  []
 
-[37 <./PolydivisionGraphics/PolyDiv01.jpg>] [38]
-Underfull \vbox (badness 3965) has occurred while \output is active []
-
- [39]
-[40]
-Overfull \hbox (1.43575pt too wide) in paragraph at lines 365--366
+[37 <./PolydivisionGraphics/PolyDiv01.jpg>] [38] [39] [40]
+Overfull \hbox (1.43575pt too wide) in paragraph at lines 419--420
 []\OT1/phv/m/n/10.95 Since the div-i-dend was a third de-gree poly-no-mial func
 -tion, the quo-tient is a sec-ond de-gree (quadratic)
  []
@@ -1484,13 +1466,13 @@ ut line 21.
 LaTeX Warning: Reference `Summation' on page 50 undefined on input line 21.
 
 [50] [51]
-<./RealZerosGraphics/RealZerosEx01a.jpg, id=834, 2764.3275pt x 1447.4075pt>
+<./RealZerosGraphics/RealZerosEx01a.jpg, id=836, 2764.3275pt x 1447.4075pt>
 File: ./RealZerosGraphics/RealZerosEx01a.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx01a.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx01a.jpg  used on input 
 line 117.
 (pdftex.def)             Requested size: 216.80615pt x 144.52837pt.
-<./RealZerosGraphics/RealZerosEx01b.jpg, id=835, 2786.41pt x 1443.3925pt>
+<./RealZerosGraphics/RealZerosEx01b.jpg, id=837, 2786.41pt x 1443.3925pt>
 File: ./RealZerosGraphics/RealZerosEx01b.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx01b.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx01b.jpg  used on input 
@@ -1498,13 +1480,13 @@ line 117.
 (pdftex.def)             Requested size: 216.79489pt x 144.5239pt.
  [52 <./RealZerosGraphics/RealZerosEx01a.jpg> <./RealZerosGraphics/RealZerosEx0
 1b.jpg>]
-<./RealZerosGraphics/RealZerosEx02a.jpg, id=842, 2774.365pt x 1517.67pt>
+<./RealZerosGraphics/RealZerosEx02a.jpg, id=844, 2774.365pt x 1517.67pt>
 File: ./RealZerosGraphics/RealZerosEx02a.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx02a.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx02a.jpg  used on input 
 line 159.
 (pdftex.def)             Requested size: 216.78906pt x 144.52751pt.
-<./RealZerosGraphics/RealZerosEx02b.jpg, id=843, 2758.305pt x 1509.64pt>
+<./RealZerosGraphics/RealZerosEx02b.jpg, id=845, 2758.305pt x 1509.64pt>
 File: ./RealZerosGraphics/RealZerosEx02b.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx02b.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx02b.jpg  used on input 
@@ -1575,13 +1557,13 @@ File: RealZeros.2 Graphic file (type mps)
 LaTeX Warning: Reference `AbsoluteValueFunctions' on page 59 undefined on input
  line 478.
 
-<./RealZerosGraphics/RealZerosEx03a.jpg, id=913, 2768.3425pt x 1507.6325pt>
+<./RealZerosGraphics/RealZerosEx03a.jpg, id=915, 2768.3425pt x 1507.6325pt>
 File: ./RealZerosGraphics/RealZerosEx03a.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx03a.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx03a.jpg  used on input 
 line 484.
 (pdftex.def)             Requested size: 216.78313pt x 144.53784pt.
-<./RealZerosGraphics/RealZerosEx03b.jpg, id=914, 2776.3725pt x 1513.655pt>
+<./RealZerosGraphics/RealZerosEx03b.jpg, id=916, 2776.3725pt x 1513.655pt>
 File: ./RealZerosGraphics/RealZerosEx03b.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx03b.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx03b.jpg  used on input 
@@ -1596,14 +1578,19 @@ Overfull \hbox (15.17967pt too wide) in paragraph at lines 482--487
 b.jpg>]
 File: RealZeros.3 Graphic file (type mps)
  [MP to PDF] (./RealZeros.3)
-<./RealZerosGraphics/RealZerosEx04.jpg, id=923, 2730.2pt x 1517.67pt>
+<./RealZerosGraphics/RealZerosEx04.jpg, id=925, 2730.2pt x 1517.67pt>
 File: ./RealZerosGraphics/RealZerosEx04.jpg Graphic file (type jpg)
 <use ./RealZerosGraphics/RealZerosEx04.jpg>
 Package pdftex.def Info: ./RealZerosGraphics/RealZerosEx04.jpg  used on input l
 ine 530.
 (pdftex.def)             Requested size: 289.07999pt x 160.69162pt.
  [60 <./RealZerosGraphics/RealZerosEx04.jpg>] [61] (./ExercisesforRealZeros.tex
- [62] [63]
+ [62]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 181.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 8.27998pt on input line 181.
+ [63]
 File: RealZeros.4 Graphic file (type mps)
  [MP to PDF] (./RealZeros.4)
 File: RealZeros.5 Graphic file (type mps)
@@ -1673,39 +1660,48 @@ File: ComplexZeros.7 Graphic file (type mps)
  [MP to PDF] (./ComplexZeros.7)
 File: ComplexZeros.8 Graphic file (type mps)
  [MP to PDF] (./ComplexZeros.8)
+File: ComplexZeros.9 Graphic file (type mps)
+ [MP to PDF] (./ComplexZeros.9)
+File: ComplexZeros.10 Graphic file (type mps)
+ [MP to PDF] (./ComplexZeros.10) [80]
+File: ComplexZeros.11 Graphic file (type mps)
 
-LaTeX Warning: Reference `parallelperpendicularslopetheorem' on page 80 undefin
-ed on input line 420.
+[MP to PDF] (./ComplexZeros.11)
+File: ComplexZeros.12 Graphic file (type mps)
+ [MP to PDF] (./ComplexZeros.12)
 
-
-LaTeX Warning: Reference `AppLines' on page 80 undefined on input line 420.
-
-
-LaTeX Warning: Reference `absvaldistdefn' on page 80 undefined on input line 42
-2.
-
-
-LaTeX Warning: Reference `AppAbsValEqIneq' on page 80 undefined on input line 4
-22.
-
-[80] [81] [82]
-
-LaTeX Warning: Reference `parallelperpendicularslopetheorem' on page 83 undefin
-ed on input line 582.
+LaTeX Warning: Reference `parallelperpendicularslopetheorem' on page 81 undefin
+ed on input line 536.
 
 
-LaTeX Warning: Reference `PolarComplex' on page 83 undefined on input line 582.
+LaTeX Warning: Reference `AppLines' on page 81 undefined on input line 536.
+
+
+LaTeX Warning: Reference `absvaldistdefn' on page 81 undefined on input line 53
+8.
+
+
+LaTeX Warning: Reference `AppAbsValEqIneq' on page 81 undefined on input line 5
+38.
+
+[81] [82] [83]
+
+LaTeX Warning: Reference `parallelperpendicularslopetheorem' on page 84 undefin
+ed on input line 719.
+
+
+LaTeX Warning: Reference `PolarComplex' on page 84 undefined on input line 719.
 
 
 
-LaTeX Warning: Reference `absvaldistdefn' on page 83 undefined on input line 58
-4.
+LaTeX Warning: Reference `absvaldistdefn' on page 84 undefined on input line 72
+1.
 
 
-LaTeX Warning: Reference `AppAbsValEqIneq' on page 83 undefined on input line 5
-84.
+LaTeX Warning: Reference `AppAbsValEqIneq' on page 84 undefined on input line 7
+21.
 
-)) [83]) (./CompilerPolynomialFunctions.aux (./PolynomialFunctions.aux))
+)) [84]) (./CompilerPolynomialFunctions.aux (./PolynomialFunctions.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1722,10 +1718,10 @@ nged.
 (rerunfilecheck)             Checksum: 4C99C2EF9253576584494F5DE3F17A91;3191.
  ) 
 Here is how much of TeX's memory you used:
- 15507 strings out of 474116
- 235079 string characters out of 5743682
+ 15545 strings out of 474116
+ 235753 string characters out of 5743682
  1965187 words of memory out of 5000000
- 36639 multiletter control sequences out of 15000+600000
+ 36659 multiletter control sequences out of 15000+600000
  609817 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,20n,79p,2049b,1626s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1745,10 +1741,10 @@ usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loc
 al/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/tex
 live/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/20
 24/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CompilerPolynomialFunctions.pdf (83 pages, 4349291 bytes).
+Output written on CompilerPolynomialFunctions.pdf (84 pages, 4358138 bytes).
 PDF statistics:
- 1593 PDF objects out of 1728 (max. 8388607)
- 1437 compressed objects within 15 object streams
- 774 named destinations out of 1000 (max. 500000)
+ 1609 PDF objects out of 1728 (max. 8388607)
+ 1452 compressed objects within 15 object streams
+ 784 named destinations out of 1000 (max. 500000)
  265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

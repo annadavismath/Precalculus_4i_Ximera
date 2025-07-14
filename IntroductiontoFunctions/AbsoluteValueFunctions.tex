@@ -17,7 +17,7 @@ We now wish to explore solving more complicated equations and inequalities, such
 
 \medskip
 
-Consider a real number $x \geq 0$ such as $x = 0$, $x = \pi$ or $x = 117.42$.  When computing absolute values, we find $|0| = 0$, $|\pi| = \pi$ and $|117.42| = 117.42$.  In general,  if $x \geq 0$, the absolute value function does nothing to change the input, so $|x| = x$. On the other hand, if $x < 0$, say $x = -1$, $x = -\sqrt{42}$ or $x = -117.42$, we get $|-1| = 1$, $|-\sqrt{42}| = \sqrt{42}$ and $|-117.42| = 117.42$.  That is, if $x < 0$, $|x|$ returns the exact \textit{opposite} of the input $x$, so  $|x| = -x$.  
+Consider a real number $x \geq 0$ such as $x = 0$, $x = \pi$ or $x = 117.42$.  When computing absolute values, we find $|0| = 0$, $|\pi| = \pi$ and $|117.42| = 117.42$.  In general,  if $x \geq 0$, the absolute value function does nothing to change the input, so $|x| = x$. On the other hand, if $x < 0$, say $x = -1$, $x = -\sqrt{42}$ or $x = -117.42$, we get $|-1| = 1$, $|-\sqrt{42}| = \sqrt{42}$ and $|-117.42| = 117.42$.  That is, if $x < 0$, $|x|$ returns the exact \textbf{opposite} of the input $x$, so  $|x| = -x$.  
 
 \medskip
 
@@ -42,7 +42,7 @@ The \index{absolute value ! definition of}\index{function ! absolute value}\text
 
 \medskip
 
-In Definition \ref{absolutevaluepiecewise}, it is \textit{absolutely} essential to read `$-x$' as `the \textit{opposite} of $x$' as \textit{opposed} to `negative $x$' in order to avoid serious errors later.  To see that this description agrees with our previous experience, consider $|117.42|$.  Given that $117.42 \geq 0$, we use the rule $|x| = x$.  Hence, $|117.42| = 117.42$.  Likewise, $|0| = 0$.  To compute $|-\sqrt{42}|$, we note that $-\sqrt{42} < 0$ we use the rule $|x| = -x$ in this case.  We get $|-\sqrt{42}| = -(-\sqrt{42})$ (the opposite of $-\sqrt{42}$), so $|-\sqrt{42}| = -(-\sqrt{42}) = \sqrt{42}$.   
+In Definition \ref{absolutevaluepiecewise}, it is \textbf{absolutely} essential to read `$-x$' as `the \textbf{opposite} of $x$' as \textbf{opposed} to `negative $x$' in order to avoid serious errors later.  To see that this description agrees with our previous experience, consider $|117.42|$.  Given that $117.42 \geq 0$, we use the rule $|x| = x$.  Hence, $|117.42| = 117.42$.  Likewise, $|0| = 0$.  To compute $|-\sqrt{42}|$, we note that $-\sqrt{42} < 0$ we use the rule $|x| = -x$ in this case.  We get $|-\sqrt{42}| = -(-\sqrt{42})$ (the opposite of $-\sqrt{42}$), so $|-\sqrt{42}| = -(-\sqrt{42}) = \sqrt{42}$.   
 
 \medskip
 
@@ -150,7 +150,7 @@ We put Definition \ref{absolutevaluepiecewise} to good use in the next example a
 
 \begin{enumerate}
 
-\item  To find the zeros of $f$, we solve $f(x) = 0$ or $|x - 3| = 0$.  We get $x = 3$ so  the sole $x$-intercept of the graph of $f$ is $(3, 0)$.  To find the $y$-intercept, we compute $f(0) = |0 - 3| = 3$ and obtain $(0,3)$.     Using Definition \ref{absolutevaluepiecewise} to rewrite the expression for $f(x)$ means that we substitute the expression $x - 3$ in for $x$ and simplify.  Note that when substituting the $x - 3$ in for $x$,  we do so for \textit{every} instance of $x$  -- both in the formula (output) as well as the inequality (input). \[ \begin{array}{ccc}
+\item  To find the zeros of $f$, we solve $f(x) = 0$ or $|x - 3| = 0$.  We get $x = 3$ so  the sole $x$-intercept of the graph of $f$ is $(3, 0)$.  To find the $y$-intercept, we compute $f(0) = |0 - 3| = 3$ and obtain $(0,3)$.     Using Definition \ref{absolutevaluepiecewise} to rewrite the expression for $f(x)$ means that we substitute the expression $x - 3$ in for $x$ and simplify.  Note that when substituting the $x - 3$ in for $x$,  we do so for \textbf{every} instance of $x$  -- both in the formula (output) as well as the inequality (input). \[ \begin{array}{ccc}
 
 f(x) = |x - 3| = \begin{mycases} 
       -(x - 3) &  \text{if $(x - 3) < 0$} \\
@@ -405,7 +405,7 @@ These specific examples suggest the following theorem.
 
 \bigskip
 
-{\bf Proof.} What separates Mathematics from the other sciences is its ability to actually \textit{prove} patterns like the one stated in the theorem above as opposed to just \textit{verifying} it by working more examples.  The proof of Theorem \ref{linearabsvaluegraphs} uses the exact same concepts as were used in Example \ref{absvaluegraph1}, just in a more general context by which we mean using letters as parameters instead of numbers.  
+{\bf Proof.} What separates Mathematics from the other sciences is its ability to actually \textbf{prove} patterns like the one stated in the theorem above as opposed to just \textbf{verifying} it by working more examples.  The proof of Theorem \ref{linearabsvaluegraphs} uses the exact same concepts as were used in Example \ref{absvaluegraph1}, just in a more general context by which we mean using letters as parameters instead of numbers.  
 
 \medskip
 
@@ -542,7 +542,7 @@ Last, we examine the graph of $F(x) = a|x - h| + k$ to see how it relates to the
 
 \medskip
 
-In summary, the graph of $F(x) = a|x - h| + k$ can be obtained from the graph of $f(x) = |x|$ in three steps:  first, add $h$ to each of the $x$-coordinates;  second, multiply each $y$-coordinate by $a$; and third, add $k$ to each $y$-coordinate.  Geometrically, these steps mean that we first move the graph left or right, then scale the $y$-axis by a factor of $a$ (and reflect across the $x$-axis if $a < 0$), and then move the graph up or down.  Throughout all of these \textit{transformations}, the graph maintains its `$\vee$' or `$\wedge$' shape.
+In summary, the graph of $F(x) = a|x - h| + k$ can be obtained from the graph of $f(x) = |x|$ in three steps:  first, add $h$ to each of the $x$-coordinates;  second, multiply each $y$-coordinate by $a$; and third, add $k$ to each $y$-coordinate.  Geometrically, these steps mean that we first move the graph left or right, then scale the $y$-axis by a factor of $a$ (and reflect across the $x$-axis if $a < 0$), and then move the graph up or down.  Throughout all of these \textbf{transformations}, the graph maintains its `$\vee$' or `$\wedge$' shape.
 
 \medskip
 
@@ -611,7 +611,7 @@ Of course, not every function involving absolute values can be written in the fo
 
 \item \begin{enumerate}
 
-\item Rewriting $F(x) = |x + 3| + 2 = (1)|x - (-3)| + 2$, we have $F(x)$ in the form stated in Theorem \ref{linearabsvaluegraphs} with $a = 1$, $h = -3$ and $k = 2$.  The vertex is $(-3, 2)$ and the graph will be a `$\vee$' shape.  Seeing as the vertex is already above the $x$-axis and the graph opens upwards, there are no $x$-intercepts on the graph of $F$, hence there are no zeros.\footnote{Alternatively, setting $|x + 3| + 2 = 0$ gives $|x + 3| = -2$. Absolute values are never negative thus we have no solution.}  With $F(0) = 5$, the $y$-intercept is $(0,5)$.  To get a third point, we can pick an arbitrary $x$-value to the left of the vertex or we could use symmetry: three units to the \textit{right} of the vertex the $y$-value is $5$, so the same must be true three units to the \textit{left} of the vertex, at $x = -6$.  Sure enough, $F(-6) = |-6 + 3| + 2 = |-3| + 2 = 5$.  The range of $F$ is $[2, \infty)$ with its minimum of $2$ when $x = -3$ and $F$ decreasing on $(-\infty, -3]$ then increasing on $[-3, \infty)$.  The graph is in the middle of the next page on the left.
+\item Rewriting $F(x) = |x + 3| + 2 = (1)|x - (-3)| + 2$, we have $F(x)$ in the form stated in Theorem \ref{linearabsvaluegraphs} with $a = 1$, $h = -3$ and $k = 2$.  The vertex is $(-3, 2)$ and the graph will be a `$\vee$' shape.  Seeing as the vertex is already above the $x$-axis and the graph opens upwards, there are no $x$-intercepts on the graph of $F$, hence there are no zeros.\footnote{Alternatively, setting $|x + 3| + 2 = 0$ gives $|x + 3| = -2$. Absolute values are never negative thus we have no solution.}  With $F(0) = 5$, the $y$-intercept is $(0,5)$.  To get a third point, we can pick an arbitrary $x$-value to the left of the vertex or we could use symmetry: three units to the \textbf{right} of the vertex the $y$-value is $5$, so the same must be true three units to the \textbf{left} of the vertex, at $x = -6$.  Sure enough, $F(-6) = |-6 + 3| + 2 = |-3| + 2 = 5$.  The range of $F$ is $[2, \infty)$ with its minimum of $2$ when $x = -3$ and $F$ decreasing on $(-\infty, -3]$ then increasing on $[-3, \infty)$.  The graph is in the middle of the next page on the left.
 
 \item We see in the formula for $f(t)$ that $t$ appears only once to the first power inside the absolute values, so we proceed to rewrite it in the form $a|t-h|+k$: \[ \begin{array}{rcl}
 
@@ -737,7 +737,7 @@ To graph $y = G(x)$, we have the line $y = -2x + 2$ which contains $(0, 2)$ and 
      t - 2  & \text{if $t \geq 2$} \\
    \end{mycases}
    
-   \end{array}  \] Taken together, these break the domain into \textit{three} pieces:  $t < 0$, $0 \leq t < 2$ and $t \geq 2$.  For $t < 0$, $|t| = -t$ and $|t - 2| = -t + 2$.  Therefore $g(t) = |t - 2| - |t| = (-t + 2) - (-t) = 2$  for $t < 0$.  For $0 \leq t < 2$, $|t| = t$ and $|t - 2| = -t + 2$, so $g(t) = |t-2| - |t| = (-t+2) - t) = -2t + 2$.  
+   \end{array}  \] Taken together, these break the domain into \textbf{three} pieces:  $t < 0$, $0 \leq t < 2$ and $t \geq 2$.  For $t < 0$, $|t| = -t$ and $|t - 2| = -t + 2$.  Therefore $g(t) = |t - 2| - |t| = (-t + 2) - (-t) = 2$  for $t < 0$.  For $0 \leq t < 2$, $|t| = t$ and $|t - 2| = -t + 2$, so $g(t) = |t-2| - |t| = (-t+2) - t) = -2t + 2$.  
 	
 \medskip
 	
@@ -816,7 +816,7 @@ The range of $g$ is $[-2,2]$ with a minimum of $-2$ achieved for all $t \geq 2$,
 
 \end{ex}
 
-If nothing else, Example \ref{absvaluegraph2} demonstrates the value of \textit{changing forms} of functions and the utility of the interplay between algebraic and graphical descriptions of functions.  These themes resonate time and time again in this and later courses in Mathematics.  
+If nothing else, Example \ref{absvaluegraph2} demonstrates the value of \textbf{changing forms} of functions and the utility of the interplay between algebraic and graphical descriptions of functions.  These themes resonate time and time again in this and later courses in Mathematics.  
 
 \subsection{Graphical Solution Techniques for Equations and Inequalities}
 \label{EquationsInequalitiesGraphically}
@@ -825,7 +825,7 @@ Consider the basic equation and related inequalities: $|x| = 3$, $|x| < 3$ and $
 
 \medskip
 
-To that end, let's call $f(x)  = |x|$ and $g(x) = 3$. If we graph $y = f(x)$ and $y = g(x)$ on the same set of axes then, by looking for $x$ values where $f(x) = g(x),$ we are looking for $x$-values which have the same $y$-value on both graphs. That is, the solutions to $f(x) = g(x)$ are the $x$-coordinates of the \textit{intersection points} of the two graphs.  We graph $y = f(x) = |x|$ (the characteristic `$\vee$') along with $y = g(x) = 3$ (the horizontal line) below on the far left.  Indeed, the two graphs intersect at $(-3, 3)$ and $(3, 3)$ so our solutions to $f(x) = g(x)$ are the $x$-values of these points, $x = \pm 3$.    
+To that end, let's call $f(x)  = |x|$ and $g(x) = 3$. If we graph $y = f(x)$ and $y = g(x)$ on the same set of axes then, by looking for $x$ values where $f(x) = g(x),$ we are looking for $x$-values which have the same $y$-value on both graphs. That is, the solutions to $f(x) = g(x)$ are the $x$-coordinates of the \textbf{intersection points} of the two graphs.  We graph $y = f(x) = |x|$ (the characteristic `$\vee$') along with $y = g(x) = 3$ (the horizontal line) below on the far left.  Indeed, the two graphs intersect at $(-3, 3)$ and $(3, 3)$ so our solutions to $f(x) = g(x)$ are the $x$-values of these points, $x = \pm 3$.    
 
 \begin{multicols}{3}
 
@@ -901,11 +901,11 @@ To that end, let's call $f(x)  = |x|$ and $g(x) = 3$. If we graph $y = f(x)$ and
 \end{mfpic}
 \end{multicols}
 
-Likewise, if we wish to solve $|x| < 3$, we can view this as a functional inequality $f(x) < g(x)$ which means we are looking for the $x$-values where the $f(x)$ values are less than the corresponding $g(x)$ values.  On the graphs, this means we'd be looking for the $x$-values where the $y$-values of $y = f(x)$ are less than, hence \emph{below}, those on the graph of $y = g(x)$.  
+Likewise, if we wish to solve $|x| < 3$, we can view this as a functional inequality $f(x) < g(x)$ which means we are looking for the $x$-values where the $f(x)$ values are less than the corresponding $g(x)$ values.  On the graphs, this means we'd be looking for the $x$-values where the $y$-values of $y = f(x)$ are less than, hence \textbf{below}, those on the graph of $y = g(x)$.  
 
 \medskip
 
-In the middle picture above we see that the graph of $f$ is below the graph of $g$ between $x = -3$ and $x = 3$, so our solution is $-3 < x < 3$, or in interval notation, $(-3, 3)$.   Finally, the inequality $|x| > 3$ is equivalent to $f(x) > g(x)$ so we are looking for the $x$-values where the graph of $f$ is \textit{above} the graph of $g$.\footnote{Solving $f(x) > g(x)$ is equivalent to solving $g(x) < f(x)$ - that is, finding where the graph of $g$ is below the graph of $f$.} The picture on the far right on the previous page shows that this is true for all $x < -3$ or for all $x > 3$.  In interval notation, the solution set is $(-\infty, -3) \cup (3, \infty)$.
+In the middle picture above we see that the graph of $f$ is below the graph of $g$ between $x = -3$ and $x = 3$, so our solution is $-3 < x < 3$, or in interval notation, $(-3, 3)$.   Finally, the inequality $|x| > 3$ is equivalent to $f(x) > g(x)$ so we are looking for the $x$-values where the graph of $f$ is \textbf{above} the graph of $g$.\footnote{Solving $f(x) > g(x)$ is equivalent to solving $g(x) < f(x)$ - that is, finding where the graph of $g$ is below the graph of $f$.} The picture on the far right on the previous page shows that this is true for all $x < -3$ or for all $x > 3$.  In interval notation, the solution set is $(-\infty, -3) \cup (3, \infty)$.
 
 \medskip
 
@@ -925,9 +925,9 @@ Suppose $f$ and $g$ are functions whose domains and ranges are sets of real numb
 
 \item  The solutions to $f(x)=g(x)$ are the $x$-values where the graphs of $f$ and $g$ intersect.
 
-\item  The solution to $f(x) < g(x)$ is the set of $x$-values where the graph of $f$ is \textit{below} the graph of $g$.
+\item  The solution to $f(x) < g(x)$ is the set of $x$-values where the graph of $f$ is \textbf{below} the graph of $g$.
 
-\item  The solution to $f(x) > g(x)$ is the set of $x$-values where the graph of $f$ \textit{above} the graph of $g$.
+\item  The solution to $f(x) > g(x)$ is the set of $x$-values where the graph of $f$ \textbf{above} the graph of $g$.
 
 \end{itemize}
 
@@ -943,7 +943,7 @@ Let's see what this looks like graphically.  Note that solving $|x-2|-x=0$ is eq
 
 \medskip
 
-Indeed, we can \textit{show} that there is just one point of intersection.  The graph of  $y = |x-2|$ is comprised of parts of two lines, $y =-(x-2)$ and $y = x-2$. The first line has a slope of $-1$ and the second has slope $1$.  The line $y = x$ also has a slope $1$ meaning it and the `right half' of $y =|x-2|$  are parallel, so they never intersect.  If our graphs are accurate enough, we may even be able to guess that the solution is $x = 1$, which we can verify by  substituting $x = 1$ into $|x-2| = x$ and seeing that it checks.  
+Indeed, we can \textbf{show} that there is just one point of intersection.  The graph of  $y = |x-2|$ is comprised of parts of two lines, $y =-(x-2)$ and $y = x-2$. The first line has a slope of $-1$ and the second has slope $1$.  The line $y = x$ also has a slope $1$ meaning it and the `right half' of $y =|x-2|$  are parallel, so they never intersect.  If our graphs are accurate enough, we may even be able to guess that the solution is $x = 1$, which we can verify by  substituting $x = 1$ into $|x-2| = x$ and seeing that it checks.  
 
 \medskip
 
@@ -1050,7 +1050,7 @@ Definition \ref{absolutevaluepiecewise} tells us that when $x<0$, $|x| = -x$, so
 
 \medskip
 
-To our surprise and delight, the graphs (below on the right) appear to overlap for $t \leq 0$.  Indeed, for $t \leq 0$, $|t-3| = -(t-3) = -t+3$ and $|t| + 3 = - t+3$.  Since the formulas are \textit{identical} for these values of $t$, our solutions are all values of $t$ with $t \leq 0$.  Using interval notation, we state our solution as $(-\infty, 0]$. (The other parts of the graphs are non-intersecting parallel lines so we ignored them.)
+To our surprise and delight, the graphs (below on the right) appear to overlap for $t \leq 0$.  Indeed, for $t \leq 0$, $|t-3| = -(t-3) = -t+3$ and $|t| + 3 = - t+3$.  Since the formulas are \textbf{identical} for these values of $t$, our solutions are all values of $t$ with $t \leq 0$.  Using interval notation, we state our solution as $(-\infty, 0]$. (The other parts of the graphs are non-intersecting parallel lines so we ignored them.)
 
 \begin{center}
 
@@ -1108,11 +1108,11 @@ To our surprise and delight, the graphs (below on the right) appear to overlap f
 Graphically, the inequality  $|x+1|\geq \frac{x+4}{2}$ is looking for where the graph of $y = |x+1|$,  the `$\vee$,' intersects ($=$) or is above ($>$) the line  $y = \frac{x+4}{2}$.  The graph shows this happening whenever $x \leq -2$ or $x \geq 2$.  Using interval notation, our solution is $(-\infty, -2] \cup [2, \infty)$.  While we cannot check every single $x$ value individually, choosing test values $x < -2$, $x = 2$, $-2 < x < 2$, $x = 2$, and $x > 2$ to see if the original inequality  $|x+1|\geq \frac{x+4}{2}$ holds would help us verify our solution.
 
 
-\item  Recall that the inequality $2 < |t-1| \leq 5$ is an example of a `compound' inequality in that is two inequalities in one.\footnote{See Example \ref{linearineqreview} for examples of linear compound inequalities.}  The values of $t$ in the solution set need to satisfy $2 < |t-1|$ \textit{and} $|t-1| \leq 5$.  To help us sort through the cases, we graph the horizontal lines $y =2$ and $y = 5$ along with the `$\vee$' shaped $y= |t-1|$ with vertex $(1,0)$ and $y$-intercept $(0,1)$.  
+\item  Recall that the inequality $2 < |t-1| \leq 5$ is an example of a `compound' inequality in that is two inequalities in one.\footnote{See Example \ref{linearineqreview} for examples of linear compound inequalities.}  The values of $t$ in the solution set need to satisfy $2 < |t-1|$ \textbf{and} $|t-1| \leq 5$.  To help us sort through the cases, we graph the horizontal lines $y =2$ and $y = 5$ along with the `$\vee$' shaped $y= |t-1|$ with vertex $(1,0)$ and $y$-intercept $(0,1)$.  
 
 \medskip
 
-Geometrically, we are looking for where $y = |t-1|$ is strictly \textit{above} the line $y = 2$ but \textit{below} (or meets)  the line $y = 5$.  Solving $|t-1| = 2$ gives $t = -1$ and $t = 3$ whereas solving $|t-1| = 5$ gives $t = -4$ or $t = 6$. Per the graph (below on the right), we see that $y = |t-1|$ lies between $y=2$ and $y=5$ when $-4 \leq t < -1$ and again when $3 < t \leq 6$. 
+Geometrically, we are looking for where $y = |t-1|$ is strictly \textbf{above} the line $y = 2$ but \textbf{below} (or meets)  the line $y = 5$.  Solving $|t-1| = 2$ gives $t = -1$ and $t = 3$ whereas solving $|t-1| = 5$ gives $t = -4$ or $t = 6$. Per the graph (below on the right), we see that $y = |t-1|$ lies between $y=2$ and $y=5$ when $-4 \leq t < -1$ and again when $3 < t \leq 6$. 
 
 \medskip
 

@@ -6,7 +6,7 @@
 
 \label{GraphsofPolynomials}
 
-In Chapter \ref{IntroductiontoFunctions}, we studied functions of the form $f(x) = b$ (constant functions), $f(x) = mx+b$, $m \neq 0$ (linear functions), and $f(x) = ax^2+bx+c$, $a \neq 0$ (quadratic functions).  In each case, we learned how to construct graphs, find zeros, describe behavior, and use the functions in each family to model real-world phenomena.  One might wonder about functions of the form $f(x) = ax^3+bx^2+cx+d$, $a \neq 0$, or functions containing even higher powers of $x$.  These are the \textbf{polynomial functions} and are the subject of study in this chapter.\footnote{You've seen polynomials before - see Section \ref{AppPolyArith}, for instance.  Here, we restrict our attention to polynomial \textit{functions} which for us means \textit{one} independent variable instead of expressions with more than one variable.}  As you may recall, \textit{poly}nomials  are the result of adding   \textit{mon}omials, so we begin our study of polynomial functions with monomial functions.  
+In Chapter \ref{IntroductiontoFunctions}, we studied functions of the form $f(x) = b$ (constant functions), $f(x) = mx+b$, $m \neq 0$ (linear functions), and $f(x) = ax^2+bx+c$, $a \neq 0$ (quadratic functions).  In each case, we learned how to construct graphs, find zeros, describe behavior, and use the functions in each family to model real-world phenomena.  One might wonder about functions of the form $f(x) = ax^3+bx^2+cx+d$, $a \neq 0$, or functions containing even higher powers of $x$.  These are the \textbf{polynomial functions} and are the subject of study in this chapter.\footnote{You've seen polynomials before - see Section \ref{AppPolyArith}, for instance.  Here, we restrict our attention to polynomial \textbf{functions} which for us means \textbf{one} independent variable instead of expressions with more than one variable.}  As you may recall, \textbf{poly}nomials  are the result of adding   \textbf{mon}omials, so we begin our study of polynomial functions with monomial functions.  
 
 \subsection{Monomial Functions}
 \label{MonomialFunctions}
@@ -21,32 +21,33 @@ In Chapter \ref{IntroductiontoFunctions}, we studied functions of the form $f(x)
 
 \medskip
 
-Monomial functions, by definition, contain the constant functions along with a two parameter family of functions, $f(x) = ax^n$.  We use $x$ as the default independent variable here with $a$ and $n$ as parameters.  From Section \ref{SetsofRealNumbers}, we recall that the set $\mathbb{N} = \{ 1, 2, 3, \ldots \}$ is the set of natural numbers, so examples of monomial functions include $f(x) = 2x = 2x^{1}$, $g(t) = -0.1 t^2$, and $H(s) = \sqrt{2} \, s^{117}$.  Note that the function $f(x) = x^0$ is \textit{not} a monomial function.  Even though $x^0 = 1$ for all \textit{nonzero} values of $x$, $0^{0}$ is undefined,\footnote{More specifically, $0^0$ is an \textit{indeterminate form.}  These are studied extensively in Calculus.} and hence $f(x) = x^0$ does \textit{not} have a domain of $(-\infty, \infty)$.\footnote{This is why we do not describe monomial functions as having the form $f(x) = ax^n$ for any \textit{whole} number $n$. See Section \ref{SetsofRealNumbers}}
+Monomial functions, by definition, contain the constant functions along with a two parameter family of functions, $f(x) = ax^n$.  We use $x$ as the default independent variable here with $a$ and $n$ as parameters.  From Section \ref{SetsofRealNumbers}, we recall that the set $\mathbb{N} = \{ 1, 2, 3, \ldots \}$ is the set of natural numbers, so examples of monomial functions include $f(x) = 2x = 2x^{1}$, $g(t) = -0.1 t^2$, and $H(s) = \sqrt{2} \, s^{117}$.  Note that the function $f(x) = x^0$ is \textbf{not} a monomial function.  Even though $x^0 = 1$ for all \textbf{nonzero} values of $x$, $0^{0}$ is undefined,\footnote{More specifically, $0^0$ is an \textbf{indeterminate form.}  These are studied extensively in Calculus.} and hence $f(x) = x^0$ does \textbf{not} have a domain of $(-\infty, \infty)$.\footnote{This is why we do not describe monomial functions as having the form $f(x) = ax^n$ for any \textbf{whole} number $n$. See Section \ref{SetsofRealNumbers}}
 
 \medskip
 
 We begin our study of the graphs of polynomial functions by studying graphs of monomial functions.  Starting with $f(x) = x^n$ where $n$ is even, we investigate the cases $n = 2$, $4$ and $6$ at the top of the next page.  Numerically, we see that if $-1 < x < 1$,  $x^n$ becomes much smaller as $n$ increases whereas if $x<-1$ or $x>1$, $x^n$ becomes much larger as $n$ increases.  These trends manifest themselves geometrically as  the graph `flattening'  for $|x|<1$  and `narrowing'  for $|x| > 1$ as $n$ increases.\footnote{Recall that $|x| < 1$ is equivalent to $-1<x<1$ and $|x|>1$ is equivalent to $x<-1$ or $x>1$.  Using absolute values allow us to describe these sets of real numbers more succinctly.}   
 
+\medskip
+
 \begin{tabular}{m{2.5in}m{1.5in}m{1.25in}m{1.25in}}
+%\raggedcolumns
 %\setlength\columnsep{0pt}
 %\begin{multicols}{4}
 
 $\begin{array}{|r||c|c|c|}  \hline
-
- x &  x^2 & x^4 & x^6 \\ \hline
+x &  x^2 & x^4 & x^6 \\ \hline
  -2 & 4& 16& 64 \\  \hline
  -1 & 1 & 1&  1\\  \hline
  -0.5 & 0.25 & 0.0625&  0.015625 \\  \hline
  0 &  0 & 0 & 0 \\  \hline
  0.5 & 0.25  &  0.0625 & 0.015625 \\  \hline
  1&  1 & 1&  1 \\  \hline
- 2 & 4 & 16 & 64 \\  \hline
+ 2 & 4 & 16 & 64 \\ \hline \end{array}$
 
-\end{array}$
 &
 %\columnbreak
 
-\vspace{.2in}
+%\vspace{.2in}
 
 \begin{mfpic}[10]{-3.5}{3.5}{-1}{10}
 \axes
@@ -61,7 +62,6 @@ $\begin{array}{|r||c|c|c|}  \hline
 %\columnbreak
 &
 
-\vspace{.2in}
 
 \begin{mfpic}[10]{-2}{2}{-1}{10}
 \axes
@@ -72,6 +72,7 @@ $\begin{array}{|r||c|c|c|}  \hline
 \point[4pt]{(-1,1), (0,0), (1,1)}
 \tcaption{\scriptsize $y=x^4$}
 \end{mfpic}
+
 
 &
 %\columnbreak
@@ -84,7 +85,8 @@ $\begin{array}{|r||c|c|c|}  \hline
 \arrow \reverse \arrow \function{-1.4678,1.4678,0.1}{x**6}
 \point[4pt]{(-1,1), (0,0), (1,1)}
 \tcaption{\scriptsize $y=x^6$\vphantom{$x^4$}}
-\end{mfpic} \\
+\end{mfpic}
+
 
 \end{tabular}
 %\end{multicols}
@@ -267,6 +269,8 @@ We now use Theorem \ref{linearmononialgraphs} to graph two different ``transform
 \begin{enumerate}
 
 \item For  $f(x) = -2(x+1)^4+3 = -2 (x-(-1))^4+3$, we identify $n = 4$, $a = -2$, $h = -1$, and $k = 3$.  Thus to graph $f$, we start with $y = x^4$ and perform the following steps, in sequence, tracking the points $(-1,1)$, $(0,0)$ and $(1,1)$ through each step:
+
+\newpage
 
 Step 1:   add $-1$ to the $x$-coordinates of each of the points on the graph of $y=x^4$:
 
@@ -500,7 +504,7 @@ Example \ref{linearmonomialex} demonstrates two big ideas in mathematics:  first
 Next  we wish  to focus on the so-called  \index{polynomial function ! end behavior}\index{end behavior ! of a function graph}\textbf{end behavior} presented in each case.\footnote{Sometimes called the `long run' behavior.}  The end behavior of a function is a way to describe what is happening to the outputs from a function as the inputs approach the `ends' of the domain. Since domain of monomial functions is $(-\infty, \infty)$, we are looking to see what these functions do as their inputs `approach'  $\infty$ and $-\infty$.  The best we can do is sample inputs and outputs and infer general behavior from these observations.  The good news is we've wrestled with this concept before. Indeed, every time we add `arrows' to the graph of a function, we've indicated its end behavior.\footnote{We'll do a much more exhaustive look at what it means for variables to `approach' infinity in Section \ref{IntroLimits}.  Hopefully this informal discussion suffices for now.} Let's revisit  the graph of $f(x) = x^2$ using the table below.
 
 
- 
+ \medskip
  
  
 \begin{tabular}{m{2in}m{2.5in}}
@@ -540,15 +544,12 @@ $\begin{array}{|r||c|}  \hline
 
 \end{tabular}
  
-As $x$ takes on negative values that are larger in absolute value,\footnote{these are technically `smaller and smaller' values because of how the real number line is ordered. For example, $x = -1000$ is smaller than $x = -100$ since $x = -1000$ is farther to the left than $x = -100$ on the number line. This being said, $|-1000| = 1000$ is larger than $|-100| = 100$ so in an imprecise, informal, and technically incorrect way, the number $-1000$ is a `larger' negative number than the number $-100$.  I would worry about pedants here but  hardly anyone reads these footnotes.}  we see $f(x)$ takes on larger and larger positive values, seemingly without bound.\footnote{That is, the $f(x)$ values grow larger than any positive number.  They are `\textit{unbounded}.'  The algebra that proves this fact  is the same that shows the range of $f$ is $[0, \infty)$.}   It should be stressed that since `$-\infty$' and `$\infty$' aren't real numbers, we can't write `$f(-\infty) = \infty$,'  so in order to communicate this behavior, we write as $x \rightarrow -\infty$, $f(x) \rightarrow \infty$, or, more succinctly, $\ds{ \lim_{x \rightarrow - \infty} f(x) = \infty}$.  Note that this latter notation is borrowed from Calculus and is read `the \index{limit}limit as $x$ approaches $- \infty$ of $f(x)$ is $\infty$'.  
+As $x$ takes on negative values that are larger in absolute value,\footnote{these are technically `smaller and smaller' values because of how the real number line is ordered. For example, $x = -1000$ is smaller than $x = -100$ since $x = -1000$ is farther to the left than $x = -100$ on the number line. This being said, $|-1000| = 1000$ is larger than $|-100| = 100$ so in an imprecise, informal, and technically incorrect way, the number $-1000$ is a `larger' negative number than the number $-100$.  I would worry about pedants here but  hardly anyone reads these footnotes.}  we see $f(x)$ takes on larger and larger positive values, seemingly without bound.\footnote{That is, the $f(x)$ values grow larger than any positive number.  They are `\textbf{unbounded}.'  The algebra that proves this fact  is the same that shows the range of $f$ is $[0, \infty)$.}   It should be stressed that since `$-\infty$' and `$\infty$' aren't real numbers, we can't write `$f(-\infty) = \infty$,'  so in order to communicate this behavior, we write as $x \rightarrow -\infty$, $f(x) \rightarrow \infty$, or, more succinctly, $\ds{ \lim_{x \rightarrow - \infty} f(x) = \infty}$.  Note that this latter notation is borrowed from Calculus and is read `the \index{limit}limit as $x$ approaches $- \infty$ of $f(x)$ is $\infty$'.  
 
 Graphically, the farther to the left we select inputs on the $x$-axis, the farther up the $y$-axis the output (function) values are.  We indicate this by attaching an  `arrow' on the graph in Quadrant II indicating the graph continues to head upward to the left.  
 
 Similarly, observing the behavior of $f$ as $x \rightarrow \infty$,  we get that   $\ds{ \lim_{x \rightarrow \infty} f(x) = \infty}$ since as the $x$ values increase without bound, so do the $f(x)$ values.  Graphically we indicate this by an arrow on the graph in Quadrant I heading upwards to the right.  This behavior holds for all functions $f(x) = x^n$ where $n \geq 2$ is even.\footnote{Can you reason why?}
 
- 
- 
- 
 Repeating this investigation for  for $f(x) = x^3$,  we find as $\ds{ \lim_{x \rightarrow - \infty} f(x) =  -\infty}$ and $\ds{ \lim_{x \rightarrow \infty} f(x) = \infty}$.  This trend holds for all functions $f(x) = x^n$ where $n$ is odd. 
 
 
@@ -587,8 +588,11 @@ $\begin{array}{|r||c|}  \hline
 
 \end{tabular}
 
+\medskip
 
 Theorem \ref{endbehaviorofmonomials} summarizes the end behavior of monomial functions.  The results are a consequence of Theorem \ref{linearmononialgraphs} in that the end behavior of a function of the form $y = ax^n$  only differs from that of  $y = x^n$ if there is a reflection, that is, if $a<0$.    
+
+\medskip
 
 
 \colorbox{ResultColor}{\bbm
@@ -678,10 +682,9 @@ if  $a > 0$,  $\ds{ \lim_{x \rightarrow - \infty} f(x) = \infty}$ and  $\ds{ \li
 \subsection{Polynomial Functions}
 \label{PolynomialFunctionsSubsection}
  
+ We are now in the position to discuss \textbf{polynomial} functions.  Simply stated, \textbf{poly}nomial functions are sums of \textbf{mon}omial functions.  The challenge becomes how to describe one of these beasts in general.  Up until now, we have used distinct letters to indicate different parameters in our definitions of function families.  In other words, we define constant functions as $f(x) = b$, linear functions as $f(x) = mx+b$, and quadratic functions as $f(x) = ax^2+bx+c$.  We even hinted at a function of the form $f(x) = ax^3+bx^2+cx+d$.  What happens if we wanted to describe a generic polynomial that required, say, 117 different parameters? Our work around is to use subscripted parameters,  $a_{\mbox{\tiny $k$}}$, that  denote the coefficient of $x^{k}$. For example, instead of writing a quadratic as $f(x) = ax^2+bx+c$, we describe it as $f(x) = a_{\mbox{\tiny $2$}} x^2 + a_{\mbox{\tiny $1$}} x + a_{\mbox{ \tiny$0$}}$, where $a_{\mbox{\tiny $2$}}$, $a_{\mbox{\tiny $1$}}$, and $a_{\mbox{ \tiny $0$}}$ are real numbers and $a_{\mbox{\tiny $2$}} \neq 0$.   As an added example, consider $f(x) = 4x^5 - 3x^2 + 2x - 5$.   We can re-write the formula for $f$ as $f(x)= 4x^5 + 0 x^{4} + 0 x^{3} + (-3)x^2 + 2 x + (-5).$ and identify  $a_{\mbox{\tiny $5$}} = 4$, $a_{\mbox{\tiny $4$}} = 0$, $a_{\mbox{\tiny $3$}} = 0$, $a_{\mbox{\tiny $2$}} = -3$, $a_{\mbox{\tiny $1$}} = 2$ and $a_{\mbox{\tiny $0$}} = -5$.   This is the notation we use in the following definition.
 
-
-We are now in the position to discuss \textbf{polynomial} functions.  Simply stated, \textit{poly}nomial functions are sums of \textit{mon}omial functions.  The challenge becomes how to describe one of these beasts in general.  Up until now, we have used distinct letters to indicate different parameters in our definitions of function families.  In other words, we define constant functions as $f(x) = b$, linear functions as $f(x) = mx+b$, and quadratic functions as $f(x) = ax^2+bx+c$.  We even hinted at a function of the form $f(x) = ax^3+bx^2+cx+d$.  What happens if we wanted to describe a generic polynomial that required, say, 117 different parameters? Our work around is to use subscripted parameters,  $a_{\mbox{\tiny $k$}}$, that  denote the coefficient of $x^{k}$. For example, instead of writing a quadratic as $f(x) = ax^2+bx+c$, we describe it as $f(x) = a_{\mbox{\tiny $2$}} x^2 + a_{\mbox{\tiny $1$}} x + a_{\mbox{ \tiny$0$}}$, where $a_{\mbox{\tiny $2$}}$, $a_{\mbox{\tiny $1$}}$, and $a_{\mbox{ \tiny $0$}}$ are real numbers and $a_{\mbox{\tiny $2$}} \neq 0$.   As an added example, consider $f(x) = 4x^5 - 3x^2 + 2x - 5$.   We can re-write the formula for $f$ as $f(x)= 4x^5 + 0 x^{4} + 0 x^{3} + (-3)x^2 + 2 x + (-5).$ and identify  $a_{\mbox{\tiny $5$}} = 4$, $a_{\mbox{\tiny $4$}} = 0$, $a_{\mbox{\tiny $3$}} = 0$, $a_{\mbox{\tiny $2$}} = -3$, $a_{\mbox{\tiny $1$}} = 2$ and $a_{\mbox{\tiny $0$}} = -5$.   This is the notation we use in the following definition.
-
+\medskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -691,9 +694,11 @@ We are now in the position to discuss \textbf{polynomial} functions.  Simply sta
 
 \ebm}
 
+\medskip
 
 As usual, $x$ is used in Definition \ref{polynomialfunction}  as the independent variable with the $a_{\mbox{\tiny $k$}}$ each being a parameter.  Even though we specify $n  \in  \mathbb{N}$ so $n \geq 1$, the value of the $a_{\mbox{\tiny $k$}}$ are unrestricted. Hence, any constant function $f(x) = b$ can be written as $f(x) = 0 x + a_{\mbox{ \tiny$0$}}$, and so they are polynomials.  Polynomials have an associated vocabulary,\footnote{See Section \ref{AppPolyArith}.}  and hence, so do polynomial functions.
 
+\medskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -725,10 +730,15 @@ As usual, $x$ is used in Definition \ref{polynomialfunction}  as the independent
 
 \ebm}
 
+\medskip
+
 Again, constant functions are split off in their own separate case Definition \ref{degreeandallthat} because of the ambiguity of $0^0$. (See the remarks following Definition \ref{monomialfunction}.)   A consequence of Definition \ref{degreeandallthat} is that we can now think of nonzero constant functions as `zeroth'  degree polynomial functions, linear functions as `first' degree polynomial functions, and quadratic functions as `second' degree polynomial functions.  
 
 
-\begin{ex}  \label{degreandallthatexample} Find the degree, leading term, leading coefficient and constant term of the following polynomial functions.
+
+\begin{ex}  \label{degreandallthatexample} $~$
+
+Find the degree, leading term, leading coefficient and constant term of the following polynomial functions.
 
 \begin{multicols}{2}
 \begin{enumerate}
@@ -762,19 +772,21 @@ Again, constant functions are split off in their own separate case Definition \r
 
 \item  We need to rewrite the formula for $H(w)$ so that it resembles the form given in Definition \ref{degreeandallthat}:  $H(w) = \frac{4-w}{5} = \frac{4}{5} - \frac{w}{5} = -\frac{1}{5} w + \frac{4}{5}$.  We see the degree of $H$ is $1$, the leading term is $-\frac{1}{5} w$, the leading coefficient is $-\frac{1}{5}$ and the constant term is $\frac{4}{5}$.
 
-\item  It may seem that we have some work ahead of us to get $p$ in the form of Definition \ref{degreeandallthat}.  However, it is possible to glean the information requested about $p$ without multiplying out the entire expression $(2z-1)^{3}(z-2)(3z+2)$.  The leading term of $p$ will be the term which has the highest power of $z$.  The way to get this term  is to multiply the terms with the highest power of $z$ from each factor together - in other words, the leading term of $p(z)$ is the product of the leading terms of the \textit{factors} of $p(z)$.  Hence, the leading term of $p$ is $(2z)^3(z)(3z) =  24z^5$.  This means that the degree of $p$ is $5$ and the leading coefficient is $24$.  As for the constant term, we can perform a similar operation.  The constant term  of $p$ is obtained by multiplying the constant terms from each of the \textit{factors}: $(-1)^3(-2)(2) = 4$.  \qed
+\item  It may seem that we have some work ahead of us to get $p$ in the form of Definition \ref{degreeandallthat}.  However, it is possible to glean the information requested about $p$ without multiplying out the entire expression $(2z-1)^{3}(z-2)(3z+2)$.  The leading term of $p$ will be the term which has the highest power of $z$.  The way to get this term  is to multiply the terms with the highest power of $z$ from each factor together - in other words, the leading term of $p(z)$ is the product of the leading terms of the \textbf{factors} of $p(z)$.  Hence, the leading term of $p$ is $(2z)^3(z)(3z) =  24z^5$.  This means that the degree of $p$ is $5$ and the leading coefficient is $24$.  As for the constant term, we can perform a similar operation.  The constant term  of $p$ is obtained by multiplying the constant terms from each of the \textbf{factors}: $(-1)^3(-2)(2) = 4$.  \qed
 
 \end{enumerate}
 
 \end{ex}
 
 
-We now turn our attention to graphs of polynomial functions. Since polynomial functions are sums of monomial functions, it stands to reason that some of of the properties of those graphs carry over to more general polynomials. We first discuss end behavior.  Consider $f(x) = x^3-75x+250$.  Below is the graph of  $f(x)$ (solid line) along with the graph of its leading term, $y = x^3$ (dashed line.)  Below on the left is a view `near' the origin while below on the right is a `zoomed out' view.  Near the origin, the graphs have little in common, but as we look farther out, it becomes that the functions begin to look quite similar.  
+We now turn our attention to graphs of polynomial functions. Since polynomial functions are sums of monomial functions, it stands to reason that some of of the properties of those graphs carry over to more general polynomials. We first discuss end behavior.  Consider $f(x) = x^3-75x+250$.   Below  is the graph of  $f(x)$ (solid line) along with the graph of its leading term, $y = x^3$ (dashed line.)  Below on the left is a view `near' the origin while below on the right is a `zoomed out' view.  Near the origin, the graphs have little in common, but as we look farther out, it becomes that the functions begin to look quite similar.  
+
+
 
 \begin{center}
 \begin{tabular}{cc}
 
-\includegraphics[height=2in]{./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg} &   \includegraphics[height=2in]{./GraphsofPolynomialsGraphics/PolyEBEx1b.jpg}  \\
+\includegraphics[height=1.75in]{./GraphsofPolynomialsGraphics/PolyEBEx1a.jpg} &   \includegraphics[height=1.75in]{./GraphsofPolynomialsGraphics/PolyEBEx1b.jpg}  \\
 
 $y = f(x)$ and $y = x^3$ `near' $(0,0)$ & a `zoomed out' view \\
 
@@ -782,7 +794,10 @@ $y = f(x)$ and $y = x^3$ `near' $(0,0)$ & a `zoomed out' view \\
 \end{tabular}
 \end{center}
 
-This observation is borne out numerically as well.  Based on the table below, as $x \rightarrow \infty$ or $x \rightarrow -\infty$, it certainly appears as if $f(x) \approx g(x)$.  One way to think about what is happening numerically is that  as $x \rightarrow \infty$ or $x \rightarrow -\infty$, the leading term $x^3$ \textit{dominates} the lower order terms  $-75x$ and $250$.  In other words, $x^3$ grows so much faster than $-75 x$ and $250$ that these `lower order terms' don't contribute anything of significance to the $x^3$ so $f(x) \approx x^3$.    To see this, we rewrite $f(x)$ as\footnote{Since we are considering  $x \rightarrow \infty$ or $x \rightarrow -\infty$, we are not concerned with $x$ even being close to $0$, so these fractions will all be defined.}   \[f(x) = x^3  - 75x + 250 = x^3 \left(1 -  \frac{75}{x^2} + \frac{250}{x^3} \right).\]   As $x \rightarrow \infty$ or $x \rightarrow -\infty$, both $\frac{75}{x^2}$ and $\frac{250}{x^3}$ have constant numerators but denominators that are becoming unbounded.  As such, both  $\frac{75}{x^2}$ and $\frac{250}{x^3} \rightarrow 0$.  Therefore, as $x \rightarrow \infty$ or $x \rightarrow -\infty$, \[ f(x) = x^3 - 75x+250  = x^3 \left(1 -  \frac{75}{x^2} + \frac{250}{x^3} \right) \approx x^3 (1 + 0 + 0) = x^3. \]
+
+\medskip
+
+This observation is borne out numerically as well.  Based on the table below, as $x \rightarrow \infty$ or $x \rightarrow -\infty$, it certainly appears as if $f(x) \approx g(x)$.  One way to think about what is happening numerically is that  as $x \rightarrow \infty$ or $x \rightarrow -\infty$, the leading term $x^3$ \textbf{dominates} the lower order terms  $-75x$ and $250$.  In other words, $x^3$ grows so much faster than $-75 x$ and $250$ that these `lower order terms' don't contribute anything of significance to the $x^3$ so $f(x) \approx x^3$.    To see this, we rewrite $f(x)$ as\footnote{Since we are considering  $x \rightarrow \infty$ or $x \rightarrow -\infty$, we are not concerned with $x$ even being close to $0$, so these fractions will all be defined.}   \[f(x) = x^3  - 75x + 250 = x^3 \left(1 -  \frac{75}{x^2} + \frac{250}{x^3} \right).\]   As $x \rightarrow \infty$ or $x \rightarrow -\infty$, both $\frac{75}{x^2}$ and $\frac{250}{x^3}$ have constant numerators but denominators that are becoming unbounded.  As such, both  $\frac{75}{x^2}$ and $\frac{250}{x^3} \rightarrow 0$.  Therefore, as $x \rightarrow \infty$ or $x \rightarrow -\infty$, \[ f(x) = x^3 - 75x+250  = x^3 \left(1 -  \frac{75}{x^2} + \frac{250}{x^3} \right) \approx x^3 (1 + 0 + 0) = x^3. \]
 
 \[ \begin{array}{|r||c|c|c|c|c|c|}  \hline
 
@@ -815,6 +830,7 @@ Algebraically, for $x \rightarrow  \infty$ or $x \rightarrow -\infty$, even with
 
 The results of these last two examples generalize below in Theorem \ref{EBPolynomials}.  
 
+\medskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -834,24 +850,28 @@ We argue Theorem \ref{EBPolynomials} using an argument similar to ones used abov
 
 \[ f(x) =  x^{n} \left( a_{n} +\dfrac{a_{n-\mbox{\tiny$1$}}}{x}+ \ldots + \dfrac{a_{\mbox{\tiny$2$}}}{x^{n-2}} + \dfrac{a_{\mbox{\tiny$1$}}}{x^{n-1}}+\dfrac{a_{\mbox{\tiny$0$}}}{x^{n}}\right) \approx x^n( a_{n} + 0 +\ldots 0) = a_{n} x^n \]
 
-If this argument looks a little fuzzy, it should.  As with all things involving infinity, the precision of Calculus is required here\footnote{Which we'll touch on in Chapters \ref{RatonalFunctions} and \ref{FirstStepsCalculus}.}  For now, we'll rely on number sense and algebraic intuition.
+If this argument looks a little fuzzy, it should.  As with all things involving infinity, the precision of Calculus is required here\footnote{Which we'll touch on in Chapters \ref{RationalFunctions} and \ref{FirstStepsCalculus}.}  For now, we'll rely on number sense and algebraic intuition.
 
+\medskip
 
-Now that we know how to determine the end behavior of polynomial functions,  it's time to investigate what happens `in between' the ends.  First and foremost, polynomial functions are  \index{continuous}\index{function ! continuous}\textbf{continuous}.  Recall from Section \ref{QuadraticFunctions} that, informally, graphs of continuous functions have no `breaks' or `holes' in them.\footnote{We'll revisit this concept in more formally in  Section \ref{LimitPropertiesandContinuity}.}   Since monomial functions are continuous (as far as we can tell) and polynomials are sums of monomial functions, it turns out that polynomial functions are continuous as well.   
+Now that we know how to determine the end behavior of polynomial functions,  it's time to investigate what happens `in between' the ends.  First and foremost, polynomial functions are  \index{continuous}\index{function ! continuous}\textbf{continuous}.  Recall from Section \ref{QuadraticFunctions} that, informally, graphs of continuous functions have no `breaks' or `holes' in them.\footnote{We'll revisit this concept in more formally in  Section \ref{LimitPropertiesandContinuity}.}   Since monomial functions are continuous (as far as we can tell) and polynomials are sums of monomial functions, it turns out that polynomial functions are continuous as well.  
+ 
+\medskip
 
 Moreover, the graphs of monomial functions, hence polynomial functions, are  \index{smooth}\index{function ! smooth}\textbf{smooth}.  Once again, `smoothness' is a concept defined precisely in Calculus, but for us,  functions have no `corners' or `sharp turns'.  Below we find the graph of a function which is neither smooth nor continuous, and to its right we have a graph of a polynomial, for comparison.  
 
+\medskip
+
 The function whose graph appears on the left fails to be continuous where it has a `break' or `hole' in the graph;  everywhere else, the function is continuous.  The function is continuous at the `corner' and the `cusp', but we consider these `sharp turns', so these are places where the function fails to be smooth.  Apart from these four places, the function is smooth and continuous.  Polynomial functions are smooth and continuous everywhere, as exhibited in the graph on the right.  
 
+\medskip
 
 The notion of smoothness is what tells us graphically that, for example, $f(x) = |x|$, whose graph is the characteristic `$\vee$' shape, cannot be a polynomial function, even though it is a piecewise-defined function comprised of polynomial functions.   Knowing polynomial functions are continuous and smooth gives us an idea of how to `connect the dots' when sketching the graph from points that we're able to find analytically such as intercepts.
 
 
 
 \phantomsection
-\label{cusppicture} 
-
-\medskip
+\label{cusp picture}
 
 \begin{center}
 
@@ -892,7 +912,15 @@ The notion of smoothness is what tells us graphically that, for example, $f(x) =
 
 Speaking of intercepts,  we next focus our attention on the behavior of the graphs of polynomial functions near their zeros.    Recall a zero $c$ of a function $f$ is a solution to $f(x) = 0$.  Geometrically, the zeros of a function are the $x$-coordinates of the $x$-intercepts of the graph of $y = f(x)$.    
 
-Consider the polynomial function $f(x) = x^3 (x-2)^2 (x+1)$. To find the zeros of $f$, we set $f(x) =  x^3 (x-2)^2 (x+1) = 0$.  Since the expression $f(x)$ is already factored, we set each factor equal to zero.\footnote{in accordance with the Zero Product Property of the Real Numbers - see Section \ref{AppRealNumberArithmetic}.}  Solving $x^3 = 0$ gives $x = 0$, $(x-2)^2 = 0$ gives $x = 2$, and $x+1 = 0$ gives $x = -1$.  Hence, our zeros are $x = -1$, $x = 0$, and $x = 2$.  
+\medskip
+
+Consider the polynomial function $f(x) = x^3 (x-2)^2 (x+1)$. To find the zeros of $f$, we set $f(x) =  x^3 (x-2)^2 (x+1) = 0$.  Since the expression $f(x)$ is already factored, we set each factor equal to zero.\footnote{in accordance with the Zero Product Property of the Real Numbers - see Section \ref{AppRealNumberArithmetic}.}  
+
+\medskip
+
+Solving $x^3 = 0$ gives $x = 0$, $(x-2)^2 = 0$ gives $x = 2$, and $x+1 = 0$ gives $x = -1$.  Hence, our zeros are $x = -1$, $x = 0$, and $x = 2$.  
+
+\medskip
 
 Below, we graph $y = f(x)$ and focus our attention near the $x$-intercepts $(-1,0)$, $(0,0)$ and $(2,0)$. 
 
@@ -905,15 +933,25 @@ $y = f(x) = x^3 (x-2)^2 (x+1)$
 \end{center}
 
 
-We first note that the graph \textit{crosses} through the $x$-axis at $(-1,0)$ and $(0,0)$, but the graph \textit{touches} and \textit{rebounds} at $(2,0)$.  Moreover, at $(-1,0)$, the graph crosses through the axis is a fairly `linear' fashion whereas there is a substantial amount of `flattening' going on near $(0,0)$.  Or aim is to explain these observations and generalize them.
+We first note that the graph \textbf{crosses} through the $x$-axis at $(-1,0)$ and $(0,0)$, but the graph \textbf{touches} and \textbf{rebounds} at $(2,0)$.  Moreover, at $(-1,0)$, the graph crosses through the axis is a fairly `linear' fashion whereas there is a substantial amount of `flattening' going on near $(0,0)$.  Or aim is to explain these observations and generalize them.
 
+\medskip
 
-First, let's look at what's happening with the formula  $f(x) =  x^3 (x-2)^2 (x+1)$  when  $x  \approx  -1$.   We know the $x$-intercept at $(-1,0)$ is due to the presence of the $(x+1)$ factor in the expression for $f(x)$.  So, in this sense, the factor $(x+1)$ is determining a major piece of the behavior of the graph near $x = -1$.   For that reason, we focus instead on the other two factors to see what contribution they make. We find when $x \approx -1$,  $x^3  \approx  (-1)^3 = -1$ and $(x-2)^2 \approx (-1-2)^2 = 9$.  Hence, $f(x) = x^3 (x-3)^2 (x+1) \approx (-1)^3 (-1-2)^2 (x+1) = -9(x+1)$.  Below on the left is a graph of $y = f(x)$ (the solid line) and the graph of $y = -9(x+1)$ (the dashed line.)  Sure enough, these graphs approximate one another near $x = -1$. 
+First, let's look at what's happening with the formula  $f(x) =  x^3 (x-2)^2 (x+1)$  when  $x  \approx  -1$.   We know the $x$-intercept at $(-1,0)$ is due to the presence of the $(x+1)$ factor in the expression for $f(x)$.  So, in this sense, the factor $(x+1)$ is determining a major piece of the behavior of the graph near $x = -1$.   For that reason, we focus instead on the other two factors to see what contribution they make. 
+
+\medskip
+
+We find when $x \approx -1$,  $x^3  \approx  (-1)^3 = -1$ and $(x-2)^2 \approx (-1-2)^2 = 9$.  Hence, $f(x) = x^3 (x-3)^2 (x+1) \approx (-1)^3 (-1-2)^2 (x+1) = -9(x+1)$.  Below on the left is a graph of $y = f(x)$ (the solid line) and the graph of $y = -9(x+1)$ (the dashed line.)  Sure enough, these graphs approximate one another near $x = -1$. 
+
+\medskip
 
 Likewise, let's look near $x = 0$.  The $x$-intercept $(0,0)$ is due to the $x^3$ term.  For $x \approx 0$, $(x-2)^2 \approx (0-2)^2 = 4$ and $(x+1) \approx (0+1) = 1$, so $f(x) =  x^3 (x-3)^2 (x+1) \approx x^3 (-2)^2(1) = 4x^3$.  Below in the center picture, we have the graph of $y = f(x)$ (again, the solid line) and $y = 4x^3$ (the dashed line) near $x=0$.  Once again, the graphs verify our analysis.
 
+\medskip
+
 Last, but not least, we analyze $f$ near $x = 2$.  Here, the intercept $(2,0)$ is due to the $(x-2)^2$ factor, so we look at the $x^3$ and $(x+1)$ factors.  If $x \approx 2$, $x^3 \approx (2)^3 = 8$ and $(x+1) \approx (2+1) = 3$.  Hence,  $f(x) =  x^3 (x-3)^2 (x+1) \approx (2)^3 (x-2)^2 (2+1) = 24(x-2)^2$.  Sure enough, as evidenced below on the right, the graphs of $y = f(x)$ and $y = 24(x-2)^2$.
 
+\medskip
 
 \begin{tabular}{m{2in}m{2in}m{2in}}
 
@@ -938,7 +976,11 @@ $y = f(x)$ and $y=24(x-2)^2$ \\
 
 \end{tabular}
 
+\medskip
+
 We generalize our observations in Theorem \ref{polynomialbehaviornearzeros} below. Like many things we've seen in this text, a more precise statement and proof can be found in a course on Calculus.
+
+\medskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -949,21 +991,35 @@ We generalize our observations in Theorem \ref{polynomialbehaviornearzeros} belo
 
 \ebm}
 
+\medskip
+
 Let's see how Theorem \ref{polynomialbehaviornearzeros}  applies to our findings regarding $f(x) =  x^3 (x-2)^2 (x+1)$. For $c = -1$, $(x-c) = (x-(-1)) = (x+1)$.  We  rewrite $f(x) =  x^3 (x-2)^2 (x+1) = (x-(-1))^1 \left[x^3(x-2)^2\right]$ and identify $m=1$ and $q(x) = x^3 (x-2)^2$.   We find $q(c) = q(-1) = (-1)^3(-1-2)^2 = -9$ so  Theorem \ref{polynomialbehaviornearzeros} says that near $(-1,0)$, the graph of $y=f(x)$ resembles $y = q(-1)(x-(-1))^1 = -9(x+1)$.  
+
+\medskip
 
 For $c=0$, $(x-c) = (x-0) = x$ and we can rewrite $f(x) =  x^3 (x-2)^2 (x+1) = (x-0)^3 \left[(x-2)^2 (x+1)\right]$.  We identify $m=3$ and $q(x) = (x-2)^2(x+1)$.  In this case $q(c) = q(0) = (0-2)^2(0+1) = 4$, so  Theorem \ref{polynomialbehaviornearzeros} guarantees the graph  of $y = f(x)$ near $x=0$ resembles  $y = q(0)(x-0)^3 = 4x^3$.  
 
-Lastly, for $c = 2$, we see $f(x) = (x-2)^2 \left[x^3 (x+1)\right]$ and we identify $m = 2$ and $q(x) = x^3(x+1)$.  We find $q(2) = 2^3 (2+1)= 24$, so  Theorem \ref{polynomialbehaviornearzeros}  guarantees the graph of $y = f(x)$ resembles $y = 24(x-2)^2$ near $x=2$.
+\medskip
+
+Lastly, for $c = 2$, we see $f(x) = (x-2)^2 \left[x^3 (x+1)\right]$ and  identify $m = 2$ and $q(x) = x^3(x+1)$.  We find $q(2) = 2^3 (2+1)= 24$, so  per Theorem \ref{polynomialbehaviornearzeros}, the graph of $y = f(x)$ resembles $y = 24(x-2)^2$ near $x=2$.
+
+\medskip
 
 As we already mentioned,  the formal statement and proof of Theorem \ref{polynomialbehaviornearzeros} require Calculus.  For now, we can understand the theorem as follows.   
 
-If we factor a polynomial function as $f(x) = (x-c)^m q(x)$ where $m \geq 1$,   then $x=c$ is a zero of $f$, since $f(c) = (c-c)^m q(c) = 0 \cdot q(c) = 0$.  The stipulation that $q(c) \neq 0$ means that we have essentially factored the expression $f(x) = (x-c)^m q(x) = (\text{going to $0$}) \cdot (\text{not going to $0$})$.   
+\medskip
+
+If we factor a polynomial function as $f(x) = (x-c)^m q(x)$ where $m \geq 1$,   then $x=c$ is a zero of $f$, since $f(c) = (c-c)^m q(c) = 0 \cdot q(c) = 0$.  The stipulation that $q(c) \neq 0$ means that we have essentially factored the expression $f(x) = (x-c)^m q(x) = (\text{going to $0$}) \cdot (\text{not going to $0$})$.
+
+\medskip   
 
 Thinking back to Theorem \ref{linearmononialgraphs}, the graph $y = q(c) (x-c)^m$ has an $x$-intercept at $(c,0)$, a basic overall shape determined by the exponent $m$, and end behavior determined by the sign of $q(c)$.   
 
-The fact that \textit{if} $x=c$ is a zero \textit{then} we are guaranteed we can factor $f(x) = (x-c)^m q(x)$ were $q(c) \neq 0$ and, moreover, such a factorization is unique (so that there's only one value of $m$ possible for each zero) is a consequence of two theorems, Theorem \ref{polydivthm} and The Factor Theorem, Theorem \ref{factorthm} which we'll review in Section \ref{Polydivision}.  For now, we assume such a factorization is unique in order to define the following.
+\medskip
 
+The fact that \textbf{if} $x=c$ is a zero \textbf{then} we are guaranteed we can factor $f(x) = (x-c)^m q(x)$ were $q(c) \neq 0$ and, moreover, such a factorization is unique (so that there's only one value of $m$ possible for each zero) is a consequence of two theorems, Theorem \ref{polydivthm} and The Factor Theorem, Theorem \ref{factorthm} which we'll review in Section \ref{Polydivision}.  For now, we assume such a factorization is unique in order to define the following.
 
+\medskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -973,8 +1029,11 @@ The fact that \textit{if} $x=c$ is a zero \textit{then} we are guaranteed we can
 
 \ebm}
 
+\medskip
+
 So, for $f(x) =  x^3 (x-2)^2 (x+1) = (x-0)^3(x-2)^2(x-(-1))^1$, $x=0$ is a zero of multiplicity $3$, $x=2$ is a zero of multiplicity $2$, and $x =-1$ is a zero of multiplicity $1$.  Theorems   \ref{EBPolynomials}  and \ref{polynomialbehaviornearzeros} give us the following:
 
+\medskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -992,8 +1051,11 @@ So, for $f(x) =  x^3 (x-2)^2 (x+1) = (x-0)^3(x-2)^2(x-(-1))^1$, $x=0$ is a zero 
 
 \ebm}
 
+\medskip
 
 Our next example showcases how all of the above theory can assist in sketching relatively good graphs of polynomial functions without the assistance of technology.
+
+\medskip
 
 \begin{ex} \label{graphfromtheory}   Let $p(x) = (2x-1)(x+1)(1-x^4)$.
 
@@ -1015,7 +1077,7 @@ Our next example showcases how all of the above theory can assist in sketching r
 
 \item  To find the zeros of $p$, we set  $p(x) =  (2x-1)(x+1)(1-x^4) = 0$.  Since the expression $p(x)$ is already (partially) factored, we set each factor equal to $0$ and solve.  From $(2x-1) =0$, we get $x=\frac{1}{2}$; from $(x+1) = 0$ we get  $x = -1$; and from  solving $1-x^4 =0$ we get $x = \pm 1$.  Hence, the zeros are $x = -1$, $x = \frac{1}{2}$, and $x = 1$.  
 
-In order to determine the multiplicities, we need to factor $p(x)$ as so we can identify the $m$ and $q(x)$ as described in Definition \ref{multiplicity}.  The zero $x = -1$ corresponds to the factor $(x+1)$.  Notice, however, that writing $p(x) = (x+1)^1 \left[(2x-1)(1-x^4)\right]$ with $m = 1$ and $q(x) = (2x-1)(1-x^4)$ does \textit{not} satisfy Definition \ref{multiplicity} since here, $q(-1) = (2(-1)-1)(1-(-1)^4) = 0$.  Indeed, we can factor $(1-x^4) = (1-x^2)(1+x^2) = (1-x)(1+x)(x^2+1)$ so that \[p(x)= (2x-1)(x+1)(1-x^4)  = (2x-1)(x+1)(1-x)(1+x)(x^2+1) = (x+1)^2 \left[(2x-1)(1-x)(x^2+1) \right].\]
+In order to determine the multiplicities, we need to factor $p(x)$ as so we can identify the $m$ and $q(x)$ as described in Definition \ref{multiplicity}.  The zero $x = -1$ corresponds to the factor $(x+1)$.  Notice, however, that writing $p(x) = (x+1)^1 \left[(2x-1)(1-x^4)\right]$ with $m = 1$ and $q(x) = (2x-1)(1-x^4)$ does \textbf{not} satisfy Definition \ref{multiplicity} since here, $q(-1) = (2(-1)-1)(1-(-1)^4) = 0$.  Indeed, we can factor $(1-x^4) = (1-x^2)(1+x^2) = (1-x)(1+x)(x^2+1)$ so that \[p(x)= (2x-1)(x+1)(1-x^4)  = (2x-1)(x+1)(1-x)(1+x)(x^2+1) = (x+1)^2 \left[(2x-1)(1-x)(x^2+1) \right].\]
 Identifying $q(x) = (2x-1)(1-x)(x^2+1)$, we find $q(-1) = (2(-1)-1)(1-(-1))((-1)^2+1) = -12 \neq 0$, which means the multiplicity of $x=-1$ is $m=2$.  
 
 The zero $x = \frac{1}{2}$ came from the factor $(2x-1) = 2 (x-\frac{1}{2})$, so we have \[ p(x) =  (2x-1)(x+1)^2(1-x)(x^2+1)  = (x -\frac{1}{2})^{1} \left[2 (x+1)^2(1-x)(x^2+1) \right]. \] If we identify $q(x) = 2 (x+1)^2(1-x)(x^2+1)$, we find $q(\frac{1}{2}) = \frac{45}{16} \neq 0$ so multiplicity here is $m=1$.  
@@ -1023,7 +1085,7 @@ The zero $x = \frac{1}{2}$ came from the factor $(2x-1) = 2 (x-\frac{1}{2})$, so
 Last but not least, we turn our attention to our last zero, $x = 1$, which we obtained from solving $1-x^4=0$.  However, from $p(x) =  (2x-1)(x+1)^2(1-x)(x^2+1)$, we see the zero $x=1$ corresponds to the factor $(1-x) = -(x-1)$.  We have $p(x) = (x-1)^{1}\left[- (2x-1)(x+1)^2(x^2+1)\right]$.  Identifying $q(x) = - (2x-1)(x+1)^2(x^2+1)$, we see $q(1) = -8$, so the multiplicity $m = 1$ here as well.  
 
 
-\item  From Theorem \ref{roleofmultiplicity}, since the multiplicities of $x = \frac{1}{2}$ and $x = 1$ are both \textit{odd}, we know the graph of $y = p(x)$ \textit{crosses} through the $x$-axis at $(\frac{1}{2}, 0)$ and $(1,0)$. More specifically, since the multiplicity for both of these zeros is $1$,  the graph will look locally linear at these points. More specifically, based on our calculations above, near $x = \frac{1}{2}$, the graph will resemble the increasing line $y =  \frac{45}{16} (x - \frac{1}{2})$, and near  $x = 1$, the graph will resemble the decreasing line $y = -8(x-1)$.    Since the multiplicity of $x = -1$ is \textit{even}, we know the graph of $y = p(x)$ \textit{touches} and  \textit{rebounds} at $(-1,0)$.   Since the multiplicity of $x=-1$ is $2$, it will look locally like a parabola.   More specifically, the graph near $x = -1$ will resemble $y = -12(x+1)^2$.
+\item  From Theorem \ref{roleofmultiplicity}, since the multiplicities of $x = \frac{1}{2}$ and $x = 1$ are both \textbf{odd}, we know the graph of $y = p(x)$ \textbf{crosses} through the $x$-axis at $(\frac{1}{2}, 0)$ and $(1,0)$. More specifically, since the multiplicity for both of these zeros is $1$,  the graph will look locally linear at these points. More specifically, based on our calculations above, near $x = \frac{1}{2}$, the graph will resemble the increasing line $y =  \frac{45}{16} (x - \frac{1}{2})$, and near  $x = 1$, the graph will resemble the decreasing line $y = -8(x-1)$.    Since the multiplicity of $x = -1$ is \textbf{even}, we know the graph of $y = p(x)$ \textbf{touches} and  \textbf{rebounds} at $(-1,0)$.   Since the multiplicity of $x=-1$ is $2$, it will look locally like a parabola.   More specifically, the graph near $x = -1$ will resemble $y = -12(x+1)^2$.
 
 \item  Per Theorem \ref{EBPolynomials}, the end behavior of $y =p(x)$, matches the end behavior of its leading term.  As in Example \ref{degreandallthatexample}, we multiply the leading terms from each factor together to obtain the leading term for $p(x)$ :   $p(x) = (2x-1)(x+1)(1-x^4) = (2x)(x)(-x^4) + \ldots = -2x^6 + \ldots$.  Since the degree here, $6$, is even and the leading coefficient $-2 <0$, we know that $\ds{\lim_{x \rightarrow - \infty} p(x) =  -\infty}$ and $\ds{\lim_{x \rightarrow  \infty} p(x) =  -\infty}$ .  To find the $y$-intercept, we find $p(0) = (2(0)-1)(0+1)(1-0^4) = -1$, hence, the $y$-intercept is $(0,-1)$.  
 
@@ -1056,9 +1118,15 @@ Last but not least, we turn our attention to our last zero, $x = 1$, which we ob
 
 \end{ex}
 
-A couple of remarks about Example \ref{graphfromtheory} are in order.  First, notice that the factor $(x^2+1)$ was more of a spectator in our discussion of the zeros of $p$. Indeed, if we set $x^2+1 = 0$, we have $x^2=-1$ which provides no \textit{real} solutions.\footnote{The solutions are $x = \pm i$ - see Section \ref{AppCmpNums}.}  That being said, the factor $x^2+1$ \textit{does} affect the shape of the graph (See Exercise \ref{comparegraphfromtheoryexample}.) 
+A couple of remarks about Example \ref{graphfromtheory} are in order.  First, notice that the factor $(x^2+1)$ was more of a spectator in our discussion of the zeros of $p$. Indeed, if we set $x^2+1 = 0$, we have $x^2=-1$ which provides no \textbf{real} solutions.\footnote{The solutions are $x = \pm i$ - see Section \ref{AppCmpNums}.}  That being said, the factor $x^2+1$ \textbf{does} affect the shape of the graph. \footnote{See Exercise \ref{comparegraphfromtheoryexample}.}
+
+\medskip
 
 Next, when connecting up the graph from $(-1,0)$ to $(0,-1)$ to $\left(\frac{1}{2}, 0 \right)$, there really is no way for us to know how low the graph goes, or where the lowest point is between $x = -1$ and $x = \frac{1}{2}$  unless we plot more points.  Likewise, we have no idea how high the graph gets between $x = \frac{1}{2}$ and $x = 1$.  While there are ways to determine these points analytically, more often than not, finding them requires concepts from Calculus which we'll investigate later.   Since these points do play an important role in many applications, we'll need to discuss them in this course and, when required, we'll  use technology to find them.   For that reason, we have the following definition:
+
+
+\medskip
+
 
 \colorbox{ResultColor}{\bbm
 \begin{defn}
@@ -1071,13 +1139,13 @@ Suppose $f$ is a function with $f(a) = b$.
 
 \item  We say $f$ has a \textbf{local minimum} at the point $(a,b)$ if and only if there is an open interval $I$ containing $a$ for which $f(a) \leq f(x)$ for all $x$ in $I$.  The value $f(a) = b$ is called `a  local minimum value of $f$.' \index{local minimum ! formal definition of}
 
-That is, $b$ is the minimum $f(x)$ value over an \textit{open interval}  containing $a$. 
+That is, $b$ is the minimum $f(x)$ value over an \textbf{open interval}  containing $a$. 
 
  Graphically,  no points `near' a local minimum are lower than $(a,b)$. 
 
 \item  We say $f$ has a \textbf{local maximum} at the point $(a,b)$ if and only if there is an open interval $I$ containing $a$ for which $f(a) \geq f(x)$ for all $x$ in $I$.  The value $f(a) = b$ is called `a  local maximum value of $f$.' \index{local maximum ! formal definition of}
 
-That is, $b$ is the maximum $f(x)$ value over an \textit{open interval} containing $a$.  
+That is, $b$ is the maximum $f(x)$ value over an \textbf{open interval} containing $a$.  
 
 Graphically, no points `near' a local maximum are higher than $(a,b)$. 
 
@@ -1091,22 +1159,28 @@ Taken together, the local maximums and local minimums of a function, if they exi
 
 \ebm}
 
-Once again, the terminology used in Definition \ref{localmaxmindefn}  blurs the line between the function $f$ and its outputs, $f(x)$.  Also, some textbooks use the terms `relative' minimum and `relative' maximum instead of the adjective `local.'  Lastly, note  the definition of local extrema requires an \textit{open} interval exist in the domain containing $a$ in order for $(a, f(a))$ to be a candidate for a local maximum or local minimum. We'll have more to say about this in later chapters.  If our open interval happens to be $(-\infty, \infty)$, then our local extrema are the extrema of $f$ - we'll see an example of this momentarily.  
+\medskip
 
-Below we use a graphing utility to graph $y= p(x) = (2x-1)(x+1)(1-x^4)$.    We first consider the point $(-1,0)$.   Even though there are points on the graph of $y = p(x)$ that are higher than $(-1,0)$,  locally, $(-1,0)$ is the top of a hill.  To satisfy Definition \ref{localmaxmindefn}, we need to provide an open interval on which $p(-1) = 0$ is the largest, or maximum function value. Note the definition requires us to provide \textit{just one} open interval.  One that works is the interval $(-1.5, -0.5)$.   We could use any smaller interval or go as large as $\left(-\infty, \frac{1}{2} \right)$ (can you see why?)  
+Once again, the terminology used in Definition \ref{localmaxmindefn}  blurs the line between the function $f$ and its outputs, $f(x)$.  Also, some textbooks use the terms `relative' minimum and `relative' maximum instead of the adjective `local.'  Lastly, note  the definition of local extrema requires an \textbf{open} interval exist in the domain containing $a$ in order for $(a, f(a))$ to be a candidate for a local maximum or local minimum. We'll have more to say about this in later chapters.  If our open interval happens to be $(-\infty, \infty)$, then our local extrema are the extrema of $f$ - we'll see an example of this momentarily.  
 
-Next we encounter  a `low' point at approximately $(-0.2353, -1.1211)$. More specifically, for all $x$ in the interval, say,  $(-0.5, 0)$, $p(x) \geq 1.1211$,  Hence, we have a local minimum at $(-0.2353, -1.1211)$.   Lastly, at $(0.811, 0.639)$, we are back to a high point.  In fact, $0.639$ isn't just a local maximum value, based on the graph, it is \textit{the} maximum of $p$.  Here, we may choose the open interval $(-\infty, \infty)$ as the open interval required by Definition \ref{localmaxmindefn}, since for all $x$, $p(x) \leq 0.639$.   It is important to note that there is no minimum value of $p$ despite there being a local minimum value.\footnote{Some books use the adjectives `global' or `absolute' when describing the extreme values of a function to distinguish them from their local counterparts.} 
+\medskip
+
+Below we use a graphing utility to graph $y= p(x) = (2x-1)(x+1)(1-x^4)$.    We first consider the point $(-1,0)$.   Even though there are points on the graph of $y = p(x)$ that are higher than $(-1,0)$,  locally, $(-1,0)$ is the top of a hill.  To satisfy Definition \ref{localmaxmindefn}, we need to provide an open interval on which $p(-1) = 0$ is the largest, or maximum function value. Note the definition requires us to provide \textbf{just one} open interval.  One that works is the interval $(-1.5, -0.5)$.   We could use any smaller interval or go as large as $\left(-\infty, \frac{1}{2} \right)$. 
+
+\medskip
+
+Next we encounter  a `low' point at approximately $(-0.2353, -1.1211)$. More specifically, for all $x$ in the interval, say,  $(-0.5, 0)$, $p(x) \geq 1.1211$,  Hence, we have a local minimum at $(-0.2353, -1.1211)$.   Lastly, at $(0.811, 0.639)$, we are back to a high point.  In fact, $0.639$ isn't just a local maximum value, based on the graph, it is \textbf{the} maximum of $p$.  Here, we may choose the open interval $(-\infty, \infty)$ as the open interval required by Definition \ref{localmaxmindefn}, since for all $x$, $p(x) \leq 0.639$.   It is important to note that there is no minimum value of $p$ despite there being a local minimum value.\footnote{Some books use the adjectives `global' or `absolute' when describing the extreme values of a function to distinguish them from their local counterparts.} 
 
 \begin{center}
 
 \phantomsection
 \label{localmaxminexample}
 
-\includegraphics[width=5in]{./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg} 
+\includegraphics[width=6in]{./GraphsofPolynomialsGraphics/PolyRelativeExtrema.jpg} 
 
 \end{center}
 
-
+\newpage
 
 We close this section with a classic application of a third degree polynomial function.
 
@@ -1179,7 +1253,15 @@ We close this section with a classic application of a third degree polynomial fu
 
 \begin{enumerate}
 
-\item  From Geometry, we know that $\text{Volume} = \text{width} \times \text{height} \times \text{depth}$.  The key is to find each of these quantities in terms of $x$.  From the figure, we see that the height of the box is $x$ itself.  The cardboard piece is initially $10$ inches wide.  Removing squares with a side length of $x$ inches from each corner leaves $10-2x$ inches for the width.\footnote{There's no harm in taking an extra step here and making sure this makes sense.  If we chopped out a $1$ inch square from each side, then the width would be $8$ inches, so chopping out $x$ inches would leave $10-2x$ inches.}  As for the depth, the cardboard is initially $12$ inches long, so after cutting out $x$ inches from each side, we would have $12-2x$ inches remaining. Hence, we get $V(x) = x(10-2x)(12-2x)$.  To find a suitable applied domain, we note that to make a box at all we need $x > 0$.  Also the shorter of the two dimensions of the cardboard is $10$ inches, and since we are removing $2x$ inches from this dimension, we also require $10 - 2x > 0$ or $x < 5$.  Hence, our applied domain is $0 < x < 5$.
+\item  From Geometry, we know that $\text{Volume} = \text{width} \times \text{height} \times \text{depth}$.  The key is to find each of these quantities in terms of $x$.  
+
+\medskip
+
+From the figure, we see that the height of the box is $x$ itself.  The cardboard piece is initially $10$ inches wide.  Removing squares with a side length of $x$ inches from each corner leaves $10-2x$ inches for the width.\footnote{There's no harm in taking an extra step here and making sure this makes sense.  If we chopped out a $1$ inch square from each side, then the width would be $8$ inches, so chopping out $x$ inches would leave $10-2x$ inches.}   As for the depth, the cardboard is initially $12$ inches long, so after cutting out $x$ inches from each side, we would have $12-2x$ inches remaining. Hence, we get $V(x) = x(10-2x)(12-2x)$.  
+
+\medskip
+
+To find a suitable applied domain, we note that to make a box at all we need $x > 0$.  Also the shorter of the two dimensions of the cardboard is $10$ inches, and since we are removing $2x$ inches from this dimension, we also require $10 - 2x > 0$ or $x < 5$.  Hence, our applied domain is $0 < x < 5$.
 
 \item  Using a graphing utility, we find a local maximum at approximately $(1.811, 96.771)$.  Because the domain of $V$ is restricted to the interval $(0,5)$,  the maximum of $V$ is here as well.
 

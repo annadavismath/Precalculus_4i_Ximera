@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  5 JUN 2025 03:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  14 JUL 2025 07:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -793,10 +793,6 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 
 LaTeX Warning: Reference `AppSetTheory' on page 2 undefined on input line 30.
 
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 34.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 10.07397pt on input line 34.
 File: FunctionsandtheirRepresentations.1 Graphic file (type mps)
 [MP to PDF] (./FunctionsandtheirRepresentations.1)
 File: FunctionsandtheirRepresentations.2 Graphic file (type mps)
@@ -820,11 +816,6 @@ File: FunctionsandtheirRepresentations.3 Graphic file (type mps)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 164.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 8.27998pt on input line 164.
-
 [4] [5] [6] [7] [8]
 
 LaTeX Warning: Reference `AppFactoring' on page 9 undefined on input line 434.
@@ -842,7 +833,7 @@ LaTeX Warning: Reference `Relations' on page 11 undefined on input line 531.
 
 
 LaTeX Warning: Reference `AppCartesianPlane' on page 11 undefined on input line
- 535.
+ 536.
 
 [11]
 File: FunctionsandtheirRepresentations.4 Graphic file (type mps)
@@ -854,7 +845,7 @@ File: FunctionsandtheirRepresentations.6 Graphic file (type mps)
  [MP to PDF]
 (./FunctionsandtheirRepresentations.6)
 
-LaTeX Warning: Reference `AppSetTheory' on page 13 undefined on input line 643.
+LaTeX Warning: Reference `AppSetTheory' on page 13 undefined on input line 644.
 
 
 File: FunctionsandtheirRepresentations.7 Graphic file (type mps)
@@ -878,11 +869,11 @@ File: FunctionsandtheirRepresentations.13 Graphic file (type mps)
  [MP to PDF]
 (./FunctionsandtheirRepresentations.13)
 
-LaTeX Warning: Reference `Relations' on page 16 undefined on input line 917.
+LaTeX Warning: Reference `Relations' on page 16 undefined on input line 918.
 
 
 LaTeX Warning: Reference `InverseFunctions' on page 16 undefined on input line 
-917.
+918.
 
 <./FunctionsandtheirRepresentationsGraphics/ParabolaGraph.jpg, id=333, 1880.023
 74pt x 1507.6325pt>
@@ -890,11 +881,11 @@ File: ./FunctionsandtheirRepresentationsGraphics/ParabolaGraph.jpg Graphic file
  (type jpg)
 <use ./FunctionsandtheirRepresentationsGraphics/ParabolaGraph.jpg>
 Package pdftex.def Info: ./FunctionsandtheirRepresentationsGraphics/ParabolaGra
-ph.jpg  used on input line 936.
+ph.jpg  used on input line 937.
 (pdftex.def)             Requested size: 216.81pt x 173.84569pt.
 File: FunctionsandtheirRepresentations.14 Graphic file (type mps)
 [MP to PDF] (./FunctionsandtheirRepresentations.14)
-Overfull \hbox (9.8179pt too wide) in paragraph at lines 960--961
+Overfull \hbox (9.8179pt too wide) in paragraph at lines 961--962
 []|[]| 
  []
 
@@ -902,11 +893,11 @@ Overfull \hbox (9.8179pt too wide) in paragraph at lines 960--961
 File: FunctionsandtheirRepresentations.15 Graphic file (type mps)
  [MP to PDF] (./FunctionsandtheirRepresentations.15)
 
-LaTeX Warning: Reference `girthbox1' on page 17 undefined on input line 996.
+LaTeX Warning: Reference `girthbox1' on page 17 undefined on input line 997.
 
 
 LaTeX Warning: Reference `GraphsofPolynomials' on page 17 undefined on input li
-ne 996.
+ne 997.
 
 [17 <./FunctionsandtheirRepresentationsGraphics/ParabolaGraph.jpg>]
 <./FunctionsandtheirRepresentationsGraphics/VolumeEx01.jpg, id=356, 2517.405pt 
@@ -915,10 +906,10 @@ File: ./FunctionsandtheirRepresentationsGraphics/VolumeEx01.jpg Graphic file (t
 ype jpg)
 <use ./FunctionsandtheirRepresentationsGraphics/VolumeEx01.jpg>
 Package pdftex.def Info: ./FunctionsandtheirRepresentationsGraphics/VolumeEx01.
-jpg  used on input line 1045.
+jpg  used on input line 1046.
 (pdftex.def)             Requested size: 289.07999pt x 174.72307pt.
 
-Overfull \hbox (8.0126pt too wide) in paragraph at lines 1028--1054
+Overfull \hbox (8.0126pt too wide) in paragraph at lines 1029--1055
 [][] 
  []
 
@@ -929,7 +920,7 @@ File: ./FunctionsandtheirRepresentationsGraphics/VolumeEx02.jpg Graphic file (t
 ype jpg)
 <use ./FunctionsandtheirRepresentationsGraphics/VolumeEx02.jpg>
 Package pdftex.def Info: ./FunctionsandtheirRepresentationsGraphics/VolumeEx02.
-jpg  used on input line 1060.
+jpg  used on input line 1061.
 (pdftex.def)             Requested size: 289.07999pt x 174.26205pt.
  [19 <./FunctionsandtheirRepresentationsGraphics/VolumeEx01.jpg> <./Functionsan
 dtheirRepresentationsGraphics/VolumeEx02.jpg>] [20]
@@ -1021,7 +1012,13 @@ File: FunctionsandtheirRepresentations.39 Graphic file (type mps)
 (./FunctionsandtheirRepresentations.39) [27]
 File: FunctionsandtheirRepresentations.40 Graphic file (type mps)
  [MP to PDF]
-(./FunctionsandtheirRepresentations.40) [28] [29] [30] [31] [32]
+(./FunctionsandtheirRepresentations.40) [28]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1163.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 10.07397pt on input line 1163.
+ [29] [30] [31] [32]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 1618.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
@@ -1226,56 +1223,51 @@ e (type jpg)
 Package pdftex.def Info: ./ConstantandLinearFunctionsGraphics/TimeTempRegressio
 n02.jpg  used on input line 840.
 (pdftex.def)             Requested size: 433.62pt x 262.09622pt.
- [55 <./ConstantandLinearFunctionsGraphics/TimeTempRegression01.jpg>]
-Underfull \vbox (badness 4647) has occurred while \output is active []
-
- [56 <./ConstantandLinearFunctionsGraphics/TimeTempRegression02.jpg>]
+ [55 <./ConstantandLinearFunctionsGraphics/TimeTempRegression01.jpg>] [56 <./Co
+nstantandLinearFunctionsGraphics/TimeTempRegression02.jpg>]
 <./ConstantandLinearFunctionsGraphics/SecantLine.png, id=1029, 664.4825pt x 498
 .86375pt>
 File: ./ConstantandLinearFunctionsGraphics/SecantLine.png Graphic file (type pn
 g)
 <use ./ConstantandLinearFunctionsGraphics/SecantLine.png>
 Package pdftex.def Info: ./ConstantandLinearFunctionsGraphics/SecantLine.png  u
-sed on input line 876.
+sed on input line 879.
 (pdftex.def)             Requested size: 289.07999pt x 217.02681pt.
  [57 <./ConstantandLinearFunctionsGraphics/SecantLine.png>]
-<./ConstantandLinearFunctionsGraphics/ARCRocketExample01.jpg, id=1044, 2521.42p
+<./ConstantandLinearFunctionsGraphics/ARCRocketExample01.jpg, id=1045, 2521.42p
 t x 1521.685pt>
 File: ./ConstantandLinearFunctionsGraphics/ARCRocketExample01.jpg Graphic file 
 (type jpg)
 <use ./ConstantandLinearFunctionsGraphics/ARCRocketExample01.jpg>
 Package pdftex.def Info: ./ConstantandLinearFunctionsGraphics/ARCRocketExample0
-1.jpg  used on input line 912.
+1.jpg  used on input line 915.
 (pdftex.def)             Requested size: 433.62pt x 261.67828pt.
- [58 <./ConstantandLinearFunctionsGraphics/ARCRocketExample01.jpg>] [59]
-<./ConstantandLinearFunctionsGraphics/ARCRocketExample02.jpg, id=1065, 1783.663
+[58 <./ConstantandLinearFunctionsGraphics/ARCRocketExample01.jpg>]
+<./ConstantandLinearFunctionsGraphics/ARCRocketExample02.jpg, id=1059, 1783.663
 76pt x 1434.35875pt>
 File: ./ConstantandLinearFunctionsGraphics/ARCRocketExample02.jpg Graphic file 
 (type jpg)
 <use ./ConstantandLinearFunctionsGraphics/ARCRocketExample02.jpg>
 Package pdftex.def Info: ./ConstantandLinearFunctionsGraphics/ARCRocketExample0
-2.jpg  used on input line 945.
-(pdftex.def)             Requested size: 216.81pt x 174.34805pt.
-
-Overfull \hbox (0.62004pt too wide) in paragraph at lines 945--946
-[][] 
- []
-
-<./ConstantandLinearFunctionsGraphics/ARCRocketExample03.jpg, id=1066, 1887.05p
+2.jpg  used on input line 944.
+(pdftex.def)             Requested size: 198.7425pt x 159.8154pt.
+<./ConstantandLinearFunctionsGraphics/ARCRocketExample03.jpg, id=1060, 1887.05p
 t x 1433.355pt>
 File: ./ConstantandLinearFunctionsGraphics/ARCRocketExample03.jpg Graphic file 
 (type jpg)
 <use ./ConstantandLinearFunctionsGraphics/ARCRocketExample03.jpg>
 Package pdftex.def Info: ./ConstantandLinearFunctionsGraphics/ARCRocketExample0
-3.jpg  used on input line 947.
-(pdftex.def)             Requested size: 216.81pt x 164.66832pt.
+3.jpg  used on input line 946.
+(pdftex.def)             Requested size: 198.7425pt x 150.95508pt.
 
-Overfull \hbox (0.62004pt too wide) in paragraph at lines 947--948
-[][] 
- []
+Overfull \vbox (1.13118pt too high) has occurred while \output is active []
 
-[60 <./ConstantandLinearFunctionsGraphics/ARCRocketExample02.jpg> <./Constantan
-dLinearFunctionsGraphics/ARCRocketExample03.jpg>]
+
+Overfull \vbox (9.9915pt too high) has occurred while \output is active []
+
+
+[59 <./ConstantandLinearFunctionsGraphics/ARCRocketExample02.jpg> <./Constantan
+dLinearFunctionsGraphics/ARCRocketExample03.jpg>] [60]
 (./ExercisesforConstantandLinearFunctions.tex
 File: ConstantandLinearFunctions.16 Graphic file (type mps)
  [MP to PDF]
@@ -1562,6 +1554,9 @@ Mfpic: Then reprocess this file "CompilerIntroductiontoFunctions".
 
 LaTeX Warning: Reference `AppQuadEqus' on page 100 undefined on input line 13.
 
+
+LaTeX Warning: Reference `IntroLimits' on page 100 undefined on input line 35.
+
 File: QuadraticFunctions.1 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.1) [100]
 
@@ -1597,17 +1592,17 @@ File: QuadraticFunctions.7 Graphic file (type mps)
 File: QuadraticFunctions.8 Graphic file (type mps)
  [MP to PDF] (./QuadraticFunctions.8) [105]
 
-LaTeX Warning: Reference `AppQuadEqus' on page 106 undefined on input line 484.
+LaTeX Warning: Reference `AppQuadEqus' on page 106 undefined on input line 491.
 
 
 
-LaTeX Warning: Reference `AppQuadEqus' on page 106 undefined on input line 484.
+LaTeX Warning: Reference `AppQuadEqus' on page 106 undefined on input line 491.
 
 
 [106]
 
 LaTeX Warning: Reference `PolynomialFunctions' on page 107 undefined on input l
-ine 525.
+ine 532.
 
 File: QuadraticFunctions.9 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.9)
@@ -1615,35 +1610,26 @@ File: QuadraticFunctions.10 Graphic file (type mps)
  [MP to PDF] (./QuadraticFunctions.10)
 File: QuadraticFunctions.11 Graphic file (type mps)
 
-[MP to PDF] (./QuadraticFunctions.11)
-Overfull \vbox (12.51375pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (11.51pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (11.51pt too high) has occurred while \output is active []
-
- [107]
-[108]
+[MP to PDF] (./QuadraticFunctions.11) [107] [108]
 File: QuadraticFunctions.12 Graphic file (type mps)
- [MP to PDF] (./QuadraticFunctions.12) [109] [110]
-<./QuadraticFunctionsGraphics/TimeTempDataQR.jpg, id=1862, 2766.335pt x 1499.60
+ [MP to PDF]
+(./QuadraticFunctions.12) [109] [110]
+<./QuadraticFunctionsGraphics/TimeTempDataQR.jpg, id=1864, 2766.335pt x 1499.60
 25pt>
 File: ./QuadraticFunctionsGraphics/TimeTempDataQR.jpg Graphic file (type jpg)
 <use ./QuadraticFunctionsGraphics/TimeTempDataQR.jpg>
 Package pdftex.def Info: ./QuadraticFunctionsGraphics/TimeTempDataQR.jpg  used 
-on input line 707.
+on input line 714.
 (pdftex.def)             Requested size: 361.34999pt x 195.87045pt.
  [111 <./QuadraticFunctionsGraphics/TimeTempDataQR.jpg>]
 File: QuadraticFunctions.13 Graphic file (type mps)
  [MP to PDF] (./QuadraticFunctions.13)
 File: QuadraticFunctions.14 Graphic file (type mps)
-
-[MP to PDF] (./QuadraticFunctions.14) [112]
+ [MP to PDF]
+(./QuadraticFunctions.14) [112]
 
 LaTeX Warning: Reference `PolynomialFunctions' on page 113 undefined on input l
-ine 815.
+ine 822.
 
 File: QuadraticFunctions.15 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.15)
@@ -1662,7 +1648,7 @@ File: QuadraticFunctions.20 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.20)
 File: QuadraticFunctions.21 Graphic file (type mps)
  [MP to PDF] (./QuadraticFunctions.21)
-Overfull \hbox (9.65378pt too wide) in paragraph at lines 1120--1121
+Overfull \hbox (9.65378pt too wide) in paragraph at lines 1127--1128
  [] 
  []
 
@@ -1698,391 +1684,98 @@ File: QuadraticFunctions.33 Graphic file (type mps)
  [MP to PDF]
 (./QuadraticFunctions.33)
 File: QuadraticFunctions.34 Graphic file (type mps)
- [MP to PDF] (./QuadraticFunctions.34) [119] [120]
-[121]
+ [MP to PDF] (./QuadraticFunctions.34) [119]
 
-LaTeX Warning: Reference `catenary' on page 122 undefined on input line 333.
+LaTeX Warning: Reference `findbothformulaquadgraphfirst' on page 120 undefined 
+on input line 156.
 
 
-LaTeX Warning: Reference `ExpLogApplications' on page 122 undefined on input li
-ne 333.
-
-[122] [123] [124]
-Underfull \hbox (badness 10000) in paragraph at lines 524--533
-
- []
+LaTeX Warning: Reference `findbothformulaquadgraphlast' on page 120 undefined o
+n input line 156.
 
 File: QuadraticFunctions.35 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.35)
-Underfull \hbox (badness 10000) in paragraph at lines 553--562
-
- []
-
 File: QuadraticFunctions.36 Graphic file (type mps)
-[MP to PDF] (./QuadraticFunctions.36)
-Underfull \hbox (badness 10000) in paragraph at lines 582--591
-
- []
-
+ [MP to PDF] (./QuadraticFunctions.36)
 File: QuadraticFunctions.37 Graphic file (type mps)
+
 [MP to PDF] (./QuadraticFunctions.37)
-Underfull \hbox (badness 10000) in paragraph at lines 611--620
-
- []
-
 File: QuadraticFunctions.38 Graphic file (type mps)
-[MP to PDF] (./QuadraticFunctions.38) [125]
-Underfull \hbox (badness 10000) in paragraph at lines 642--651
+ [MP to PDF] (./QuadraticFunctions.38)
+[120] [121] [122]
+
+LaTeX Warning: Reference `catenary' on page 123 undefined on input line 456.
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 123 undefined on input li
+ne 456.
+
+[123] [124] [125]
+Underfull \hbox (badness 10000) in paragraph at lines 647--656
 
  []
 
 File: QuadraticFunctions.39 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.39)
-Underfull \hbox (badness 10000) in paragraph at lines 672--681
+Underfull \hbox (badness 10000) in paragraph at lines 676--685
 
  []
 
 File: QuadraticFunctions.40 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.40)
-Underfull \hbox (badness 10000) in paragraph at lines 701--710
+Underfull \hbox (badness 10000) in paragraph at lines 705--714
 
  []
 
 File: QuadraticFunctions.41 Graphic file (type mps)
 [MP to PDF] (./QuadraticFunctions.41)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [126]
-Underfull \hbox (badness 10000) in paragraph at lines 732--741
+Underfull \hbox (badness 10000) in paragraph at lines 734--743
 
  []
 
 File: QuadraticFunctions.42 Graphic file (type mps)
-[MP to PDF] (./QuadraticFunctions.42)
-Underfull \hbox (badness 10000) in paragraph at lines 761--770
+[MP to PDF] (./QuadraticFunctions.42) [126]
+Underfull \hbox (badness 10000) in paragraph at lines 765--774
 
  []
 
 File: QuadraticFunctions.43 Graphic file (type mps)
-[MP to PDF] (./QuadraticFunctions.43) [127] [128] [129]
+[MP to PDF] (./QuadraticFunctions.43)
+Underfull \hbox (badness 10000) in paragraph at lines 795--804
+
+ []
+
 File: QuadraticFunctions.44 Graphic file (type mps)
- [MP to PDF]
-(./QuadraticFunctions.44)
-Overfull \hbox (0.2672pt too wide) in paragraph at lines 1104--1105
+[MP to PDF] (./QuadraticFunctions.44)
+Underfull \hbox (badness 10000) in paragraph at lines 824--833
+
+ []
+
+Mfpic: No graph file: QuadraticFunctions.45 .
+[127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+Underfull \hbox (badness 10000) in paragraph at lines 855--864
+
+ []
+
+Mfpic: No graph file: QuadraticFunctions.46 .
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--893
+
+ []
+
+Mfpic: No graph file: QuadraticFunctions.47 .
+[129] [130] [131]
+Mfpic: No graph file: QuadraticFunctions.48 .
+
+Overfull \hbox (0.2672pt too wide) in paragraph at lines 1254--1255
 []$[]$\OT1/phv/m/n/10.95 , $[]$ 
  []
 
-)) [130] (./IntroductiontoLimits.tex
-
-Mfpic: Initializing IntroductiontoLimits.mp.
-\openout3 = `IntroductiontoLimits.mp'.
-
-Mfpic: Don't forget to process IntroductiontoLimits.mp!
-Mfpic: Apply metapost to IntroductiontoLimits.mp.
-Mfpic: Then reprocess this file "CompilerIntroductiontoFunctions".
-
-File: IntroductiontoLimits.1 Graphic file (type mps)
-[MP to PDF] (./IntroductiontoLimits.1) [131]
-<./IntroductiontoLimitsGraphics/limitgrapha.png, id=2176, 395.4775pt x 357.335p
-t>
-File: ./IntroductiontoLimitsGraphics/limitgrapha.png Graphic file (type png)
-<use ./IntroductiontoLimitsGraphics/limitgrapha.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/limitgrapha.png  used o
-n input line 75.
-(pdftex.def)             Requested size: 144.54pt x 130.59793pt.
-<./IntroductiontoLimitsGraphics/limitgraphc.png, id=2177, 395.4775pt x 357.335p
-t>
-File: ./IntroductiontoLimitsGraphics/limitgraphc.png Graphic file (type png)
-<use ./IntroductiontoLimitsGraphics/limitgraphc.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/limitgraphc.png  used o
-n input line 75.
-(pdftex.def)             Requested size: 144.54pt x 130.59793pt.
-<./IntroductiontoLimitsGraphics/limitgraphb.png, id=2178, 395.4775pt x 357.335p
-t>
-File: ./IntroductiontoLimitsGraphics/limitgraphb.png Graphic file (type png)
-<use ./IntroductiontoLimitsGraphics/limitgraphb.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/limitgraphb.png  used o
-n input line 75.
-(pdftex.def)             Requested size: 144.54pt x 130.59793pt.
-File: IntroductiontoLimits.2 Graphic file (type mps)
- [MP to PDF]
-(./IntroductiontoLimits.2)
-
-LaTeX Warning: Reference `RationalFunctions' on page 132 undefined on input lin
-e 120.
-
-[132 <./IntroductiontoLimitsGraphics/limitgrapha.png> <./IntroductiontoLimitsGr
-aphics/limitgraphc.png> <./IntroductiontoLimitsGraphics/limitgraphb.png>]
-<./IntroductiontoLimitsGraphics/LimitfromGraphEx.png, id=2192, 932.48375pt x 53
-7.00626pt>
-File: ./IntroductiontoLimitsGraphics/LimitfromGraphEx.png Graphic file (type pn
-g)
-<use ./IntroductiontoLimitsGraphics/LimitfromGraphEx.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/LimitfromGraphEx.png  u
-sed on input line 141.
-(pdftex.def)             Requested size: 433.62pt x 249.71352pt.
-
-[133 <./IntroductiontoLimitsGraphics/LimitfromGraphEx.png>] [134]
-<./IntroductiontoLimitsGraphics/VolumeEx01.jpg, id=2215, 2517.405pt x 1521.685p
-t>
-File: ./IntroductiontoLimitsGraphics/VolumeEx01.jpg Graphic file (type jpg)
-<use ./IntroductiontoLimitsGraphics/VolumeEx01.jpg>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/VolumeEx01.jpg  used on
- input line 277.
-(pdftex.def)             Requested size: 289.07999pt x 174.72307pt.
- [135 <./IntroductiontoLimitsGraphics/VolumeEx01.jpg>]
-<./IntroductiontoLimitsGraphics/NearNegativeOne.jpeg, id=2224, 2667.9675pt x 13
-47.0325pt>
-File: ./IntroductiontoLimitsGraphics/NearNegativeOne.jpeg Graphic file (type jp
-g)
-<use ./IntroductiontoLimitsGraphics/NearNegativeOne.jpeg>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/NearNegativeOne.jpeg  u
-sed on input line 316.
-(pdftex.def)             Requested size: 433.62pt x 218.92102pt.
-
-
-LaTeX Warning: Reference `PolynomialFunctions' on page 136 undefined on input l
-ine 321.
-
-[136 <./IntroductiontoLimitsGraphics/NearNegativeOne.jpeg>]
-<./IntroductiontoLimitsGraphics/NearPositiveOne.jpeg, id=2238, 2669.975pt x 144
-1.385pt>
-File: ./IntroductiontoLimitsGraphics/NearPositiveOne.jpeg Graphic file (type jp
-g)
-<use ./IntroductiontoLimitsGraphics/NearPositiveOne.jpeg>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/NearPositiveOne.jpeg  u
-sed on input line 323.
-(pdftex.def)             Requested size: 433.62pt x 234.07933pt.
-
-
-LaTeX Warning: Reference `RationalFunctions' on page 137 undefined on input lin
-e 325.
-
-
-LaTeX Warning: Reference `FoundationsofTrigonometry' on page 137 undefined on i
-nput line 336.
-
-<./IntroductiontoLimitsGraphics/sinpioverx.png, id=2241, 1293.83376pt x 498.863
-75pt>
-File: ./IntroductiontoLimitsGraphics/sinpioverx.png Graphic file (type png)
-<use ./IntroductiontoLimitsGraphics/sinpioverx.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/sinpioverx.png  used on
- input line 340.
-(pdftex.def)             Requested size: 433.62pt x 167.1908pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [137 <./IntroductiontoLimitsGraphics/NearPositiveOne.jpeg>]
-
-LaTeX Warning: Reference `GraphsofSineandCosine' on page 138 undefined on input
- line 345.
-
-<./IntroductiontoLimitsGraphics/sine10^23tfar.jpeg, id=2251, 2738.23pt x 1353.0
-55pt>
-File: ./IntroductiontoLimitsGraphics/sine10^23tfar.jpeg Graphic file (type jpg)
-
-<use ./IntroductiontoLimitsGraphics/sine10^23tfar.jpeg>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/sine10^23tfar.jpeg  use
-d on input line 352.
-(pdftex.def)             Requested size: 289.07999pt x 142.82854pt.
-<./IntroductiontoLimitsGraphics/sine10^23tzoom.jpeg, id=2252, 1858.945pt x 1345
-.025pt>
-File: ./IntroductiontoLimitsGraphics/sine10^23tzoom.jpeg Graphic file (type jpg
-)
-<use ./IntroductiontoLimitsGraphics/sine10^23tzoom.jpeg>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/sine10^23tzoom.jpeg  us
-ed on input line 352.
-(pdftex.def)             Requested size: 144.54pt x 104.56673pt.
-
-Overfull \vbox (1.52357pt too high) has occurred while \output is active []
-
-
-[138 <./IntroductiontoLimitsGraphics/sinpioverx.png> <./IntroductiontoLimitsGra
-phics/sine10^23tfar.jpeg> <./IntroductiontoLimitsGraphics/sine10^23tzoom.jpeg>]
-[139]
-
-LaTeX Warning: Reference `limitpowerruleproof' on page 140 undefined on input l
-ine 428.
-
-
-LaTeX Warning: Reference `Induction' on page 140 undefined on input line 428.
-
-[140]
-Overfull \hbox (15.21951pt too wide) in paragraph at lines 506--507
-\OT1/phv/m/n/10.95 the right hand side at $\OT1/phv/m/sl/10.95 x \OT1/phv/m/n/1
-0.95 = 2$. In this case, if $\OT1/phv/m/sl/10.95 x \OML/cmm/m/it/10.95 < \OT1/p
-hv/m/n/10.95 2$, $\OT1/phv/m/sl/10.95 g\OT1/phv/m/n/10.95 (\OT1/phv/m/sl/10.95 
-x\OT1/phv/m/n/10.95 ) = \OT1/phv/m/sl/10.95 mx \OMS/cmsy/m/n/10.95 ^^@ \OT1/phv
-/m/n/10.95 1$ so $[]$.
- []
-
-<./IntroductiontoLimitsGraphics/jumpdisc.png, id=2296, 470.75874pt x 498.86375p
-t>
-File: ./IntroductiontoLimitsGraphics/jumpdisc.png Graphic file (type png)
-<use ./IntroductiontoLimitsGraphics/jumpdisc.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/jumpdisc.png  used on i
-nput line 512.
-(pdftex.def)             Requested size: 216.81pt x 229.75414pt.
-<./IntroductiontoLimitsGraphics/glued.png, id=2297, 470.75874pt x 498.86375pt>
-File: ./IntroductiontoLimitsGraphics/glued.png Graphic file (type png)
-<use ./IntroductiontoLimitsGraphics/glued.png>
-Package pdftex.def Info: ./IntroductiontoLimitsGraphics/glued.png  used on inpu
-t line 512.
-(pdftex.def)             Requested size: 216.81pt x 229.75414pt.
-
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 510--517
- [] 
- []
-
-
-Underfull \vbox (badness 1102) has occurred while \output is active []
-
- [141]
-[142 <./IntroductiontoLimitsGraphics/jumpdisc.png> <./IntroductiontoLimitsGraph
-ics/glued.png>] [143] (./ExercisesforIntroductiontoLimits.tex)) [144]
-(./IntroductiontoDerivatives.tex
-
-Mfpic: Initializing IntroductiontoDerivatives.mp.
-\openout3 = `IntroductiontoDerivatives.mp'.
-
-Mfpic: Don't forget to process IntroductiontoDerivatives.mp!
-Mfpic: Apply metapost to IntroductiontoDerivatives.mp.
-Mfpic: Then reprocess this file "CompilerIntroductiontoFunctions".
-
-[145] [146] [147] [148] [149] [150]
-<./IntroductiontoDerivativesGraphics/sectotan01.png, id=2409, 469.755pt x 498.8
-6375pt>
-File: ./IntroductiontoDerivativesGraphics/sectotan01.png Graphic file (type png
-)
-<use ./IntroductiontoDerivativesGraphics/sectotan01.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/sectotan01.png  us
-ed on input line 353.
-(pdftex.def)             Requested size: 144.54pt x 153.49673pt.
-<./IntroductiontoDerivativesGraphics/sectotan03.png, id=2410, 469.755pt x 498.8
-6375pt>
-File: ./IntroductiontoDerivativesGraphics/sectotan03.png Graphic file (type png
-)
-<use ./IntroductiontoDerivativesGraphics/sectotan03.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/sectotan03.png  us
-ed on input line 353.
-(pdftex.def)             Requested size: 144.54pt x 153.49673pt.
-<./IntroductiontoDerivativesGraphics/sectotan05.png, id=2411, 469.755pt x 498.8
-6375pt>
-File: ./IntroductiontoDerivativesGraphics/sectotan05.png Graphic file (type png
-)
-<use ./IntroductiontoDerivativesGraphics/sectotan05.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/sectotan05.png  us
-ed on input line 353.
-(pdftex.def)             Requested size: 144.54pt x 153.49673pt.
-<./IntroductiontoDerivativesGraphics/tangent.png, id=2412, 479.7925pt x 488.826
-25pt>
-File: ./IntroductiontoDerivativesGraphics/tangent.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/tangent.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/tangent.png  used 
-on input line 366.
-(pdftex.def)             Requested size: 144.54pt x 147.26062pt.
-<./IntroductiontoDerivativesGraphics/tangentzoom1.png, id=2413, 479.7925pt x 48
-8.82625pt>
-File: ./IntroductiontoDerivativesGraphics/tangentzoom1.png Graphic file (type p
-ng)
-<use ./IntroductiontoDerivativesGraphics/tangentzoom1.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/tangentzoom1.png  
-used on input line 366.
-(pdftex.def)             Requested size: 144.54pt x 147.26062pt.
-<./IntroductiontoDerivativesGraphics/tangentzoom2.png, id=2414, 479.7925pt x 48
-8.82625pt>
-File: ./IntroductiontoDerivativesGraphics/tangentzoom2.png Graphic file (type p
-ng)
-<use ./IntroductiontoDerivativesGraphics/tangentzoom2.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/tangentzoom2.png  
-used on input line 366.
-(pdftex.def)             Requested size: 144.54pt x 147.26062pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [151 <./IntroductiontoDerivativesGraphics/sectotan01.png> <./IntroductiontoDer
-ivativesGraphics/sectotan03.png> <./IntroductiontoDerivativesGraphics/sectotan0
-5.png>]
-[152 <./IntroductiontoDerivativesGraphics/tangent.png> <./IntroductiontoDerivat
-ivesGraphics/tangentzoom1.png> <./IntroductiontoDerivativesGraphics/tangentzoom
-2.png>]
-<./IntroductiontoDerivativesGraphics/TLEx.png, id=2435, 479.7925pt x 488.82625p
-t>
-File: ./IntroductiontoDerivativesGraphics/TLEx.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/TLEx.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TLEx.png  used on 
-input line 436.
-(pdftex.def)             Requested size: 216.81pt x 220.89467pt.
-<./IntroductiontoDerivativesGraphics/TLExZoom.png, id=2436, 479.7925pt x 488.82
-625pt>
-File: ./IntroductiontoDerivativesGraphics/TLExZoom.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/TLExZoom.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TLExZoom.png  used
- on input line 436.
-(pdftex.def)             Requested size: 216.81pt x 220.89467pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [153 <./IntroductiontoDerivativesGraphics/TLEx.png> <./IntroductiontoDerivativ
-esGraphics/TLExZoom.png>] [154]
-<./IntroductiontoDerivativesGraphics/TL02.png, id=2461, 479.7925pt x 482.80376p
-t>
-File: ./IntroductiontoDerivativesGraphics/TL02.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/TL02.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TL02.png  used on 
-input line 518.
-(pdftex.def)             Requested size: 216.81pt x 218.17319pt.
-<./IntroductiontoDerivativesGraphics/TL02Zoom.png, id=2462, 479.7925pt x 482.80
-376pt>
-File: ./IntroductiontoDerivativesGraphics/TL02Zoom.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/TL02Zoom.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TL02Zoom.png  used
- on input line 518.
-(pdftex.def)             Requested size: 216.81pt x 218.17319pt.
-
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 516--523
- [] 
- []
-
-<./IntroductiontoDerivativesGraphics/HTL.png, id=2463, 479.7925pt x 482.80376pt
->
-File: ./IntroductiontoDerivativesGraphics/HTL.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/HTL.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/HTL.png  used on i
-nput line 535.
-(pdftex.def)             Requested size: 216.81pt x 218.17319pt.
-<./IntroductiontoDerivativesGraphics/HTLZoom.png, id=2464, 479.7925pt x 482.803
-76pt>
-File: ./IntroductiontoDerivativesGraphics/HTLZoom.png Graphic file (type png)
-<use ./IntroductiontoDerivativesGraphics/HTLZoom.png>
-Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/HTLZoom.png  used 
-on input line 535.
-(pdftex.def)             Requested size: 216.81pt x 218.17319pt.
-
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 533--540
- [] 
- []
-
-
-Underfull \vbox (badness 2237) has occurred while \output is active []
-
- [155 <./IntroductiontoDerivativesGraphics/TL02.png> <./IntroductiontoDerivativ
-esGraphics/TL02Zoom.png>] [156 <./IntroductiontoDerivativesGraphics/HTL.png> <.
-/IntroductiontoDerivativesGraphics/HTLZoom.png>]
-(./ExercisesforIntroductiontoDerivatives.tex)) [157]
-(./IntroductiontoEpsilonics.tex
-
-Mfpic: No file IntroductiontoEpsilonics.1.
-
-Mfpic: Initializing IntroductiontoEpsilonics.mp.
-\openout3 = `IntroductiontoEpsilonics.mp'.
-
-Mfpic: Don't forget to process IntroductiontoEpsilonics.mp!
-Mfpic: Apply metapost to IntroductiontoEpsilonics.mp.
-Mfpic: Then reprocess this file "CompilerIntroductiontoFunctions".
-
-[158] (./ExercisesforIntroductiontoEpsilonics.tex))) [159]
-(./CompilerIntroductiontoFunctions.aux (./IntroductiontoFunctions.aux))
+[132])) [133]) (./CompilerIntroductiontoFunctions.aux
+(./IntroductiontoFunctions.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2091,42 +1784,92 @@ L3 programming layer <2024-02-20>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `CompilerIntroductiontoFunctions.out' has not
- changed.
-(rerunfilecheck)             Checksum: 814DA8217A7AE5968BD5DA539280AE59;6525.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `CompilerIntroductiontoFunctions.out' has 
+changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CompilerIntroductiontoFunctions.out
+':
+(rerunfilecheck)             Before: 814DA8217A7AE5968BD5DA539280AE59;6525
+(rerunfilecheck)             After:  15BE7B66B9CDFD4EBF841992F8902D1B;4313.
  ) 
 Here is how much of TeX's memory you used:
- 16945 strings out of 474116
- 280070 string characters out of 5743682
+ 16604 strings out of 474116
+ 267796 string characters out of 5743682
  1956187 words of memory out of 5000000
- 37232 multiletter control sequences out of 15000+600000
- 613342 words of font info for 135 fonts, out of 8000000 for 9000
+ 37028 multiletter control sequences out of 15000+600000
+ 613510 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,22n,79p,1853b,1638s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.
-pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/loc
-al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local
-/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive
-/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CompilerIntroductiontoFunctions.pdf (159 pages, 6053139 bytes
+
+pdfTeX warning (dest): name{subsection.1.7.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.7} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.6.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.6.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.6.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.6} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.5.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.5.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.1.5.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.1.5} has been referenced but does not exist
+, replaced by a fixed one
+
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pf
+b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local
+/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texli
+ve/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/te
+xlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2
+024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2024/te
+xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dis
+t/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on CompilerIntroductiontoFunctions.pdf (133 pages, 2906861 bytes
 ).
 PDF statistics:
- 2862 PDF objects out of 2984 (max. 8388607)
- 2582 compressed objects within 26 object streams
- 1365 named destinations out of 1440 (max. 500000)
- 448 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2529 PDF objects out of 2984 (max. 8388607)
+ 2320 compressed objects within 24 object streams
+ 1249 named destinations out of 1440 (max. 500000)
+ 328 words of extra memory for PDF output out of 10000 (max. 10000000)
 

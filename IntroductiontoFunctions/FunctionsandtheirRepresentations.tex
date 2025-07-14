@@ -31,11 +31,11 @@ Given two sets\footnote{Please refer to Section \ref{AppSetTheory} for a review 
 
 \medskip
 
-The grammar here `\textit{from} $A$ \textit{to} $B\,$'  is important.  Thinking of a function as a process, we can view the elements of the set $A$ as our starting materials, or \textit{inputs} to the process.  The function  processes these inputs according to some specified rule and the result is a set of  \textit{outputs}  - elements of the set $B$. In terms of inputs and outputs, Definition \ref{functiondefn}  says that a function is a process in which each \textit{input} is matched to one and only one \textit{output}.
+The grammar here `\textbf{from} $A$ \textbf{to} $B\,$'  is important.  Thinking of a function as a process, we can view the elements of the set $A$ as our starting materials, or \textbf{inputs} to the process.  The function  processes these inputs according to some specified rule and the result is a set of  \textbf{outputs}  - elements of the set $B$. In terms of inputs and outputs, Definition \ref{functiondefn}  says that a function is a process in which each \textbf{input} is matched to one and only one \textbf{output}.
 
 \medskip
 
-For example, let's take a look at some of the pets in the Stitz household.  Taylor's pets include White Paw and Cooper (both cats), Bingo (a lizard) and Kennie (a turtle).  Let $N$ be the set of pet names: $N = \{ \text{White Paw, Cooper, Bingo, Kennie} \}$, and let $T$ be the set of pet types:  $T = \{ \text{cat, lizard, turtle} \}$.   Let $f$ be the process that takes each pet's name as the input and returns that pet's type as the output. Let $g$ be the reverse of $f$:  that is, $g$ takes each pet type as the input and returns the names of the pets of that type as the output.   Note that both $f$ and $g$ are codifying the \textit{same} given information about Taylor's pets,  but one of them is a function and the other is not.  
+For example, let's take a look at some of the pets in the Stitz household.  Taylor's pets include White Paw and Cooper (both cats), Bingo (a lizard) and Kennie (a turtle).  Let $N$ be the set of pet names: $N = \{ \text{White Paw, Cooper, Bingo, Kennie} \}$, and let $T$ be the set of pet types:  $T = \{ \text{cat, lizard, turtle} \}$.   Let $f$ be the process that takes each pet's name as the input and returns that pet's type as the output. Let $g$ be the reverse of $f$:  that is, $g$ takes each pet type as the input and returns the names of the pets of that type as the output.   Note that both $f$ and $g$ are codifying the \textbf{same} given information about Taylor's pets,  but one of them is a function and the other is not.  
 
 \medskip
 
@@ -150,7 +150,7 @@ Some remarks about Definition \ref{domainrangedefns} are in order.  First, and m
 
 %\normalsize
 
-In the preceding pet example, the symbol $f(\text{Bingo})$, read `$f$ of Bingo', is asking what type of pet Bingo is, so $f(\text{Bingo}) = \text{lizard}$.  The fact that $f$ is a function means $f(\text{Bingo})$ is unambiguous because $f$ matches the name `Bingo' to only one pet type, namely `lizard'. In contrast, if we tried to use the notation `$g(\text{cat})$' to indicate what pet name $g$ matched to `cat', we have \textit{two} possibilities, White Paw and Cooper, with no way to determine which one (or both) is indicated.  
+In the preceding pet example, the symbol $f(\text{Bingo})$, read `$f$ of Bingo', is asking what type of pet Bingo is, so $f(\text{Bingo}) = \text{lizard}$.  The fact that $f$ is a function means $f(\text{Bingo})$ is unambiguous because $f$ matches the name `Bingo' to only one pet type, namely `lizard'. In contrast, if we tried to use the notation `$g(\text{cat})$' to indicate what pet name $g$ matched to `cat', we have \textbf{two} possibilities, White Paw and Cooper, with no way to determine which one (or both) is indicated.  
 
 \medskip
 
@@ -161,7 +161,7 @@ Continuing to apply Definition \ref{domainrangedefns} to our pet example, we fin
 In our pet example, we can obtain the range of $f$  by looking at the mapping diagram or by constructing the set $\{ f(\text{White Paw}), f(\text{Cooper}), f(\text{Bingo}), f(\text{Kennie}) \}$ which lists all of the outputs from $f$ as we run through all of the inputs to $f$.   Keep in mind that we list each element of a set only once so the range of $f$ is:\footnote{If instead of mapping $N$ into $T$, we could have mapped $N$ into $U=\{ \text{cat}, \text{lizard}, \text{turtle}, \text{dog}\}$ in which case the range of $f$ would not have been the entire codomain $U$.}  \[ \{ f(\text{White Paw}), f(\text{Cooper}), f(\text{Bingo}), f(\text{Kennie}) \} = \{ \text{cat}, \text{lizard}, \text{turtle} \} = T.\] 
 
 
-If we let $n$ denote a generic element of $N$ then $f(n)$ is some element $t$ in $T$, so we write $t = f(n)$.  In this equation, $n$ is called the \index{variable ! independent}\textbf{independent variable} and $t$ is called the  \index{variable ! dependent}\textbf{dependent variable}.\footnote{These adjectives stem from the fact that the value of $t$ \textit{depends} entirely on our (independent) choice of $n$.}    Moreover, we say `$t$ is a function of $n\,$',  or, more specifically, `the type of pet is a function of the pet name'  meaning that every pet name $n$ corresponds to one, and only one, pet type $t$.   Even though $f$ and $t$ are different things,\footnote{Specifically, $f$ is a function so it requires and domain, a range and a rule of assignment whereas $t$ is simply the output from $f$.} it is very common for the  function and its outputs to become more-or-less synonymous, even in what are otherwise precise mathematical definitions.\footnote{In fact, it is not uncommon to see the name of the function as the same as the dependent variable. For example, writing `$y = y(x)$'  would be a way to communicate the idea that `$y$ is a function of $x$'.}  We will endeavor to point out such ambiguities as we move through the text.
+If we let $n$ denote a generic element of $N$ then $f(n)$ is some element $t$ in $T$, so we write $t = f(n)$.  In this equation, $n$ is called the \index{variable ! independent}\textbf{independent variable} and $t$ is called the  \index{variable ! dependent}\textbf{dependent variable}.\footnote{These adjectives stem from the fact that the value of $t$ \textbf{depends} entirely on our (independent) choice of $n$.}    Moreover, we say `$t$ is a function of $n\,$',  or, more specifically, `the type of pet is a function of the pet name'  meaning that every pet name $n$ corresponds to one, and only one, pet type $t$.   Even though $f$ and $t$ are different things,\footnote{Specifically, $f$ is a function so it requires and domain, a range and a rule of assignment whereas $t$ is simply the output from $f$.} it is very common for the  function and its outputs to become more-or-less synonymous, even in what are otherwise precise mathematical definitions.\footnote{In fact, it is not uncommon to see the name of the function as the same as the dependent variable. For example, writing `$y = y(x)$'  would be a way to communicate the idea that `$y$ is a function of $x$'.}  We will endeavor to point out such ambiguities as we move through the text.
 
 \medskip
 
@@ -302,7 +302,7 @@ That is, the maximum of $f$ is the largest output from $f$, if it exists.
 
 \medskip
 
-Definition \ref{absmaxmindefn} is an example where the name of the function, $f$, is being used almost synonymously with its outputs in that when we speak of `the minimum and maximum of the \textit{function} $f\,$' we are really talking about the minimum and maximum values of the \textit{outputs} $f(x)$ as $x$ varies through the domain of $f$.  Thus we say that the \index{function ! (absolute) maximum}\index{maximum ! intuitive definition of} maximum of $f$ is $83$ and the \index{function ! (absolute, global) minimum}\index{minimum ! intuitive definition of} minimum of $f$ is $64$ when referring to the highest and lowest recorded temperatures in the previous example.  
+Definition \ref{absmaxmindefn} is an example where the name of the function, $f$, is being used almost synonymously with its outputs in that when we speak of `the minimum and maximum of the \textbf{function} $f\,$' we are really talking about the minimum and maximum values of the \textbf{outputs} $f(x)$ as $x$ varies through the domain of $f$.  Thus we say that the \index{function ! (absolute) maximum}\index{maximum ! intuitive definition of} maximum of $f$ is $83$ and the \index{function ! (absolute, global) minimum}\index{minimum ! intuitive definition of} minimum of $f$ is $64$ when referring to the highest and lowest recorded temperatures in the previous example.  
 
 \subsection{Algebraic Representations of Functions}  
 
@@ -436,7 +436,7 @@ h(t) + h(2) & = & \left(-t\,^{2} + 3t + 4\right) + 6  & \\ [2pt]
 \end{enumerate}
 \end{ex}
 
-A few remarks about Example \ref{funcnotatex1} are in order.  First, note that $h(2x)$ and $2 h(x)$ are different expressions.  In the former, we are multiplying the \textit{input} by $2$;  in the latter, we are multiplying the \textit{output} by $2$.  The same goes for $h(t + 2)$, $h(t) + 2$ and $h(t) + h(2)$.  The expression $h(t + 2)$ calls for adding $2$ to the input $t$ and then performing the function $h$.  The expression $h(t) + 2$ has us performing the process $h$ first, then adding $2$ to the output $h(t)$.  Finally, $h(t) + h(2)$ directs us to first find the outputs $h(t)$ and $h(2)$ and then add the results.  As we saw in Example \ref{timetempex1},  we see here again the importance paying close attention to syntax.\footnote{As was mentioned before, we will give meanings to the these quantities in other examples throughout the text.}
+A few remarks about Example \ref{funcnotatex1} are in order.  First, note that $h(2x)$ and $2 h(x)$ are different expressions.  In the former, we are multiplying the \textbf{input} by $2$;  in the latter, we are multiplying the \textbf{output} by $2$.  The same goes for $h(t + 2)$, $h(t) + 2$ and $h(t) + h(2)$.  The expression $h(t + 2)$ calls for adding $2$ to the input $t$ and then performing the function $h$.  The expression $h(t) + 2$ has us performing the process $h$ first, then adding $2$ to the output $h(t)$.  Finally, $h(t) + h(2)$ directs us to first find the outputs $h(t)$ and $h(2)$ and then add the results.  As we saw in Example \ref{timetempex1},  we see here again the importance paying close attention to syntax.\footnote{As was mentioned before, we will give meanings to the these quantities in other examples throughout the text.}
 
 \medskip
 
@@ -490,7 +490,7 @@ y^{2} & = & 25 - x^{3} & \\
 
 y & = & \pm \sqrt{25 - x^{3}} & \text{extract square roots. (See Section \ref{AppRadEqus} for a review, if needed.)} \\
 
-\end{array} \] The presence of the `$\pm$' indicates that there is a good chance that for some $x$-value, the equation will produce \textit{two} corresponding $y$-values.  Indeed, $x = 0$ produces $y = \pm \sqrt{25 - 0^{3}} = \pm 5$.  Hence, $x^{3} + y^{2} = 25$ equation does \textit{not} represent $y$ as a function of $x$ because $x = 0$ is matched with more than one $y$-value.
+\end{array} \] The presence of the `$\pm$' indicates that there is a good chance that for some $x$-value, the equation will produce \textbf{two} corresponding $y$-values.  Indeed, $x = 0$ produces $y = \pm \sqrt{25 - 0^{3}} = \pm 5$.  Hence, $x^{3} + y^{2} = 25$ equation does \textbf{not} represent $y$ as a function of $x$ because $x = 0$ is matched with more than one $y$-value.
 
 \item  To see if $x^{3} + y^{2} = 25$ represents $x$ as a function of $y$, we solve the equation for $x$ in terms of $y$: \[ \begin{array}{rclr}
 
@@ -500,7 +500,7 @@ x^{3} & = & 25 - y^{2}& \\
 
 x & = &  \sqrt[3]{25 - y^{2}} & \text{extract cube roots. (See Section \ref{AppRadEqus} for a review, if needed.)} \\
 
-\end{array} \] In this case, each choice of $y$ produces only \textit{one} corresponding value for $x$, so   $x^{3} + y^{2} = 25$ represents $x$ as a function of $y$.
+\end{array} \] In this case, each choice of $y$ produces only \textbf{one} corresponding value for $x$, so   $x^{3} + y^{2} = 25$ represents $x$ as a function of $y$.
 
 \end{enumerate}
 
@@ -597,11 +597,11 @@ For example, Skippy's data cannot tell us what the temperature was at 7 a.m. or 
 
 \medskip
 
-Skippy's temperature function $f$ is an example of a \index{discrete} \textbf{discrete} function in the sense that each of the data points are `isolated' with measurable gaps in between.  The idea of `filling in' those gaps is a quest to find a \index{continuous} \textbf{continuous} function to model this same phenomenon.\footnote{Roughly speaking, a \textit{continuous variable} is a variable which takes on values over an \textit{interval} of real numbers as opposed to values in a discrete list. In this case we would think of time as a `continuum' - an interval of real numbers as opposed to $7$ or so isolated times.  A \textit{continuous function} is a function which takes an interval of real numbers and maps it in such a way that its graph is a connected curve with no holes or gaps. This is technically a Calculus idea, but we'll need to discuss the notion of continuity a few times in the text.} We'll return to this example in Sections \ref{ConstantandLinearFunctions} and \ref{QuadraticFunctions} in an attempt to do just that. 
+Skippy's temperature function $f$ is an example of a \index{discrete} \textbf{discrete} function in the sense that each of the data points are `isolated' with measurable gaps in between.  The idea of `filling in' those gaps is a quest to find a \index{continuous} \textbf{continuous} function to model this same phenomenon.\footnote{Roughly speaking, a \textbf{continuous variable} is a variable which takes on values over an \textbf{interval} of real numbers as opposed to values in a discrete list. In this case we would think of time as a `continuum' - an interval of real numbers as opposed to $7$ or so isolated times.  A \textbf{continuous function} is a function which takes an interval of real numbers and maps it in such a way that its graph is a connected curve with no holes or gaps. This is technically a Calculus idea, but we'll need to discuss the notion of continuity a few times in the text.} We'll return to this example in Sections \ref{ConstantandLinearFunctions} and \ref{QuadraticFunctions} in an attempt to do just that. 
 
 \medskip
 
-In the meantime, our next example involves a function whose domain is (almost) an \textit{interval} of real numbers and whose graph consists of a (mostly) \textit{connected} arc.
+In the meantime, our next example involves a function whose domain is (almost) an \textbf{interval} of real numbers and whose graph consists of a (mostly) \textbf{connected} arc.
 
 \pagebreak
 
@@ -656,7 +656,7 @@ In the meantime, our next example involves a function whose domain is (almost) a
 
 \item  \begin{enumerate}
 
-\item In order for $w$ to be a function of $v$, each $v$-value on the graph must be paired with  only one $w$-value.  What if this weren't the case?  We'd have at least two points with the \textit{same} $v$-coordinate with \textit{different} $w$-coordinates.  Graphically, we'd have two points on graph on the same vertical line, one above the other.  This never happens so we may conclude that $w$ is a function of $v$.
+\item In order for $w$ to be a function of $v$, each $v$-value on the graph must be paired with  only one $w$-value.  What if this weren't the case?  We'd have at least two points with the \textbf{same} $v$-coordinate with \textbf{different} $w$-coordinates.  Graphically, we'd have two points on graph on the same vertical line, one above the other.  This never happens so we may conclude that $w$ is a function of $v$.
 
 \item The value $F(0)$ is the output from $F$ when  $v = 0$.  The points on the graph of $F$ are of the form $(v, F(v))$ thus we are looking for the $w$-coordinate of the point on the graph where $v = 0$.  Given that the point $(0,-4)$  is labeled on the graph, we can be sure $F(0) = -4$.  
 
@@ -778,7 +778,7 @@ To solve $F(v) = 0$, we are looking for the $v$-values where the output, or asso
 \end{tabular}
 
 
-To find the range of $F$, we need to describe the set of outputs - in this case, the $w$-values on the graph.  Here, we project the graph to the $w$-axis.  Vertically, the graph starts at $(0,-4)$ so our range starts at $w=-4$.  Note that even  though there is a hole at $(1,-3)$, the $w$-value $-3$ is covered by what \textit{appears} to be the point $(-1,-3)$ on the graph.\footnote{For all we know, it could be $(-0.992, -3)$.} The arrow indicates that the graph extends upwards indefinitely so the range of $F$ is   $\{ w \, |  \, w \geq -4 \}$  or, in interval notation, $[-4, \infty)$.   Regarding extrema, $F$ has a minimum of $-4$ when $v = 0$, but given that the graph extends upwards indefinitely, $F$ has  no maximum. 
+To find the range of $F$, we need to describe the set of outputs - in this case, the $w$-values on the graph.  Here, we project the graph to the $w$-axis.  Vertically, the graph starts at $(0,-4)$ so our range starts at $w=-4$.  Note that even  though there is a hole at $(1,-3)$, the $w$-value $-3$ is covered by what \textbf{appears} to be the point $(-1,-3)$ on the graph.\footnote{For all we know, it could be $(-0.992, -3)$.} The arrow indicates that the graph extends upwards indefinitely so the range of $F$ is   $\{ w \, |  \, w \geq -4 \}$  or, in interval notation, $[-4, \infty)$.   Regarding extrema, $F$ has a minimum of $-4$ when $v = 0$, but given that the graph extends upwards indefinitely, $F$ has  no maximum. 
 
 \pagebreak
 
@@ -847,7 +847,7 @@ Pictures showing the projection of the graph onto the $w$-axis are given below.
 
 \end{enumerate}
 
-\item  Finally, to determine if $v$ is a function of $w$, we look to see if each $w$-value is paired with only one $v$-value on the graph.  We have points on the graph, namely $(-2,0)$ and $(2,0)$, that clearly show us that $w = 0$ is matched with the \textit{two} $v$-values $v = 2$ and $v = -2$.  Hence, $v$ is not a function of $w$. \qed
+\item  Finally, to determine if $v$ is a function of $w$, we look to see if each $w$-value is paired with only one $v$-value on the graph.  We have points on the graph, namely $(-2,0)$ and $(2,0)$, that clearly show us that $w = 0$ is matched with the \textbf{two} $v$-values $v = 2$ and $v = -2$.  Hence, $v$ is not a function of $w$. \qed
 
 \end{enumerate}
 
@@ -872,16 +872,16 @@ Before moving on to our next example, it is worth noting that the geometric argu
 
 \bigskip
 
-Let's take a minute to discuss the phrase `if and only if' used in Theorem \ref{VLT}.   The statement `the graph represents $y$ as a function of $x$ \textit{if and only if} no vertical line intersects the graph more than once' is actually saying two things.  First, it's saying `the graph represents $y$ as a function of $x$  \textit{if} no vertical line intersects the graph more than once' and, second,  `the graph represents $y$ as a function of $x$  \textit{only if} no vertical line intersects the graph more than once'.   
+Let's take a minute to discuss the phrase `if and only if' used in Theorem \ref{VLT}.   The statement `the graph represents $y$ as a function of $x$ \textbf{if and only if} no vertical line intersects the graph more than once' is actually saying two things.  First, it's saying `the graph represents $y$ as a function of $x$  \textbf{if} no vertical line intersects the graph more than once' and, second,  `the graph represents $y$ as a function of $x$  \textbf{only if} no vertical line intersects the graph more than once'.   
 
 \medskip
 
-Logically, these statements are saying two different things. The first says that if no vertical line crosses the graph more than once, then the graph represents $y$ as a function of $x$.  But the question remains:  could a graph represent $y$ as a function of $x$ and yet there be a vertical line that intersects the graph more than once?  The answer to this is `no' because the second statement says that the \textit{only} way the graph represents $y$ as a function of $x$ is the case when no vertical line intersects the graph more than once.
+Logically, these statements are saying two different things. The first says that if no vertical line crosses the graph more than once, then the graph represents $y$ as a function of $x$.  But the question remains:  could a graph represent $y$ as a function of $x$ and yet there be a vertical line that intersects the graph more than once?  The answer to this is `no' because the second statement says that the \textbf{only} way the graph represents $y$ as a function of $x$ is the case when no vertical line intersects the graph more than once.
 
 %\pagebreak
 \medskip
 
-Applying the Vertical Line Test to the graph given in Example \ref{functiongraphex01}, we see below that all of the vertical lines meet the graph at most once (several are shown for illustration) showing $w$ is a function of $v$.  Notice that some of the lines ($x = -3$ and $x = 1$, for example) don't hit the graph at all.  This is fine because the Vertical Line Test is looking for lines that hit the graph more than once.  It does not say \emph{exactly} once so missing the graph altogether is permitted.
+Applying the Vertical Line Test to the graph given in Example \ref{functiongraphex01}, we see below that all of the vertical lines meet the graph at most once (several are shown for illustration) showing $w$ is a function of $v$.  Notice that some of the lines ($x = -3$ and $x = 1$, for example) don't hit the graph at all.  This is fine because the Vertical Line Test is looking for lines that hit the graph more than once.  It does not say \textbf{exactly} once so missing the graph altogether is permitted.
 
 
 \begin{center}
@@ -923,7 +923,7 @@ Our next example revisits the function $h$ from Example \ref{funcnotatex1} from 
 
 \begin{ex} \label{graphalgebraicex}  With the help of a graphing utility graph $h(t) = -t\,^{2} + 3t + 4$.  From your graph, state the domain, range and extrema, if any exist.
 
-{\bf Solution.} The dependent variable wasn't specified so we use the default `$y$' label for the vertical axis and set about graphing $y = h(t)$.   From our work in Example \ref{funcnotatex1},  we already know  $h(-1) = 0$, $h(0) = 4$, $h(2) = 6$ and $h(4) = 0$.  These give us the points $(-1,0)$, $(0,4)$, $(2,6)$ and $(4,0)$, respectively.  Using these as a guide, we can use  \href{https://www.desmos.com/}{\underline{desmos}} to produce the graph at the top of the next page on the left.\footnote{The curve in this example is called a 	`parabola'.  In Section \ref{QuadraticFunctions}, we'll learn how to graph these accurately \textit{by hand}.} 
+{\bf Solution.} The dependent variable wasn't specified so we use the default `$y$' label for the vertical axis and set about graphing $y = h(t)$.   From our work in Example \ref{funcnotatex1},  we already know  $h(-1) = 0$, $h(0) = 4$, $h(2) = 6$ and $h(4) = 0$.  These give us the points $(-1,0)$, $(0,4)$, $(2,6)$ and $(4,0)$, respectively.  Using these as a guide, we can use  \href{https://www.desmos.com/}{\underline{desmos}} to produce the graph at the top of the next page on the left.\footnote{The curve in this example is called a 	`parabola'.  In Section \ref{QuadraticFunctions}, we'll learn how to graph these accurately \textbf{by hand}.} 
 
 \medskip
 
@@ -1073,11 +1073,11 @@ It is worth noting that while the function $V$ has a maximum, it did not have a 
 
 \medskip
 
-Example \ref{volumeex1} typifies the interplay between Algebra and Geometry which lies ahead.  Both the algebraic description of  $V$: $V(x) = x^2 (130 - 4x)$ for $0 < x \leq 26$, and the graph of $y=V(x)$ were useful in describing aspects of the physical situation at hand.  Wherever possible, we'll use the algebraic representations of functions to \textit{analytically} produce \textit{exact} answers to certain problems and use the graphical descriptions to check the reasonableness of our answers. 
+Example \ref{volumeex1} typifies the interplay between Algebra and Geometry which lies ahead.  Both the algebraic description of  $V$: $V(x) = x^2 (130 - 4x)$ for $0 < x \leq 26$, and the graph of $y=V(x)$ were useful in describing aspects of the physical situation at hand.  Wherever possible, we'll use the algebraic representations of functions to \textbf{analytically} produce \textbf{exact} answers to certain problems and use the graphical descriptions to check the reasonableness of our answers. 
 
 \medskip
 
-That being said, we'll also encounter problems which we simply \textit{cannot} answer analytically (such as determining the maximum volume in the previous example), so we will be forced to resort to using technology (specifically graphing technology) in order to find \textit{approximate} solutions.  The most important thing to keep in mind is that while technology may \textit{suggest} a result, it is ultimately Mathematics that \textit{proves} it. 
+That being said, we'll also encounter problems which we simply \textbf{cannot} answer analytically (such as determining the maximum volume in the previous example), so we will be forced to resort to using technology (specifically graphing technology) in order to find \textbf{approximate} solutions.  The most important thing to keep in mind is that while technology may \textbf{suggest} a result, it is ultimately Mathematics that \textbf{proves} it. 
 
 \medskip
 
