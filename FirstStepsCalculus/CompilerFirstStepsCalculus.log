@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  18 JUN 2025 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  16 JUL 2025 11:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -649,7 +649,11 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count321
 \l__pdf_internal_box=\box113
 )
-(./CompilerFirstStepsCalculus.aux (./FirstStepsCalculus.aux))
+(./CompilerFirstStepsCalculus.aux (./FirstStepsCalculus.aux
+
+LaTeX Warning: Label `ExercisesforAppDerivatives' multiply defined.
+
+))
 \openout1 = `CompilerFirstStepsCalculus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -670,8 +674,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
-
-(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count322
 \scratchdimen=\dimen193
@@ -905,73 +908,154 @@ File: IntroLimits.10 Graphic file (type mps)
 LaTeX Warning: Reference `VLT' on page 9 undefined on input line 579.
 
 File: IntroLimits.11 Graphic file (type mps)
-[MP to PDF] (./IntroLimits.11)
-
-LaTeX Warning: Reference `IntroductiontoEpsilonics' on page 9 undefined on inpu
-t line 621.
-
-[9]
+[MP to PDF] (./IntroLimits.11) [9]
 
 LaTeX Warning: Reference `limitpowerruleproof' on page 10 undefined on input li
-ne 695.
+ne 696.
 
 
-LaTeX Warning: Reference `Induction' on page 10 undefined on input line 695.
+LaTeX Warning: Reference `Induction' on page 10 undefined on input line 696.
 
 [10]
-Overfull \hbox (21.91862pt too wide) detected at line 738
+
+LaTeX Warning: Reference `PowerFunctions' on page 11 undefined on input line 70
+8.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Overfull \hbox (21.91862pt too wide) detected at line 743
 []
  []
 
 
-LaTeX Warning: Reference `IntroductiontoFunctions' on page 11 undefined on inpu
-t line 765.
+LaTeX Warning: Reference `IntroductiontoFunctions' on page 12 undefined on inpu
+t line 770.
 
 
-LaTeX Warning: Reference `RootRadicalPowerFunctions' on page 11 undefined on in
-put line 765.
+LaTeX Warning: Reference `RootRadicalPowerFunctions' on page 12 undefined on in
+put line 770.
 
 
-LaTeX Warning: Reference `RootRadicalPowerFunctions' on page 11 undefined on in
-put line 769.
+LaTeX Warning: Reference `RootRadicalPowerFunctions' on page 12 undefined on in
+put line 774.
 
-[11]
-<./IntroLimitsGraphics/jumpdisc.png, id=195, 470.75874pt x 498.86375pt>
+[12]
+<./IntroLimitsGraphics/jumpdisc.png, id=200, 470.75874pt x 498.86375pt>
 File: ./IntroLimitsGraphics/jumpdisc.png Graphic file (type png)
 <use ./IntroLimitsGraphics/jumpdisc.png>
 Package pdftex.def Info: ./IntroLimitsGraphics/jumpdisc.png  used on input line
- 812.
+ 818.
 (pdftex.def)             Requested size: 216.81pt x 229.75414pt.
-<./IntroLimitsGraphics/glued.png, id=196, 470.75874pt x 498.86375pt>
+<./IntroLimitsGraphics/glued.png, id=201, 470.75874pt x 498.86375pt>
 File: ./IntroLimitsGraphics/glued.png Graphic file (type png)
 <use ./IntroLimitsGraphics/glued.png>
 Package pdftex.def Info: ./IntroLimitsGraphics/glued.png  used on input line 81
-2.
+8.
 (pdftex.def)             Requested size: 216.81pt x 229.75414pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 810--817
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 816--823
  [] 
  []
 
-[12]
+[13]
 
-LaTeX Warning: Reference `factorthm' on page 13 undefined on input line 837.
+LaTeX Warning: Reference `factorthm' on page 14 undefined on input line 843.
 
-
-Overfull \vbox (2.00842pt too high) has occurred while \output is active []
-
-
-[13 <./IntroLimitsGraphics/jumpdisc.png> <./IntroLimitsGraphics/glued.png>]
-<./IntroLimitsGraphics/NearNegativeOne.jpeg, id=224, 2667.9675pt x 1347.0325pt>
+[14 <./IntroLimitsGraphics/jumpdisc.png> <./IntroLimitsGraphics/glued.png>]
+<./IntroLimitsGraphics/NearNegativeOne.jpeg, id=229, 2667.9675pt x 1347.0325pt>
 
 File: ./IntroLimitsGraphics/NearNegativeOne.jpeg Graphic file (type jpg)
 <use ./IntroLimitsGraphics/NearNegativeOne.jpeg>
 Package pdftex.def Info: ./IntroLimitsGraphics/NearNegativeOne.jpeg  used on in
-put line 853.
+put line 859.
 (pdftex.def)             Requested size: 361.34999pt x 182.4376pt.
 
-[14 <./IntroLimitsGraphics/NearNegativeOne.jpeg>]
-(./ExercisesforIntroLimits.tex)) [15] (./IntroductiontoDerivatives.tex
+[15 <./IntroLimitsGraphics/NearNegativeOne.jpeg>]
+(./ExercisesforIntroLimits.tex
+<./IntroLimitsGraphics/M2500TH01.png, id=236, 834.11626pt x 569.12625pt>
+File: ./IntroLimitsGraphics/M2500TH01.png Graphic file (type png)
+<use ./IntroLimitsGraphics/M2500TH01.png>
+Package pdftex.def Info: ./IntroLimitsGraphics/M2500TH01.png  used on input lin
+e 17.
+(pdftex.def)             Requested size: 397.48499pt x 271.20619pt.
+ [16 <./IntroLimitsGraphics/M2500TH01.png>]
+<./IntroLimitsGraphics/M2500_T01_Sp25_a.png, id=249, 950.55125pt x 652.4375pt>
+File: ./IntroLimitsGraphics/M2500_T01_Sp25_a.png Graphic file (type png)
+<use ./IntroLimitsGraphics/M2500_T01_Sp25_a.png>
+Package pdftex.def Info: ./IntroLimitsGraphics/M2500_T01_Sp25_a.png  used on in
+put line 81.
+(pdftex.def)             Requested size: 397.48499pt x 272.82722pt.
+
+[17 <./IntroLimitsGraphics/M2500_T01_Sp25_a.png>]
+
+LaTeX Warning: Reference `absolutevaluepiecewise' on page 18 undefined on input
+ line 159.
+
+
+LaTeX Warning: Reference `AppRatExpEqus' on page 18 undefined on input line 173
+.
+
+
+Overfull \hbox (1.03528pt too wide) in paragraph at lines 183--184
+[]$[]$ 
+ []
+
+
+LaTeX Warning: Reference `rationalizingdenomandnumer' on page 18 undefined on i
+nput line 189.
+
+
+Overfull \hbox (13.37721pt too wide) in paragraph at lines 200--201
+[]$[]$ 
+ []
+
+
+LaTeX Warning: Reference `greatestintegerdefn' on page 18 undefined on input li
+ne 239.
+
+
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 18 undefined on i
+nput line 239.
+
+[18]
+
+LaTeX Warning: Reference `greatestintegerdefn' on page 19 undefined on input li
+ne 324.
+
+
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 19 undefined on i
+nput line 324.
+
+[19] [20]
+Overfull \hbox (2.94408pt too wide) in paragraph at lines 440--441
+[]$[]$ 
+ []
+
+[21] [22]
+Overfull \hbox (8.0621pt too wide) in paragraph at lines 635--636
+[]\OT1/phv/m/n/10.95 The func-tion $\OT1/phv/m/sl/10.95 F\OT1/phv/m/n/10.95 (\O
+T1/phv/m/sl/10.95 x\OT1/phv/m/n/10.95 ) = \OMS/cmsy/m/n/10.95 b\OT1/phv/m/sl/10
+.95 x\OMS/cmsy/m/n/10.95 c$ \OT1/phv/m/n/10.95 is not con-tin-u-ous at $\OT1/ph
+v/m/sl/10.95 x \OT1/phv/m/n/10.95 = 117$ since $[]$ but $[]$.
+ []
+
+
+Overfull \hbox (2.88962pt too wide) in paragraph at lines 639--640
+[]\OT1/phv/m/n/10.95 If $\OT1/phv/m/sl/10.95 f$ \OT1/phv/m/n/10.95 is con-tin-u
+-ous at $\OT1/phv/m/sl/10.95 x \OT1/phv/m/n/10.95 = \OT1/phv/m/sl/10.95 a$\OT1/
+phv/m/n/10.95 , then $[]$. This means $[]$ and $[]$,
+ []
+
+
+Overfull \hbox (5.96182pt too wide) in paragraph at lines 639--640
+\OT1/phv/m/n/10.95 so $\OT1/phv/m/sl/10.95 f$ \OT1/phv/m/n/10.95 is con-tin-u-o
+us from both di-rec-tions at $\OT1/phv/m/sl/10.95 x \OT1/phv/m/n/10.95 = \OT1/p
+hv/m/sl/10.95 a$\OT1/phv/m/n/10.95 . The con-verse is also true since ff $[]$
+ []
+
+)) [23] (./IntroductiontoDerivatives.tex
 
 Mfpic: Initializing IntroductiontoDerivatives.mp.
 \openout3 = `IntroductiontoDerivatives.mp'.
@@ -981,67 +1065,67 @@ Mfpic: Apply metapost to IntroductiontoDerivatives.mp.
 Mfpic: Then reprocess this file "CompilerFirstStepsCalculus".
 
 
-LaTeX Warning: Reference `ARCRocketExample' on page 16 undefined on input line 
+LaTeX Warning: Reference `ARCRocketExample' on page 24 undefined on input line 
 12.
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 16 undefined on i
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 24 undefined on i
 nput line 12.
 
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 16 undefined on inpu
+LaTeX Warning: Reference `averagevelocityrocketex' on page 24 undefined on inpu
 t line 12.
 
 
-LaTeX Warning: Reference `IntroRational' on page 16 undefined on input line 12.
+LaTeX Warning: Reference `IntroRational' on page 24 undefined on input line 12.
 
 
 
-LaTeX Warning: Reference `averagevelocitydefn' on page 16 undefined on input li
+LaTeX Warning: Reference `averagevelocitydefn' on page 24 undefined on input li
 ne 17.
 
 
-LaTeX Warning: Reference `IntroRational' on page 16 undefined on input line 17.
+LaTeX Warning: Reference `IntroRational' on page 24 undefined on input line 17.
 
 
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 16 undefined on inpu
+LaTeX Warning: Reference `averagevelocityrocketex' on page 24 undefined on inpu
 t line 43.
 
 
-LaTeX Warning: Reference `IntroRational' on page 16 undefined on input line 43.
+LaTeX Warning: Reference `IntroRational' on page 24 undefined on input line 43.
 
 
-[16]
+[24]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 89.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 10.07397pt on input line 89.
 
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 17 undefined on inpu
+LaTeX Warning: Reference `averagevelocityrocketex' on page 25 undefined on inpu
 t line 97.
 
 File: IntroductiontoDerivatives.1 Graphic file (type mps)
 [MP to PDF] (./IntroductiontoDerivatives.1)
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 17 undefined on inpu
+LaTeX Warning: Reference `averagevelocityrocketex' on page 25 undefined on inpu
 t line 133.
 
 
-LaTeX Warning: Reference `IntroRational' on page 17 undefined on input line 133
+LaTeX Warning: Reference `IntroRational' on page 25 undefined on input line 133
 .
 
-[17]
+[25]
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 18 undefined on inpu
+LaTeX Warning: Reference `averagevelocityrocketex' on page 26 undefined on inpu
 t line 151.
 
 
-LaTeX Warning: Reference `AverageRateofChange' on page 18 undefined on input li
+LaTeX Warning: Reference `AverageRateofChange' on page 26 undefined on input li
 ne 151.
 
-<./IntroductiontoDerivativesGraphics/sectotan01.png, id=266, 469.755pt x 498.86
+<./IntroductiontoDerivativesGraphics/sectotan01.png, id=421, 469.755pt x 498.86
 375pt>
 File: ./IntroductiontoDerivativesGraphics/sectotan01.png Graphic file (type png
 )
@@ -1049,7 +1133,7 @@ File: ./IntroductiontoDerivativesGraphics/sectotan01.png Graphic file (type png
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/sectotan01.png  us
 ed on input line 165.
 (pdftex.def)             Requested size: 144.54pt x 153.49673pt.
-<./IntroductiontoDerivativesGraphics/sectotan03.png, id=267, 469.755pt x 498.86
+<./IntroductiontoDerivativesGraphics/sectotan03.png, id=422, 469.755pt x 498.86
 375pt>
 File: ./IntroductiontoDerivativesGraphics/sectotan03.png Graphic file (type png
 )
@@ -1057,7 +1141,7 @@ File: ./IntroductiontoDerivativesGraphics/sectotan03.png Graphic file (type png
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/sectotan03.png  us
 ed on input line 165.
 (pdftex.def)             Requested size: 144.54pt x 153.49673pt.
-<./IntroductiontoDerivativesGraphics/sectotan05.png, id=268, 469.755pt x 498.86
+<./IntroductiontoDerivativesGraphics/sectotan05.png, id=423, 469.755pt x 498.86
 375pt>
 File: ./IntroductiontoDerivativesGraphics/sectotan05.png Graphic file (type png
 )
@@ -1066,17 +1150,17 @@ Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/sectotan05.png  us
 ed on input line 165.
 (pdftex.def)             Requested size: 144.54pt x 153.49673pt.
 
-LaTeX Warning: Reference `linearfunctionpointslope' on page 18 undefined on inp
+LaTeX Warning: Reference `linearfunctionpointslope' on page 26 undefined on inp
 ut line 171.
 
-<./IntroductiontoDerivativesGraphics/tangent.png, id=269, 479.7925pt x 488.8262
+<./IntroductiontoDerivativesGraphics/tangent.png, id=424, 479.7925pt x 488.8262
 5pt>
 File: ./IntroductiontoDerivativesGraphics/tangent.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/tangent.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/tangent.png  used 
 on input line 181.
 (pdftex.def)             Requested size: 144.54pt x 147.26062pt.
-<./IntroductiontoDerivativesGraphics/tangentzoom1.png, id=270, 479.7925pt x 488
+<./IntroductiontoDerivativesGraphics/tangentzoom1.png, id=425, 479.7925pt x 488
 .82625pt>
 File: ./IntroductiontoDerivativesGraphics/tangentzoom1.png Graphic file (type p
 ng)
@@ -1084,7 +1168,7 @@ ng)
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/tangentzoom1.png  
 used on input line 181.
 (pdftex.def)             Requested size: 144.54pt x 147.26062pt.
-<./IntroductiontoDerivativesGraphics/tangentzoom2.png, id=271, 479.7925pt x 488
+<./IntroductiontoDerivativesGraphics/tangentzoom2.png, id=426, 479.7925pt x 488
 .82625pt>
 File: ./IntroductiontoDerivativesGraphics/tangentzoom2.png Graphic file (type p
 ng)
@@ -1092,14 +1176,14 @@ ng)
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/tangentzoom2.png  
 used on input line 181.
 (pdftex.def)             Requested size: 144.54pt x 147.26062pt.
-[18 <./IntroductiontoDerivativesGraphics/sectotan01.png> <./IntroductiontoDeriv
+[26 <./IntroductiontoDerivativesGraphics/sectotan01.png> <./IntroductiontoDeriv
 ativesGraphics/sectotan03.png> <./IntroductiontoDerivativesGraphics/sectotan05.
 png>]
 
-LaTeX Warning: Reference `AverageRateofChange' on page 19 undefined on input li
+LaTeX Warning: Reference `AverageRateofChange' on page 27 undefined on input li
 ne 196.
 
-<./IntroductiontoDerivativesGraphics/SecantLine.png, id=283, 664.4825pt x 498.8
+<./IntroductiontoDerivativesGraphics/SecantLine.png, id=437, 664.4825pt x 498.8
 6375pt>
 File: ./IntroductiontoDerivativesGraphics/SecantLine.png Graphic file (type png
 )
@@ -1107,57 +1191,61 @@ File: ./IntroductiontoDerivativesGraphics/SecantLine.png Graphic file (type png
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/SecantLine.png  us
 ed on input line 201.
 (pdftex.def)             Requested size: 289.07999pt x 217.02681pt.
-[19 <./IntroductiontoDerivativesGraphics/tangent.png> <./IntroductiontoDerivati
+[27 <./IntroductiontoDerivativesGraphics/tangent.png> <./IntroductiontoDerivati
 vesGraphics/tangentzoom1.png> <./IntroductiontoDerivativesGraphics/tangentzoom2
 .png> <./IntroductiontoDerivativesGraphics/SecantLine.png>]
 
-LaTeX Warning: Reference `IntroRational' on page 20 undefined on input line 219
+LaTeX Warning: Reference `rocarithmetic' on page 28 undefined on input line 208
 .
 
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 20 undefined on inpu
+LaTeX Warning: Reference `IntroRational' on page 28 undefined on input line 219
+.
+
+
+LaTeX Warning: Reference `averagevelocityrocketex' on page 28 undefined on inpu
 t line 242.
 
-[20]
-<./IntroductiontoDerivativesGraphics/TLEx.png, id=305, 479.7925pt x 488.82625pt
+[28]
+<./IntroductiontoDerivativesGraphics/TLEx.png, id=458, 479.7925pt x 488.82625pt
 >
 File: ./IntroductiontoDerivativesGraphics/TLEx.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TLEx.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TLEx.png  used on 
 input line 321.
 (pdftex.def)             Requested size: 180.67499pt x 184.07765pt.
-<./IntroductiontoDerivativesGraphics/TLExZoom.png, id=306, 479.7925pt x 488.826
+<./IntroductiontoDerivativesGraphics/TLExZoom.png, id=459, 479.7925pt x 488.826
 25pt>
 File: ./IntroductiontoDerivativesGraphics/TLExZoom.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TLExZoom.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TLExZoom.png  used
  on input line 321.
 (pdftex.def)             Requested size: 180.67499pt x 184.07765pt.
- [21] [22 <./IntroductiontoDerivativesGraphics/TLEx.png> <./IntroductiontoDeriv
+ [29] [30 <./IntroductiontoDerivativesGraphics/TLEx.png> <./IntroductiontoDeriv
 ativesGraphics/TLExZoom.png>]
-<./IntroductiontoDerivativesGraphics/TL02.png, id=330, 479.7925pt x 482.80376pt
+<./IntroductiontoDerivativesGraphics/TL02.png, id=483, 479.7925pt x 482.80376pt
 >
 File: ./IntroductiontoDerivativesGraphics/TL02.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TL02.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TL02.png  used on 
 input line 407.
 (pdftex.def)             Requested size: 180.67499pt x 181.80975pt.
-<./IntroductiontoDerivativesGraphics/TL02Zoom.png, id=331, 479.7925pt x 482.803
+<./IntroductiontoDerivativesGraphics/TL02Zoom.png, id=484, 479.7925pt x 482.803
 76pt>
 File: ./IntroductiontoDerivativesGraphics/TL02Zoom.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TL02Zoom.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TL02Zoom.png  used
  on input line 407.
 (pdftex.def)             Requested size: 180.67499pt x 181.80975pt.
- [23]
-<./IntroductiontoDerivativesGraphics/HTL.png, id=344, 479.7925pt x 482.80376pt>
+ [31]
+<./IntroductiontoDerivativesGraphics/HTL.png, id=498, 479.7925pt x 482.80376pt>
 
 File: ./IntroductiontoDerivativesGraphics/HTL.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/HTL.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/HTL.png  used on i
 nput line 424.
 (pdftex.def)             Requested size: 216.81pt x 218.17319pt.
-<./IntroductiontoDerivativesGraphics/HTLZoom.png, id=345, 479.7925pt x 482.8037
+<./IntroductiontoDerivativesGraphics/HTLZoom.png, id=499, 479.7925pt x 482.8037
 6pt>
 File: ./IntroductiontoDerivativesGraphics/HTLZoom.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/HTLZoom.png>
@@ -1170,46 +1258,46 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 422--429
  []
 
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 24 undefined on input lin
+LaTeX Warning: Reference `QuadraticFunctions' on page 32 undefined on input lin
 e 439.
 
 
-LaTeX Warning: Reference `DerivativeAnalysis' on page 24 undefined on input lin
+LaTeX Warning: Reference `DerivativeAnalysis' on page 32 undefined on input lin
 e 439.
 
-[24 <./IntroductiontoDerivativesGraphics/TL02.png> <./IntroductiontoDerivatives
+[32 <./IntroductiontoDerivativesGraphics/TL02.png> <./IntroductiontoDerivatives
 Graphics/TL02Zoom.png> <./IntroductiontoDerivativesGraphics/HTL.png> <./Introdu
 ctiontoDerivativesGraphics/HTLZoom.png>]
 
-LaTeX Warning: Reference `AppRatExpEqus' on page 25 undefined on input line 467
+LaTeX Warning: Reference `AppRatExpEqus' on page 33 undefined on input line 467
 .
 
 
-LaTeX Warning: Reference `rationalizingdenomandnumer' on page 25 undefined on i
+LaTeX Warning: Reference `rationalizingdenomandnumer' on page 33 undefined on i
 nput line 486.
 
-[25]
-<./IntroductiontoDerivativesGraphics/TLEx201.png, id=382, 479.7925pt x 482.8037
+[33]
+<./IntroductiontoDerivativesGraphics/TLEx201.png, id=536, 479.7925pt x 482.8037
 6pt>
 File: ./IntroductiontoDerivativesGraphics/TLEx201.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TLEx201.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TLEx201.png  used 
 on input line 533.
 (pdftex.def)             Requested size: 144.54pt x 145.44633pt.
- [26 <./IntroductiontoDerivativesGraphics/TLEx201.png>]
-<./IntroductiontoDerivativesGraphics/TLEx202.png, id=391, 479.7925pt x 482.8037
+ [34 <./IntroductiontoDerivativesGraphics/TLEx201.png>]
+<./IntroductiontoDerivativesGraphics/TLEx202.png, id=545, 479.7925pt x 482.8037
 6pt>
 File: ./IntroductiontoDerivativesGraphics/TLEx202.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TLEx202.png>
 Package pdftex.def Info: ./IntroductiontoDerivativesGraphics/TLEx202.png  used 
 on input line 590.
 (pdftex.def)             Requested size: 144.54pt x 145.44633pt.
- [27] [28 <./IntroductiontoDerivativesGraphics/TLEx202.png>]
+ [35] [36 <./IntroductiontoDerivativesGraphics/TLEx202.png>]
 
-LaTeX Warning: Reference `rationalizingdenomandnumer' on page 29 undefined on i
+LaTeX Warning: Reference `rationalizingdenomandnumer' on page 37 undefined on i
 nput line 630.
 
-<./IntroductiontoDerivativesGraphics/TLEx203.png, id=408, 479.7925pt x 482.8037
+<./IntroductiontoDerivativesGraphics/TLEx203.png, id=562, 479.7925pt x 482.8037
 6pt>
 File: ./IntroductiontoDerivativesGraphics/TLEx203.png Graphic file (type png)
 <use ./IntroductiontoDerivativesGraphics/TLEx203.png>
@@ -1219,9 +1307,10 @@ on input line 658.
 
 Underfull \vbox (badness 4454) has occurred while \output is active []
 
- [29]
-[30 <./IntroductiontoDerivativesGraphics/TLEx203.png>]
-(./ExercisesforIntroductiontoDerivatives.tex)) [31] (./AppDerivatives.tex
+ [37]
+[38 <./IntroductiontoDerivativesGraphics/TLEx203.png>]
+(./ExercisesforIntroductiontoDerivatives.tex [39] [40])) [41]
+(./AppDerivatives.tex
 
 Mfpic: Initializing AppDerivatives.mp.
 \openout3 = `AppDerivatives.mp'.
@@ -1231,49 +1320,52 @@ Mfpic: Apply metapost to AppDerivatives.mp.
 Mfpic: Then reprocess this file "CompilerFirstStepsCalculus".
 
 
-LaTeX Warning: Reference `incdeccnstdefn' on page 32 undefined on input line 15
-.
+LaTeX Warning: Reference `incdeccnstdefn' on page 42 undefined on input line 9.
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 32 undefined on i
-nput line 15.
 
-[32]
-<./AppDerivativesGraphics/IncCU.png, id=439, 522.95375pt x 441.65pt>
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 42 undefined on i
+nput line 9.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+<./AppDerivativesGraphics/IncCU.png, id=658, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/IncCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/IncCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncCU.png  used on input line
- 87.
+ 81.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/IncCD.png, id=440, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/IncCD.png, id=659, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/IncCD.png Graphic file (type png)
 <use ./AppDerivativesGraphics/IncCD.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncCD.png  used on input line
- 89.
+ 83.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/DecCU.png, id=441, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/DecCU.png, id=660, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/DecCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCU.png  used on input line
- 102.
+ 96.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/DecCD.png, id=442, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/DecCD.png, id=661, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/DecCD.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCD.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCD.png  used on input line
- 104.
+ 98.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/Constant.png, id=443, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/Constant.png, id=662, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/Constant.png Graphic file (type png)
 <use ./AppDerivativesGraphics/Constant.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/Constant.png  used on input l
-ine 115.
+ine 109.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
 
 
-LaTeX Warning: Reference `IVT' on page 33 undefined on input line 134.
+LaTeX Warning: Reference `IVT' on page 43 undefined on input line 128.
 
-[33 <./AppDerivativesGraphics/IncCU.png> <./AppDerivativesGraphics/IncCD.png> <
+[43 <./AppDerivativesGraphics/IncCU.png> <./AppDerivativesGraphics/IncCD.png> <
 ./AppDerivativesGraphics/DecCU.png> <./AppDerivativesGraphics/DecCD.png> <./App
 DerivativesGraphics/Constant.png>]
 File: AppDerivatives.1 Graphic file (type mps)
@@ -1281,114 +1373,117 @@ File: AppDerivatives.1 Graphic file (type mps)
 File: AppDerivatives.2 Graphic file (type mps)
 
 [MP to PDF] (./AppDerivatives.2)
-<./AppDerivativesGraphics/IncDecPoly.PNG, id=457, 956.57375pt x 597.23125pt>
+<./AppDerivativesGraphics/IncDecPoly.PNG, id=677, 956.57375pt x 597.23125pt>
 File: ./AppDerivativesGraphics/IncDecPoly.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/IncDecPoly.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncDecPoly.PNG  used on input
- line 218.
+ line 212.
 (pdftex.def)             Requested size: 289.07999pt x 180.48302pt.
- [34 <./AppDerivativesGraphics/IncDecPoly.PNG>]
+ [44 <./AppDerivativesGraphics/IncDecPoly.PNG>]
 File: AppDerivatives.3 Graphic file (type mps)
 [MP to PDF] (./AppDerivatives.3)
 File: AppDerivatives.4 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.4)
 
-LaTeX Warning: Reference `rootradicalfcnex' on page 35 undefined on input line 
-331.
+LaTeX Warning: Reference `rootradicalfcnex' on page 45 undefined on input line 
+325.
 
-<./AppDerivativesGraphics/IncDecRoot.PNG, id=466, 693.59125pt x 642.4pt>
+<./AppDerivativesGraphics/IncDecRoot.PNG, id=686, 693.59125pt x 642.4pt>
 File: ./AppDerivativesGraphics/IncDecRoot.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/IncDecRoot.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncDecRoot.PNG  used on input
- line 335.
+ line 329.
 (pdftex.def)             Requested size: 216.81pt x 200.80832pt.
-[35]
+[45]
 
-LaTeX Warning: Reference `PowerFunctions' on page 36 undefined on input line 34
-7.
+LaTeX Warning: Reference `PowerFunctions' on page 46 undefined on input line 34
+1.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36 <./AppDerivativesGraphics/IncDecRoot.PNG>]
+ [46 <./AppDerivativesGraphics/IncDecRoot.PNG>]
 File: ./AppDerivativesGraphics/DecCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCU.png  used on input line
- 378.
+ 372.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
 File: ./AppDerivativesGraphics/IncCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/IncCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncCU.png  used on input line
- 380.
+ 374.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
 File: ./AppDerivativesGraphics/IncCD.png Graphic file (type png)
 <use ./AppDerivativesGraphics/IncCD.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncCD.png  used on input line
- 409.
+ 403.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
 File: ./AppDerivativesGraphics/DecCD.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCD.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCD.png  used on input line
- 411.
+ 405.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
- [37]
+ [47]
 File: AppDerivatives.5 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.5)
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 19.08076pt on input line 503.
+(Font)              scaled to size 19.08076pt on input line 497.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 13.24796pt on input line 503.
+(Font)              scaled to size 13.24796pt on input line 497.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 11.03998pt on input line 503.
+(Font)              scaled to size 11.03998pt on input line 497.
 File: AppDerivatives.6 Graphic file (type mps)
 
 [MP to PDF] (./AppDerivatives.6)
-<./AppDerivativesGraphics/ConcavityPoly.PNG, id=495, 956.57375pt x 597.23125pt>
+<./AppDerivativesGraphics/ConcavityPoly.PNG, id=712, 956.57375pt x 597.23125pt>
 
 File: ./AppDerivativesGraphics/ConcavityPoly.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/ConcavityPoly.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/ConcavityPoly.PNG  used on in
-put line 530.
+put line 524.
 (pdftex.def)             Requested size: 289.07999pt x 180.48302pt.
- [38 <./AppDerivativesGraphics/ConcavityPoly.PNG>] [39]
+ [48 <./AppDerivativesGraphics/ConcavityPoly.PNG>] [49]
 File: AppDerivatives.7 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.7)
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 638.
+(Font)              scaled to size 15.89755pt on input line 632.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 22.88956pt on input line 638.
+(Font)              scaled to size 22.88956pt on input line 632.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 15.89755pt on input line 638.
+(Font)              scaled to size 15.89755pt on input line 632.
 File: AppDerivatives.8 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.8)
-<./AppDerivativesGraphics/ConcavityRoot.PNG, id=516, 852.18375pt x 635.37375pt>
+<./AppDerivativesGraphics/ConcavityRoot.PNG, id=734, 852.18375pt x 635.37375pt>
 
 File: ./AppDerivativesGraphics/ConcavityRoot.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/ConcavityRoot.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/ConcavityRoot.PNG  used on in
-put line 670.
+put line 664.
 (pdftex.def)             Requested size: 216.81pt x 161.6449pt.
 
 Underfull \vbox (badness 5862) has occurred while \output is active []
 
- [40 <./AppDerivativesGraphics/ConcavityRoot.PNG>]
-<./AppDerivativesGraphics/derivgraph.PNG, id=523, 883.3pt x 630.355pt>
+ [50 <./AppDerivativesGraphics/ConcavityRoot.PNG>]
+<./AppDerivativesGraphics/derivgraph.PNG, id=741, 883.3pt x 630.355pt>
 File: ./AppDerivativesGraphics/derivgraph.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/derivgraph.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/derivgraph.PNG  used on input
- line 691.
+ line 685.
 (pdftex.def)             Requested size: 289.07999pt x 206.29608pt.
- [41 <./AppDerivativesGraphics/derivgraph.PNG>] [42]
-Mfpic: No graph file: AppDerivatives.9 .
-Mfpic: No graph file: AppDerivatives.10 .
-<./AppDerivativesGraphics/original.PNG, id=540, 883.3pt x 630.355pt>
+ [51 <./AppDerivativesGraphics/derivgraph.PNG>]
+File: AppDerivatives.9 Graphic file (type mps)
+ [MP to PDF] (./AppDerivatives.9)
+File: AppDerivatives.10 Graphic file (type mps)
+ [MP to PDF] (./AppDerivatives.10)
+<./AppDerivativesGraphics/original.PNG, id=753, 883.3pt x 630.355pt>
 File: ./AppDerivativesGraphics/original.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/original.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/original.PNG  used on input l
-ine 802.
+ine 800.
 (pdftex.def)             Requested size: 289.07999pt x 206.29608pt.
-[43 <./AppDerivativesGraphics/original.PNG>] (./ExercisesforAppDerivatives.tex)
-)) [44] (./CompilerFirstStepsCalculus.aux (./FirstStepsCalculus.aux))
+
+[52 <./AppDerivativesGraphics/original.PNG>] (./ExercisesforAppDerivatives.tex)
+)) [53] (./CompilerFirstStepsCalculus.aux (./FirstStepsCalculus.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1398,20 +1493,20 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `CompilerFirstStepsCalculus.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: F4FD4E4B740A3F26DB39034499902BFE;2650.
+(rerunfilecheck)             Checksum: 8E74BA92904DF7F2F1B316F4C2AFEB0C;2592.
  ) 
 Here is how much of TeX's memory you used:
- 14016 strings out of 474116
- 218848 string characters out of 5743682
- 1947187 words of memory out of 5000000
- 35854 multiletter control sequences out of 15000+600000
- 610742 words of font info for 143 fonts, out of 8000000 for 9000
+ 14203 strings out of 474116
+ 221205 string characters out of 5743682
+ 1951187 words of memory out of 5000000
+ 35889 multiletter control sequences out of 15000+600000
+ 610574 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,19n,79p,1209b,1043s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,19n,79p,1205b,1043s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.
 pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
@@ -1425,15 +1520,14 @@ ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/loca
 l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
 texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/te
-xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
-live/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texli
-ve/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024
-/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CompilerFirstStepsCalculus.pdf (44 pages, 2665012 bytes).
+xlive/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texl
+ive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/202
+4/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on CompilerFirstStepsCalculus.pdf (53 pages, 2944455 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 523 compressed objects within 6 object streams
- 209 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 917 PDF objects out of 1000 (max. 8388607)
+ 749 compressed objects within 8 object streams
+ 358 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
 

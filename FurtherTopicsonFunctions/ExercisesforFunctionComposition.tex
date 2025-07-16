@@ -458,6 +458,23 @@ In Exercises \ref{breakdowncompexfirst} - \ref{breakdownxomexlast},  write the g
 \item  Find an expression for the revenue per hour $R$ as a function of $x$.
 \item  Find and simplify $\left(R \circ x\right)(t)$.  What does this represent?
 \item  What is the revenue per hour at noon?
+\item Using Example \ref{surfaceareaex2chainrule} as a guide, verify $\frac{\Delta[R(x)]}{\Delta x} \cdot \frac{\Delta[x(t)]}{\Delta t} = \frac{\Delta[R(t)]}{\Delta t}$.
+
+\end{enumerate}
+
+\item  The book in Example \ref{dragforceex} plunges into a lake and generates a circular wave pattern.  If the waves are tracked as traveling at a constant $0.5$ meters per second $\left( \frac{\text{m}}{\text{s}}\right)$, use Theorem \ref{relatedratesaroc} to find the rate at which the area of the disturbance is changing with respect to time as the radius changes from $r = 1$ to $r = 1.1$ meters (m).  Be sure to include units on your answer.
+
+\smallskip
+
+\textbf{HINT:}  Recall the area, $A$, enclosed by a circle of radius $r$ is given by $A = \pi \, r^2$.  Here, $\frac{\Delta r}{\Delta t} = 0.5 \, \frac{\text{m}}{\text{s}}$.  
+
+\item   Perfectly fine precalculus textbooks which have no Calculus content are being fed into a shredder at a rate of 2 books per minute in order to make room for precalculus textbooks with Calculus content.  The shredder creates a pile of debris which is in the shape of a right circular cone whose height is twice its width. 
+
+\begin{enumerate}
+
+\item  Assume the volume of the conical pile, $V$,  is given by $V = \frac{1}{3} \, \pi r^2 h$ where $r$ is the radius of the base of the pile and $h$ is the height of the pile.  Given the pile is twice as tall as it is wide, show we can write $V = \frac{4}{3} \, \pi r^3$.
+
+\item  Assuming a typical precalculus textbook is $0.10$ cubic feet $\left( \text{ft}^3 \right)$, use Theorem \ref{relatedratesaroc} to find the rate of change of the radius of the pile with respect to time as the radius changes from $2$ to $2.1$ feet. Be sure to include units on your answer.
 
 \end{enumerate}
 
@@ -971,8 +988,6 @@ In Exercises \ref{breakdowncompexfirst} - \ref{breakdownxomexlast},  write the g
 \end{itemize}
 
 
-
-
 \item For  $f(x) = \frac{2x}{x^2-4}$ and $g(t) =\sqrt{1-t}$ 
 
 \begin{itemize}
@@ -1168,6 +1183,25 @@ In Exercises \ref{breakdowncompexfirst} - \ref{breakdownxomexlast},  write the g
 
 \item  Noon corresponds to $t=2$, so $\left(R \circ x \right)(2) = 232$.  The hourly revenue at noon is $\$232$ per hour. 
 
+\item $\frac{\Delta[R(x)]}{\Delta x} = 2$,  $\frac{\Delta[x(t)]}{\Delta t} = -8t + 4 \Delta t + 20$.   
+
+ $\frac{\Delta[R(x)]}{\Delta x} \cdot \frac{\Delta[x(t)]}{\Delta t} = (2)(-8t + 4 \Delta t + 20) =   -16t + 8 \Delta t + 40 = \frac{\Delta[R(t)]}{\Delta t} \, \checkmark$
+\end{enumerate}
+
+\item  $\frac{\Delta A}{\Delta t} = \frac{\Delta A}{\Delta r} \cdot \frac{\Delta r}{\Delta t}$.  $\frac{\Delta A}{\Delta r} = \frac{A(1.1) - A(1)}{1.1-1} = \frac{\pi (1.1)^2 - \pi (1)^2}{0.1} = 2.1 \, \frac{\text{m}^2}{\text{m}}$,  $\frac{\Delta r}{\Delta t} = 0.5 \, \frac{\text{m}}{\text{s}}$.
+
+Hence,  $\frac{\Delta A}{\Delta t} = \left( 2.1 \, \frac{\text{m}^2}{\text{m}} \right) \left(0.5 \, \frac{\text{m}}{\text{s}} \right) = 1.05 \,  \frac{\text{m}^2}{\text{s}}$
+
+\item  \begin{enumerate}  \item  The `width' of the pile is the diameter of the circular base of the pile.  Since the diameter of a circle is twice the radius,  $h = 2 (2r) = 4r$.  Hence, $V = \frac{1}{3} \, \pi r^2 h = \frac{1}{3} \, \pi r^2 (4r) = \frac{4}{3} \, \pi r^3$.
+
+\item  We have $\frac{\Delta V}{\Delta t} = \frac{\Delta V}{ \Delta r} \cdot \frac{\Delta r}{\Delta t}$.    Two textbooks per minute into the shredder amounts to the volume of the cone increasing at a rate of $2(0.1) = 0.2 \, \frac{\text{ft}^3}{\text{min}}$.  $\frac{\Delta V}{\Delta r}= \frac{V(2.1) - V(2)}{2.1 - 2} = 16.81\overline{3}  \, \pi \, \frac{\text{ft}^3}{\text{ft}}$.
+
+Hence, $0.2 \, \frac{\text{ft}^3}{\text{min}} = 16.81\overline{3} \, \pi \, \frac{\text{ft}^3}{\text{ft}} \, \frac{\Delta r}{\Delta t}$ so $\frac{\Delta r}{\Delta t} = \frac{0.2}{ 16.81\overline{3} \, \pi }  \approx 0.0038 \, \frac{\text{ft}}{\text{min}}$.
+
+
+
 \end{enumerate}
 
 \end{enumerate}
+
+
