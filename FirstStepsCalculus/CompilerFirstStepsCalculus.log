@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  16 JUL 2025 11:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  17 JUL 2025 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1309,7 +1309,7 @@ Underfull \vbox (badness 4454) has occurred while \output is active []
 
  [37]
 [38 <./IntroductiontoDerivativesGraphics/TLEx203.png>]
-(./ExercisesforIntroductiontoDerivatives.tex [39] [40])) [41]
+(./ExercisesforIntroductiontoDerivatives.tex [39] [40] [41])) [42]
 (./AppDerivatives.tex
 
 Mfpic: Initializing AppDerivatives.mp.
@@ -1320,42 +1320,42 @@ Mfpic: Apply metapost to AppDerivatives.mp.
 Mfpic: Then reprocess this file "CompilerFirstStepsCalculus".
 
 
-LaTeX Warning: Reference `incdeccnstdefn' on page 42 undefined on input line 9.
+LaTeX Warning: Reference `incdeccnstdefn' on page 43 undefined on input line 9.
 
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 42 undefined on i
+LaTeX Warning: Reference `ConstantandLinearFunctions' on page 43 undefined on i
 nput line 9.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
-<./AppDerivativesGraphics/IncCU.png, id=658, 522.95375pt x 441.65pt>
+ [43]
+<./AppDerivativesGraphics/IncCU.png, id=667, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/IncCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/IncCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncCU.png  used on input line
  81.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/IncCD.png, id=659, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/IncCD.png, id=668, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/IncCD.png Graphic file (type png)
 <use ./AppDerivativesGraphics/IncCD.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncCD.png  used on input line
  83.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/DecCU.png, id=660, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/DecCU.png, id=669, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/DecCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCU.png  used on input line
  96.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/DecCD.png, id=661, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/DecCD.png, id=670, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/DecCD.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCD.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCD.png  used on input line
  98.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./AppDerivativesGraphics/Constant.png, id=662, 522.95375pt x 441.65pt>
+<./AppDerivativesGraphics/Constant.png, id=671, 522.95375pt x 441.65pt>
 File: ./AppDerivativesGraphics/Constant.png Graphic file (type png)
 <use ./AppDerivativesGraphics/Constant.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/Constant.png  used on input l
@@ -1363,9 +1363,9 @@ ine 109.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
 
 
-LaTeX Warning: Reference `IVT' on page 43 undefined on input line 128.
+LaTeX Warning: Reference `IVT' on page 44 undefined on input line 128.
 
-[43 <./AppDerivativesGraphics/IncCU.png> <./AppDerivativesGraphics/IncCD.png> <
+[44 <./AppDerivativesGraphics/IncCU.png> <./AppDerivativesGraphics/IncCD.png> <
 ./AppDerivativesGraphics/DecCU.png> <./AppDerivativesGraphics/DecCD.png> <./App
 DerivativesGraphics/Constant.png>]
 File: AppDerivatives.1 Graphic file (type mps)
@@ -1373,36 +1373,36 @@ File: AppDerivatives.1 Graphic file (type mps)
 File: AppDerivatives.2 Graphic file (type mps)
 
 [MP to PDF] (./AppDerivatives.2)
-<./AppDerivativesGraphics/IncDecPoly.PNG, id=677, 956.57375pt x 597.23125pt>
+<./AppDerivativesGraphics/IncDecPoly.PNG, id=685, 956.57375pt x 597.23125pt>
 File: ./AppDerivativesGraphics/IncDecPoly.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/IncDecPoly.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncDecPoly.PNG  used on input
  line 212.
 (pdftex.def)             Requested size: 289.07999pt x 180.48302pt.
- [44 <./AppDerivativesGraphics/IncDecPoly.PNG>]
+ [45 <./AppDerivativesGraphics/IncDecPoly.PNG>]
 File: AppDerivatives.3 Graphic file (type mps)
 [MP to PDF] (./AppDerivatives.3)
 File: AppDerivatives.4 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.4)
 
-LaTeX Warning: Reference `rootradicalfcnex' on page 45 undefined on input line 
+LaTeX Warning: Reference `rootradicalfcnex' on page 46 undefined on input line 
 325.
 
-<./AppDerivativesGraphics/IncDecRoot.PNG, id=686, 693.59125pt x 642.4pt>
+<./AppDerivativesGraphics/IncDecRoot.PNG, id=694, 693.59125pt x 642.4pt>
 File: ./AppDerivativesGraphics/IncDecRoot.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/IncDecRoot.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/IncDecRoot.PNG  used on input
  line 329.
 (pdftex.def)             Requested size: 216.81pt x 200.80832pt.
-[45]
+[46]
 
-LaTeX Warning: Reference `PowerFunctions' on page 46 undefined on input line 34
+LaTeX Warning: Reference `PowerFunctions' on page 47 undefined on input line 34
 1.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46 <./AppDerivativesGraphics/IncDecRoot.PNG>]
+ [47 <./AppDerivativesGraphics/IncDecRoot.PNG>]
 File: ./AppDerivativesGraphics/DecCU.png Graphic file (type png)
 <use ./AppDerivativesGraphics/DecCU.png>
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCU.png  used on input line
@@ -1423,7 +1423,7 @@ File: ./AppDerivativesGraphics/DecCD.png Graphic file (type png)
 Package pdftex.def Info: ./AppDerivativesGraphics/DecCD.png  used on input line
  405.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
- [47]
+ [48]
 File: AppDerivatives.5 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.5)
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
@@ -1435,14 +1435,14 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 File: AppDerivatives.6 Graphic file (type mps)
 
 [MP to PDF] (./AppDerivatives.6)
-<./AppDerivativesGraphics/ConcavityPoly.PNG, id=712, 956.57375pt x 597.23125pt>
+<./AppDerivativesGraphics/ConcavityPoly.PNG, id=720, 956.57375pt x 597.23125pt>
 
 File: ./AppDerivativesGraphics/ConcavityPoly.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/ConcavityPoly.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/ConcavityPoly.PNG  used on in
 put line 524.
 (pdftex.def)             Requested size: 289.07999pt x 180.48302pt.
- [48 <./AppDerivativesGraphics/ConcavityPoly.PNG>] [49]
+ [49 <./AppDerivativesGraphics/ConcavityPoly.PNG>] [50]
 File: AppDerivatives.7 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.7)
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
@@ -1453,7 +1453,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 15.89755pt on input line 632.
 File: AppDerivatives.8 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.8)
-<./AppDerivativesGraphics/ConcavityRoot.PNG, id=734, 852.18375pt x 635.37375pt>
+<./AppDerivativesGraphics/ConcavityRoot.PNG, id=742, 852.18375pt x 635.37375pt>
 
 File: ./AppDerivativesGraphics/ConcavityRoot.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/ConcavityRoot.PNG>
@@ -1463,27 +1463,27 @@ put line 664.
 
 Underfull \vbox (badness 5862) has occurred while \output is active []
 
- [50 <./AppDerivativesGraphics/ConcavityRoot.PNG>]
-<./AppDerivativesGraphics/derivgraph.PNG, id=741, 883.3pt x 630.355pt>
+ [51 <./AppDerivativesGraphics/ConcavityRoot.PNG>]
+<./AppDerivativesGraphics/derivgraph.PNG, id=749, 883.3pt x 630.355pt>
 File: ./AppDerivativesGraphics/derivgraph.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/derivgraph.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/derivgraph.PNG  used on input
  line 685.
 (pdftex.def)             Requested size: 289.07999pt x 206.29608pt.
- [51 <./AppDerivativesGraphics/derivgraph.PNG>]
+ [52 <./AppDerivativesGraphics/derivgraph.PNG>]
 File: AppDerivatives.9 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.9)
 File: AppDerivatives.10 Graphic file (type mps)
  [MP to PDF] (./AppDerivatives.10)
-<./AppDerivativesGraphics/original.PNG, id=753, 883.3pt x 630.355pt>
+<./AppDerivativesGraphics/original.PNG, id=761, 883.3pt x 630.355pt>
 File: ./AppDerivativesGraphics/original.PNG Graphic file (type png)
 <use ./AppDerivativesGraphics/original.PNG>
 Package pdftex.def Info: ./AppDerivativesGraphics/original.PNG  used on input l
 ine 800.
 (pdftex.def)             Requested size: 289.07999pt x 206.29608pt.
 
-[52 <./AppDerivativesGraphics/original.PNG>] (./ExercisesforAppDerivatives.tex)
-)) [53] (./CompilerFirstStepsCalculus.aux (./FirstStepsCalculus.aux))
+[53 <./AppDerivativesGraphics/original.PNG>] (./ExercisesforAppDerivatives.tex)
+)) [54] (./CompilerFirstStepsCalculus.aux (./FirstStepsCalculus.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1500,10 +1500,10 @@ ged.
 (rerunfilecheck)             Checksum: 8E74BA92904DF7F2F1B316F4C2AFEB0C;2592.
  ) 
 Here is how much of TeX's memory you used:
- 14203 strings out of 474116
- 221205 string characters out of 5743682
- 1951187 words of memory out of 5000000
- 35889 multiletter control sequences out of 15000+600000
+ 14208 strings out of 474116
+ 221271 string characters out of 5743682
+ 1950187 words of memory out of 5000000
+ 35891 multiletter control sequences out of 15000+600000
  610574 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,19n,79p,1205b,1043s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1524,10 +1524,10 @@ xlive/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/loc
 al/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texl
 ive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/202
 4/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CompilerFirstStepsCalculus.pdf (53 pages, 2944455 bytes).
+Output written on CompilerFirstStepsCalculus.pdf (54 pages, 2946500 bytes).
 PDF statistics:
- 917 PDF objects out of 1000 (max. 8388607)
- 749 compressed objects within 8 object streams
- 358 named destinations out of 1000 (max. 500000)
+ 927 PDF objects out of 1000 (max. 8388607)
+ 758 compressed objects within 8 object streams
+ 361 named destinations out of 1000 (max. 500000)
  293 words of extra memory for PDF output out of 10000 (max. 10000000)
 
