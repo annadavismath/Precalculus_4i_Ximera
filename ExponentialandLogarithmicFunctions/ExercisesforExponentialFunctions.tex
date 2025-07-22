@@ -1,6 +1,6 @@
 \label{ExercisesforExponentialFunctions}
 
-\label{IntroExpLogsExercises}
+
 
 In Exercises \ref{graphexpfirsta} - \ref{graphexplasta}, sketch the graph of $g$ by starting with the graph of $f$ and using transformations.  Track at least three points of your choice and the horizontal asymptote through the transformations. State the domain and range of $g$.
 
@@ -230,6 +230,27 @@ HINT:  Definitions \ref{expfcnpointbaseform} and \ref{rrc} and ensuing discussio
 
 
 \item Which is larger: $e^{\pi}$ or $\pi^{e}$?  How do you know?  Can you find a proof that doesn't use technology?
+
+
+\item\label{derivativeofex} \begin{enumerate}  \item\label{diffquotex}  Use properties of exponential functions to show that if $f(x) = e^{x}$, then \[ f'(x) = \lim_{h \rightarrow 0} \frac{f(x+h) - f(x)}{h} = \lim_{h \rightarrow 0} e^{x} \, \left( \frac{e^{h} - 1}{h} \right)\]
+
+\item\label{specialexlimit}    Numerically and graphically investigate the limit: $\ds{\lim_{h \rightarrow 0}}$ $\frac{e^{h} - 1}{h}$.
+
+\item  Use parts \ref{diffquotex} and \ref{specialexlimit} to show to your surprise and delight that the derivative of $e^{x}$ is \ldots  $e^{x}$.
+
+\item  Write the equations of the tangent lines to $y = e^{x}$ at the following points:
+
+\begin{enumerate}
+
+\item  $(0,1)$
+
+\item  $(1, e)$
+
+\item $\left(-1, e^{-1} \right)$
+
+\end{enumerate}
+
+\end{enumerate}
 
 \setcounter{HW}{\value{enumi}}
 \end{enumerate}
@@ -497,19 +518,54 @@ Asymptote: $y = -1$\\
 \end{itemize}
 \end{multicols}
 
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
 \addtocounter{enumi}{1}
 
-\item  One solution is $g(x)  = e^{-x}$ and $h(x) = 1$.
-\item  One solution is $g(x) = e^{2x}$ and $h(x) = x$.
-\item  One solution is $g(t) = t^2$ and $h(t) = e^{-t}$.
-\item  One solution is $f(x) = e^{x} - e^{-x}$ and $g(x) = e^{x}+e^{-x}$.
-\item  One solution is $f(x) = -x^2$ and $g(x) = e^{x}$.
-\item  One solution is $f(x) = e^{2x} -1$ and $g(x) = \sqrt{x}$.  
+\begin{multicols}{2}
 
+\item\footnote{Answers for Exercises \ref{decomposebasicexpfirst} - \ref{decomposebasicexplast} vary.  We list one solution for each problem.}$g(x)  = e^{-x}$ and $h(x) = 1$.
+\item $g(x) = e^{2x}$ and $h(x) = x$.
+
+\end{multicols}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
+\begin{multicols}{2}
+
+\item   $g(t) = t^2$ and $h(t) = e^{-t}$.
+\item   $f(x) = e^{x} - e^{-x}$ and $g(x) = e^{x}+e^{-x}$.
+
+\end{multicols}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
+\begin{multicols}{2}
+\item   $f(x) = -x^2$ and $g(x) = e^{x}$.
+\item   $f(x) = e^{2x} -1$ and $g(x) = \sqrt{x}$.  
+\end{multicols}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
 
 \item  \begin{enumerate}
 
-\item   $A(0) = 500$, so the initial balance in the savings account is $\$500$.  $A(1) = 525$, so after $1$ year, there is $\$525$ in the savings account.   $A(2) =551.25$, so after $2$ years, there is $\$551.25$ in the savings account. 
+\item   $A(0) = 500$, so the principal is $\$500$.  $A(1) = 525$, so after $1$ year, there is $\$525$ in the savings account.   $A(2) =551.25$, so after $2$ years, there is $\$551.25$ in the savings account. 
 
 \item  The relative rate of change of $A$ over the intervals $[0,1]$ and $[1,2]$ is $0.05$ which means the savings account is growing by $5 \%$ each year for those two years.  Over the interval $[0,2]$, the relative rate of change is $0.1025$ meaning the account has grown by $10.25 \%$ over the course of the first two years.  Note this is greater than the sum of the two rates $5 \% + 5 \% = 10 \%$.  This is due to the `compounding effect' and will be discussed in greater detail in Section \ref{ExpLogApplications}.
 
@@ -521,7 +577,7 @@ Asymptote: $y = -1$\\
 
 \item  \begin{enumerate}
 
-\item $\dfrac{229437-230041}{230041} \approx 0.263 \%$.
+\item $\frac{229437-230041}{230041} \approx 0.263 \%$.
 
 \item  Since 2020 is five years after 2015, we expect the population to decrease by  $0.263 \%$ of 229437, or approximately 603 people.  Hence, we approximate the population in 2020 as 228834.
 
@@ -532,6 +588,15 @@ Asymptote: $y = -1$\\
 \item  $A(t) = 230041(1 - 0.0005626)^{t} =  230041 (0.999474)^{t}$, $t \geq 0$.  Since 2050 is 40 years after 2010, using the model $P(t)$, we divide $\frac{40}{5} = 8$ and find $P(8) \approx 225,245$. On the other hand, $A(40) \approx 225,250$.  This is more than roundoff error.  There is a compounding effect which makes the functions $A(t)$ and $P(t)$ different. \footnote{See number \ref{preludetocompoundingexercise} above or, for more, see Section \ref{ExpLogApplications}.}
 
 \end{enumerate}
+
+\addtocounter{enumi}{3}
+
+\enlargethispage{0.25in}
+
+\item  \begin{enumerate}
+\addtocounter{enumii}{3}
+
+\item \begin{multicols}{3} \begin{enumerate} \item $y = x+1$ \item  $y = e \, x $  \item  $y = e^{-1} \, x + 2e^{-1}$  \end{enumerate}  \end{multicols} \end{enumerate}
 
 
 \setcounter{HW}{\value{enumi}}

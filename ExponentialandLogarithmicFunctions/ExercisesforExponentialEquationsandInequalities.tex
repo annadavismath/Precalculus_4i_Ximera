@@ -278,9 +278,60 @@ NOTE:  We know this is true in general by Exercise \ref{fcircginverse} in Sectio
 
 \end{enumerate}
 
-\item With the help of your classmates, solve the inequality $e^{x} > x^{n}$ for a variety of natural numbers $n$.  What might you conjecture about the ``speed'' at which $f(x) = e^{x}$ grows versus any polynomial?
+\item \label{powerexponentialgrowthex} \begin{enumerate} \item\label{numericalinvestigationlimitxpoverex} With the help of your classmates, numerically and graphically investigate $\ds{\lim_{x \rightarrow \infty}}$ $\frac{x^{p}}{e^{x}}$ for various real number powers, $p$.
 
+\item  What does part \ref{numericalinvestigationlimitxpoverex} suggest about the relative growth rates of powers of $x$ as opposed to $e^{x}$?
+
+\item\label{numericalxpoverexinequ}  For each power $p$ you investigated in part \ref{numericalinvestigationlimitxpoverex}, solve the inequality:  $\frac{x^{p}}{e^{x}} < \frac{1}{x}$. 
+
+\item  Use your results from part \ref{numericalxpoverexinequ} to show that for each real number $p$ you investigated in part \ref{numericalinvestigationlimitxpoverex}, there is a real number $M$ so that if $x > M$, $0 < \frac{x^{p}}{e^{x}} < \frac{1}{x}$.  
+
+\smallskip
+
+Since  $\ds{\lim_{x \rightarrow \infty}}$ $\frac{1}{x} = 0$,  what do you conclude about $\ds{\lim_{x \rightarrow \infty}}$  $\frac{x^{p}}{e^{x}}$? 
+
+\smallskip
+
+ (This Exercise foreshadows the celebrated \index{Squeeze Theorem}\index{Theorem ! Squeeze}\textbf{Squeeze Theorem}, Theorem \ref{squeezeth}  which we'll formally introduce in Section \ref{Sequences}.)
+
+\end{enumerate}  
+
+\setcounter{HW}{\value{enumi}}
 \end{enumerate}
+
+\newpage
+
+In Exercises \ref{exponentialcurvesketchfirst}  - \ref{exponentialcurvesketchlast} a function $f$ along with its derivatives $f'$ and $f''$ are given.
+
+\begin{itemize}
+
+\item  Find the $x$- and $y$-intercepts of the graph of each function, if any.
+
+\item  Use limits to determine the end behavior.
+
+\item  Use $f'$ to determine the open intervals over which $f$ is increasing or decreasing.
+
+\item Determine the local extrema, if any.
+
+\item  Use $f''$ to determine the open intervals over which the graph of $f$  is concave up or concave down.
+
+\item  Determine the inflection points of the graph, if any.
+
+\end{itemize}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
+\item\label{exponentialcurvesketchfirst}  $f(x) = \dfrac{5}{1 + e^{-x}}$,  $f'(x) = \dfrac{5 e^{-x}}{\left(1 + e^{-x} \right)^2}$, $f''(x) = \dfrac{5e^{-x}\left(e^{-x}-1\right)}{\left(1+e^{-x}\right)^3}$
+
+\smallskip
+
+\item\label{exponentialcurvesketchlast}  $f(x) = e^{-x} - e^{-2x}$, $f'(x) = 2e^{-2x} - e^{-x}$, $f''(x) = e^{-x} - 4 e^{-2x}$
+
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
 
 \newpage
 
@@ -566,5 +617,44 @@ NOTE:  We know this is true in general by Exercise \ref{fcircginverse} in Sectio
 
 \item  $f^{-1} = \ln\left(x + \sqrt{x^{2} + 1}\right)$. Both $f$ and $f^{-1}$ have domain $(-\infty, \infty)$ and range $(-\infty, \infty)$.
 
+
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
+\addtocounter{enumi}{2}
+
+\item  \begin{itemize} \item  There are no $x$-intercepts;  the $y$-intercept is $(0,5)$.
+
+\item  $\ds{\lim_{x \rightarrow -\infty} f(x) = 0}$ and $\ds{\lim_{x \rightarrow \infty} f(x) = 5}$;  we have two horizontal asymptotes: $y = 0$ and $y = 5$.
+
+\item  $f$ is always increasing:  $(-\infty, \infty)$.
+
+\item There are no local extrema.
+
+\item The graph of $f$ is concave up on $(-\infty, 0)$ and concave down on $(0, \infty)$.
+
+\item  The inflection point is $(0, 5)$.
+
+
+\end{itemize}
+
+\item  \begin{itemize} \item  The $x$- and $y$-intercept is $(0,0)$.
+
+\item  $\ds{\lim_{x \rightarrow -\infty} f(x) = -\infty}$ and $\ds{\lim_{x \rightarrow \infty} f(x) = 0}$;  we have a horizontal asymptote $y = 0$.
+
+\item  $f$ is increasing on $(-\infty, \ln(2))$ and decreasing on $(\ln(2), \infty)$.
+
+\item There is a local (absolute) maximum at $\left( \ln(2), \frac{1}{4}\right)$.
+
+\item The graph of $f$ is concave up on $(\ln(4), \infty)$ and concave down on $(-\infty, \ln(4))$.
+
+\item  The inflection point is $\left(\ln(4), \frac{3}{16} \right)$.
+
+
+\end{itemize}
 
 \end{enumerate}

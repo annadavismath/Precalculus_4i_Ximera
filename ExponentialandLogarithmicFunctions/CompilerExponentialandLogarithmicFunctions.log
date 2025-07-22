@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  27 JUN 2025 08:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  22 JUL 2025 10:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -649,12 +649,7 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count321
 \l__pdf_internal_box=\box113
 )
-(./CompilerExponentialandLogarithmicFunctions.aux
-(./ExponentialandLogarithmicFunctions.aux
-
-LaTeX Warning: Label `IntroExpLogsExercises' multiply defined.
-
-))
+(./CompilerExponentialandLogarithmicFunctions.aux)
 \openout1 = `CompilerExponentialandLogarithmicFunctions.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -675,7 +670,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
- (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count322
 \scratchdimen=\dimen193
@@ -848,6 +844,10 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 8.27998pt on input line 289.
 [4]
 
+LaTeX Warning: Reference `ExpLogApplications' on page 5 undefined on input line
+ 298.
+
+
 LaTeX Warning: Reference `transformationsthm' on page 5 undefined on input line
  308.
 
@@ -888,7 +888,22 @@ File: ExponentialFunctions.10 Graphic file (type mps)
 LaTeX Warning: Reference `transformationsthm' on page 7 undefined on input line
  512.
 
-[7] [8] [9]
+
+LaTeX Warning: Reference `morethanoneforexpexercise' on page 7 undefined on inp
+ut line 535.
+
+[7]
+
+LaTeX Warning: Reference `averageofarc' on page 8 undefined on input line 586.
+
+[8]
+
+LaTeX Warning: Reference `georatio1' on page 9 undefined on input line 628.
+
+
+LaTeX Warning: Reference `georatio1' on page 9 undefined on input line 636.
+
+[9]
 
 LaTeX Warning: Reference `vscalings' on page 10 undefined on input line 652.
 
@@ -904,7 +919,7 @@ LaTeX Warning: Reference `bisectionmethod' on page 10 undefined on input line 7
 LaTeX Warning: Reference `RealZeros' on page 10 undefined on input line 706.
 
 [10]
-<./ExponentialFunctionsGraphics/ExponentialFunctionsEx01.jpg, id=197, 2806.485p
+<./ExponentialFunctionsGraphics/ExponentialFunctionsEx01.jpg, id=107, 2806.485p
 t x 1499.6025pt>
 File: ./ExponentialFunctionsGraphics/ExponentialFunctionsEx01.jpg Graphic file 
 (type jpg)
@@ -912,12 +927,58 @@ File: ./ExponentialFunctionsGraphics/ExponentialFunctionsEx01.jpg Graphic file
 Package pdftex.def Info: ./ExponentialFunctionsGraphics/ExponentialFunctionsEx0
 1.jpg  used on input line 714.
 (pdftex.def)             Requested size: 433.62pt x 231.68088pt.
- [11 <./ExponentialFunctionsGraphics/ExponentialFunctionsEx01.jpg>]
+
+
+LaTeX Warning: Reference `cardepreciationex' on page 11 undefined on input line
+ 724.
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 11 undefined on input lin
+e 724.
+
+
+LaTeX Warning: Reference `georatio1' on page 11 undefined on input line 728.
+
+
+LaTeX Warning: Reference `georatio2' on page 11 undefined on input line 728.
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 11 undefined on input lin
+e 734.
+
+[11 <./ExponentialFunctionsGraphics/ExponentialFunctionsEx01.jpg>]
+
+LaTeX Warning: Reference `exponentialchangeexercise' on page 12 undefined on in
+put line 738.
+
 
 LaTeX Warning: Reference `linearfunctionpointslope' on page 12 undefined on inp
 ut line 746.
 
+
+LaTeX Warning: Reference `cardepreciationex' on page 12 undefined on input line
+ 771.
+
+
+LaTeX Warning: Reference `cararcex' on page 12 undefined on input line 771.
+
+
+LaTeX Warning: Reference `carrelarcex1' on page 12 undefined on input line 771.
+
+
+
+LaTeX Warning: Reference `carrelarcex2' on page 12 undefined on input line 771.
+
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 12 undefined on input lin
+e 804.
+
 [12]
+
+LaTeX Warning: Reference `expfcngraphsex' on page 13 undefined on input line 82
+2.
+
 
 LaTeX Warning: Reference `transformationsthm' on page 13 undefined on input lin
 e 826.
@@ -952,6 +1013,21 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 11.03998pt on input line 903.
  (./ExercisesforExponentialFunctions.tex
+
+LaTeX Warning: Reference `graphexpfirsta' on page 15 undefined on input line 5.
+
+
+
+LaTeX Warning: Reference `graphexplasta' on page 15 undefined on input line 5.
+
+
+LaTeX Warning: Reference `expformfirsta' on page 15 undefined on input line 54.
+
+
+
+LaTeX Warning: Reference `expformlasta' on page 15 undefined on input line 54.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
@@ -982,26 +1058,86 @@ Overfull \vbox (8.15633pt too high) has occurred while \output is active []
 Overfull \vbox (8.15633pt too high) has occurred while \output is active []
 
 
-[15] [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 246--250
+[15]
+
+LaTeX Warning: Reference `expformfirsta' on page 16 undefined on input line 162
+.
+
+
+LaTeX Warning: Reference `expformlasta' on page 16 undefined on input line 162.
+
+
+
+LaTeX Warning: Reference `expfcngraphsex' on page 16 undefined on input line 16
+5.
+
+
+LaTeX Warning: Reference `findformulaforexpexample' on page 16 undefined on inp
+ut line 165.
+
+
+LaTeX Warning: Reference `expfcngraphsex' on page 16 undefined on input line 17
+1.
+
+
+LaTeX Warning: Reference `findformulaforexpexample' on page 16 undefined on inp
+ut line 171.
+
+
+LaTeX Warning: Reference `expfcngraphsex' on page 16 undefined on input line 17
+3.
+
+
+LaTeX Warning: Reference `findformulaforexpexample' on page 16 undefined on inp
+ut line 173.
+
+
+LaTeX Warning: Reference `decomposebasicexpfirst' on page 16 undefined on input
+ line 179.
+
+
+LaTeX Warning: Reference `decomposebasicexplast' on page 16 undefined on input 
+line 179.
+
+[16]
+
+LaTeX Warning: Reference `expfcnpointbaseform' on page 17 undefined on input li
+ne 218.
+
+
+LaTeX Warning: Reference `rrc' on page 17 undefined on input line 218.
+
+
+LaTeX Warning: Reference `populationfiveyear' on page 17 undefined on input lin
+e 220.
+
+
+LaTeX Warning: Reference `diffquotex' on page 17 undefined on input line 239.
+
+
+LaTeX Warning: Reference `specialexlimit' on page 17 undefined on input line 23
+9.
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 267--271
 
  []
 
 File: ExponentialFunctions.19 Graphic file (type mps)
 [MP to PDF] (./ExponentialFunctions.19)
-Underfull \hbox (badness 10000) in paragraph at lines 274--278
+Underfull \hbox (badness 10000) in paragraph at lines 295--299
 
  []
 
 File: ExponentialFunctions.20 Graphic file (type mps)
 [MP to PDF] (./ExponentialFunctions.20)
-Underfull \hbox (badness 10000) in paragraph at lines 302--306
+Underfull \hbox (badness 10000) in paragraph at lines 323--327
 
  []
 
 File: ExponentialFunctions.21 Graphic file (type mps)
 [MP to PDF] (./ExponentialFunctions.21)
-Underfull \hbox (badness 10000) in paragraph at lines 327--331
+Underfull \hbox (badness 10000) in paragraph at lines 348--352
 
  []
 
@@ -1011,30 +1147,51 @@ Overfull \vbox (2.86484pt too high) has occurred while \output is active []
 
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 356--360
+Underfull \hbox (badness 10000) in paragraph at lines 377--381
 
  []
 
 File: ExponentialFunctions.23 Graphic file (type mps)
 [MP to PDF] (./ExponentialFunctions.23)
-Underfull \hbox (badness 10000) in paragraph at lines 381--385
+Underfull \hbox (badness 10000) in paragraph at lines 402--406
 
  []
 
 File: ExponentialFunctions.24 Graphic file (type mps)
 [MP to PDF] (./ExponentialFunctions.24)
-Underfull \hbox (badness 10000) in paragraph at lines 413--418
+Underfull \hbox (badness 10000) in paragraph at lines 434--439
 
  []
 
 File: ExponentialFunctions.25 Graphic file (type mps)
 [MP to PDF] (./ExponentialFunctions.25)
-Underfull \hbox (badness 10000) in paragraph at lines 440--445
+Underfull \hbox (badness 10000) in paragraph at lines 461--466
 
  []
 
 File: ExponentialFunctions.26 Graphic file (type mps)
-[MP to PDF] (./ExponentialFunctions.26) [19])) [20] (./LogarithmicFunctions.tex
+[MP to PDF] (./ExponentialFunctions.26) [19]
+
+LaTeX Warning: Reference `decomposebasicexpfirst' on page 20 undefined on input
+ line 531.
+
+
+LaTeX Warning: Reference `decomposebasicexplast' on page 20 undefined on input 
+line 531.
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 20 undefined on input lin
+e 570.
+
+
+LaTeX Warning: Reference `preludetocompoundingexercise' on page 20 undefined on
+ input line 588.
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 20 undefined on input lin
+e 588.
+
+)) [20] (./LogarithmicFunctions.tex
 
 Mfpic: Initializing LogarithmicFunctions.mp.
 \openout3 = `LogarithmicFunctions.mp'.
@@ -1042,6 +1199,10 @@ Mfpic: Initializing LogarithmicFunctions.mp.
 Mfpic: Don't forget to process LogarithmicFunctions.mp!
 Mfpic: Apply metapost to LogarithmicFunctions.mp.
 Mfpic: Then reprocess this file "CompilerExponentialandLogarithmicFunctions".
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 21 undefined on input l
+ine 10.
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 20.
@@ -1081,6 +1242,9 @@ Overfull \hbox (1.63164pt too wide) in paragraph at lines 42--44
 LaTeX Warning: Reference `inversefunctionprops' on page 21 undefined on input l
 ine 45.
 
+
+LaTeX Warning: Reference `expfcnprops' on page 21 undefined on input line 45.
+
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
@@ -1100,8 +1264,20 @@ File: LogarithmicFunctions.4 Graphic file (type mps)
  [MP to PDF] (./LogarithmicFunctions.4)
 [21]
 
+LaTeX Warning: Reference `logfcnprops' on page 22 undefined on input line 194.
+
+
 LaTeX Warning: Reference `inversefunctionprops' on page 22 undefined on input l
 ine 194.
+
+
+LaTeX Warning: Reference `expfcnprops' on page 22 undefined on input line 194.
+
+
+LaTeX Warning: Reference `logfcnprops' on page 22 undefined on input line 194.
+
+
+LaTeX Warning: Reference `logfcnprops' on page 22 undefined on input line 207.
 
 [22]
 
@@ -1109,7 +1285,14 @@ LaTeX Warning: Reference `transformationsthm' on page 23 undefined on input lin
 e 249.
 
 File: LogarithmicFunctions.5 Graphic file (type mps)
-[MP to PDF] (./LogarithmicFunctions.5) [23]
+[MP to PDF] (./LogarithmicFunctions.5)
+
+LaTeX Warning: Reference `logfcnprops' on page 23 undefined on input line 307.
+
+[23]
+
+LaTeX Warning: Reference `logfcnprops' on page 24 undefined on input line 318.
+
 
 LaTeX Warning: Reference `transformationsthm' on page 24 undefined on input lin
 e 330.
@@ -1147,7 +1330,23 @@ LaTeX Warning: Reference `transformationsthm' on page 25 undefined on input lin
 e 486.
 
 [25]
-<./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01a.jpg, id=426, 2808.492
+
+LaTeX Warning: Reference `expfcngraphsex' on page 26 undefined on input line 49
+5.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 26 undefined on input l
+ine 495.
+
+
+LaTeX Warning: Reference `morethanoneforlogexercise' on page 26 undefined on in
+put line 495.
+
+
+LaTeX Warning: Reference `PropertiesofLogarithms' on page 26 undefined on input
+ line 495.
+
+<./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01a.jpg, id=312, 2808.492
 5pt x 1511.6475pt>
 File: ./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01a.jpg Graphic file
  (type jpg)
@@ -1155,7 +1354,6 @@ File: ./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01a.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx0
 1a.jpg  used on input line 521.
 (pdftex.def)             Requested size: 268.52373pt x 144.54pt.
-
 
 LaTeX Warning: Reference `transformationsthm' on page 26 undefined on input lin
 e 528.
@@ -1171,7 +1369,7 @@ LaTeX Warning: Reference `RationalGraphs' on page 27 undefined on input line 55
 
 File: LogarithmicFunctions.10 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.10)
-<./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01b.jpg, id=439, 2808.492
+<./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01b.jpg, id=324, 2808.492
 5pt x 1509.64pt>
 File: ./LogarithmicFunctionsGraphics/LogarithmicFunctionsEx01b.jpg Graphic file
  (type jpg)
@@ -1226,13 +1424,88 @@ Overfull \hbox (62.88054pt too wide) detected at line 771
  []
 
 [29]
+
+LaTeX Warning: Reference `logfcnprops' on page 30 undefined on input line 777.
+
 File: LogarithmicFunctions.15 Graphic file (type mps)
- [MP to PDF] (./LogarithmicFunctions.15)
+[MP to PDF] (./LogarithmicFunctions.15)
 
 LaTeX Warning: Reference `inversefunctionprops' on page 30 undefined on input l
 ine 850.
 
-[30] (./ExercisesforLogarithmicFunctions.tex [31]
+[30] (./ExercisesforLogarithmicFunctions.tex
+
+LaTeX Warning: Reference `rewritefirstex' on page 31 undefined on input line 5.
+
+
+
+LaTeX Warning: Reference `rewritelastex' on page 31 undefined on input line 5.
+
+
+LaTeX Warning: Reference `logfcnprops' on page 31 undefined on input line 5.
+
+
+LaTeX Warning: Reference `simplifylogfirst' on page 31 undefined on input line 
+76.
+
+
+LaTeX Warning: Reference `simplifyloglast' on page 31 undefined on input line 7
+6.
+
+
+LaTeX Warning: Reference `domainlogfirst' on page 31 undefined on input line 19
+4.
+
+
+LaTeX Warning: Reference `domainloglast' on page 31 undefined on input line 194
+.
+
+[31]
+
+LaTeX Warning: Reference `graphlogfirst' on page 32 undefined on input line 286
+.
+
+
+LaTeX Warning: Reference `graphloglast' on page 32 undefined on input line 286.
+
+
+
+LaTeX Warning: Reference `graphlogfirst' on page 32 undefined on input line 344
+.
+
+
+LaTeX Warning: Reference `graphloglast' on page 32 undefined on input line 344.
+
+
+
+LaTeX Warning: Reference `graphexpfirsta' on page 32 undefined on input line 34
+4.
+
+
+LaTeX Warning: Reference `graphexplasta' on page 32 undefined on input line 344
+.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 32 undefined on input l
+ine 344.
+
+
+LaTeX Warning: Reference `graphexpfirsta' on page 32 undefined on input line 34
+4.
+
+
+LaTeX Warning: Reference `graphlogfirst' on page 32 undefined on input line 344
+.
+
+
+LaTeX Warning: Reference `logformfirsta' on page 32 undefined on input line 349
+.
+
+
+LaTeX Warning: Reference `logformlasta' on page 32 undefined on input line 349.
+
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 355--357
 
  []
@@ -1263,79 +1536,131 @@ Underfull \hbox (badness 10000) in paragraph at lines 425--427
  []
 
 File: LogarithmicFunctions.19 Graphic file (type mps)
-[MP to PDF] (./LogarithmicFunctions.19) [33] [34] [35]
-Underfull \hbox (badness 10000) in paragraph at lines 822--826
+[MP to PDF] (./LogarithmicFunctions.19)
+
+LaTeX Warning: Reference `logformfirsta' on page 33 undefined on input line 454
+.
+
+
+LaTeX Warning: Reference `logformlasta' on page 33 undefined on input line 454.
+
+
+
+LaTeX Warning: Reference `inverselogexpfirst' on page 33 undefined on input lin
+e 459.
+
+
+LaTeX Warning: Reference `inverselogexplast' on page 33 undefined on input line
+ 459.
+
+
+LaTeX Warning: Reference `proceduralinverse' on page 33 undefined on input line
+ 459.
+
+
+LaTeX Warning: Reference `decomposebasiclogfirst' on page 33 undefined on input
+ line 486.
+
+
+LaTeX Warning: Reference `decomposebasicloglast' on page 33 undefined on input 
+line 486.
+
+
+LaTeX Warning: Reference `Richterexercise' on page 33 undefined on input line 5
+04.
+
+
+LaTeX Warning: Reference `pHexercise' on page 33 undefined on input line 504.
+
+[33] [34]
+
+LaTeX Warning: Reference `diffquotln' on page 35 undefined on input line 553.
+
+
+LaTeX Warning: Reference `speciallnlimit' on page 35 undefined on input line 55
+3.
+
+
+LaTeX Warning: Reference `derivativeofex' on page 35 undefined on input line 55
+5.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 35 undefined on input l
+ine 555.
+
+[35] [36]
+Underfull \hbox (badness 10000) in paragraph at lines 843--847
 
  []
 
 File: LogarithmicFunctions.20 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.20)
-Underfull \hbox (badness 10000) in paragraph at lines 850--854
+Underfull \hbox (badness 10000) in paragraph at lines 871--875
 
  []
 
 File: LogarithmicFunctions.21 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.21)
-Underfull \hbox (badness 10000) in paragraph at lines 879--883
+Underfull \hbox (badness 10000) in paragraph at lines 900--904
 
  []
 
 File: LogarithmicFunctions.22 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.22)
-Underfull \hbox (badness 10000) in paragraph at lines 905--909
+Underfull \hbox (badness 10000) in paragraph at lines 926--930
 
  []
 
 File: LogarithmicFunctions.23 Graphic file (type mps)
-[MP to PDF] (./LogarithmicFunctions.23) [36]
-Underfull \hbox (badness 10000) in paragraph at lines 936--940
+[MP to PDF] (./LogarithmicFunctions.23) [37]
+Underfull \hbox (badness 10000) in paragraph at lines 957--961
 
  []
 
 File: LogarithmicFunctions.24 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.24)
-Underfull \hbox (badness 10000) in paragraph at lines 961--965
+Underfull \hbox (badness 10000) in paragraph at lines 982--986
 
  []
 
 File: LogarithmicFunctions.25 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.25)
-Underfull \hbox (badness 10000) in paragraph at lines 993--998
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1019
 
  []
 
 File: LogarithmicFunctions.26 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.26)
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1024
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1045
 
  []
 
 File: LogarithmicFunctions.27 Graphic file (type mps)
-[MP to PDF] (./LogarithmicFunctions.27) [37]
-Underfull \hbox (badness 10000) in paragraph at lines 1108--1110
+[MP to PDF] (./LogarithmicFunctions.27) [38]
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1131
 
  []
 
 File: LogarithmicFunctions.28 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.28)
-Underfull \hbox (badness 10000) in paragraph at lines 1134--1136
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1157
 
  []
 
 File: LogarithmicFunctions.29 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.29)
-Underfull \hbox (badness 10000) in paragraph at lines 1165--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1188
 
  []
 
 File: LogarithmicFunctions.30 Graphic file (type mps)
 [MP to PDF] (./LogarithmicFunctions.30)
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1194
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1215
 
  []
 
 File: LogarithmicFunctions.31 Graphic file (type mps)
-[MP to PDF] (./LogarithmicFunctions.31) [38])) [39]
+[MP to PDF] (./LogarithmicFunctions.31) [39])) [40]
 (./PropertiesofLogarithms.tex
 
 Mfpic: No file PropertiesofLogarithms.1.
@@ -1348,32 +1673,203 @@ Mfpic: Apply metapost to PropertiesofLogarithms.mp.
 Mfpic: Then reprocess this file "CompilerExponentialandLogarithmicFunctions".
 
 
+LaTeX Warning: Reference `LogarithmicFunctions' on page 41 undefined on input l
+ine 9.
+
+
+LaTeX Warning: Reference `logfcnprops' on page 41 undefined on input line 13.
+
+
+LaTeX Warning: Reference `algpropexpfcns' on page 41 undefined on input line 65
+.
+
+
+LaTeX Warning: Reference `algpropexpfcns' on page 41 undefined on input line 89
+.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
-[41]
+ [41]
 
-LaTeX Warning: Reference `rationalexponentdefn' on page 42 undefined on input l
+LaTeX Warning: Reference `algproplogfcns' on page 42 undefined on input line 11
+3.
+
+
+LaTeX Warning: Reference `algproplogfcns' on page 42 undefined on input line 12
+5.
+
+
+LaTeX Warning: Reference `algpropexpfcns' on page 42 undefined on input line 12
+9.
+
+
+LaTeX Warning: Reference `algproplogfcns' on page 42 undefined on input line 13
+7.
+
+
+LaTeX Warning: Reference `algproplogfcns' on page 42 undefined on input line 14
+1.
+
+[42]
+
+LaTeX Warning: Reference `algproplogfcns' on page 43 undefined on input line 24
+0.
+
+
+LaTeX Warning: Reference `rationalexponentdefn' on page 43 undefined on input l
 ine 240.
 
-[42] [43] [44] [45]
-<./PropertiesofLogarithmsGraphics/LogProps01.jpg, id=817, 2800.4625pt x 1509.64
+[43]
+
+LaTeX Warning: Reference `expandlogex' on page 44 undefined on input line 273.
+
+[44]
+
+LaTeX Warning: Reference `expandlogex' on page 45 undefined on input line 312.
+
+
+LaTeX Warning: Reference `algproplogfcns' on page 45 undefined on input line 31
+2.
+
+
+LaTeX Warning: Reference `invpropslogs' on page 45 undefined on input line 334.
+
+
+
+LaTeX Warning: Reference `invpropslogs' on page 45 undefined on input line 350.
+
+
+[45]
+
+LaTeX Warning: Reference `LogarithmicEquationsandInequalities' on page 46 undef
+ined on input line 374.
+
+
+LaTeX Warning: Reference `invpropslogs' on page 46 undefined on input line 400.
+
+
+[46]
+<./PropertiesofLogarithmsGraphics/LogProps01.jpg, id=679, 2800.4625pt x 1509.64
 pt>
 File: ./PropertiesofLogarithmsGraphics/LogProps01.jpg Graphic file (type jpg)
 <use ./PropertiesofLogarithmsGraphics/LogProps01.jpg>
 Package pdftex.def Info: ./PropertiesofLogarithmsGraphics/LogProps01.jpg  used 
 on input line 454.
 (pdftex.def)             Requested size: 289.07999pt x 155.83327pt.
-<./PropertiesofLogarithmsGraphics/LogProps02.jpg, id=818, 2804.4775pt x 1507.63
+<./PropertiesofLogarithmsGraphics/LogProps02.jpg, id=680, 2804.4775pt x 1507.63
 25pt>
 File: ./PropertiesofLogarithmsGraphics/LogProps02.jpg Graphic file (type jpg)
 <use ./PropertiesofLogarithmsGraphics/LogProps02.jpg>
 Package pdftex.def Info: ./PropertiesofLogarithmsGraphics/LogProps02.jpg  used 
 on input line 472.
 (pdftex.def)             Requested size: 289.07999pt x 155.396pt.
- [46 <./PropertiesofLogarithmsGraphics/LogProps01.jpg>]
-[47 <./PropertiesofLogarithmsGraphics/LogProps02.jpg>]
-(./ExercisesforPropertiesofLogarithms.tex [48] [49] [50]
+ [47 <./PropertiesofLogarithmsGraphics/LogProps01.jpg>]
+
+LaTeX Warning: Reference `changeofbase' on page 48 undefined on input line 482.
+
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 48 undefined on input l
+ine 486.
+
+
+LaTeX Warning: Reference `ExpLogApplications' on page 48 undefined on input lin
+e 486.
+
+
+LaTeX Warning: Reference `changeofbase' on page 48 undefined on input line 486.
+
+
+[48 <./PropertiesofLogarithmsGraphics/LogProps02.jpg>]
+(./ExercisesforPropertiesofLogarithms.tex
+
+LaTeX Warning: Reference `expandlogfirst' on page 49 undefined on input line 3.
+
+
+
+LaTeX Warning: Reference `expandloglast' on page 49 undefined on input line 3.
+
+
+LaTeX Warning: Reference `combinelogfirst' on page 49 undefined on input line 6
+4.
+
+
+LaTeX Warning: Reference `combineloglast' on page 49 undefined on input line 64
+.
+
+
+LaTeX Warning: Reference `changeofbasefirst' on page 49 undefined on input line
+ 143.
+
+
+LaTeX Warning: Reference `changeofbaselast' on page 49 undefined on input line 
+143.
+
+[49]
+
+LaTeX Warning: Reference `changeofbaseapproxfirst' on page 50 undefined on inpu
+t line 169.
+
+
+LaTeX Warning: Reference `changeofbaseapproxlast' on page 50 undefined on input
+ line 169.
+
+
+LaTeX Warning: Reference `intrologex' on page 50 undefined on input line 198.
+
+
+LaTeX Warning: Reference `findformulaforlogexample' on page 50 undefined on inp
+ut line 198.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 50 undefined on input l
+ine 198.
+
+
+LaTeX Warning: Reference `intrologex' on page 50 undefined on input line 206.
+
+
+LaTeX Warning: Reference `findformulaforlogexample' on page 50 undefined on inp
+ut line 206.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 50 undefined on input l
+ine 206.
+
+
+LaTeX Warning: Reference `intrologex' on page 50 undefined on input line 216.
+
+
+LaTeX Warning: Reference `findformulaforlogexample' on page 50 undefined on inp
+ut line 216.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 50 undefined on input l
+ine 216.
+
+
+LaTeX Warning: Reference `intrologex' on page 50 undefined on input line 216.
+
+
+LaTeX Warning: Reference `findformulaforlogexample' on page 50 undefined on inp
+ut line 216.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 50 undefined on input l
+ine 216.
+
+
+LaTeX Warning: Reference `pHexercise' on page 50 undefined on input line 224.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 50 undefined on input l
+ine 224.
+
+
+LaTeX Warning: Reference `pHexercise' on page 50 undefined on input line 224.
+
+[50] [51]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 302.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
@@ -1382,8 +1878,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 9.19998pt on input line 302.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 6.43999pt on input line 302.
-)) [51]
-(./ExponentialEquationsandInequalities.tex
+)) [52] (./ExponentialEquationsandInequalities.tex
 
 Mfpic: Initializing ExponentialEquationsandInequalities.mp.
 \openout3 = `ExponentialEquationsandInequalities.mp'.
@@ -1392,17 +1887,31 @@ Mfpic: Don't forget to process ExponentialEquationsandInequalities.mp!
 Mfpic: Apply metapost to ExponentialEquationsandInequalities.mp.
 Mfpic: Then reprocess this file "CompilerExponentialandLogarithmicFunctions".
 
-[52] [53]
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx01.jpg, id=1001, 2818.53
-pt x 1523.6925pt>
+
+LaTeX Warning: Reference `explogsonetoone' on page 53 undefined on input line 9
+.
+
+
+LaTeX Warning: Reference `invpropslogs' on page 53 undefined on input line 13.
+
+
+LaTeX Warning: Reference `changeofbase' on page 53 undefined on input line 17.
+
+
+LaTeX Warning: Reference `explogsonetoone' on page 53 undefined on input line 2
+1.
+
+[53] [54]
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx01.jpg, id=836, 2818.53p
+t x 1523.6925pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx01.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx01.jpg>
 Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx
 01.jpg  used on input line 127.
 (pdftex.def)             Requested size: 216.81pt x 117.20146pt.
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx02.jpg, id=1002, 2804.47
-75pt x 1503.6175pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx02.jpg, id=837, 2804.477
+5pt x 1503.6175pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx02.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx02.jpg>
@@ -1414,18 +1923,18 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 125--138
  [] 
  []
 
-[54 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx01.jpg> <./Exponenti
+[55 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx01.jpg> <./Exponenti
 alEquationsandInequalitiesGraphics/ExpEqnEx02.jpg>]
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx03.jpg, id=1010, 2804.47
-75pt x 1489.565pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx03.jpg, id=846, 2804.477
+5pt x 1489.565pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx03.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx03.jpg>
 Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx
 03.jpg  used on input line 188.
 (pdftex.def)             Requested size: 216.81pt x 115.1446pt.
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx04.jpg, id=1011, 2814.51
-5pt x 1487.5575pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx04.jpg, id=847, 2814.515
+pt x 1487.5575pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx04.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx04.jpg>
@@ -1437,18 +1946,18 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 186--199
  [] 
  []
 
-[55 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx03.jpg> <./Exponenti
+[56 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx03.jpg> <./Exponenti
 alEquationsandInequalitiesGraphics/ExpEqnEx04.jpg>]
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx05.jpg, id=1022, 2804.47
-75pt x 1505.625pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx05.jpg, id=857, 2804.477
+5pt x 1505.625pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx05.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx05.jpg>
 Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx
 05.jpg  used on input line 244.
 (pdftex.def)             Requested size: 216.81pt x 116.38606pt.
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx06.jpg, id=1023, 2800.46
-25pt x 1523.6925pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx06.jpg, id=858, 2800.462
+5pt x 1523.6925pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx06.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx06.jpg>
@@ -1461,39 +1970,42 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 242--255
  []
 
 
-LaTeX Warning: Reference `IVT' on page 56 undefined on input line 284.
+LaTeX Warning: Reference `expeqnsex1' on page 57 undefined on input line 265.
 
-[56 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx05.jpg> <./Exponenti
+
+LaTeX Warning: Reference `IVT' on page 57 undefined on input line 284.
+
+[57 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx05.jpg> <./Exponenti
 alEquationsandInequalitiesGraphics/ExpEqnEx06.jpg>]
 File: ExponentialEquationsandInequalities.1 Graphic file (type mps)
  [MP to PDF]
 (./ExponentialEquationsandInequalities.1)
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx07.jpg, id=1033, 2816.52
-25pt x 1519.6775pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx07.jpg, id=867, 2816.522
+5pt x 1519.6775pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx07.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx07.jpg>
 Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx
 07.jpg  used on input line 345.
 (pdftex.def)             Requested size: 216.81pt x 116.96219pt.
- [57 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx07.jpg>]
+ [58 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx07.jpg>]
 File: ExponentialEquationsandInequalities.2 Graphic file (type mps)
  [MP to PDF]
 (./ExponentialEquationsandInequalities.2)
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx08.jpg, id=1045, 2808.49
-25pt x 1519.6775pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx08.jpg, id=878, 2808.492
+5pt x 1519.6775pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx08.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx08.jpg>
 Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx
 08.jpg  used on input line 417.
 (pdftex.def)             Requested size: 216.81pt x 117.31001pt.
- [58 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx08.jpg>]
+ [59 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx08.jpg>]
 File: ExponentialEquationsandInequalities.3 Graphic file (type mps)
  [MP to PDF]
 (./ExponentialEquationsandInequalities.3)
-<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx09.jpg, id=1055, 2810.5p
-t x 1511.6475pt>
+<./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx09.jpg, id=888, 2810.5pt
+ x 1511.6475pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx09.jpg Graphic file
  (type jpg)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx09.jpg>
@@ -1502,12 +2014,31 @@ Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx
 (pdftex.def)             Requested size: 216.81pt x 116.59789pt.
 
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 59 undefined on input lin
+LaTeX Warning: Reference `canuselogsex' on page 60 undefined on input line 501.
+
+
+
+LaTeX Warning: Reference `expineq' on page 60 undefined on input line 501.
+
+
+LaTeX Warning: Reference `QuadraticFunctions' on page 60 undefined on input lin
 e 517.
 
-[59 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx09.jpg>]
-File: ExponentialEquationsandInequalities.4 Graphic file (type mps)
 
+LaTeX Warning: Reference `exptempex' on page 60 undefined on input line 521.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 60 undefined on input l
+ine 521.
+
+
+LaTeX Warning: Reference `exptempex' on page 60 undefined on input line 525.
+
+[60 <./ExponentialEquationsandInequalitiesGraphics/ExpEqnEx09.jpg>]
+
+LaTeX Warning: Reference `exptempex' on page 61 undefined on input line 553.
+
+File: ExponentialEquationsandInequalities.4 Graphic file (type mps)
 [MP to PDF] (./ExponentialEquationsandInequalities.4)
 File: ExponentialEquationsandInequalities.5 Graphic file (type mps)
  [MP to PDF]
@@ -1516,14 +2047,25 @@ Overfull \hbox (1.95547pt too wide) in paragraph at lines 591--592
 []|[]| 
  []
 
-[60]
 
-LaTeX Warning: Reference `AppDerivatives' on page 61 undefined on input line 66
-9.
+LaTeX Warning: Reference `coffeewarmerex' on page 61 undefined on input line 60
+1.
 
 [61]
+
+LaTeX Warning: Reference `checkingexpfracinverse' on page 62 undefined on input
+ line 649.
+
+
+Underfull \vbox (badness 3260) has occurred while \output is active []
+
+ [62]
+
+LaTeX Warning: Reference `AppDerivatives' on page 63 undefined on input line 66
+8.
+
 File: ExponentialEquationsandInequalities.6 Graphic file (type mps)
- [MP to PDF] (./ExponentialEquationsandInequalities.6)
+[MP to PDF] (./ExponentialEquationsandInequalities.6)
 File: ExponentialEquationsandInequalities.7 Graphic file (type mps)
  [MP to PDF]
 (./ExponentialEquationsandInequalities.7)
@@ -1531,37 +2073,108 @@ File: ExponentialEquationsandInequalities.8 Graphic file (type mps)
  [MP to PDF]
 (./ExponentialEquationsandInequalities.8)
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 785.
+(Font)              scaled to size 15.89755pt on input line 784.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 22.88956pt on input line 785.
+(Font)              scaled to size 22.88956pt on input line 784.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 19.08076pt on input line 785.
+(Font)              scaled to size 19.08076pt on input line 784.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 15.89755pt on input line 785.
+(Font)              scaled to size 15.89755pt on input line 784.
 File: ExponentialEquationsandInequalities.9 Graphic file (type mps)
  [MP to PDF]
 (./ExponentialEquationsandInequalities.9)
 <./ExponentialEquationsandInequalitiesGraphics/ExpCurveSketchingExample.PNG, id
-=1090, 883.3pt x 508.90125pt>
+=911, 570.13pt x 417.56pt>
 File: ./ExponentialEquationsandInequalitiesGraphics/ExpCurveSketchingExample.PN
 G Graphic file (type png)
 <use ./ExponentialEquationsandInequalitiesGraphics/ExpCurveSketchingExample.PNG
 >
 Package pdftex.def Info: ./ExponentialEquationsandInequalitiesGraphics/ExpCurve
-SketchingExample.PNG  used on input line 812.
-(pdftex.def)             Requested size: 216.81pt x 124.91096pt.
- [62] [63 <./ExponentialEquationsandInequalitiesGraphics/ExpCurveSketchingExamp
-le.PNG>]
-(./ExercisesforExponentialEquationsandInequalities.tex [64]
+SketchingExample.PNG  used on input line 811.
+(pdftex.def)             Requested size: 216.81pt x 158.78912pt.
+ [63]
 
-LaTeX Warning: Reference `fcircginverse' on page 65 undefined on input line 277
+LaTeX Warning: Reference `exponentialcurvesketchingex' on page 64 undefined on 
+input line 820.
+
+
+LaTeX Warning: Reference `powerexponentialgrowthex' on page 64 undefined on inp
+ut line 828.
+
+[64 <./ExponentialEquationsandInequalitiesGraphics/ExpCurveSketchingExample.PNG
+>] (./ExercisesforExponentialEquationsandInequalities.tex
+
+LaTeX Warning: Reference `expeqnfirst' on page 65 undefined on input line 3.
+
+
+LaTeX Warning: Reference `expeqnlast' on page 65 undefined on input line 3.
+
+
+LaTeX Warning: Reference `expineqfirst' on page 65 undefined on input line 142.
+
+
+
+LaTeX Warning: Reference `expineqlast' on page 65 undefined on input line 142.
+
+
+LaTeX Warning: Reference `calcexpineqfirst' on page 65 undefined on input line 
+189.
+
+
+LaTeX Warning: Reference `calcexpineqlast' on page 65 undefined on input line 1
+89.
+
+[65]
+
+LaTeX Warning: Reference `domaincomplicatedexpfirst' on page 66 undefined on in
+put line 217.
+
+
+LaTeX Warning: Reference `domaincomplicatedexplast' on page 66 undefined on inp
+ut line 217.
+
+
+LaTeX Warning: Reference `expineqfirst' on page 66 undefined on input line 261.
+
+
+
+LaTeX Warning: Reference `expineqlast' on page 66 undefined on input line 261.
+
+
+LaTeX Warning: Reference `expfracinverse' on page 66 undefined on input line 26
+5.
+
+
+LaTeX Warning: Reference `fcircginverse' on page 66 undefined on input line 277
 .
 
 
-LaTeX Warning: Reference `InverseFunctions' on page 65 undefined on input line 
+LaTeX Warning: Reference `InverseFunctions' on page 66 undefined on input line 
 277.
 
-[65] [66])) [67] (./LogarithmicEquationsandInequalities.tex
+
+LaTeX Warning: Reference `numericalinvestigationlimitxpoverex' on page 66 undef
+ined on input line 283.
+
+
+LaTeX Warning: Reference `numericalinvestigationlimitxpoverex' on page 66 undef
+ined on input line 285.
+
+
+LaTeX Warning: Reference `numericalxpoverexinequ' on page 66 undefined on input
+ line 287.
+
+
+LaTeX Warning: Reference `numericalinvestigationlimitxpoverex' on page 66 undef
+ined on input line 287.
+
+
+LaTeX Warning: Reference `squeezeth' on page 66 undefined on input line 295.
+
+
+LaTeX Warning: Reference `Sequences' on page 66 undefined on input line 295.
+
+[66] [67])) [68] (./LogarithmicEquationsandInequalities.tex
 
 Mfpic: Initializing LogarithmicEquationsandInequalities.mp.
 \openout3 = `LogarithmicEquationsandInequalities.mp'.
@@ -1570,8 +2183,26 @@ Mfpic: Don't forget to process LogarithmicEquationsandInequalities.mp!
 Mfpic: Apply metapost to LogarithmicEquationsandInequalities.mp.
 Mfpic: Then reprocess this file "CompilerExponentialandLogarithmicFunctions".
 
-[68]
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx01.jpg, id=1286, 2812.50
+
+LaTeX Warning: Reference `ExponentialEquationsandInequalities' on page 69 undef
+ined on input line 9.
+
+
+LaTeX Warning: Reference `explogsonetoone' on page 69 undefined on input line 1
+3.
+
+
+LaTeX Warning: Reference `explogsonetoone' on page 69 undefined on input line 1
+3.
+
+
+LaTeX Warning: Reference `invpropslogs' on page 69 undefined on input line 13.
+
+
+LaTeX Warning: Reference `invpropslogs' on page 69 undefined on input line 21.
+
+[69]
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx01.jpg, id=1103, 2812.50
 75pt x 1521.685pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx01.jpg Graphic file
  (type jpg)
@@ -1579,7 +2210,7 @@ File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx01.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 01.jpg  used on input line 114.
 (pdftex.def)             Requested size: 216.81pt x 117.30244pt.
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx02.jpg, id=1287, 2812.50
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx02.jpg, id=1104, 2812.50
 75pt x 1521.685pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx02.jpg Graphic file
  (type jpg)
@@ -1592,7 +2223,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 112--125
  [] 
  []
 
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx03.jpg, id=1288, 2814.51
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx03.jpg, id=1105, 2814.51
 5pt x 1511.6475pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx03.jpg Graphic file
  (type jpg)
@@ -1600,7 +2231,7 @@ File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx03.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 03.jpg  used on input line 157.
 (pdftex.def)             Requested size: 216.81pt x 116.43643pt.
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx04.jpg, id=1289, 2818.53
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx04.jpg, id=1106, 2818.53
 pt x 1515.6625pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx04.jpg Graphic file
  (type jpg)
@@ -1613,7 +2244,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 155--168
  [] 
  []
 
-[69 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx01.jpg> <./Logarithm
+[70 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx01.jpg> <./Logarithm
 icEquationsandInequalitiesGraphics/LogEqnEx02.jpg>]
 Overfull \hbox (12.83113pt too wide) in paragraph at lines 207--208
 []\OT1/phv/m/n/10.95 Note the so-lu-tion $\OT1/phv/m/sl/10.95 t \OT1/phv/m/n/10
@@ -1621,7 +2252,7 @@ Overfull \hbox (12.83113pt too wide) in paragraph at lines 207--208
 Hence if sub-sti-tuted into the orig-i-nal equa-tion, the term $2 [][] []$
  []
 
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx05.jpg, id=1297, 2818.53
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx05.jpg, id=1114, 2818.53
 pt x 1519.6775pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx05.jpg Graphic file
  (type jpg)
@@ -1629,7 +2260,7 @@ File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx05.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 05.jpg  used on input line 213.
 (pdftex.def)             Requested size: 216.81pt x 116.89262pt.
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx06.jpg, id=1298, 2808.49
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx06.jpg, id=1115, 2808.49
 25pt x 1519.6775pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx06.jpg Graphic file
  (type jpg)
@@ -1642,13 +2273,29 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 211--224
  [] 
  []
 
-[70 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx03.jpg> <./Logarithm
-icEquationsandInequalitiesGraphics/LogEqnEx04.jpg>] [71 <./LogarithmicEquations
-andInequalitiesGraphics/LogEqnEx05.jpg> <./LogarithmicEquationsandInequalitiesG
-raphics/LogEqnEx06.jpg>]
+[71 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx03.jpg> <./Logarithm
+icEquationsandInequalitiesGraphics/LogEqnEx04.jpg>]
+
+LaTeX Warning: Reference `LogEqnsEx1' on page 72 undefined on input line 231.
+
+
+LaTeX Warning: Reference `LogEqnsEx1' on page 72 undefined on input line 235.
+
+
+LaTeX Warning: Reference `LogEqnsEx1' on page 72 undefined on input line 235.
+
+
+LaTeX Warning: Reference `expeqnsex1' on page 72 undefined on input line 239.
+
+
+LaTeX Warning: Reference `LogEqnsEx1' on page 72 undefined on input line 239.
+
+[72 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx05.jpg> <./Logarithm
+icEquationsandInequalitiesGraphics/LogEqnEx06.jpg>]
 File: LogarithmicEquationsandInequalities.1 Graphic file (type mps)
- [MP to PDF] (./LogarithmicEquationsandInequalities.1)
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx07.jpg, id=1321, 2814.51
+ [MP to PDF]
+(./LogarithmicEquationsandInequalities.1)
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx07.jpg, id=1133, 2814.51
 5pt x 1515.6625pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx07.jpg Graphic file
  (type jpg)
@@ -1657,9 +2304,9 @@ Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 07.jpg  used on input line 323.
 (pdftex.def)             Requested size: 216.81pt x 116.74568pt.
 File: LogarithmicEquationsandInequalities.2 Graphic file (type mps)
-
-[MP to PDF] (./LogarithmicEquationsandInequalities.2)
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx08.jpg, id=1322, 2810.5p
+ [MP to PDF]
+(./LogarithmicEquationsandInequalities.2)
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx08.jpg, id=1134, 2810.5p
 t x 1503.6175pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx08.jpg Graphic file
  (type jpg)
@@ -1670,11 +2317,11 @@ Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 
 Underfull \vbox (badness 2662) has occurred while \output is active []
 
- [72 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx07.jpg>]
+ [73 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx07.jpg>]
 File: LogarithmicEquationsandInequalities.3 Graphic file (type mps)
  [MP to PDF]
 (./LogarithmicEquationsandInequalities.3)
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx09.jpg, id=1328, 2800.46
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx09.jpg, id=1141, 2800.46
 25pt x 1511.6475pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx09.jpg Graphic file
  (type jpg)
@@ -1682,13 +2329,28 @@ File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx09.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 09.jpg  used on input line 446.
 (pdftex.def)             Requested size: 216.81pt x 117.01308pt.
- [73 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx08.jpg> <./Logarith
-micEquationsandInequalitiesGraphics/LogEqnEx09.jpg>]
 
-LaTeX Warning: Reference `intersectionunion' on page 74 undefined on input line
+
+LaTeX Warning: Reference `pHexercise' on page 74 undefined on input line 466.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 74 undefined on input l
+ine 466.
+
+[74 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx08.jpg> <./Logarithm
+icEquationsandInequalitiesGraphics/LogEqnEx09.jpg>]
+
+LaTeX Warning: Reference `pHexercise' on page 75 undefined on input line 475.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 75 undefined on input l
+ine 475.
+
+
+LaTeX Warning: Reference `intersectionunion' on page 75 undefined on input line
  479.
 
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx10.jpg, id=1340, 2810.5p
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx10.jpg, id=1149, 2810.5p
 t x 1513.655pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx10.jpg Graphic file
  (type jpg)
@@ -1696,8 +2358,8 @@ File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx10.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 10.jpg  used on input line 493.
 (pdftex.def)             Requested size: 289.07999pt x 155.6703pt.
-[74 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx10.jpg>]
-<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx11.jpg, id=1350, 2804.47
+[75 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx10.jpg>]
+<./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx11.jpg, id=1159, 2804.47
 75pt x 1505.625pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx11.jpg Graphic file
  (type jpg)
@@ -1705,24 +2367,27 @@ File: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx11.jpg Graphic file
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx
 11.jpg  used on input line 536.
 (pdftex.def)             Requested size: 289.07999pt x 155.18909pt.
+ [76 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx11.jpg>]
+
+LaTeX Warning: Reference `AppDerivatives' on page 77 undefined on input line 55
+0.
 
 
-LaTeX Warning: Reference `AppDerivatives' on page 75 undefined on input line 54
-8.
+LaTeX Warning: Reference `exponentialcurvesketchingex' on page 77 undefined on 
+input line 586.
 
-[75 <./LogarithmicEquationsandInequalitiesGraphics/LogEqnEx11.jpg>]
-<./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)near0.PNG, id=1361, 1212
+<./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)near0.PNG, id=1167, 1212
 .53pt x 427.5975pt>
 File: ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)near0.PNG Graphic f
 ile (type png)
 <use ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)near0.PNG>
 Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)
-near0.PNG  used on input line 588.
+near0.PNG  used on input line 590.
 (pdftex.def)             Requested size: 325.215pt x 114.68295pt.
- [76 <./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)near0.PNG>]
+[77 <./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)near0.PNG>]
 File: LogarithmicEquationsandInequalities.4 Graphic file (type mps)
- [MP to PDF]
-(./LogarithmicEquationsandInequalities.4)
+
+[MP to PDF] (./LogarithmicEquationsandInequalities.4)
 File: LogarithmicEquationsandInequalities.5 Graphic file (type mps)
  [MP to PDF]
 (./LogarithmicEquationsandInequalities.5)
@@ -1731,30 +2396,175 @@ File: LogarithmicEquationsandInequalities.6 Graphic file (type mps)
 (./LogarithmicEquationsandInequalities.6)
 File: LogarithmicEquationsandInequalities.7 Graphic file (type mps)
  [MP to PDF]
-(./LogarithmicEquationsandInequalities.7) [77]
-(./ExercisesforLogarithmicEquationsandInequalities.tex [78]
+(./LogarithmicEquationsandInequalities.7) [78]
+<./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)min.PNG, id=1199, 570.13
+pt x 417.56pt>
+File: ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)min.PNG Graphic fil
+e (type png)
+<use ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)min.PNG>
+Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)
+min.PNG  used on input line 717.
+(pdftex.def)             Requested size: 180.67499pt x 132.32214pt.
+<./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)IP.PNG, id=1200, 570.13p
+t x 417.56pt>
+File: ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)IP.PNG Graphic file
+ (type png)
+<use ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)IP.PNG>
+Package pdftex.def Info: ./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)
+IP.PNG  used on input line 719.
+(pdftex.def)             Requested size: 180.67499pt x 132.32214pt.
+
+
+LaTeX Warning: Reference `logcurvesketchex' on page 79 undefined on input line 
+731.
+
+
+LaTeX Warning: Reference `exponentialcurvesketchingex' on page 79 undefined on 
+input line 731.
+
+
+LaTeX Warning: Reference `ExponentialEquationsandInequalities' on page 79 undef
+ined on input line 731.
+
+
+LaTeX Warning: Reference `numericalinvestigationlimitlnxtimesx' on page 79 unde
+fined on input line 731.
+
+[79 <./LogarithmicEquationsandInequalitiesGraphics/x^2ln(x)min.PNG> <./Logarith
+micEquationsandInequalitiesGraphics/x^2ln(x)IP.PNG>]
+(./ExercisesforLogarithmicEquationsandInequalities.tex
+
+LaTeX Warning: Reference `solvelogeqexfirst' on page 80 undefined on input line
+ 3.
+
+
+LaTeX Warning: Reference `solvelogeqexlast' on page 80 undefined on input line 
+3.
+
+
+LaTeX Warning: Reference `solvelogineqexfirst' on page 80 undefined on input li
+ne 147.
+
+
+LaTeX Warning: Reference `solvelogineqexlast' on page 80 undefined on input lin
+e 147.
+
+[80]
+
+LaTeX Warning: Reference `logeqcalcexfirst' on page 81 undefined on input line 
+188.
+
+
+LaTeX Warning: Reference `logeqcalcexlast' on page 81 undefined on input line 1
+88.
+
+
+LaTeX Warning: Reference `domaincomplicatedlogfirst' on page 81 undefined on in
+put line 213.
+
+
+LaTeX Warning: Reference `domaincomplicatedloglast' on page 81 undefined on inp
+ut line 213.
+
+
+LaTeX Warning: Reference `sixfourdecibelineq' on page 81 undefined on input lin
+e 256.
+
+
+LaTeX Warning: Reference `sixfourpHineq' on page 81 undefined on input line 256
+.
+
+
+LaTeX Warning: Reference `onetoonelogexercise' on page 81 undefined on input li
+ne 256.
+
+
+LaTeX Warning: Reference `ExponentialEquationsandInequalities' on page 81 undef
+ined on input line 256.
+
+
+LaTeX Warning: Reference `logfracinverse' on page 81 undefined on input line 26
+0.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
-LaTeX Warning: Reference `fcircginverse' on page 79 undefined on input line 271
+LaTeX Warning: Reference `fcircginverse' on page 81 undefined on input line 271
 .
 
 
-LaTeX Warning: Reference `InverseFunctions' on page 79 undefined on input line 
+LaTeX Warning: Reference `InverseFunctions' on page 81 undefined on input line 
 271.
 
-[79]
 
-LaTeX Warning: Reference `andtheresthyperbolic' on page 80 undefined on input l
-ine 481.
+LaTeX Warning: Reference `sixfourRichterequ' on page 81 undefined on input line
+ 277.
 
 
-LaTeX Warning: Reference `ParametricEquations' on page 80 undefined on input li
-ne 481.
+LaTeX Warning: Reference `sixfourRichterineq' on page 81 undefined on input lin
+e 277.
 
-)) [80] (./ApplicationsofExponentialandLogarithmicFunctions.tex
+
+LaTeX Warning: Reference `Richterexercise' on page 81 undefined on input line 2
+77.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 81 undefined on input l
+ine 277.
+
+
+LaTeX Warning: Reference `sixfourdecibelequ' on page 81 undefined on input line
+ 279.
+
+
+LaTeX Warning: Reference `sixfourdecibelineq' on page 81 undefined on input lin
+e 279.
+
+
+LaTeX Warning: Reference `decibelexercise' on page 81 undefined on input line 2
+79.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 81 undefined on input l
+ine 279.
+
+
+LaTeX Warning: Reference `sixfourpHequ' on page 81 undefined on input line 281.
+
+
+
+LaTeX Warning: Reference `sixfourpHineq' on page 81 undefined on input line 281
+.
+
+
+LaTeX Warning: Reference `pHexercise' on page 81 undefined on input line 281.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 81 undefined on input l
+ine 281.
+
+[81]
+
+LaTeX Warning: Reference `numericalinvestigationlimitlnxoverx' on page 82 undef
+ined on input line 287.
+
+
+LaTeX Warning: Reference `numericalinvestigationlimitlnxtimesx' on page 82 unde
+fined on input line 287.
+
+[82]
+
+LaTeX Warning: Reference `andtheresthyperbolic' on page 83 undefined on input l
+ine 487.
+
+
+LaTeX Warning: Reference `ParametricEquations' on page 83 undefined on input li
+ne 487.
+
+)) [83] (./ApplicationsofExponentialandLogarithmicFunctions.tex
 
 Mfpic: No file ApplicationsofExponentialandLogarithmicFunctions.8.
 
@@ -1767,237 +2577,567 @@ Mfpic: Apply metapost to ApplicationsofExponentialandLogarithmicFunctions.mp.
 Mfpic: Then reprocess this file "CompilerExponentialandLogarithmicFunctions".
 
 
+LaTeX Warning: Reference `ExponentialFunctions' on page 84 undefined on input l
+ine 7.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 84 undefined on input l
+ine 7.
+
+
 Overfull \hbox (1.63164pt too wide) in paragraph at lines 24--26
 [][][][][][][]  
  []
 
-[81]
+[84]
 
-LaTeX Warning: Reference `arc' on page 82 undefined on input line 87.
+LaTeX Warning: Reference `compoundinterest' on page 85 undefined on input line 
+75.
 
 
-LaTeX Warning: Reference `ConstantandLinearFunctions' on page 82 undefined on i
-nput line 87.
+LaTeX Warning: Reference `arc' on page 85 undefined on input line 87.
 
-[82] [83] [84]
 
 LaTeX Warning: Reference `ConstantandLinearFunctions' on page 85 undefined on i
-nput line 238.
+nput line 87.
+
+[85]
+
+LaTeX Warning: Reference `rrc' on page 86 undefined on input line 99.
 
 
-LaTeX Warning: Reference `ARCRocketExample' on page 85 undefined on input line 
-238.
+LaTeX Warning: Reference `ExponentialFunctions' on page 86 undefined on input l
+ine 99.
 
 
-LaTeX Warning: Reference `averagevelocityrocketex' on page 85 undefined on inpu
-t line 238.
+LaTeX Warning: Reference `compoundinterest' on page 86 undefined on input line 
+115.
 
-[85] [86] [87] [88]
+
+LaTeX Warning: Reference `ExponentialEquationsandInequalities' on page 86 undef
+ined on input line 123.
+
+
+LaTeX Warning: Reference `rrc' on page 86 undefined on input line 157.
+
+[86]
+
+LaTeX Warning: Reference `IntroLimits' on page 87 undefined on input line 171.
+
+
+LaTeX Warning: Reference `compoundinterest' on page 87 undefined on input line 
+175.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 87 undefined on input l
+ine 200.
+
+[87]
+
+LaTeX Warning: Reference `LimitProp01' on page 88 undefined on input line 227.
+
+
+LaTeX Warning: Reference `geometricrepresentationssection' on page 88 undefined
+ on input line 237.
+
+
+LaTeX Warning: Reference `sequencelimits' on page 88 undefined on input line 23
+7.
+
+
+LaTeX Warning: Reference `compoundinterestex' on page 88 undefined on input lin
+e 262.
+
+[88]
+
+LaTeX Warning: Reference `compoundinterest' on page 89 undefined on input line 
+266.
+
+
+LaTeX Warning: Reference `continuouscompoundinterest' on page 89 undefined on i
+nput line 266.
+
+
+LaTeX Warning: Reference `derivativefcndefn' on page 89 undefined on input line
+ 288.
+
+
+LaTeX Warning: Reference `IntroductiontoDerivatives' on page 89 undefined on in
+put line 288.
+
+
+LaTeX Warning: Reference `continuouscompoundinterest' on page 89 undefined on i
+nput line 292.
+
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 89 undefined on input
+ line 292.
+
+
+LaTeX Warning: Reference `continuouscompoundinterest' on page 89 undefined on i
+nput line 292.
+
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 89 undefined on input
+ line 292.
+
+
+LaTeX Warning: Reference `continuouscompoundinterest' on page 89 undefined on i
+nput line 292.
+
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 89 undefined on input
+ line 292.
+
+
+LaTeX Warning: Reference `continuouscompoundinterest' on page 89 undefined on i
+nput line 292.
+
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 89 undefined on input
+ line 292.
+
+
+LaTeX Warning: Reference `continuouscompoundinterest' on page 89 undefined on i
+nput line 310.
+
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 89 undefined on input
+ line 310.
+
+[89]
+
+LaTeX Warning: Reference `cardepreciationex' on page 90 undefined on input line
+ 314.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 90 undefined on input l
+ine 314.
+
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 90 undefined on input
+ line 326.
+
+
+LaTeX Warning: Reference `radioactivedecay' on page 90 undefined on input line 
+345.
+
+
+LaTeX Warning: Reference `radioactivedecay' on page 90 undefined on input line 
+349.
+
+
+LaTeX Warning: Reference `exptempex' on page 90 undefined on input line 362.
+
+
+LaTeX Warning: Reference `ExponentialFunctions' on page 90 undefined on input l
+ine 362.
+
+[90]
+
+LaTeX Warning: Reference `exptempex' on page 91 undefined on input line 394.
+
+
+LaTeX Warning: Reference `newtonslawofcooling' on page 91 undefined on input li
+ne 394.
+
+
+LaTeX Warning: Reference `newtonslawofcooling' on page 91 undefined on input li
+ne 398.
+
+
+Underfull \vbox (badness 5217) has occurred while \output is active []
+
+ [91]
+
+LaTeX Warning: Reference `exptempex2' on page 92 undefined on input line 431.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [92]
+
+LaTeX Warning: Reference `ebrumorex' on page 93 undefined on input line 482.
+
+
+LaTeX Warning: Reference `whenrumorex' on page 93 undefined on input line 482.
+
+
+LaTeX Warning: Reference `logisticgrowth' on page 93 undefined on input line 49
+2.
+
+
+LaTeX Warning: Reference `exptempex' on page 93 undefined on input line 494.
+
+[93]
+
+LaTeX Warning: Reference `ebrumorex' on page 94 undefined on input line 500.
+
+
+LaTeX Warning: Reference `whenrumorex' on page 94 undefined on input line 500.
+
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx01.jpg, 
-id=1654, 2806.485pt x 1505.625pt>
+id=1441, 2806.485pt x 1505.625pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx01.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx01.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx01.jpg  used on input line 470.
+hics/ExpLogAppEx01.jpg  used on input line 504.
 (pdftex.def)             Requested size: 289.07999pt x 155.07422pt.
- [89]
 
-LaTeX Warning: Reference `PowerFunctions' on page 90 undefined on input line 48
-5.
+LaTeX Warning: Reference `rumorex' on page 94 undefined on input line 515.
 
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx02.jpg, 
-id=1673, 2804.4775pt x 1521.685pt>
+id=1443, 2804.4775pt x 1521.685pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx02.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx02.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx02.jpg  used on input line 495.
+hics/ExpLogAppEx02.jpg  used on input line 529.
 (pdftex.def)             Requested size: 216.81pt x 117.62752pt.
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx03.jpg, 
-id=1674, 2808.4925pt x 1517.67pt>
+id=1444, 2808.4925pt x 1517.67pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx03.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx03.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx03.jpg  used on input line 497.
+hics/ExpLogAppEx03.jpg  used on input line 531.
 (pdftex.def)             Requested size: 216.81pt x 117.15504pt.
-[90 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx01.j
-pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx02.j
-pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx03.j
-pg>] [91]
+[94 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx01.j
+pg>]
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 92 undefined on input lin
-e 570.
+LaTeX Warning: Reference `Richterexercise' on page 95 undefined on input line 5
+44.
+
+
+LaTeX Warning: Reference `decibelexercise' on page 95 undefined on input line 5
+44.
+
+
+LaTeX Warning: Reference `pHexercise' on page 95 undefined on input line 544.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 95 undefined on input l
+ine 544.
+
+
+LaTeX Warning: Reference `pHexercise' on page 95 undefined on input line 572.
+
+
+LaTeX Warning: Reference `LogarithmicFunctions' on page 95 undefined on input l
+ine 572.
+
+
+LaTeX Warning: Reference `HendersonHasselbalch' on page 95 undefined on input l
+ine 576.
+
+
+LaTeX Warning: Reference `PropertiesofLogarithms' on page 95 undefined on input
+ line 576.
+
+[95 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx02.j
+pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx03.j
+pg>]
+
+LaTeX Warning: Reference `QuadraticFunctions' on page 96 undefined on input lin
+e 604.
 
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx04.jpg, 
-id=1712, 2814.515pt x 1515.6625pt>
+id=1474, 2814.515pt x 1515.6625pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx04.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx04.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx04.jpg  used on input line 577.
+hics/ExpLogAppEx04.jpg  used on input line 611.
 (pdftex.def)             Requested size: 216.81pt x 116.74568pt.
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx05.jpg, 
-id=1713, 2804.4775pt x 1507.6325pt>
+id=1475, 2804.4775pt x 1507.6325pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx05.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx05.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx05.jpg  used on input line 579.
+hics/ExpLogAppEx05.jpg  used on input line 613.
 (pdftex.def)             Requested size: 216.81pt x 116.54124pt.
 
-LaTeX Warning: Reference `PowerFunctions' on page 92 undefined on input line 58
-9.
+LaTeX Warning: Reference `PowerFunctions' on page 96 undefined on input line 62
+3.
 
-
-Overfull \hbox (28.90155pt too wide) detected at line 599
+[96 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx04.j
+pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx05.j
+pg>]
+Overfull \hbox (28.90155pt too wide) detected at line 633
 []
  []
 
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx10.jpg, 
-id=1714, 2808.4925pt x 1507.6325pt>
+id=1482, 2808.4925pt x 1507.6325pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx10.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx10.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx10.jpg  used on input line 612.
+hics/ExpLogAppEx10.jpg  used on input line 646.
 (pdftex.def)             Requested size: 216.81pt x 116.38022pt.
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a.jpg,
- id=1715, 2804.4775pt x 1515.6625pt>
+ id=1483, 2804.4775pt x 1515.6625pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a
 .jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a.
 jpg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx06a.jpg  used on input line 614.
+hics/ExpLogAppEx06a.jpg  used on input line 648.
 (pdftex.def)             Requested size: 216.81pt x 117.16197pt.
-[92 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx04.j
-pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx05.j
-pg>]
+
+LaTeX Warning: Reference `lawofuninhibitedgrowth' on page 97 undefined on input
+ line 676.
+
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx09.jpg, 
-id=1724, 2804.4775pt x 1503.6175pt>
+id=1487, 2804.4775pt x 1503.6175pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx09.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx09.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx09.jpg  used on input line 654.
+hics/ExpLogAppEx09.jpg  used on input line 688.
 (pdftex.def)             Requested size: 216.81pt x 116.23088pt.
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx07a.jpg,
- id=1725, 2808.4925pt x 1507.6325pt>
+ id=1488, 2808.4925pt x 1507.6325pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx07a
 .jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx07a.
 jpg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx07a.jpg  used on input line 656.
+hics/ExpLogAppEx07a.jpg  used on input line 690.
 (pdftex.def)             Requested size: 216.81pt x 116.38022pt.
- [93 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx10.
-jpg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a
-.jpg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx09
-.jpg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx07
-a.jpg>]
+[97 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx10.j
+pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a.
+jpg>]
+
+LaTeX Warning: Reference `logisticgrowth' on page 98 undefined on input line 70
+4.
+
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx08.jpg, 
-id=1733, 2804.4775pt x 1513.655pt>
+id=1497, 2804.4775pt x 1513.655pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx08.
 jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx08.j
 pg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/ExpLogAppEx08.jpg  used on input line 681.
+hics/ExpLogAppEx08.jpg  used on input line 715.
 (pdftex.def)             Requested size: 361.34999pt x 195.02672pt.
- [94 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx08.
-jpg>]
-(./ExercisesforApplicationsofExponentialandLogarithmicFunctions.tex [95]
-[96] [97] [98]
+[98 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx09.j
+pg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx07a.
+jpg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx08.
+jpg>] (./ExercisesforApplicationsofExponentialandLogarithmicFunctions.tex
 
-LaTeX Warning: Reference `pursuitfurther' on page 99 undefined on input line 24
-8.
+LaTeX Warning: Reference `basicinterestexfirst' on page 99 undefined on input l
+ine 3.
 
 
-LaTeX Warning: Reference `PowerFunctions' on page 99 undefined on input line 24
-8.
+LaTeX Warning: Reference `basicinterestexlast' on page 99 undefined on input li
+ne 3.
+
+
+LaTeX Warning: Reference `basicinterestexfirst' on page 99 undefined on input l
+ine 39.
+
+
+LaTeX Warning: Reference `basicinterestexlast' on page 99 undefined on input li
+ne 39.
+
+
+LaTeX Warning: Reference `compoundinterest' on page 99 undefined on input line 
+46.
 
 [99]
 
-LaTeX Warning: Reference `parabolicbridgecable' on page 100 undefined on input 
-line 265.
+LaTeX Warning: Reference `compoundinterest' on page 100 undefined on input line
+ 72.
 
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 100 undefined on input li
-ne 265.
+LaTeX Warning: Reference `radioactivefirst' on page 100 undefined on input line
+ 77.
 
 
-LaTeX Warning: Reference `APLcats' on page 100 undefined on input line 269.
+LaTeX Warning: Reference `radioactivelast' on page 100 undefined on input line 
+77.
 
 
-LaTeX Warning: Reference `QuadraticFunctions' on page 100 undefined on input li
-ne 269.
+LaTeX Warning: Reference `radioactivefirst' on page 100 undefined on input line
+ 108.
 
 
-LaTeX Warning: Reference `LorenzEx' on page 100 undefined on input line 286.
+LaTeX Warning: Reference `radioactivelast' on page 100 undefined on input line 
+108.
+
+[100]
+
+LaTeX Warning: Reference `cardepreciationex' on page 101 undefined on input lin
+e 111.
 
 
-LaTeX Warning: Reference `PowerFunctions' on page 100 undefined on input line 2
-86.
+LaTeX Warning: Reference `ExponentialFunctions' on page 101 undefined on input 
+line 111.
+
+[101]
+
+LaTeX Warning: Reference `PainesvillePopulationManyPoints' on page 102 undefine
+d on input line 160.
 
 
-LaTeX Warning: Reference `LorenzEx' on page 100 undefined on input line 298.
+Underfull \vbox (badness 3078) has occurred while \output is active []
 
-[100] [101] [102] [103] [104] [105]
+ [102]
+
+LaTeX Warning: Reference `radioactivedecay' on page 103 undefined on input line
+ 221.
+
+
+LaTeX Warning: Reference `radioactivedecay' on page 103 undefined on input line
+ 231.
+
+
+LaTeX Warning: Reference `compoundinterest' on page 103 undefined on input line
+ 233.
+
+
+LaTeX Warning: Reference `radioactivedecay' on page 103 undefined on input line
+ 235.
+
+
+LaTeX Warning: Reference `newtonslawofcooling' on page 103 undefined on input l
+ine 239.
+
+
+LaTeX Warning: Reference `pursuitfurther' on page 103 undefined on input line 2
+49.
+
+
+LaTeX Warning: Reference `PowerFunctions' on page 103 undefined on input line 2
+49.
+
+[103]
+
+LaTeX Warning: Reference `explogsappcircuitone' on page 104 undefined on input 
+line 258.
+
+
+LaTeX Warning: Reference `parabolicbridgecable' on page 104 undefined on input 
+line 266.
+
+
+LaTeX Warning: Reference `QuadraticFunctions' on page 104 undefined on input li
+ne 266.
+
+
+LaTeX Warning: Reference `hyperbolicsine' on page 104 undefined on input line 2
+66.
+
+
+LaTeX Warning: Reference `ExponentialEquationsandInequalities' on page 104 unde
+fined on input line 266.
+
+
+LaTeX Warning: Reference `inversehyptangent' on page 104 undefined on input lin
+e 266.
+
+
+LaTeX Warning: Reference `LogarithmicEquationsandInequalities' on page 104 unde
+fined on input line 266.
+
+
+LaTeX Warning: Reference `APLcats' on page 104 undefined on input line 270.
+
+
+LaTeX Warning: Reference `QuadraticFunctions' on page 104 undefined on input li
+ne 270.
+
+
+LaTeX Warning: Reference `swineflulinearized' on page 104 undefined on input li
+ne 270.
+
+
+LaTeX Warning: Reference `LorenzEx' on page 104 undefined on input line 287.
+
+
+LaTeX Warning: Reference `PowerFunctions' on page 104 undefined on input line 2
+87.
+
+
+LaTeX Warning: Reference `swineflulinearized' on page 104 undefined on input li
+ne 287.
+
+
+LaTeX Warning: Reference `LorenzEx' on page 104 undefined on input line 299.
+
+
+LaTeX Warning: Reference `newlorenzepart' on page 104 undefined on input line 2
+99.
+
+[104]
+
+LaTeX Warning: Reference `PainesvillePopulationTwoPoint' on page 105 undefined 
+on input line 303.
+
+
+LaTeX Warning: Reference `PainesvillePopulationTwoPoint' on page 105 undefined 
+on input line 318.
+
+[105] [106] [107] [108] [109]
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/PURSUIT03.jpg, id=1
-958, 850.17625pt x 611.28375pt>
+693, 850.17625pt x 611.28375pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/PURSUIT03.jpg 
 Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/PURSUIT03.jpg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/PURSUIT03.jpg  used on input line 718.
+hics/PURSUIT03.jpg  used on input line 720.
 (pdftex.def)             Requested size: 150.76788pt x 108.405pt.
+ [110 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/PURSUIT03.jpg
+>]
+
+LaTeX Warning: Reference `LorenzEx' on page 111 undefined on input line 759.
 
 
-LaTeX Warning: Reference `LorenzEx' on page 106 undefined on input line 757.
-
-
-LaTeX Warning: Reference `PowerFunctions' on page 106 undefined on input line 7
-57.
+LaTeX Warning: Reference `PowerFunctions' on page 111 undefined on input line 7
+59.
 
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/OldLorenzModel.jpg,
- id=1959, 668.4975pt x 665.48625pt>
+ id=1716, 668.4975pt x 665.48625pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/OldLorenzModel
 .jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/OldLorenzModel.
 jpg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/OldLorenzModel.jpg  used on input line 763.
+hics/OldLorenzModel.jpg  used on input line 765.
 (pdftex.def)             Requested size: 108.88966pt x 108.405pt.
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/NewLorenzModel.jpg,
- id=1960, 666.49pt x 669.50125pt>
+ id=1717, 666.49pt x 669.50125pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/NewLorenzModel
 .jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/NewLorenzModel.
 jpg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/NewLorenzModel.jpg  used on input line 767.
+hics/NewLorenzModel.jpg  used on input line 769.
 (pdftex.def)             Requested size: 107.9118pt x 108.405pt.
-[106 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/PURSUIT03.jpg>
-]
+
+LaTeX Warning: Reference `PainesvillePopulationTwoPoint' on page 111 undefined 
+on input line 785.
+
 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/LAKECOUNTYLOGISTIC.
-jpg, id=1982, 1603.9925pt x 930.47626pt>
+jpg, id=1718, 1603.9925pt x 930.47626pt>
 File: ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/LAKECOUNTYLOGI
 STIC.jpg Graphic file (type jpg)
 <use ./ApplicationsofExponentialandLogarithmicFunctionsGraphics/LAKECOUNTYLOGIS
 TIC.jpg>
 Package pdftex.def Info: ./ApplicationsofExponentialandLogarithmicFunctionsGrap
-hics/LAKECOUNTYLOGISTIC.jpg  used on input line 795.
+hics/LAKECOUNTYLOGISTIC.jpg  used on input line 797.
 (pdftex.def)             Requested size: 249.15471pt x 144.54pt.
-))) [107 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/OldLorenzM
+))) [111 <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/OldLorenzM
 odel.jpg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/NewLorenz
 Model.jpg> <./ApplicationsofExponentialandLogarithmicFunctionsGraphics/LAKECOUN
 TYLOGISTIC.jpg>] (./CompilerExponentialandLogarithmicFunctions.aux
@@ -2011,18 +3151,25 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `CompilerExponentialandLogarithmicFunctions.o
-ut' has not changed.
-(rerunfilecheck)             Checksum: 31A90AF4F695994B9F27869E7D6E412E;3469.
+
+Package rerunfilecheck Warning: File `CompilerExponentialandLogarithmicFunction
+s.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CompilerExponentialandLogarithmicFu
+nctions.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  31A90AF4F695994B9F27869E7D6E412E;3469.
  ) 
 Here is how much of TeX's memory you used:
- 16055 strings out of 474116
- 258473 string characters out of 5743682
- 1956187 words of memory out of 5000000
- 36782 multiletter control sequences out of 15000+600000
- 627764 words of font info for 168 fonts, out of 8000000 for 9000
+ 16105 strings out of 474116
+ 259682 string characters out of 5743682
+ 1957187 words of memory out of 5000000
+ 36790 multiletter control sequences out of 15000+600000
+ 627164 words of font info for 166 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,21n,79p,1286b,1364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
@@ -2034,23 +3181,22 @@ a/cmex8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 mi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pf
-b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texl
-ive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/202
-4/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on CompilerExponentialandLogarithmicFunctions.pdf (107 pages, 20
-470657 bytes).
+9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
+.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.p
+fb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/
+2024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on CompilerExponentialandLogarithmicFunctions.pdf (111 pages, 20
+594525 bytes).
 PDF statistics:
- 2326 PDF objects out of 2487 (max. 8388607)
- 2110 compressed objects within 22 object streams
- 1158 named destinations out of 1200 (max. 500000)
- 374 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2067 PDF objects out of 2073 (max. 8388607)
+ 1848 compressed objects within 19 object streams
+ 1204 named destinations out of 1440 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
