@@ -721,7 +721,21 @@ In Exercises \ref{domainfirst} - \ref{domainlast}, express the domain of the fun
 
 \item\label{IPexamplecosineincdec} In Example \ref{IPexamplecosine},  $f(x) =x-2\cos(x)$ restricted to $0 \leq x \leq 2\pi$.  If $f'(x) = 2\sin(x)+1$, list the open intervals over which $f$ is increasing and decreasing.  Find the local extrema. 
 
+\item  Let $f(x) = e^{-x} \, \sin(x)$ for $x > 0$.
 
+\begin{enumerate}
+
+\item  Use the Squeeze Theorem, Theorem \ref{squeezeth},  to find $\ds{\lim_{x \rightarrow \infty} f(x)}$.  Interpret your answer graphically.
+
+\smallskip
+
+\textbf{HINT:}   Since $-1 \leq \sin (x)  \leq 1$, $-e^{-x} \leq   e^{-x}   \sin (x)   \leq e^{-x}$ \ldots
+
+\item  Use the fact that  $f'(x) = e^{-x} \cos(x) - e^{-x} \sin(x)$ to help you find the intervals over which $f$ is increasing and decreasing.
+
+\item  Use the fact that $f''(x) = -2 e^{-x} \cos(x)$ to help you find the intervals over which the graph of $f$ is concave up and concave down.
+
+\end{enumerate}
 
 \item\label{squeezefordampedmotionexercise} Recall  $x(t) = 10e^{-t/5} \sin\left(t + \frac{\pi}{3}\right)$ from  Example \ref{underdampedresonance} number \ref{underdampedproblem} models underdamped motion. Use the Squeeze Theorem, Theorem \ref{squeezeth}, to prove $\ds{\lim_{t \rightarrow \infty} x(t) = 0}$.
 
@@ -1410,4 +1424,38 @@ In Exercises \ref{domainfirst} - \ref{domainlast}, express the domain of the fun
 \item  The inflection points are:  $\left( \arccos\left(\frac{1}{4}\right), \frac{3 \sqrt{15}}{8} \right)$, $( \pi, 0)$, and $\left( 2\pi - \arccos\left(\frac{1}{4}\right), - \frac{3 \sqrt{15}}{8} \right)$
 
 \item  $f$ is increasing on $\left(0, \frac{7\pi}{6} \right)$ and again on $\left(\frac{11\pi}{6}, 2\pi \right)$;  $f$ is decreasing on  $\left(\frac{7 \pi}{6}, \frac{11\pi}{6} \right)$; local (absolute) max:  $\left(\frac{7\pi}{6}, \frac{7\pi}{6} + \sqrt{3}\right)$; local min:  $\left(\frac{11\pi}{6}, \frac{11\pi}{6} - \sqrt{3}\right)$
+
+\item  \begin{enumerate} \item  $\ds{\lim_{x \rightarrow \infty} f(x) = 0}$.  We have a horizontal asymptote $y = 0$. 
+
+\item  \begin{itemize} \item $f$ is increasing on $\left(0, \frac{\pi}{4} \right)$, $\left(\frac{5\pi}{4}, \frac{9 \pi}{4} \right)$, $\left(\frac{13\pi}{4}, \frac{17 \pi}{4} \right)$, \ldots :  
+
+\smallskip
+
+In other words: on $\left(0, \frac{\pi}{4} \right)$ along with $\left( \frac{(8k+5) \pi}{4}, \frac{(8k+9)\pi}{4}\right)$ for $k = 0, 1, 2, 3, \ldots$
+
+\item $f$ is decreasing on$\left(\frac{\pi}{4}, \frac{5 \pi}{4} \right)$, $\left(\frac{9\pi}{4}, \frac{13 \pi}{4} \right)$, $\left(\frac{17\pi}{4}, \frac{21\pi}{4} \right)$, \ldots : 
+
+\smallskip
+
+In other words:  on $\left( \frac{(8k+1) \pi}{4}, \frac{(8k+5)\pi}{4}\right)$ for $k  = 0, 1, 2, 3 \ldots$
+
+\end{itemize}
+
+\item   \begin{itemize} \item the graph of $f$ is concave up on $\left(\frac{\pi}{2}, \frac{3\pi}{2} \right)$, $\left(\frac{5\pi}{2}, \frac{7 \pi}{2} \right)$, $\left(\frac{9\pi}{2}, \frac{11 \pi}{2} \right)$, \ldots :  
+
+\smallskip
+
+In other words: on  $\left( \frac{(4k+1) \pi}{2}, \frac{(4k+3)\pi}{2}\right)$ for $k = 0,1, 2, 3, \ldots$
+
+\item the graph of $f$ is concave down on  $\left(0, \frac{\pi}{2} \right)$, $\left(\frac{3\pi}{2}, \frac{5 \pi}{2} \right)$, $\left(\frac{7 \pi}{2}, \frac{9\pi}{2} \right)$, \ldots : 
+
+\smallskip
+
+In other words:  on $\left(0, \frac{\pi}{2} \right)$ along with $\left( \frac{(4k+3) \pi}{2}, \frac{(4k+5)\pi}{2}\right)$ for $k  = 0, 1, 2, 3 \ldots$
+
+\end{itemize}
+
+\end{enumerate}
+
+
 \end{enumerate} 

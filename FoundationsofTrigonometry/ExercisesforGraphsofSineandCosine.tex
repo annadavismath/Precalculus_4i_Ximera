@@ -196,20 +196,76 @@ In Exercises \ref{fitsinecosinefirst} - \ref{fitsinecosinelast},  a sinusoid is 
 \setcounter{HW}{\value{enumi}}
 \end{enumerate}
 
-In Exercises \ref{exploregraphsfirst} - \ref{exploregraphslast}, use a graphing utility to graph each function and discuss the related questions with your classmates.
+In Exercises \ref{exploregraphsfirst} - \ref{exploregraphslast}, use a graphing utility to help you and your classmates discuss the given questions.
 
 
 \begin{enumerate}
 
 \setcounter{enumi}{\value{HW}}
 
-\item  $f(t) = \cos(3t) + \sin(t)$.  Is this function periodic?  If so, what is the period? \label{exploregraphsfirst}
-\item  $f(t) = \frac{\sin(t)}{t}$.  What appears to be the horizontal asymptote of the graph? 
-\item  $f(t) = t \sin(t)$.  Graph $y = \pm t$. What do you notice? 
-\item  $f(t) = \sin\left(\frac{1}{t}\right)$.  What's happening as $t \rightarrow 0$?
-%\item  $f(x) = x - \tan(x)$.  Graph $y = x$ on the same set of axes and describe the behavior of $f$.  
-\item  $f(t) = e^{-0.1t} \left( \cos(2t) + \sin(2t)\right)$.  Graph $y = \pm e^{-0.1t}$ on the same set of axes. What do you notice?
-\item  $f(t) = e^{-0.1t} \left( \cos(2t) + 2\sin(t)\right)$.  Graph $y = \pm e^{-0.1t}$ on the same set of axes.  What do you notice? \label{exploregraphslast}
+\item  Graph $f(t) = \cos(3t) + \sin(t)$.  Is this function periodic?  If so, what is the period? \label{exploregraphsfirst}
+
+\smallskip
+
+\item  Graph $f(t) = t \sin(t)$ along with  $y = \pm t$. What do you notice? 
+
+\smallskip
+
+\item  Graph $f(t) = \frac{\sin(t)}{t}$ along with  $y = \pm \frac{1}{t}$.   What do you notice?
+
+\begin{enumerate}
+
+\item What appears to be $\ds{\lim_{t \rightarrow \infty} f(t)}$?    Interpret your answer graphically.
+
+\smallskip
+
+\item  Use the Squeeze Theorem, Theorem \ref{squeezeth} from Section \ref{Sequences} to prove your claim.  
+
+\smallskip
+
+\textbf{HINT:}  Since $-1 \leq \sin(t) \leq 1$, for $t>0$, $-\frac{1}{t} \leq \frac{\sin(t)}{t} \leq \frac{1}{t}$ \ldots
+
+\end{enumerate}
+
+\smallskip
+
+
+\item  Graph $f(t) = \cos\left(\frac{1}{t}\right)$.  
+
+\begin{enumerate}
+
+\item Investigate  $\ds{\lim_{t \rightarrow 0} f(t)}$.  Does $\ds{\lim_{t \rightarrow 0} f(t)}$ exist?  Why or why not?
+
+\smallskip
+
+\item  Determine $\ds{\lim_{t \rightarrow \infty} f(t)}$ and interpret your answer graphically.
+
+\end{enumerate}
+
+\smallskip
+
+\item  Graph $f(t) = e^{-0.1t} \left( \cos(2t) + \sin(2t)\right)$ along with $y = \pm 2 \, e^{-0.1t}$. What do you notice?  \label{exploregraphslast}
+
+\begin{enumerate}
+
+\item What appears to be $\ds{\lim_{t \rightarrow \infty} f(t)}$?   Interpret your answer graphically.
+
+\smallskip
+
+\item  Use the Squeeze Theorem, Theorem \ref{squeezeth} from Section \ref{Sequences} to prove your claim.  
+
+\smallskip
+
+\textbf{HINT:}  Since $-1 \leq \cos(2t) \leq 1$ and $-1 \leq \sin(2t) \leq 1$, $-2 \leq \cos(2t) + \sin(2t) \leq 2$.  
+
+\smallskip
+
+Hence, $-2 e^{-0.1t} \leq e^{-0.1t} \left( \cos(2t) + \sin(2t)\right) \leq 2e^{-0.1t}$ \ldots
+
+\end{enumerate}
+
+\smallskip
+
 
 \setcounter{HW}{\value{enumi}}
 
@@ -282,7 +338,7 @@ where $\ell$ is the length of the pendulum and $g$ is the acceleration due to gr
 
 \end{enumerate}
 
-\newpage
+
 
 \item  The table below lists the average temperature of Lake Erie as measured in Cleveland, Ohio on the first of the month for each month during the years 1971 -- 2000.\footnote{See this website: \href{http://www.erh.noaa.gov/cle/climate/cle/normals/laketempcle.html}{\underline{http://www.erh.noaa.gov/cle/climate/cle/normals/laketempcle.html}.}}  For example,   $t=3$ represents the average of the temperatures recorded for Lake Erie on every March 1 for the years 1971 -- 2000.
 
@@ -730,9 +786,66 @@ One cycle is graphed below. \\
 \setcounter{HW}{\value{enumi}}
 \end{enumerate}
 
+
+\begin{enumerate}
+
+\setcounter{enumi}{\value{HW}}
+
+\item  $f(t) = \cos(3t) + \sin(t)$ has period $2\pi$.
+
+\item  The graph of  $f(t) = t \sin(t)$ is bounded by the lines  $y = \pm t$;   $f$ has a variable amplitude of $t$.
+
+\item The graph of $f(t) = \frac{\sin(t)}{t}$ is  bounded by the graphs of  $y = \pm \frac{1}{t}$; $f$ has a variable amplitude of $\frac{1}{t}$.
+
+\begin{enumerate}
+
+\item  $\ds{\lim_{t \rightarrow \infty} f(t) = 0}$.    We have a horizontal asymptote $y = 0$.
+
+\item  Since   $-\frac{1}{t} \leq \frac{\sin(t)}{t} \leq \frac{1}{t}$,  $\ds{\lim_{t \rightarrow \infty}}$  $\left(- \frac{1}{t}\right)$ $=\ds{\lim_{t \rightarrow \infty}}$ $\frac{1}{t} = 0$,    $\ds{\lim_{t \rightarrow \infty}}$ $\frac{\sin(t)}{t} = 0$ by the Squeeze Theorem.
+
+\end{enumerate}
+
+
+\item  Graph $f(t) = \cos\left(\frac{1}{t}\right)$.  
+
+\begin{enumerate}
+
+\item   $\ds{\lim_{t \rightarrow 0} f(t)}$ does not exist.  We have infinitely many oscillations as $t \rightarrow 0$.
+
+\item $\ds{\lim_{t \rightarrow \infty} f(t) = 1}$ since as $t \rightarrow \infty$, $\frac{1}{t} \rightarrow 0$.  Since cosine is continuous, $\cos\left(\frac{1}{t}\right) \rightarrow \cos(0) =  1$.  
+
+\smallskip
+
+We have a horizontal asymptote $y = 1$.
+
+\end{enumerate}
+
+\smallskip
+
+\item  The graph of  $f(t) = e^{-0.1t} \left( \cos(2t) + \sin(2t)\right)$ lies between\footnote{We'll be able to show in Section \ref{expandedsinusoid} that the graph of $f$ more perfectly lies between the graphs of $y = \pm \sqrt{2} \, e^{-0.1 t}$ \ldots}  the graphs of $y = \pm 2 \, e^{-0.1t}$.
+\begin{enumerate}
+
+\item $\ds{\lim_{t \rightarrow \infty} f(t) = 0}$.   We have a horizontal asymptote $y = 0$.
+
+\smallskip
+
+\item   Since   $-2 e^{-0.1t}  \leq e^{-0.1t} \left( \cos(2t) + \sin(2t)\right) \leq 2 e^{-0.1t}$,   $\ds{\lim_{t \rightarrow \infty}}$  $\left(- 2 e^{-0.1t}\right)$ $ = \ds{\lim_{t \rightarrow \infty}}$ $2 e^{-0.1t}=0$ , the Squeeze Theorem gives  $\ds{\lim_{t \rightarrow \infty}}$ $ e^{-0.1t} \left( \cos(2t) + \sin(2t)\right) = 0$.
+
+
+\end{enumerate}
+
+\smallskip
+
+
+\setcounter{HW}{\value{enumi}}
+
+\end{enumerate}
+
+
+
 \begin{enumerate}
 \setcounter{enumi}{\value{HW}}
-\addtocounter{enumi}{7}
+
 
 \begin{multicols}{2}
 

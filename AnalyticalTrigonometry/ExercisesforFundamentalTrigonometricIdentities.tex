@@ -525,14 +525,12 @@ In Exercises \ref{logcircidenfirst} - \ref{logcircidenlast}, verify the identity
 \begin{multicols}{2}
 
 \begin{enumerate}
-
 \setcounter{enumi}{\value{HW}}
 
 \item  $\quad \ln|\sec(x)| = -\ln|\cos(x)|$ \label{logcircidenfirst}
 \item  $-\ln|\csc(x)| = \ln|\sin(x)|$
 
 \setcounter{HW}{\value{enumi}}
-
 \end{enumerate}
 
 \end{multicols}
@@ -547,10 +545,27 @@ In Exercises \ref{logcircidenfirst} - \ref{logcircidenlast}, verify the identity
 \item  $-\ln|\csc(x) + \cot(x)|= \ln|\csc(x) - \cot(x)|$ \label{logcircidenlast}
 
 \setcounter{HW}{\value{enumi}}
-
 \end{enumerate}
 
 \end{multicols}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+%\addtocounter{enumi}{51}
+
+\item\label{oneminuscosinelimit}  \begin{enumerate}  \item What indeterminate form is present in the limit $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{1 - \cos(\theta)}{\theta}$?
+
+\item  Graph $f(\theta) = \frac{1 - \cos(\theta)}{\theta}$ near $\theta = 0$. What appears to be $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{1 - \cos(\theta)}{\theta}$?
+
+
+\item\label{oneminuscosinerewrite}  Verify the identity:  $\frac{1 - \cos(\theta)}{\theta} = \frac{\sin(\theta)}{1 + \cos(\theta)} \, \frac{\sin(\theta)}{\theta}$.
+
+\item  Use the fact\footnote{See Exercise \ref{sintovertexercise3} in Section \ref{TheOtherCircularFunctions}.} that $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{\sin(\theta)}{\theta} = 1$ along with  part \ref{oneminuscosinerewrite} to help you find $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{1 - \cos(\theta)}{\theta}$.
+
+\end{enumerate}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
 
 \newpage
 
@@ -652,6 +667,24 @@ In Exercises \ref{logcircidenfirst} - \ref{logcircidenlast}, verify the identity
 \setcounter{enumi}{\value{HW}}
 
 \item No, Skippy is not correct.  In order to be an identity, an equation must hold for \textit{all} applicable angles.  For example,  $\cos(\theta) + \sin(\theta) = 1$ does not hold when $\theta = \pi$.  
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+\addtocounter{enumi}{51}
+
+\item  \begin{enumerate}  \item  As $\theta \rightarrow 0$,  $\frac{1 - \cos(\theta)}{\theta} \rightarrow \frac{0}{0}$.
+
+
+\item  The graph of  $f(\theta) = \frac{1 - \cos(\theta)}{\theta}$ approaches $(0,0)$, so   $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{1 - \cos(\theta)}{\theta}$ appears to be $0$.
+
+\addtocounter{enumii}{1}
+
+
+\item  $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{1 - \cos(\theta)}{\theta}$ $= \ds{\lim_{\theta \rightarrow 0}}$ $\frac{\sin(\theta)}{1 + \cos(\theta)} \, \frac{\sin(\theta)}{\theta} = \left(\frac{0}{1+\cos(0)}\right)(1) = \left(\frac{0}{2}\right)(1) = 0$.
+\end{enumerate}
 
 \setcounter{HW}{\value{enumi}}
 \end{enumerate}

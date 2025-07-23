@@ -245,6 +245,52 @@ Exercises \ref{losincliniationdepressionexfirst} -  \ref{losincliniationdepressi
 
 \item  \label{losincliniationdepressionexlast} The angle of depression from an observer in an apartment complex to a gargoyle on the building next door is $55^{\circ}$.  From a point five stories below the original observer, the angle of inclination to the gargoyle is $20^{\circ}$.  Find the distance from each observer to the gargoyle and the distance from the gargoyle to the apartment complex.  Round your answers to the nearest foot.  (Use the rule of thumb that one story of a building is 9 feet.)  
 
+\setcounter{HW}{\value{enumi}}
+
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+\item \label{losincliniationdepressionexlast} A villainous trio from a copyrighted anime ascends vertically in their hot air balloon from a point on level ground at a constant rate of $6$ feet per second.  Let $\theta$ be the angle of inclination to the base of the balloon basket from a point on the ground 40 feet away from the launch point.  
+
+\begin{enumerate}
+
+\item Let $h$ denote the height of the balloon off of the ground.  Show $h = 40 \sin(\theta)$.
+
+\item Use the related rate law:\footnote{Theorem \ref{relatedratesaroc} in Section  \ref{RelatedRates}}  $\frac{\Delta h}{\Delta t} = \frac{\Delta h}{\Delta \theta} \, \frac{\Delta \theta}{\Delta t}$ to help you find the rate of change of $\theta$ with respect to time as $\theta$ increases from $60^{\circ}$ to $60.1^{\circ}$.  Remember to give units.
+
+\end{enumerate}
+
+
+\item  It takes 2 minutes for the 160 foot Ashtabula Bascule Lift Bridge to rotate $45^{\circ}$ from its horizontal position to its raised position, as seen below.\footnote{You can see a video of the bridge being raised  \href{http://www.youtube.com/watch?v=PRwZzzPyK2g}{\underline{here}}.}
+
+
+\smallskip
+
+\centerline{\includegraphics[width=2in]{./LawofSinesGraphics/AshBridge.jpg}}
+
+\smallskip
+
+
+Assume the bridge casts a shadow directly below itself the entire time it is being raised,\footnote{That is, the sun is directly overhead of the bridge and is shining for an entire two minutes... which never actually happens.} 
+
+\begin{enumerate}
+
+\item  Let $s$ denote the length of the shadow of the bridge on the water.  Show $s = 160 \cos(\theta)$. 
+ 
+\smallskip
+
+\item Assuming  the angle of elevation of the bridge changes at a constant rate, use the related rate law:\footnote{Theorem \ref{relatedratesaroc} in Section  \ref{RelatedRates}} $\frac{\Delta s}{\Delta t} = \frac{\Delta s}{\Delta \theta} \, \frac{\Delta \theta}{\Delta t}$   to help you find the rate of change of the shadow length with respect to time as $\theta$ increases from $30^{\circ}$ to $30.1^{\circ}$.  Remember to give units.
+
+
+\end{enumerate}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
 \item Prove that the Law of Sines holds when $\triangle ABC$ is a right triangle.
 
 \item Discuss with your classmates why knowing only the three angles of a triangle is not enough to determine any of the sides.
@@ -551,4 +597,54 @@ The HMS Sasquatch is about 2.9 miles from the flare.
 The gargoyle is about 27 feet from the observer on the lower floor. \\
 The gargoyle is about 25 feet from the other building.
 
+\setcounter{HW}{\value{enumi}}
 \end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+\item \begin{enumerate} \addtocounter{enumii}{1}
+
+\item  $\frac{\Delta h}{\Delta t}$ is given as a constant $6 \, \frac{\text{ft}}{\text{s}}$. $\frac{\Delta h}{\Delta \theta} = \frac{h(60.1) - h(60)}{0.1} \approx 0.348 \, \frac{\text{ft}}{\text{degree,  } \,  \circ}$.  
+
+\smallskip
+
+Hence, $\frac{\Delta \theta}{\Delta t} = \frac{ 6 \, \frac{\text{ft}}{\text{s}}   }{ 0.348 \, \frac{\text{ft}}{\text{degree,  } \, \circ}} \approx 17.215 \, \frac{ \text{degree,  } \, \circ}{s}$.  
+
+\smallskip
+
+The angle of elevation is increasing at an average rate of $17.215$ degrees  per second.  
+
+\smallskip
+
+\textbf{WARNING:} For (good) reasons you'll explore more deeply in Calculus, you'll usually stick with radians when the Calculus version of this problem rolls around \ldots  
+
+\end{enumerate}
+
+
+\item  \begin{enumerate} \addtocounter{enumii}{1}
+
+\item   $\frac{\Delta s}{\Delta \theta} = \frac{s(30.1) - s(30)}{0.1} \approx -1.398 \, \frac{\text{ft}}{\text{degree} \,  \circ}$.  
+
+\smallskip
+
+We are told to assume $\frac{\Delta \theta }{\Delta t}$ is a constant, so $\frac{\Delta s}{\Delta t} = \frac{45^{\circ}}{2 \, \text{minutes}} = 22.5 \, \frac{\text{degree,  } \, \circ}{\text{min}}$.
+
+\smallskip
+
+We get:  $\frac{\Delta s}{\Delta t} = \frac{\Delta s}{\Delta \theta} \, \frac{\Delta \theta }{\Delta t} \approx \left(-1.398 \, \frac{\text{ft}}{\text{degree,  } \,  \circ} \right) \left(  22.5 \, \frac{\text{degree,  } \, \circ}{\text{min}} \right) \approx -31.436 \, \frac{\text{ft}}{\text{min}}$.
+
+\smallskip
+
+This means the shadow is receding at a rate of approximately 31.436 feet per minute.
+
+\smallskip
+
+\textbf{WARNING:} For (good) reasons you'll explore more deeply in Calculus, you'll usually stick with radians when the Calculus version of this problem rolls around \ldots  
+
+\end{enumerate}
+
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+

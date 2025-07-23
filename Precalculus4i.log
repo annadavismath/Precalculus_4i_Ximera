@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  22 JUL 2025 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  23 JUL 2025 13:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -697,6 +697,9 @@ LaTeX Warning: Label `ExercisesforAppDerivatives' multiply defined.
 
 
 LaTeX Warning: Label `limseqexlast' multiply defined.
+
+
+LaTeX Warning: Label `losincliniationdepressionexlast' multiply defined.
 
 
 LaTeX Warning: Label `inversemidpoint' multiply defined.
@@ -1663,597 +1666,597 @@ Overfull \hbox (1.18849pt too wide) detected at line 201
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 202
- []\OT1/phv/m/n/10.95 964
+ []\OT1/phv/m/n/10.95 965
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 203
- []\OT1/phv/m/n/10.95 969
+ []\OT1/phv/m/n/10.95 971
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 204
- []\OT1/phv/m/n/10.95 977
+ []\OT1/phv/m/n/10.95 979
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 205
- []\OT1/phv/m/n/10.95 980
+ []\OT1/phv/m/n/10.95 982
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 206
- []\OT1/phv/m/n/10.95 983
+ []\OT1/phv/m/n/10.95 985
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 207
- []\OT1/phv/m/n/10.95 983
+ []\OT1/phv/m/n/10.95 985
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 208
- []\OT1/phv/m/n/10.95 989
+ []\OT1/phv/m/n/10.95 991
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 209
- []\OT1/phv/m/n/10.95 996
- []
-
-
-Overfull \hbox (1.18849pt too wide) detected at line 210
  []\OT1/phv/m/n/10.95 998
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 211
+Overfull \hbox (6.78955pt too wide) detected at line 210
  []\OT1/phv/m/n/10.95 1000
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 211
+ []\OT1/phv/m/n/10.95 1002
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 213
- []\OT1/phv/m/n/10.95 1005
+ []\OT1/phv/m/n/10.95 1007
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 214
- []\OT1/phv/m/n/10.95 1012
+ []\OT1/phv/m/n/10.95 1014
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 215
- []\OT1/phv/m/n/10.95 1015
+ []\OT1/phv/m/n/10.95 1017
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 216
- []\OT1/phv/m/n/10.95 1016
+ []\OT1/phv/m/n/10.95 1018
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 217
- []\OT1/phv/m/n/10.95 1029
+ []\OT1/phv/m/n/10.95 1031
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 218
- []\OT1/phv/m/n/10.95 1033
+ []\OT1/phv/m/n/10.95 1035
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 219
- []\OT1/phv/m/n/10.95 1039
+ []\OT1/phv/m/n/10.95 1041
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 220
- []\OT1/phv/m/n/10.95 1042
+ []\OT1/phv/m/n/10.95 1044
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 221
- []\OT1/phv/m/n/10.95 1053
+ []\OT1/phv/m/n/10.95 1054
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 222
- []\OT1/phv/m/n/10.95 1057
+ []\OT1/phv/m/n/10.95 1058
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 223
- []\OT1/phv/m/n/10.95 1061
+ []\OT1/phv/m/n/10.95 1062
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 224
- []\OT1/phv/m/n/10.95 1065
+ []\OT1/phv/m/n/10.95 1066
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 225
- []\OT1/phv/m/n/10.95 1070
+ []\OT1/phv/m/n/10.95 1071
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 226
- []\OT1/phv/m/n/10.95 1077
+ []\OT1/phv/m/n/10.95 1078
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 227
- []\OT1/phv/m/n/10.95 1085
+ []\OT1/phv/m/n/10.95 1086
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 228
- []\OT1/phv/m/n/10.95 1109
+ []\OT1/phv/m/n/10.95 1110
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 229
- []\OT1/phv/m/n/10.95 1118
+ []\OT1/phv/m/n/10.95 1119
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 230
- []\OT1/phv/m/n/10.95 1122
+ []\OT1/phv/m/n/10.95 1123
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 232
- []\OT1/phv/m/n/10.95 1127
+ []\OT1/phv/m/n/10.95 1129
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 233
- []\OT1/phv/m/n/10.95 1135
+ []\OT1/phv/m/n/10.95 1137
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 234
- []\OT1/phv/m/n/10.95 1138
+ []\OT1/phv/m/n/10.95 1140
  []
 
 [8]
 Overfull \hbox (6.78955pt too wide) detected at line 235
- []\OT1/phv/m/n/10.95 1141
+ []\OT1/phv/m/n/10.95 1144
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 236
- []\OT1/phv/m/n/10.95 1143
+ []\OT1/phv/m/n/10.95 1146
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 237
- []\OT1/phv/m/n/10.95 1149
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 238
- []\OT1/phv/m/n/10.95 1151
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 239
  []\OT1/phv/m/n/10.95 1152
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 238
+ []\OT1/phv/m/n/10.95 1154
+ []
+
+
+Overfull \hbox (6.78955pt too wide) detected at line 239
+ []\OT1/phv/m/n/10.95 1155
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 240
- []\OT1/phv/m/n/10.95 1168
+ []\OT1/phv/m/n/10.95 1171
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 241
- []\OT1/phv/m/n/10.95 1172
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 242
  []\OT1/phv/m/n/10.95 1175
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 242
+ []\OT1/phv/m/n/10.95 1178
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 243
- []\OT1/phv/m/n/10.95 1180
+ []\OT1/phv/m/n/10.95 1183
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 244
- []\OT1/phv/m/n/10.95 1185
+ []\OT1/phv/m/n/10.95 1188
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 245
- []\OT1/phv/m/n/10.95 1187
+ []\OT1/phv/m/n/10.95 1190
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 247
- []\OT1/phv/m/n/10.95 1191
+ []\OT1/phv/m/n/10.95 1193
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 248
- []\OT1/phv/m/n/10.95 1203
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 249
  []\OT1/phv/m/n/10.95 1205
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 249
+ []\OT1/phv/m/n/10.95 1207
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 250
- []\OT1/phv/m/n/10.95 1211
+ []\OT1/phv/m/n/10.95 1213
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 251
- []\OT1/phv/m/n/10.95 1232
+ []\OT1/phv/m/n/10.95 1234
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 252
- []\OT1/phv/m/n/10.95 1237
+ []\OT1/phv/m/n/10.95 1239
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 253
- []\OT1/phv/m/n/10.95 1247
+ []\OT1/phv/m/n/10.95 1249
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 254
- []\OT1/phv/m/n/10.95 1261
+ []\OT1/phv/m/n/10.95 1263
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 255
- []\OT1/phv/m/n/10.95 1264
+ []\OT1/phv/m/n/10.95 1266
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 256
- []\OT1/phv/m/n/10.95 1269
+ []\OT1/phv/m/n/10.95 1271
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 257
- []\OT1/phv/m/n/10.95 1269
+ []\OT1/phv/m/n/10.95 1271
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 258
- []\OT1/phv/m/n/10.95 1277
+ []\OT1/phv/m/n/10.95 1279
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 259
- []\OT1/phv/m/n/10.95 1284
+ []\OT1/phv/m/n/10.95 1286
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 260
- []\OT1/phv/m/n/10.95 1285
+ []\OT1/phv/m/n/10.95 1287
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 261
- []\OT1/phv/m/n/10.95 1289
+ []\OT1/phv/m/n/10.95 1291
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 262
- []\OT1/phv/m/n/10.95 1301
+ []\OT1/phv/m/n/10.95 1303
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 263
- []\OT1/phv/m/n/10.95 1306
+ []\OT1/phv/m/n/10.95 1308
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 265
- []\OT1/phv/m/n/10.95 1315
+ []\OT1/phv/m/n/10.95 1317
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 266
- []\OT1/phv/m/n/10.95 1315
+ []\OT1/phv/m/n/10.95 1317
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 267
- []\OT1/phv/m/n/10.95 1318
+ []\OT1/phv/m/n/10.95 1320
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 268
- []\OT1/phv/m/n/10.95 1325
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 269
  []\OT1/phv/m/n/10.95 1327
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 269
+ []\OT1/phv/m/n/10.95 1329
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 270
- []\OT1/phv/m/n/10.95 1330
+ []\OT1/phv/m/n/10.95 1332
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 271
- []\OT1/phv/m/n/10.95 1349
+ []\OT1/phv/m/n/10.95 1351
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 272
- []\OT1/phv/m/n/10.95 1350
+ []\OT1/phv/m/n/10.95 1352
  []
 
 [9]
 Overfull \hbox (6.78955pt too wide) detected at line 273
- []\OT1/phv/m/n/10.95 1351
+ []\OT1/phv/m/n/10.95 1353
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 274
- []\OT1/phv/m/n/10.95 1351
+ []\OT1/phv/m/n/10.95 1353
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 275
- []\OT1/phv/m/n/10.95 1355
+ []\OT1/phv/m/n/10.95 1357
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 276
- []\OT1/phv/m/n/10.95 1361
+ []\OT1/phv/m/n/10.95 1363
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 277
- []\OT1/phv/m/n/10.95 1365
+ []\OT1/phv/m/n/10.95 1367
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 278
- []\OT1/phv/m/n/10.95 1367
+ []\OT1/phv/m/n/10.95 1369
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 279
- []\OT1/phv/m/n/10.95 1367
+ []\OT1/phv/m/n/10.95 1369
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 280
- []\OT1/phv/m/n/10.95 1372
+ []\OT1/phv/m/n/10.95 1374
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 281
- []\OT1/phv/m/n/10.95 1375
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 282
  []\OT1/phv/m/n/10.95 1377
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 283
+Overfull \hbox (6.78955pt too wide) detected at line 282
  []\OT1/phv/m/n/10.95 1379
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 284
- []\OT1/phv/m/n/10.95 1390
+Overfull \hbox (6.78955pt too wide) detected at line 283
+ []\OT1/phv/m/n/10.95 1381
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 285
+Overfull \hbox (6.78955pt too wide) detected at line 284
  []\OT1/phv/m/n/10.95 1392
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 285
+ []\OT1/phv/m/n/10.95 1394
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 286
- []\OT1/phv/m/n/10.95 1395
+ []\OT1/phv/m/n/10.95 1397
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 287
- []\OT1/phv/m/n/10.95 1401
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 288
- []\OT1/phv/m/n/10.95 1402
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 289
  []\OT1/phv/m/n/10.95 1403
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 290
+Overfull \hbox (6.78955pt too wide) detected at line 288
  []\OT1/phv/m/n/10.95 1404
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 291
+Overfull \hbox (6.78955pt too wide) detected at line 289
+ []\OT1/phv/m/n/10.95 1405
+ []
+
+
+Overfull \hbox (6.78955pt too wide) detected at line 290
  []\OT1/phv/m/n/10.95 1406
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 291
+ []\OT1/phv/m/n/10.95 1408
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 292
- []\OT1/phv/m/n/10.95 1410
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 293
- []\OT1/phv/m/n/10.95 1411
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 294
  []\OT1/phv/m/n/10.95 1412
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 295
+Overfull \hbox (6.78955pt too wide) detected at line 293
  []\OT1/phv/m/n/10.95 1413
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 294
+ []\OT1/phv/m/n/10.95 1414
+ []
+
+
+Overfull \hbox (6.78955pt too wide) detected at line 295
+ []\OT1/phv/m/n/10.95 1415
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 296
- []\OT1/phv/m/n/10.95 1416
+ []\OT1/phv/m/n/10.95 1418
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 297
- []\OT1/phv/m/n/10.95 1420
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 298
- []\OT1/phv/m/n/10.95 1421
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 299
  []\OT1/phv/m/n/10.95 1422
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 298
+ []\OT1/phv/m/n/10.95 1423
+ []
+
+
+Overfull \hbox (6.78955pt too wide) detected at line 299
+ []\OT1/phv/m/n/10.95 1424
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 300
- []\OT1/phv/m/n/10.95 1428
+ []\OT1/phv/m/n/10.95 1430
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 301
- []\OT1/phv/m/n/10.95 1433
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 302
- []\OT1/phv/m/n/10.95 1434
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 303
  []\OT1/phv/m/n/10.95 1435
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 302
+ []\OT1/phv/m/n/10.95 1436
+ []
+
+
+Overfull \hbox (6.78955pt too wide) detected at line 303
+ []\OT1/phv/m/n/10.95 1437
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 304
- []\OT1/phv/m/n/10.95 1446
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 305
- []\OT1/phv/m/n/10.95 1447
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 306
  []\OT1/phv/m/n/10.95 1448
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 305
+ []\OT1/phv/m/n/10.95 1449
+ []
+
+
+Overfull \hbox (6.78955pt too wide) detected at line 306
+ []\OT1/phv/m/n/10.95 1450
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 307
- []\OT1/phv/m/n/10.95 1453
+ []\OT1/phv/m/n/10.95 1455
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 308
- []\OT1/phv/m/n/10.95 1454
+ []\OT1/phv/m/n/10.95 1456
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 309
- []\OT1/phv/m/n/10.95 1457
+ []\OT1/phv/m/n/10.95 1459
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 310
- []\OT1/phv/m/n/10.95 1469
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 311
  []\OT1/phv/m/n/10.95 1471
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 311
+ []\OT1/phv/m/n/10.95 1473
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 312
- []\OT1/phv/m/n/10.95 1472
+ []\OT1/phv/m/n/10.95 1474
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 313
- []\OT1/phv/m/n/10.95 1480
+ []\OT1/phv/m/n/10.95 1482
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 314
- []\OT1/phv/m/n/10.95 1485
+ []\OT1/phv/m/n/10.95 1487
  []
 
 [10]
 Overfull \hbox (6.78955pt too wide) detected at line 315
- []\OT1/phv/m/n/10.95 1486
+ []\OT1/phv/m/n/10.95 1488
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 316
- []\OT1/phv/m/n/10.95 1487
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 317
  []\OT1/phv/m/n/10.95 1489
  []
 
 
-Overfull \hbox (6.78955pt too wide) detected at line 318
+Overfull \hbox (6.78955pt too wide) detected at line 317
  []\OT1/phv/m/n/10.95 1491
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 318
+ []\OT1/phv/m/n/10.95 1493
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 320
- []\OT1/phv/m/n/10.95 1494
+ []\OT1/phv/m/n/10.95 1496
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 321
- []\OT1/phv/m/n/10.95 1502
+ []\OT1/phv/m/n/10.95 1504
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 322
- []\OT1/phv/m/n/10.95 1503
- []
-
-
-Overfull \hbox (6.78955pt too wide) detected at line 323
  []\OT1/phv/m/n/10.95 1505
  []
 
 
+Overfull \hbox (6.78955pt too wide) detected at line 323
+ []\OT1/phv/m/n/10.95 1507
+ []
+
+
 Overfull \hbox (6.78955pt too wide) detected at line 324
- []\OT1/phv/m/n/10.95 1513
+ []\OT1/phv/m/n/10.95 1515
  []
 
 
 Overfull \hbox (6.78955pt too wide) detected at line 325
- []\OT1/phv/m/n/10.95 1517
+ []\OT1/phv/m/n/10.95 1519
  []
 
 )
@@ -10341,12 +10344,12 @@ File: ./SequencesandtheBinomialTheorem/Summation.5 Graphic file (type mps)
 (./SequencesandtheBinomialTheorem/Summation.5) [876] [877] [878]
 (./SequencesandtheBinomialTheorem/ExercisesforSummation.tex [879] [880]
 [881]
-Overfull \hbox (2.729pt too wide) in paragraph at lines 333--334
+Overfull \hbox (2.729pt too wide) in paragraph at lines 332--333
 []$[]\OT1/phv/m/n/10.95 (\OMS/cmsy/m/n/10.95 ^^@\OT1/phv/m/n/10.95 1)[][]$ 
  []
 
 
-Overfull \hbox (11.42967pt too wide) in paragraph at lines 411--412
+Overfull \hbox (11.42967pt too wide) in paragraph at lines 410--411
 []$[]$ 
  []
 
@@ -10991,166 +10994,167 @@ Overfull \hbox (19.85547pt too wide) in paragraph at lines 172--173
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.25 Graphic file (type m
 ps)
  [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.25)
-[962] [963]
-Underfull \hbox (badness 10000) in paragraph at lines 368--373
+[962] [963] [964]
+Underfull \hbox (badness 10000) in paragraph at lines 424--429
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.26 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.26)
-Underfull \hbox (badness 10000) in paragraph at lines 391--396
+Underfull \hbox (badness 10000) in paragraph at lines 447--452
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.27 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.27)
-Underfull \hbox (badness 10000) in paragraph at lines 414--419
+Underfull \hbox (badness 10000) in paragraph at lines 470--475
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.28 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.28)
-Underfull \hbox (badness 10000) in paragraph at lines 437--442
+Underfull \hbox (badness 10000) in paragraph at lines 493--498
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.29 Graphic file (type m
 ps)
-[MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.29) [964]
-Underfull \hbox (badness 10000) in paragraph at lines 461--466
+[MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.29) [965]
+Underfull \hbox (badness 10000) in paragraph at lines 517--522
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.30 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.30)
-Underfull \hbox (badness 10000) in paragraph at lines 484--489
+Underfull \hbox (badness 10000) in paragraph at lines 540--545
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.31 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.31)
-Underfull \hbox (badness 10000) in paragraph at lines 507--512
+Underfull \hbox (badness 10000) in paragraph at lines 563--568
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.32 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.32)
-Underfull \hbox (badness 10000) in paragraph at lines 530--535
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.33 Graphic file (type m
 ps)
-[MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.33) [965]
-Underfull \hbox (badness 10000) in paragraph at lines 553--559
+[MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.33) [966]
+Underfull \hbox (badness 10000) in paragraph at lines 609--615
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.34 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.34)
-Underfull \hbox (badness 10000) in paragraph at lines 577--583
+Underfull \hbox (badness 10000) in paragraph at lines 633--639
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.35 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.35)
-Underfull \hbox (badness 10000) in paragraph at lines 601--606
+Underfull \hbox (badness 10000) in paragraph at lines 657--662
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.36 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.36)
-Underfull \hbox (badness 10000) in paragraph at lines 624--630
+Underfull \hbox (badness 10000) in paragraph at lines 680--686
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.37 Graphic file (type m
 ps)
-[MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.37) [966]
-Underfull \hbox (badness 10000) in paragraph at lines 682--683
+[MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.37) [967]
+Underfull \hbox (badness 10000) in paragraph at lines 738--739
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.38 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.38)
-Overfull \hbox (2.87132pt too wide) in paragraph at lines 700--701
+Overfull \hbox (2.87132pt too wide) in paragraph at lines 756--757
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 706--707
+Underfull \hbox (badness 10000) in paragraph at lines 762--763
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 708--709
+Underfull \hbox (badness 10000) in paragraph at lines 764--765
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofSineandCosine.39 Graphic file (type m
 ps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.39)
-Overfull \hbox (2.87132pt too wide) in paragraph at lines 724--725
+Overfull \hbox (2.87132pt too wide) in paragraph at lines 780--781
 [][] 
  []
 
+[968]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempReg.jp
-g, id=16713, 869.2475pt x 610.28pt>
+g, id=16752, 869.2475pt x 610.28pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempR
 eg.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempRe
 g.jpg>
 Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
-phics/LakeErieTempReg.jpg  used on input line 773.
+phics/LakeErieTempReg.jpg  used on input line 886.
 (pdftex.def)             Requested size: 154.40193pt x 108.405pt.
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRegDesmos.
-jpg, id=16714, 1177.39874pt x 745.78625pt>
+jpg, id=16753, 1177.39874pt x 745.78625pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRegDe
 smos.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRegDes
 mos.jpg>
 Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
-phics/LakeErieRegDesmos.jpg  used on input line 784.
+phics/LakeErieRegDesmos.jpg  used on input line 897.
 (pdftex.def)             Requested size: 171.14064pt x 108.405pt.
-[967 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempR
-eg.jpg>]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminationRe
-g.jpg, id=16739, 1040.88875pt x 573.14125pt>
+g.jpg, id=16754, 1040.88875pt x 573.14125pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminat
 ionReg.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminati
 onReg.jpg>
 Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
-phics/MoonIlluminationReg.jpg  used on input line 801.
+phics/MoonIlluminationReg.jpg  used on input line 914.
 (pdftex.def)             Requested size: 196.8656pt x 108.405pt.
+ [969 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTemp
+Reg.jpg> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieR
+egDesmos.jpg>]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminatonDes
-mos.jpg, id=16741, 1040.88875pt x 542.025pt>
+mos.jpg, id=16777, 1040.88875pt x 542.025pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminat
 onDesmos.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminato
 nDesmos.jpg>
 Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
-phics/MoonIlluminatonDesmos.jpg  used on input line 813.
+phics/MoonIlluminatonDesmos.jpg  used on input line 926.
 (pdftex.def)             Requested size: 208.17406pt x 108.405pt.
-)) [968 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRe
-gDesmos.jpg> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonI
-lluminationReg.jpg> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphic
-s/MoonIlluminatonDesmos.jpg>]
+)) [970 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIllumi
+nationReg.jpg> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/Moo
+nIlluminatonDesmos.jpg>]
 (./FoundationsofTrigonometry/TheOtherCircularFunctions.tex
 
 Mfpic: Initializing TheOtherCircularFunctions.mp.
@@ -11162,8 +11166,8 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.1 Graphic file (typ
 e mps)
-[MP to PDF] (./FoundationsofTrigonometry/TheOtherCircularFunctions.1) [969]
-[970] [971]
+[MP to PDF] (./FoundationsofTrigonometry/TheOtherCircularFunctions.1) [971]
+[972] [973]
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.2 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -11171,7 +11175,7 @@ e mps)
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.3 Graphic file (typ
 e mps)
  [MP to PDF]
-(./FoundationsofTrigonometry/TheOtherCircularFunctions.3) [972]
+(./FoundationsofTrigonometry/TheOtherCircularFunctions.3) [974]
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.4 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -11194,7 +11198,7 @@ Overfull \vbox (8.66107pt too high) has occurred while \output is active []
 Overfull \vbox (8.48143pt too high) has occurred while \output is active []
 
 
-[973] [974]
+[975] [976]
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.8 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -11202,7 +11206,7 @@ e mps)
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.9 Graphic file (typ
 e mps)
  [MP to PDF]
-(./FoundationsofTrigonometry/TheOtherCircularFunctions.9) [975]
+(./FoundationsofTrigonometry/TheOtherCircularFunctions.9) [977]
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.10 Graphic file (ty
 pe mps)
  [MP to PDF]
@@ -11210,13 +11214,13 @@ pe mps)
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.11 Graphic file (ty
 pe mps)
  [MP to PDF]
-(./FoundationsofTrigonometry/TheOtherCircularFunctions.11) [976]
-(./FoundationsofTrigonometry/ExercisesforTheOtherCircularFunctions.tex [977]
-[978]
+(./FoundationsofTrigonometry/TheOtherCircularFunctions.11) [978]
+(./FoundationsofTrigonometry/ExercisesforTheOtherCircularFunctions.tex [979]
+[980]
 File: ./FoundationsofTrigonometry/TheOtherCircularFunctions.12 Graphic file (ty
 pe mps)
  [MP to PDF] (./FoundationsofTrigonometry/TheOtherCircularFunctions.12)
-[979] [980] [981])) [982]
+[981] [982] [983])) [984]
 (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.tex
 
 Mfpic: Initializing GraphsofOtherCircularFunctions.mp.
@@ -11238,7 +11242,7 @@ S/cmsy/m/n/10.95 ^^F[]$\OT1/phv/m/n/10.95 .
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.1 Graphic file
  (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.1)
-[983]
+[985]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.2 Graphic file
  (type mps)
  [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.2)
@@ -11249,11 +11253,11 @@ File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.4 Graphic file
  (type mps)
 
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.4)
-[984]
+[986]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.5 Graphic file
  (type mps)
  [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.5) [98
-5] [986]
+7] [988]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.6 Graphic file
  (type mps)
  [MP to PDF]
@@ -11269,11 +11273,11 @@ Overfull \hbox (13.762pt too wide) in paragraph at lines 420--454
 []  [] 
  []
 
-[987]
+[989]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.8 Graphic file
  (type mps)
- [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.8) [98
-8]
+ [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.8) [99
+0]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.9 Graphic file
  (type mps)
  [MP to PDF]
@@ -11281,7 +11285,7 @@ File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.9 Graphic file
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.10 Graphic fil
 e (type mps)
  [MP to PDF]
-(./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.10) [989]
+(./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.10) [991]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.11 Graphic fil
 e (type mps)
 
@@ -11293,7 +11297,7 @@ Overfull \hbox (4.45444pt too wide) in paragraph at lines 653--693
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.12 Graphic fil
 e (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.12)
-[990]
+[992]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.13 Graphic fil
 e (type mps)
  [MP to PDF]
@@ -11305,7 +11309,7 @@ Overfull \hbox (4.45444pt too wide) in paragraph at lines 757--796
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.14 Graphic fil
 e (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.14)
-[991] [992]
+[993] [994]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.15 Graphic fil
 e (type mps)
  [MP to PDF]
@@ -11324,17 +11328,17 @@ Overfull \hbox (13.762pt too wide) in paragraph at lines 1038--1081
 
 Underfull \vbox (badness 1661) has occurred while \output is active []
 
- [993]
+ [995]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.17 Graphic fil
 e (type mps)
 
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.17)
-[994]
+[996]
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.18 Graphic fil
 e (type mps)
  [MP to PDF]
-(./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.18) [995] [996]
-[997]
+(./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.18) [997] [998]
+[999]
 (./FoundationsofTrigonometry/ExercisesforGraphsofOtherCircularFunctions.tex
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.19 Graphic fil
 e (type mps)
@@ -11358,8 +11362,8 @@ Overfull \vbox (4.45328pt too high) has occurred while \output is active []
 Overfull \vbox (3.27019pt too high) has occurred while \output is active []
 
 
-[998] [999]
-Underfull \hbox (badness 10000) in paragraph at lines 249--251
+[1000] [1001]
+Underfull \hbox (badness 10000) in paragraph at lines 326--328
 
  []
 
@@ -11370,7 +11374,7 @@ File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.24 Graphic fil
 e (type mps)
 
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.24)
-Underfull \hbox (badness 10000) in paragraph at lines 293--298
+Underfull \hbox (badness 10000) in paragraph at lines 370--375
 
  []
 
@@ -11386,8 +11390,8 @@ Overfull \vbox (18.0577pt too high) has occurred while \output is active []
 Overfull \vbox (12.5577pt too high) has occurred while \output is active []
 
 
-[1000]
-Underfull \hbox (badness 10000) in paragraph at lines 320--323
+[1002]
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
 
  []
 
@@ -11402,37 +11406,37 @@ File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.28 Graphic fil
 e (type mps)
 
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.28)
-[1001]
-Underfull \hbox (badness 10000) in paragraph at lines 398--401
+[1003]
+Underfull \hbox (badness 10000) in paragraph at lines 475--478
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.29 Graphic fil
 e (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.29)
-Underfull \hbox (badness 10000) in paragraph at lines 424--427
+Underfull \hbox (badness 10000) in paragraph at lines 501--504
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.30 Graphic fil
 e (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.30)
-Underfull \hbox (badness 10000) in paragraph at lines 450--453
+Underfull \hbox (badness 10000) in paragraph at lines 527--530
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.31 Graphic fil
 e (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.31)
-[1002]
-Underfull \hbox (badness 10000) in paragraph at lines 476--478
+[1004]
+Underfull \hbox (badness 10000) in paragraph at lines 553--555
 
  []
 
 File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.32 Graphic fil
 e (type mps)
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.32)
-Underfull \hbox (badness 10000) in paragraph at lines 498--500
+Underfull \hbox (badness 10000) in paragraph at lines 575--577
 
  []
 
@@ -11443,7 +11447,7 @@ File: ./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.34 Graphic fil
 e (type mps)
 
 [MP to PDF] (./FoundationsofTrigonometry/GraphsofOtherCircularFunctions.34)
-[1003])) [1004])
+[1005])) [1006])
 Chapter 12.
 (./AnalyticalTrigonometry/AnalyticalTrigonometry.tex
 (./AnalyticalTrigonometry/FundamentalTrigonometricIdentities.tex
@@ -11457,11 +11461,11 @@ Mfpic: Don't forget to process FundamentalTrigonometricIdentities.mp!
 Mfpic: Apply metapost to FundamentalTrigonometricIdentities.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1005
+[1007
 
-] [1006] [1007] [1008] [1009] [1010] [1011]
+] [1008] [1009] [1010] [1011] [1012] [1013]
 (./AnalyticalTrigonometry/ExercisesforFundamentalTrigonometricIdentities.tex
-[1012] [1013] [1014])) [1015]
+[1014] [1015] [1016])) [1017]
 (./AnalyticalTrigonometry/MoreTrigonometricIdentities.tex
 
 Mfpic: Initializing MoreTrigonometricIdentities.mp.
@@ -11477,7 +11481,7 @@ File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.1 Graphic file (type
 File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.2 Graphic file (type
  mps)
 
-[MP to PDF] (./AnalyticalTrigonometry/MoreTrigonometricIdentities.2) [1016]
+[MP to PDF] (./AnalyticalTrigonometry/MoreTrigonometricIdentities.2) [1018]
 File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.3 Graphic file (type
  mps)
 
@@ -11485,16 +11489,16 @@ File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.3 Graphic file (type
 File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.4 Graphic file (type
  mps)
 
-[MP to PDF] (./AnalyticalTrigonometry/MoreTrigonometricIdentities.4) [1017]
-[1018] [1019]
+[MP to PDF] (./AnalyticalTrigonometry/MoreTrigonometricIdentities.4) [1019]
+[1020] [1021]
 File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.5 Graphic file (type
  mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/MoreTrigonometricIdentities.5) [1020]
+(./AnalyticalTrigonometry/MoreTrigonometricIdentities.5) [1022]
 Underfull \vbox (badness 4792) has occurred while \output is active []
 
- [1021]
-[1022] [1023]
+ [1023]
+[1024] [1025]
 File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.6 Graphic file (type
  mps)
  [MP to PDF]
@@ -11502,10 +11506,10 @@ File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.6 Graphic file (type
 File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.7 Graphic file (type
  mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/MoreTrigonometricIdentities.7) [1024] [1025] [1026]
-[1027] [1028] [1029] [1030]
+(./AnalyticalTrigonometry/MoreTrigonometricIdentities.7) [1026] [1027] [1028]
+[1029] [1030] [1031] [1032]
 <./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/ExpandedSinusoi
-dExample.jpg, id=17786, 1561.835pt x 1147.28625pt>
+dExample.jpg, id=17876, 1561.835pt x 1147.28625pt>
 File: ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/ExpandedSi
 nusoidExample.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/ExpandedSin
@@ -11514,18 +11518,35 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./MoreTrigonometricIdentities
 Graphics/ExpandedSinusoidExample.jpg  used on input line 1114.
 (pdftex.def)             Requested size: 289.07999pt x 212.34967pt.
 <./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Beats.jpg, id=1
-7795, 1559.8275pt x 1174.3875pt>
+7885, 1559.8275pt x 1174.3875pt>
 File: ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Beats.jpg 
 Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Beats.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./MoreTrigonometricIdentities
 Graphics/Beats.jpg  used on input line 1144.
 (pdftex.def)             Requested size: 289.07999pt x 217.6346pt.
- [1031 <./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Expanded
-SinusoidExample.jpg>] [1032 <./AnalyticalTrigonometry/./MoreTrigonometricIdenti
+ [1033 <./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Expanded
+SinusoidExample.jpg>] [1034 <./AnalyticalTrigonometry/./MoreTrigonometricIdenti
 tiesGraphics/Beats.jpg>]
-(./AnalyticalTrigonometry/ExercisesforMoreTrigonometricIdentities.tex [1033]
-[1034] [1035] [1036] [1037] [1038] [1039] [1040])) [1041]
+(./AnalyticalTrigonometry/ExercisesforMoreTrigonometricIdentities.tex [1035]
+[1036]
+Overfull \hbox (10.233pt too wide) in paragraph at lines 430--431
+[]\OT1/phv/m/n/10.95 Verify for $\OT1/phv/m/sl/10.95 f\OT1/phv/m/n/10.95 (\OT1/
+phv/m/sl/10.95 t\OT1/phv/m/n/10.95 ) = [](\OT1/phv/m/sl/10.95 t\OT1/phv/m/n/10.
+95 )$, $[] = [] = [](\OT1/phv/m/sl/10.95 t\OT1/phv/m/n/10.95 ) [] + [](\OT1/phv
+/m/sl/10.95 t\OT1/phv/m/n/10.95 ) []$ 
+ []
+
+
+Overfull \hbox (27.13164pt too wide) in paragraph at lines 448--449
+[]\OT1/phv/m/n/10.95 Verify for $\OT1/phv/m/sl/10.95 g\OT1/phv/m/n/10.95 (\OT1/
+phv/m/sl/10.95 t\OT1/phv/m/n/10.95 ) = [](\OT1/phv/m/sl/10.95 t\OT1/phv/m/n/10.
+95 )$, $[] = [] = [](\OT1/phv/m/sl/10.95 t\OT1/phv/m/n/10.95 ) [] \OMS/cmsy/m/n
+/10.95 ^^@ []\OT1/phv/m/n/10.95 (\OT1/phv/m/sl/10.95 t\OT1/phv/m/n/10.95 ) []$ 
+
+ []
+
+[1037] [1038] [1039] [1040] [1041] [1042])) [1043]
 (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.tex
 
 Mfpic: Initializing TheInverseTrigonometricFunctions.mp.
@@ -11558,7 +11579,7 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.6 Graphic file
 (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.6)
-[1042] [1043]
+[1044] [1045]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.7 Graphic file 
 (type mps)
  [MP to PDF]
@@ -11566,13 +11587,13 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.7 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.8 Graphic file 
 (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.8) [1044]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.8) [1046]
 Overfull \hbox (9.55948pt too wide) in paragraph at lines 390--391
 []\OT1/phv/m/n/10.95 Alternatively, we could use the fact that the arc-sine fun
 c-tion is odd, so $[] [] = \OMS/cmsy/m/n/10.95 ^^@ [] []$\OT1/phv/m/n/10.95 . 
  []
 
-[1045] [1046]
+[1047] [1048]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.9 Graphic file 
 (type mps)
  [MP to PDF]
@@ -11588,12 +11609,15 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.11 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.12 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.12) [1047] [1048]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.12) [1049]
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+ [1050]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.13 Graphic file
  (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.13)
-[1049]
+[1051]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.14 Graphic file
  (type mps)
  [MP to PDF]
@@ -11606,27 +11630,24 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.16 Graphic file
  (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.16)
-Overfull \hbox (2.37157pt too wide) in paragraph at lines 827--910
+Overfull \hbox (2.37157pt too wide) in paragraph at lines 829--912
  [] 
  []
 
-
-Underfull \vbox (badness 2042) has occurred while \output is active []
-
- [1050]
+[1052]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.17 Graphic file
  (type mps)
-
-[MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.17)
+ [MP to PDF]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.17)
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.18 Graphic file
  (type mps)
-
-[MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.18)
-Overfull \hbox (3.94601pt too wide) in paragraph at lines 939--1004
+ [MP to PDF]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.18)
+Overfull \hbox (3.94601pt too wide) in paragraph at lines 941--1006
 [][] 
  []
 
-[1051] [1052]
+[1053]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.19 Graphic file
  (type mps)
  [MP to PDF]
@@ -11642,15 +11663,15 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.21 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.22 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.22)
-Underfull \vbox (badness 1147) has occurred while \output is active []
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.22) [1054]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1053]
-Overfull \hbox (1.72298pt too wide) in paragraph at lines 1203--1204
+ [1055]
+Overfull \hbox (1.72298pt too wide) in paragraph at lines 1206--1207
 []$[] []$ 
  []
 
-[1054] [1055]
+[1056]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.23 Graphic file
  (type mps)
  [MP to PDF]
@@ -11658,7 +11679,7 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.23 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.24 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.24) [1056]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.24) [1057]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.25 Graphic file
  (type mps)
 
@@ -11667,7 +11688,7 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.26 Graphic file
  (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.26)
-[1057]
+[1058]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.27 Graphic file
  (type mps)
  [MP to PDF]
@@ -11675,12 +11696,12 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.27 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.28 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.28) [1058]
-Overfull \hbox (1.72298pt too wide) in paragraph at lines 1580--1581
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.28) [1059]
+Overfull \hbox (1.72298pt too wide) in paragraph at lines 1583--1584
 []$[] []$ 
  []
 
-[1059] [1060]
+[1060] [1061]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.29 Graphic file
  (type mps)
  [MP to PDF]
@@ -11688,7 +11709,7 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.29 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.30 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.30) [1061]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.30) [1062]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.31 Graphic file
  (type mps)
 
@@ -11697,30 +11718,30 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.32 Graphic file
  (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.32)
-[1062]
+[1063]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.33 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.33) [1063]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.33) [1064]
 <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arccosgrap
-h.jpg, id=18424, 728.7225pt x 629.35126pt>
+h.jpg, id=18537, 728.7225pt x 629.35126pt>
 File: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arcco
 sgraph.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arccos
 graph.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunc
-tionsGraphics/arccosgraph.jpg  used on input line 2013.
+tionsGraphics/arccosgraph.jpg  used on input line 2016.
 (pdftex.def)             Requested size: 150.62332pt x 130.08621pt.
 <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arctangrap
-h.jpg, id=18425, 910.40125pt x 940.51375pt>
+h.jpg, id=18538, 910.40125pt x 940.51375pt>
 File: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arcta
 ngraph.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arctan
 graph.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunc
-tionsGraphics/arctangraph.jpg  used on input line 2015.
+tionsGraphics/arctangraph.jpg  used on input line 2018.
 (pdftex.def)             Requested size: 126.62181pt x 130.80852pt.
- [1064 <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arc
+ [1065 <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arc
 cosgraph.jpg> <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraph
 ics/arctangraph.jpg>]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.34 Graphic file
@@ -11731,11 +11752,11 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.35 Graphic file
  (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.35)
-Overfull \hbox (15.31319pt too wide) in paragraph at lines 2090--2137
+Overfull \hbox (15.31319pt too wide) in paragraph at lines 2093--2140
 [][] 
  []
 
-[1065]
+[1066]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.36 Graphic file
  (type mps)
  [MP to PDF]
@@ -11743,7 +11764,7 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.36 Graphic file
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.37 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.37) [1066]
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.37) [1067]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.38 Graphic file
  (type mps)
 
@@ -11760,11 +11781,11 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.41 Graphic file
  (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.41)
-Overfull \hbox (16.07605pt too wide) in paragraph at lines 2262--2307
+Overfull \hbox (16.07605pt too wide) in paragraph at lines 2265--2310
 [][] 
  []
 
-[1067]
+[1068]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.42 Graphic file
  (type mps)
  [MP to PDF]
@@ -11773,48 +11794,48 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.43 Graphic file
  (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.43)
-Overfull \hbox (6.7241pt too wide) in paragraph at lines 2332--2381
+Overfull \hbox (6.7241pt too wide) in paragraph at lines 2335--2384
 [][] 
  []
 
-[1068] [1069]
+[1069] [1070]
 (./AnalyticalTrigonometry/ExercisesforTheInverseTrigonometricFunctions.tex
-[1070] [1071] [1072] [1073] [1074] [1075]
+[1071] [1072] [1073] [1074] [1075] [1076]
 File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.44 Graphic file
  (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.44) [1076] [1077]
-[1078] [1079] [1080] [1081] [1082]
-Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
+(./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.44) [1077] [1078]
+[1079] [1080] [1081] [1082] [1083]
+Underfull \hbox (badness 10000) in paragraph at lines 2517--2518
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2506--2507
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2523
 
  []
 
-[1083]
-Underfull \hbox (badness 10000) in paragraph at lines 2511--2512
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2516--2517
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2522
-
- []
-
-
+[1084]
 Underfull \hbox (badness 10000) in paragraph at lines 2527--2528
 
  []
 
-)) [1084] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 2532--2533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2537--2538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2543--2544
+
+ []
+
+)) [1085] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.tex
 
 Mfpic: Initializing TrigonometricEquationsandInequalities.mp.
 \openout3 = `TrigonometricEquationsandInequalities.mp'.
@@ -11823,9 +11844,9 @@ Mfpic: Don't forget to process TrigonometricEquationsandInequalities.mp!
 Mfpic: Apply metapost to TrigonometricEquationsandInequalities.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1085]
+[1086]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq01.jpg, id=19050, 1434.35875pt x 817.0525pt>
+quIneq01.jpg, id=19171, 1434.35875pt x 817.0525pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq01.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11833,10 +11854,10 @@ rigEquIneq01.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq01.jpg  used on input line 113.
 (pdftex.def)             Requested size: 285.44405pt x 162.6075pt.
- [1086 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1087 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq01.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq02.jpg, id=19056, 806.01125pt x 471.7625pt>
+quIneq02.jpg, id=19178, 806.01125pt x 471.7625pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq02.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11845,7 +11866,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq02.jpg  used on input line 165.
 (pdftex.def)             Requested size: 277.8159pt x 162.6075pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq03.jpg, id=19058, 1351.0475pt x 397.485pt>
+quIneq03.jpg, id=19180, 1351.0475pt x 397.485pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq03.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11853,10 +11874,10 @@ rigEquIneq03.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq03.jpg  used on input line 196.
 (pdftex.def)             Requested size: 429.87021pt x 126.47249pt.
- [1087 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1088 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq02.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq04.jpg, id=19067, 1308.89pt x 800.9925pt>
+quIneq04.jpg, id=19188, 1308.89pt x 800.9925pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq04.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11867,10 +11888,10 @@ equalitiesGraphics/TrigEquIneq04.jpg  used on input line 238.
 
 Underfull \vbox (badness 2653) has occurred while \output is active []
 
- [1088 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1089 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq03.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq05.jpg, id=19075, 1415.2875pt x 760.8425pt>
+quIneq05.jpg, id=19196, 1415.2875pt x 760.8425pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq05.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11878,11 +11899,11 @@ rigEquIneq05.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq05.jpg  used on input line 284.
 (pdftex.def)             Requested size: 302.46686pt x 162.6075pt.
- [1089 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
-s/TrigEquIneq04.jpg>] [1090 <./AnalyticalTrigonometry/./TrigonometricEquationsa
+ [1090 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+s/TrigEquIneq04.jpg>] [1091 <./AnalyticalTrigonometry/./TrigonometricEquationsa
 ndInequalitiesGraphics/TrigEquIneq05.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq06.jpg, id=19090, 1183.42125pt x 746.79pt>
+quIneq06.jpg, id=19211, 1183.42125pt x 746.79pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq06.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11890,10 +11911,10 @@ rigEquIneq06.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq06.jpg  used on input line 343.
 (pdftex.def)             Requested size: 257.68097pt x 162.6075pt.
- [1091 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1092 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq06.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq07.jpg, id=19111, 1596.96625pt x 1086.0575pt>
+quIneq07.jpg, id=19233, 1596.96625pt x 1086.0575pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq07.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11902,10 +11923,10 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq07.jpg  used on input line 455.
 (pdftex.def)             Requested size: 239.09598pt x 162.6075pt.
 
-[1092 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
+[1093 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
 /TrigEquIneq07.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq08.jpg, id=19124, 1121.18875pt x 987.69pt>
+quIneq08.jpg, id=19246, 1121.18875pt x 987.69pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq08.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11913,10 +11934,10 @@ rigEquIneq08.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq08.jpg  used on input line 496.
 (pdftex.def)             Requested size: 184.57756pt x 162.6075pt.
- [1093 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1094 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq08.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq09.jpg, id=19131, 1134.2375pt x 1056.94875pt>
+quIneq09.jpg, id=19252, 1134.2375pt x 1056.94875pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq09.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11925,7 +11946,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq09.jpg  used on input line 524.
 (pdftex.def)             Requested size: 174.48965pt x 162.6075pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq10.jpg, id=19135, 1139.25626pt x 687.56876pt>
+quIneq10.jpg, id=19256, 1139.25626pt x 687.56876pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq10.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11936,7 +11957,7 @@ equalitiesGraphics/TrigEquIneq10.jpg  used on input line 559.
 
 Underfull \vbox (badness 2426) has occurred while \output is active []
 
- [1094 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1095 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq09.jpg>]
 Overfull \hbox (2.87712pt too wide) in paragraph at lines 573--574
 []\OT1/phv/m/n/10.95 Using The-o-rem [][]12.13[][], we rewrite $[](5\OT1/phv/m/
@@ -11948,7 +11969,7 @@ hv/m/sl/10.95 x\OT1/phv/m/n/10.95 ) [](\OT1/phv/m/sl/10.95 x\OT1/phv/m/n/10.95
  []
 
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq11.jpg, id=19146, 1503.6175pt x 767.86874pt>
+quIneq11.jpg, id=19267, 1503.6175pt x 767.86874pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq11.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11959,10 +11980,10 @@ equalitiesGraphics/TrigEquIneq11.jpg  used on input line 589.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1095 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1096 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq10.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq12.jpg, id=19155, 1452.42625pt x 1145.27875pt>
+quIneq12.jpg, id=19276, 1452.42625pt x 1145.27875pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq12.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11970,11 +11991,11 @@ rigEquIneq12.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq12.jpg  used on input line 616.
 (pdftex.def)             Requested size: 206.1972pt x 162.6075pt.
- [1096 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1097 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq11.jpg> <./AnalyticalTrigonometry/./TrigonometricEquationsandInequ
 alitiesGraphics/TrigEquIneq12.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq13.jpg, id=19161, 1518.67375pt x 750.805pt>
+quIneq13.jpg, id=19282, 1518.67375pt x 750.805pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq13.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11983,7 +12004,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq13.jpg  used on input line 635.
 (pdftex.def)             Requested size: 328.89531pt x 162.6075pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq14.jpg, id=19163, 853.1875pt x 797.98125pt>
+quIneq14.jpg, id=19284, 853.1875pt x 797.98125pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq14.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11994,15 +12015,15 @@ equalitiesGraphics/TrigEquIneq14.jpg  used on input line 662.
 
 Underfull \vbox (badness 2799) has occurred while \output is active []
 
- [1097 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
-s/TrigEquIneq13.jpg>] [1098 <./AnalyticalTrigonometry/./TrigonometricEquationsa
+ [1098 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+s/TrigEquIneq13.jpg>] [1099 <./AnalyticalTrigonometry/./TrigonometricEquationsa
 ndInequalitiesGraphics/TrigEquIneq14.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.1 Graphic 
 file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.1)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq15.jpg, id=19190, 752.8125pt x 880.28876pt>
+quIneq15.jpg, id=19312, 752.8125pt x 880.28876pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq15.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12010,14 +12031,14 @@ rigEquIneq15.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq15.jpg  used on input line 757.
 (pdftex.def)             Requested size: 154.51135pt x 180.67499pt.
- [1099 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1100 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq15.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.2 Graphic 
 file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.2)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq16.jpg, id=19198, 1436.36626pt x 763.85374pt>
+quIneq16.jpg, id=19319, 1436.36626pt x 763.85374pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq16.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12025,14 +12046,14 @@ rigEquIneq16.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq16.jpg  used on input line 818.
 (pdftex.def)             Requested size: 339.73784pt x 180.67499pt.
- [1100 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1101 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq16.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.3 Graphic 
 file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.3)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq17.jpg, id=19208, 1397.22pt x 764.8575pt>
+quIneq17.jpg, id=19329, 1397.22pt x 764.8575pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq17.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12040,7 +12061,7 @@ rigEquIneq17.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq17.jpg  used on input line 879.
 (pdftex.def)             Requested size: 330.05234pt x 180.67499pt.
- [1101 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1102 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq17.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.4 Graphic 
 file (type mps)
@@ -12049,14 +12070,14 @@ file (type mps)
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.5 Graphic 
 file (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.5) [1102]
+(./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.5) [1103]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.6 Graphic 
 file (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.6)
-[1103]
+[1104]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCSI
-NEQN.jpg, id=19237, 620.3175pt x 637.38126pt>
+NEQN.jpg, id=19359, 620.3175pt x 637.38126pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCSINEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12064,10 +12085,10 @@ RCSINEQN.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/ARCSINEQN.jpg  used on input line 1139.
 (pdftex.def)             Requested size: 175.83633pt x 180.67499pt.
- [1104 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1105 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCSINEQN.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCCO
-SEQN.jpg, id=19252, 994.71625pt x 882.29625pt>
+SEQN.jpg, id=19374, 994.71625pt x 882.29625pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCCOSEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12076,7 +12097,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/ARCCOSEQN.jpg  used on input line 1158.
 (pdftex.def)             Requested size: 203.69048pt x 180.67499pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCSE
-CEQN.jpg, id=19255, 806.01125pt x 683.55376pt>
+CEQN.jpg, id=19377, 806.01125pt x 683.55376pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCSECEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12087,10 +12108,10 @@ equalitiesGraphics/ARCSECEQN.jpg  used on input line 1178.
 
 Underfull \vbox (badness 1377) has occurred while \output is active []
 
- [1105 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1106 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCCOSEQN.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCTA
-NEQN.jpg, id=19264, 536.0025pt x 525.965pt>
+NEQN.jpg, id=19385, 536.0025pt x 525.965pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCTANEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12098,7 +12119,7 @@ RCTANEQN.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/ARCTANEQN.jpg  used on input line 1204.
 (pdftex.def)             Requested size: 158.99377pt x 156.00903pt.
- [1106 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1107 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCSECEQN.jpg> <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalit
 iesGraphics/ARCTANEQN.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.7 Graphic 
@@ -12106,7 +12127,7 @@ file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.7)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCCO
-SINEQ.jpg, id=19271, 979.66pt x 864.22874pt>
+SINEQ.jpg, id=19392, 979.66pt x 864.22874pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCCOSINEQ.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12114,14 +12135,14 @@ RCCOSINEQ.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/ARCCOSINEQ.jpg  used on input line 1250.
 (pdftex.def)             Requested size: 204.80788pt x 180.67499pt.
- [1107 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1108 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCCOSINEQ.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.8 Graphic 
 file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.8)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCCO
-TINEQ.jpg, id=19280, 1069.9975pt x 1158.3275pt>
+TINEQ.jpg, id=19401, 1069.9975pt x 1158.3275pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCCOTINEQ.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12129,7 +12150,7 @@ RCCOTINEQ.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/ARCCOTINEQ.jpg  used on input line 1301.
 (pdftex.def)             Requested size: 166.8928pt x 180.67499pt.
- [1108 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1109 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCCOTINEQ.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.9 Graphic 
 file (type mps)
@@ -12143,13 +12164,13 @@ File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.11 Graphic
  file (type mps)
 
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.11)
-[1109] [1110]
+[1110] [1111]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.12 Graphic
  file (type mps)
  [MP to PDF]
-(./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.12) [1111]
+(./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.12) [1112]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid05.jpg, id=19326, 1162.3425pt x 892.33376pt>
+oid05.jpg, id=19447, 1162.3425pt x 892.33376pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid05.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12158,10 +12179,10 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/Sinusoid05.jpg  used on input line 1527.
 (pdftex.def)             Requested size: 235.3376pt x 180.67499pt.
 
-[1112 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
+[1113 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
 /Sinusoid05.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid06.jpg, id=19340, 1104.125pt x 1129.21875pt>
+oid06.jpg, id=19461, 1104.125pt x 1129.21875pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid06.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12169,10 +12190,10 @@ inusoid06.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/Sinusoid06.jpg  used on input line 1575.
 (pdftex.def)             Requested size: 176.64676pt x 180.67499pt.
- [1113 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1114 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/Sinusoid06.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid08.jpg, id=19352, 1162.3425pt x 1208.515pt>
+oid08.jpg, id=19474, 1162.3425pt x 1208.515pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid08.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12180,10 +12201,10 @@ inusoid08.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/Sinusoid08.jpg  used on input line 1593.
 (pdftex.def)             Requested size: 173.75856pt x 180.67499pt.
- [1114 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1115 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/Sinusoid08.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid10.jpg, id=19368, 1118.1775pt x 1060.96375pt>
+oid10.jpg, id=19490, 1118.1775pt x 1060.96375pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid10.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12191,7 +12212,7 @@ inusoid10.jpg>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/Sinusoid10.jpg  used on input line 1624.
 (pdftex.def)             Requested size: 190.41183pt x 180.67499pt.
- [1115 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
+ [1116 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/Sinusoid10.jpg>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.13 Graphic
  file (type mps)
@@ -12201,7 +12222,7 @@ File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.14 Graphic
  file (type mps)
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.14)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/IncDe
-cSine.png, id=19381, 711.65875pt x 464.73625pt>
+cSine.png, id=19502, 711.65875pt x 464.73625pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 IncDecSine.png Graphic file (type png)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/I
@@ -12209,7 +12230,7 @@ ncDecSine.png>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/IncDecSine.png  used on input line 1738.
 (pdftex.def)             Requested size: 289.07999pt x 188.77736pt.
-[1116 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
+[1117 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
 /IncDecSine.png>]
 File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.15 Graphic
  file (type mps)
@@ -12220,7 +12241,7 @@ File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.16 Graphic
 
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.16)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/IPExa
-mple.png, id=19391, 814.04124pt x 514.92375pt>
+mple.png, id=19513, 814.04124pt x 514.92375pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 IPExample.png Graphic file (type png)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/I
@@ -12228,10 +12249,12 @@ PExample.png>
 Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/IPExample.png  used on input line 1821.
 (pdftex.def)             Requested size: 289.07999pt x 182.85814pt.
-[1117 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
+[1118 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
 /IPExample.png>]
 (./AnalyticalTrigonometry/ExercisesforTrigonometricEquationsandInequalities.tex
-[1118] [1119] [1120] [1121] [1122] [1123] [1124] [1125])) [1126])
+[1119] [1120] [1121] [1122] [1123] [1124] [1125] [1126])) [1127]) [1128
+
+]
 Chapter 13.
 (./GeometricApplicationsofTrigonometry/GeometricApplicationsofTrigonometry.tex
 (./GeometricApplicationsofTrigonometry/TheLawofSines.tex
@@ -12245,9 +12268,7 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.1 Graphic file (type 
 mps)
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.1) [1127
-
-]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.1) [1129]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.2 Graphic file (type 
 mps)
 
@@ -12259,7 +12280,7 @@ mps)
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.4 Graphic file (type 
 mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.4) [1128]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.4) [1130]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.5 Graphic file (type 
 mps)
 
@@ -12274,7 +12295,7 @@ Overfull \hbox (4.29533pt too wide) in paragraph at lines 187--228
 
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.7 Graphic file (type 
 mps)
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.7) [1129]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.7) [1131]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.8 Graphic file (type 
 mps)
 
@@ -12282,7 +12303,7 @@ mps)
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.9 Graphic file (type 
 mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.9) [1130]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.9) [1132]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.10 Graphic file (type
  mps)
 
@@ -12303,11 +12324,11 @@ Overfull \hbox (1.2224pt too wide) in paragraph at lines 519--551
  [] 
  []
 
-[1131]
+[1133]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.14 Graphic file (type
  mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.14)
-[1132]
+[1134]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.15 Graphic file (type
  mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.15)
@@ -12319,7 +12340,7 @@ Overfull \hbox (0.70293pt too wide) in paragraph at lines 650--682
  [] 
  []
 
-[1133]
+[1135]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.17 Graphic file (type
  mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.17)
@@ -12331,24 +12352,34 @@ Overfull \hbox (16.97372pt too wide) in paragraph at lines 708--746
  [] 
  []
 
-[1134]
+[1136]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.19 Graphic file (type
  mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.19)
-[1135]
+[1137]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.20 Graphic file (type
  mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.20)
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.21 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.21) [1136]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.21) [1138]
 File: ./GeometricApplicationsofTrigonometry/TheLawofSines.22 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.22) [1137]
-(./GeometricApplicationsofTrigonometry/ExercisesforTheLawofSines.tex [1138]
-[1139] [1140] [1141])) [1142]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofSines.22) [1139]
+(./GeometricApplicationsofTrigonometry/ExercisesforTheLawofSines.tex [1140]
+[1141]
+<./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jpg, id=2
+0032, 803.0pt x 533.995pt>
+File: ./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jpg 
+Graphic file (type jpg)
+<use ./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jpg>
+Package pdftex.def Info: ./GeometricApplicationsofTrigonometry/./LawofSinesGrap
+hics/AshBridge.jpg  used on input line 270.
+(pdftex.def)             Requested size: 144.54pt x 96.11494pt.
+ [1142 <./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jp
+g>] [1143] [1144])) [1145]
 (./GeometricApplicationsofTrigonometry/TheLawofCosines.tex
 
 Mfpic: Initializing TheLawofCosines.mp.
@@ -12360,26 +12391,26 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 File: ./GeometricApplicationsofTrigonometry/TheLawofCosines.1 Graphic file (typ
 e mps)
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.1) [1143]
-[1144]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.1) [1146]
+[1147]
 File: ./GeometricApplicationsofTrigonometry/TheLawofCosines.2 Graphic file (typ
 e mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.2)
-[1145]
+[1148]
 File: ./GeometricApplicationsofTrigonometry/TheLawofCosines.3 Graphic file (typ
 e mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.3)
 File: ./GeometricApplicationsofTrigonometry/TheLawofCosines.4 Graphic file (typ
 e mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.4) [1146]
-[1147] [1148]
-(./GeometricApplicationsofTrigonometry/ExercisesforTheLawofCosines.tex [1149]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.4) [1149]
+[1150] [1151]
+(./GeometricApplicationsofTrigonometry/ExercisesforTheLawofCosines.tex [1152]
 File: ./GeometricApplicationsofTrigonometry/TheLawofCosines.5 Graphic file (typ
 e mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.5) [1150]))
-[1151] (./GeometricApplicationsofTrigonometry/Vectors.tex
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheLawofCosines.5) [1153]))
+[1154] (./GeometricApplicationsofTrigonometry/Vectors.tex
 
 Mfpic: Initializing Vectors.mp.
 \openout3 = `Vectors.mp'.
@@ -12400,22 +12431,22 @@ File: ./GeometricApplicationsofTrigonometry/Vectors.1 Graphic file (type mps)
 [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.1)
 File: ./GeometricApplicationsofTrigonometry/Vectors.2 Graphic file (type mps)
  [MP to PDF]
-(./GeometricApplicationsofTrigonometry/Vectors.2) [1152]
+(./GeometricApplicationsofTrigonometry/Vectors.2) [1155]
 File: ./GeometricApplicationsofTrigonometry/Vectors.3 Graphic file (type mps)
  [MP to PDF]
-(./GeometricApplicationsofTrigonometry/Vectors.3) [1153]
+(./GeometricApplicationsofTrigonometry/Vectors.3) [1156]
 File: ./GeometricApplicationsofTrigonometry/Vectors.4 Graphic file (type mps)
  [MP to PDF]
 (./GeometricApplicationsofTrigonometry/Vectors.4)
 File: ./GeometricApplicationsofTrigonometry/Vectors.5 Graphic file (type mps)
  [MP to PDF]
-(./GeometricApplicationsofTrigonometry/Vectors.5) [1154]
+(./GeometricApplicationsofTrigonometry/Vectors.5) [1157]
 Missing character: There is no ] in font nullfont!
 File: ./GeometricApplicationsofTrigonometry/Vectors.6 Graphic file (type mps)
-[MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.6) [1155]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.6) [1158]
 File: ./GeometricApplicationsofTrigonometry/Vectors.7 Graphic file (type mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.7) [1156]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.7) [1159]
 File: ./GeometricApplicationsofTrigonometry/Vectors.8 Graphic file (type mps)
 
 [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.8)
@@ -12424,7 +12455,7 @@ File: ./GeometricApplicationsofTrigonometry/Vectors.9 Graphic file (type mps)
 (./GeometricApplicationsofTrigonometry/Vectors.9)
 File: ./GeometricApplicationsofTrigonometry/Vectors.10 Graphic file (type mps)
  [MP to PDF]
-(./GeometricApplicationsofTrigonometry/Vectors.10) [1157]
+(./GeometricApplicationsofTrigonometry/Vectors.10) [1160]
 File: ./GeometricApplicationsofTrigonometry/Vectors.11 Graphic file (type mps)
  [MP to PDF]
 (./GeometricApplicationsofTrigonometry/Vectors.11)
@@ -12432,13 +12463,13 @@ Overfull \hbox (1.63164pt too wide) in paragraph at lines 507--509
 [][][][][][][]  
  []
 
-[1158] [1159]
+[1161] [1162]
 File: ./GeometricApplicationsofTrigonometry/Vectors.12 Graphic file (type mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.12)
-[1160] [1161]
+[1163] [1164]
 File: ./GeometricApplicationsofTrigonometry/Vectors.13 Graphic file (type mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.13)
-[1162] [1163]
+[1165] [1166]
 File: ./GeometricApplicationsofTrigonometry/Vectors.14 Graphic file (type mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.14)
 File: ./GeometricApplicationsofTrigonometry/Vectors.15 Graphic file (type mps)
@@ -12448,20 +12479,20 @@ Overfull \hbox (1.63164pt too wide) in paragraph at lines 907--909
 [][][][][][][]  
  []
 
-[1164]
+[1167]
 File: ./GeometricApplicationsofTrigonometry/Vectors.16 Graphic file (type mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.16)
 File: ./GeometricApplicationsofTrigonometry/Vectors.17 Graphic file (type mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.17) [1165]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.17) [1168]
 File: ./GeometricApplicationsofTrigonometry/Vectors.18 Graphic file (type mps)
 
 [MP to PDF] (./GeometricApplicationsofTrigonometry/Vectors.18)
 File: ./GeometricApplicationsofTrigonometry/Vectors.19 Graphic file (type mps)
  [MP to PDF]
-(./GeometricApplicationsofTrigonometry/Vectors.19) [1166] [1167]
-(./GeometricApplicationsofTrigonometry/ExercisesforVectors.tex [1168] [1169]
-[1170] [1171] [1172] [1173])) [1174]
+(./GeometricApplicationsofTrigonometry/Vectors.19) [1169] [1170]
+(./GeometricApplicationsofTrigonometry/ExercisesforVectors.tex [1171] [1172]
+[1173] [1174] [1175] [1176])) [1177]
 (./GeometricApplicationsofTrigonometry/TheDotProduct.tex
 
 Mfpic: Initializing TheDotProduct.mp.
@@ -12471,7 +12502,7 @@ Mfpic: Don't forget to process TheDotProduct.mp!
 Mfpic: Apply metapost to TheDotProduct.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1175]
+[1178]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.1 Graphic file (type 
 mps)
  [MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.1)
@@ -12482,7 +12513,7 @@ mps)
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.3 Graphic file (type 
 mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.3) [1176]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.3) [1179]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.4 Graphic file (type 
 mps)
 
@@ -12490,7 +12521,7 @@ mps)
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.5 Graphic file (type 
 mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.5) [1177]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.5) [1180]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.6 Graphic file (type 
 mps)
 
@@ -12498,7 +12529,7 @@ mps)
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.7 Graphic file (type 
 mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.7) [1178]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.7) [1181]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.8 Graphic file (type 
 mps)
 
@@ -12514,7 +12545,7 @@ File: ./GeometricApplicationsofTrigonometry/TheDotProduct.10 Graphic file (type
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.11 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.11) [1179]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.11) [1182]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.12 Graphic file (type
  mps)
 
@@ -12526,11 +12557,11 @@ File: ./GeometricApplicationsofTrigonometry/TheDotProduct.13 Graphic file (type
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.14 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.14) [1180]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.14) [1183]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.15 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.15) [1181]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.15) [1184]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.16 Graphic file (type
  mps)
 
@@ -12538,19 +12569,17 @@ File: ./GeometricApplicationsofTrigonometry/TheDotProduct.16 Graphic file (type
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.17 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.17) [1182]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.17) [1185]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.18 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.18) [1183]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.18) [1186]
 File: ./GeometricApplicationsofTrigonometry/TheDotProduct.19 Graphic file (type
  mps)
 
-[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.19) [1184]
-(./GeometricApplicationsofTrigonometry/ExercisesforTheDotProduct.tex [1185]
-[1186] [1187] [1188])) [1189]) [1190
-
-]
+[MP to PDF] (./GeometricApplicationsofTrigonometry/TheDotProduct.19) [1187]
+(./GeometricApplicationsofTrigonometry/ExercisesforTheDotProduct.tex [1188]
+[1189] [1190] [1191])) [1192])
 Chapter 14.
 
 (./PolarCoordinatesandParametricEquations/PolarCoordinatesandParametricEquation
@@ -12570,7 +12599,9 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.2 Graphic file
 (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.2)
-[1191]
+[1193
+
+]
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.3 Graphic file 
 (type mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.3)
@@ -12617,7 +12648,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.14 Graphic file
  (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.14)
-[1192]
+[1194]
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.15 Graphic file
  (type mps)
  [MP to PDF]
@@ -12649,7 +12680,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.21 Graphic file
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.22 Graphic file
  (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarCoordinates.22) [1193]
+(./PolarCoordinatesandParametricEquations/PolarCoordinates.22) [1195]
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.23 Graphic file
  (type mps)
 
@@ -12682,7 +12713,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.30 Graphic file
  (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.30)
-[1194]
+[1196]
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.31 Graphic file
  (type mps)
  [MP to PDF]
@@ -12706,8 +12737,8 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.35 Graphic file
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.36 Graphic file
  (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarCoordinates.36) [1195] [1196]
-[1197]
+(./PolarCoordinatesandParametricEquations/PolarCoordinates.36) [1197] [1198]
+[1199]
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.37 Graphic file
  (type mps)
  [MP to PDF]
@@ -12715,7 +12746,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.37 Graphic file
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.38 Graphic file
  (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarCoordinates.38) [1198]
+(./PolarCoordinatesandParametricEquations/PolarCoordinates.38) [1200]
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.39 Graphic file
  (type mps)
 
@@ -12724,9 +12755,9 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.40 Graphic file
  (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.40)
-[1199] [1200] [1201] [1202]
+[1201] [1202] [1203] [1204]
 (./PolarCoordinatesandParametricEquations/ExercisesforPolarCoordinates.tex
-[1203] [1204]
+[1205] [1206]
 Underfull \hbox (badness 10000) in paragraph at lines 475--477
 
  []
@@ -12758,7 +12789,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.44 Graphic file
 Overfull \vbox (4.59822pt too high) has occurred while \output is active []
 
 
-[1205]
+[1207]
 Underfull \hbox (badness 10000) in paragraph at lines 571--573
 
  []
@@ -12787,7 +12818,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 643--645
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.48 Graphic file
  (type mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.48)
-[1206]
+[1208]
 Underfull \hbox (badness 10000) in paragraph at lines 667--669
 
  []
@@ -12816,7 +12847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 740--742
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.52 Graphic file
  (type mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.52)
-[1207]
+[1209]
 Underfull \hbox (badness 10000) in paragraph at lines 766--768
 
  []
@@ -12845,12 +12876,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 839--841
 File: ./PolarCoordinatesandParametricEquations/PolarCoordinates.56 Graphic file
  (type mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarCoordinates.56)
-[1208]
+[1210]
 Overfull \hbox (3.32686pt too wide) in paragraph at lines 993--994
 []$[]$ 
  []
 
-[1209])) [1210] (./PolarCoordinatesandParametricEquations/PolarGraphs.tex
+[1211])) [1212] (./PolarCoordinatesandParametricEquations/PolarGraphs.tex
 
 Mfpic: Initializing PolarGraphs.mp.
 \openout3 = `PolarGraphs.mp'.
@@ -12873,7 +12904,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarGraphs.3 Graphic file (type
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.4 Graphic file (type
  mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.4) [1211]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.4) [1213]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.5 Graphic file (type
  mps)
 
@@ -12892,7 +12923,7 @@ File: ./PolarCoordinatesandParametricEquations/PolarGraphs.8 Graphic file (type
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.8)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1212]
+ [1214]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.9 Graphic file (type
  mps)
 
@@ -12901,7 +12932,7 @@ Overfull \hbox (58.65692pt too wide) in paragraph at lines 296--332
 []  [] 
  []
 
-[1213]
+[1215]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.10 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.10)
@@ -12916,7 +12947,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.13 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.13) [1214]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.13) [1216]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.14 Graphic file (typ
 e mps)
 
@@ -12932,7 +12963,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.17 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.17) [1215]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.17) [1217]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.18 Graphic file (typ
 e mps)
 
@@ -12967,7 +12998,7 @@ e mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.25)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1216]
+ [1218]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.26 Graphic file (typ
 e mps)
 
@@ -12986,7 +13017,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.29 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.29) [1217]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.29) [1219]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.30 Graphic file (typ
 e mps)
 
@@ -13005,7 +13036,7 @@ e mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.33)
 Underfull \vbox (badness 4556) has occurred while \output is active []
 
- [1218]
+ [1220]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.34 Graphic file (typ
 e mps)
 
@@ -13026,7 +13057,7 @@ Overfull \hbox (17.06374pt too wide) in paragraph at lines 1113--1114
 []|[] 
  []
 
-[1219]
+[1221]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.38 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.38)
@@ -13049,7 +13080,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.43 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.43) [1220]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.43) [1222]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.44 Graphic file (typ
 e mps)
 
@@ -13065,7 +13096,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.47 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.47) [1221]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.47) [1223]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.48 Graphic file (typ
 e mps)
 
@@ -13081,7 +13112,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.51 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.51) [1222]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.51) [1224]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.52 Graphic file (typ
 e mps)
 
@@ -13097,31 +13128,31 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.55 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.55) [1223]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.55) [1225]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.56 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.56) [1224]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.56) [1226]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.57 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.57) [1225]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.57) [1227]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.58 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.58) [1226]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.58) [1228]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.59 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.59) [1227]
-[1228]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.59) [1229]
+[1230]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.60 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.60)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.61 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.61) [1229]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.61) [1231]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.62 Graphic file (typ
 e mps)
 
@@ -13137,7 +13168,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.65 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.65) [1230]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.65) [1232]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.66 Graphic file (typ
 e mps)
 
@@ -13145,10 +13176,10 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.67 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.67) [1231]
-(./PolarCoordinatesandParametricEquations/ExercisesforPolarGraphs.tex [1232]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.67) [1233]
+(./PolarCoordinatesandParametricEquations/ExercisesforPolarGraphs.tex [1234]
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.jpg, id
-=21340, 95.8782pt x 65.5248pt>
+=21498, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.jpg
@@ -13157,7 +13188,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar01.jpg  used on input line 317.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jpg, id
-=21341, 95.8782pt x 65.5248pt>
+=21499, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jpg
@@ -13166,7 +13197,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar02.jpg  used on input line 318.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jpg, id
-=21342, 95.8782pt x 65.5248pt>
+=21500, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jpg
@@ -13175,11 +13206,11 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar03.jpg  used on input line 319.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 
-[1233 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.j
+[1235 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.j
 pg> <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jpg
 > <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jpg>]
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.jpg, id
-=21365, 95.8782pt x 65.5248pt>
+=21523, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.jpg
@@ -13188,7 +13219,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar04.jpg  used on input line 331.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jpg, id
-=21366, 95.8782pt x 65.5248pt>
+=21524, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jpg
@@ -13197,7 +13228,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar05.jpg  used on input line 332.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jpg, id
-=21367, 95.8782pt x 65.5248pt>
+=21525, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jpg
@@ -13206,7 +13237,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar06.jpg  used on input line 344.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jpg, id
-=21368, 95.8782pt x 65.5248pt>
+=21526, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jpg
@@ -13215,7 +13246,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar07.jpg  used on input line 345.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jpg, id
-=21369, 95.8782pt x 65.5248pt>
+=21527, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jpg
@@ -13224,7 +13255,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar08.jpg  used on input line 346.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jpg, id
-=21370, 95.8782pt x 65.5248pt>
+=21528, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jpg
@@ -13232,13 +13263,13 @@ g Graphic file (type jpg)
 Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar09.jpg  used on input line 356.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
-[1234 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.j
+[1236 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.j
 pg> <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jpg
 > <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jpg> 
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jpg> <.
 /PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jpg> <./P
 olarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jpg>]
-[1235] [1236]
+[1237] [1238]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.68 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -13262,7 +13293,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.73 Graphic file (typ
 e mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarGraphs.73) [1237]
+(./PolarCoordinatesandParametricEquations/PolarGraphs.73) [1239]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.74 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -13286,7 +13317,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.79 Graphic file (typ
 e mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarGraphs.79) [1238]
+(./PolarCoordinatesandParametricEquations/PolarGraphs.79) [1240]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.80 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -13310,7 +13341,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.85 Graphic file (typ
 e mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarGraphs.85) [1239]
+(./PolarCoordinatesandParametricEquations/PolarGraphs.85) [1241]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.86 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -13329,7 +13360,7 @@ e mps)
 (./PolarCoordinatesandParametricEquations/PolarGraphs.89)
 Underfull \vbox (badness 4805) has occurred while \output is active []
 
- [1240]
+ [1242]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.90 Graphic file (typ
 e mps)
 
@@ -13345,7 +13376,7 @@ e mps)
 Overfull \vbox (3.84372pt too high) has occurred while \output is active []
 
 
-[1241]
+[1243]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.93 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.93)
@@ -13356,7 +13387,7 @@ e mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.95 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.95) [1242]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.95) [1244]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.96 Graphic file (typ
 e mps)
 
@@ -13367,7 +13398,7 @@ e mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.97)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1243]
+ [1245]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.98 Graphic file (typ
 e mps)
 
@@ -13391,7 +13422,7 @@ pe mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.103 Graphic file (ty
 pe mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.103) [1244]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.103) [1246]
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.104 Graphic file (ty
 pe mps)
 
@@ -13407,8 +13438,8 @@ pe mps)
 File: ./PolarCoordinatesandParametricEquations/PolarGraphs.107 Graphic file (ty
 pe mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.107) [1245]))
-[1246] (./PolarCoordinatesandParametricEquations/PolarComplex.tex
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.107) [1247]))
+[1248] (./PolarCoordinatesandParametricEquations/PolarComplex.tex
 
 Mfpic: Initializing PolarComplex.mp.
 \openout3 = `PolarComplex.mp'.
@@ -13419,17 +13450,17 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 File: ./PolarCoordinatesandParametricEquations/PolarComplex.1 Graphic file (typ
 e mps)
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarComplex.1) [1247]
-[1248]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarComplex.1) [1249]
+[1250]
 File: ./PolarCoordinatesandParametricEquations/PolarComplex.2 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarComplex.2)
-[1249] [1250]
+[1251] [1252]
 File: ./PolarCoordinatesandParametricEquations/PolarComplex.3 Graphic file (typ
 e mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarComplex.3) [1251] [1252]
-[1253] [1254] [1255]
+(./PolarCoordinatesandParametricEquations/PolarComplex.3) [1253] [1254]
+[1255] [1256] [1257]
 File: ./PolarCoordinatesandParametricEquations/PolarComplex.4 Graphic file (typ
 e mps)
  [MP to PDF]
@@ -13448,14 +13479,14 @@ e mps)
 (./PolarCoordinatesandParametricEquations/PolarComplex.7)
 Underfull \vbox (badness 4846) has occurred while \output is active []
 
- [1256]
-[1257] [1258] [1259]
+ [1258]
+[1259] [1260] [1261]
 File: ./PolarCoordinatesandParametricEquations/PolarComplex.8 Graphic file (typ
 e mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/PolarComplex.8) [1260]
-(./PolarCoordinatesandParametricEquations/ExercisesforPolarComplex.tex [1261]
-[1262] [1263] [1264] [1265] [1266] [1267])) [1268]
+(./PolarCoordinatesandParametricEquations/PolarComplex.8) [1262]
+(./PolarCoordinatesandParametricEquations/ExercisesforPolarComplex.tex [1263]
+[1264] [1265] [1266] [1267] [1268] [1269])) [1270]
 (./PolarCoordinatesandParametricEquations/PolarConics.tex
 
 Mfpic: Initializing PolarConics.mp.
@@ -13467,27 +13498,27 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 File: ./PolarCoordinatesandParametricEquations/PolarConics.1 Graphic file (type
  mps)
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.1) [1269]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.1) [1271]
 Overfull \vbox (1.11787pt too high) has occurred while \output is active []
 
 
-[1270]
+[1272]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.2 Graphic file (type
  mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.2)
-[1271]
+[1273]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.3 Graphic file (type
  mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.3)
-[1272]
+[1274]
 Overfull \hbox (1.63164pt too wide) in paragraph at lines 329--331
 [][][][][][][]  
  []
 
 File: ./PolarCoordinatesandParametricEquations/PolarConics.4 Graphic file (type
  mps)
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.4) [1273]
-[1274]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.4) [1275]
+[1276]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.5 Graphic file (type
  mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.5)
@@ -13495,27 +13526,27 @@ Overfull \hbox (1.63164pt too wide) in paragraph at lines 515--517
 [][][][][][][]  
  []
 
-[1275] [1276]
+[1277] [1278]
 Overfull \hbox (1.63164pt too wide) in paragraph at lines 646--648
 [][][][][][][]  
  []
 
-[1277]
+[1279]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.6 Graphic file (type
  mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.6)
-[1278]
+[1280]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1279]
-[1280]
+ [1281]
+[1282]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.7 Graphic file (type
  mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.7)
 File: ./PolarCoordinatesandParametricEquations/PolarConics.8 Graphic file (type
  mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.8) [1281]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.8) [1283]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.9 Graphic file (type
  mps)
 
@@ -13523,9 +13554,9 @@ File: ./PolarCoordinatesandParametricEquations/PolarConics.9 Graphic file (type
 File: ./PolarCoordinatesandParametricEquations/PolarConics.10 Graphic file (typ
 e mps)
 
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.10) [1282]
-[1283] (./PolarCoordinatesandParametricEquations/ExercisesforPolarConics.tex
-[1284]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.10) [1284]
+[1285] (./PolarCoordinatesandParametricEquations/ExercisesforPolarConics.tex
+[1286]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.11 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.11)
@@ -13545,7 +13576,7 @@ Overfull \hbox (13.81096pt too wide) in paragraph at lines 301--302
 [][] 
  []
 
-[1285]
+[1287]
 File: ./PolarCoordinatesandParametricEquations/PolarConics.15 Graphic file (typ
 e mps)
  [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.15)
@@ -13563,7 +13594,7 @@ Overfull \hbox (8.8539pt too wide) in paragraph at lines 444--445
 
 File: ./PolarCoordinatesandParametricEquations/PolarConics.18 Graphic file (typ
 e mps)
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.18) [1286]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.18) [1288]
 Underfull \hbox (badness 10000) in paragraph at lines 499--500
 
  []
@@ -13591,7 +13622,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 579--580
 
 File: ./PolarCoordinatesandParametricEquations/PolarConics.22 Graphic file (typ
 e mps)
-[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.22) [1287]
+[MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.22) [1289]
 Underfull \hbox (badness 10000) in paragraph at lines 610--611
 
  []
@@ -13620,7 +13651,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 718--721
 File: ./PolarCoordinatesandParametricEquations/PolarConics.26 Graphic file (typ
 e mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarConics.26)))
-[1288] (./PolarCoordinatesandParametricEquations/ParametricEquations.tex
+[1290] (./PolarCoordinatesandParametricEquations/ParametricEquations.tex
 
 Mfpic: Initializing ParametricEquations.mp.
 \openout3 = `ParametricEquations.mp'.
@@ -13637,11 +13668,11 @@ Overfull \hbox (2.28557pt too wide) in paragraph at lines 69--70
  def-i-ni-tion, the sys-tem of equa-tions $[]$
  []
 
-[1289]
+[1291]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.2 Graphic fi
 le (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/ParametricEquations.2) [1290]
+(./PolarCoordinatesandParametricEquations/ParametricEquations.2) [1292]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.3 Graphic fi
 le (type mps)
 
@@ -13654,7 +13685,7 @@ File: ./PolarCoordinatesandParametricEquations/ParametricEquations.5 Graphic fi
 le (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/ParametricEquations.5)
-[1291]
+[1293]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.6 Graphic fi
 le (type mps)
  [MP to PDF]
@@ -13666,7 +13697,7 @@ le (type mps)
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.8 Graphic fi
 le (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/ParametricEquations.8) [1292]
+(./PolarCoordinatesandParametricEquations/ParametricEquations.8) [1294]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.9 Graphic fi
 le (type mps)
 
@@ -13679,7 +13710,7 @@ File: ./PolarCoordinatesandParametricEquations/ParametricEquations.11 Graphic f
 ile (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/ParametricEquations.11)
-[1293]
+[1295]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.12 Graphic f
 ile (type mps)
  [MP to PDF]
@@ -13691,18 +13722,18 @@ ile (type mps)
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.14 Graphic f
 ile (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/ParametricEquations.14) [1294]
-[1295] [1296] [1297] [1298]
+(./PolarCoordinatesandParametricEquations/ParametricEquations.14) [1296]
+[1297] [1298] [1299] [1300]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.15 Graphic f
 ile (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/ParametricEquations.15) [1299]
+(./PolarCoordinatesandParametricEquations/ParametricEquations.15) [1301]
 Overfull \hbox (5.22356pt too wide) in paragraph at lines 899--900
 []\OT1/phv/m/n/10.95 We get $[]$, which can be writ-ten as $[]$.
  []
 
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/cycloid
-.jpg, id=22353, 1157.32375pt x 808.01875pt>
+.jpg, id=22512, 1157.32375pt x 808.01875pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/cy
 cloid.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/cyc
@@ -13710,12 +13741,12 @@ loid.jpg>
 Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/cycloid.jpg  used on input line 918.
 (pdftex.def)             Requested size: 289.07999pt x 201.81924pt.
-[1300 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/c
+[1302 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/c
 ycloid.jpg>]
 (./PolarCoordinatesandParametricEquations/ExercisesforParametricEquations.tex
-[1301]
+[1303]
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric01.jpg, id=22390, 198.7425pt x 134.5025pt>
+ric01.jpg, id=22550, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric01.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13724,7 +13755,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric01.jpg  used on input line 130.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric02.jpg, id=22391, 198.7425pt x 134.5025pt>
+ric02.jpg, id=22551, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric02.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13733,7 +13764,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric02.jpg  used on input line 131.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric03.jpg, id=22395, 198.7425pt x 134.5025pt>
+ric03.jpg, id=22555, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric03.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13742,7 +13773,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric03.jpg  used on input line 142.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric04.jpg, id=22396, 198.7425pt x 134.5025pt>
+ric04.jpg, id=22556, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric04.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13751,7 +13782,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric04.jpg  used on input line 143.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric05.jpg, id=22398, 198.7425pt x 134.5025pt>
+ric05.jpg, id=22558, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric05.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13760,7 +13791,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric05.jpg  used on input line 156.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric06.jpg, id=22399, 198.7425pt x 134.5025pt>
+ric06.jpg, id=22559, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric06.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13768,19 +13799,19 @@ ametric06.jpg>
 Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric06.jpg  used on input line 157.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
- [1302 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/
+ [1304 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/
 Parametric01.jpg> <./PolarCoordinatesandParametricEquations/./ParametricEquatio
 nsGraphics/Parametric02.jpg> <./PolarCoordinatesandParametricEquations/./Parame
 tricEquationsGraphics/Parametric03.jpg> <./PolarCoordinatesandParametricEquatio
 ns/./ParametricEquationsGraphics/Parametric04.jpg> <./PolarCoordinatesandParame
 tricEquations/./ParametricEquationsGraphics/Parametric05.jpg> <./PolarCoordinat
-esandParametricEquations/./ParametricEquationsGraphics/Parametric06.jpg>] [1303
+esandParametricEquations/./ParametricEquationsGraphics/Parametric06.jpg>] [1305
 ]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.16 Graphic f
 ile (type mps)
  [MP to PDF]
-(./PolarCoordinatesandParametricEquations/ParametricEquations.16) [1304]
-[1305]
+(./PolarCoordinatesandParametricEquations/ParametricEquations.16) [1306]
+[1307]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.17 Graphic f
 ile (type mps)
  [MP to PDF]
@@ -13807,7 +13838,7 @@ ile (type mps)
 (./PolarCoordinatesandParametricEquations/ParametricEquations.22)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1306]
+ [1308]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.23 Graphic f
 ile (type mps)
 
@@ -13832,7 +13863,7 @@ File: ./PolarCoordinatesandParametricEquations/ParametricEquations.28 Graphic f
 ile (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/ParametricEquations.28)
-[1307]
+[1309]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.29 Graphic f
 ile (type mps)
  [MP to PDF]
@@ -13851,7 +13882,7 @@ ile (type mps)
 (./PolarCoordinatesandParametricEquations/ParametricEquations.32)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1308]
+ [1310]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.33 Graphic f
 ile (type mps)
 
@@ -13878,7 +13909,7 @@ ile (type mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/ParametricEquations.38)
 Underfull \vbox (badness 5417) has occurred while \output is active []
 
- [1309]
+ [1311]
 File: ./PolarCoordinatesandParametricEquations/ParametricEquations.39 Graphic f
 ile (type mps)
 
@@ -13887,11 +13918,11 @@ File: ./PolarCoordinatesandParametricEquations/ParametricEquations.40 Graphic f
 ile (type mps)
 
 [MP to PDF] (./PolarCoordinatesandParametricEquations/ParametricEquations.40)
-[1310])) [1311]) [1312
+[1312])) [1313]) [1314
 
 ]
 Appendix A.
-(./AlgebraAppendix/AlgebraAppendix.tex [1313] [1314]
+(./AlgebraAppendix/AlgebraAppendix.tex [1315] [1316]
 (./AlgebraAppendix/AppSetTheory.tex
 
 Mfpic: Initializing AppSetTheory.mp.
@@ -13901,9 +13932,9 @@ Mfpic: Don't forget to process AppSetTheory.mp!
 Mfpic: Apply metapost to AppSetTheory.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1315]
+[1317]
 File: ./AlgebraAppendix/AppSetTheory.1 Graphic file (type mps)
- [MP to PDF] (./AlgebraAppendix/AppSetTheory.1) [1316]
+ [MP to PDF] (./AlgebraAppendix/AppSetTheory.1) [1318]
 File: ./AlgebraAppendix/AppSetTheory.2 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppSetTheory.2)
@@ -13912,10 +13943,10 @@ File: ./AlgebraAppendix/AppSetTheory.3 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.3)
 File: ./AlgebraAppendix/AppSetTheory.4 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.4) [1317] [1318] [1319]
+(./AlgebraAppendix/AppSetTheory.4) [1319] [1320] [1321]
 File: ./AlgebraAppendix/AppSetTheory.5 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.5) [1320]
+(./AlgebraAppendix/AppSetTheory.5) [1322]
 File: ./AlgebraAppendix/AppSetTheory.6 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppSetTheory.6)
@@ -13927,7 +13958,7 @@ File: ./AlgebraAppendix/AppSetTheory.8 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.8)
 File: ./AlgebraAppendix/AppSetTheory.9 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.9) [1321]
+(./AlgebraAppendix/AppSetTheory.9) [1323]
 File: ./AlgebraAppendix/AppSetTheory.10 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppSetTheory.10)
@@ -13957,7 +13988,7 @@ File: ./AlgebraAppendix/AppSetTheory.18 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.18)
 Underfull \vbox (badness 1194) has occurred while \output is active []
 
- [1322]
+ [1324]
 File: ./AlgebraAppendix/AppSetTheory.19 Graphic file (type mps)
 
 [MP to PDF] (./AlgebraAppendix/AppSetTheory.19)
@@ -13969,7 +14000,7 @@ File: ./AlgebraAppendix/AppSetTheory.21 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.21)
 File: ./AlgebraAppendix/AppSetTheory.22 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.22) [1323]
+(./AlgebraAppendix/AppSetTheory.22) [1325]
 File: ./AlgebraAppendix/AppSetTheory.23 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppSetTheory.23)
@@ -13978,7 +14009,7 @@ File: ./AlgebraAppendix/AppSetTheory.24 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.24)
 File: ./AlgebraAppendix/AppSetTheory.25 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.25) [1324]
+(./AlgebraAppendix/AppSetTheory.25) [1326]
 (./AlgebraAppendix/ExercisesforAppSetTheory.tex
 File: ./AlgebraAppendix/AppSetTheory.26 Graphic file (type mps)
  [MP to PDF]
@@ -13988,10 +14019,10 @@ File: ./AlgebraAppendix/AppSetTheory.27 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.27)
 File: ./AlgebraAppendix/AppSetTheory.28 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.28) [1325]
+(./AlgebraAppendix/AppSetTheory.28) [1327]
 File: ./AlgebraAppendix/AppSetTheory.29 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.29) [1326]
+(./AlgebraAppendix/AppSetTheory.29) [1328]
 File: ./AlgebraAppendix/AppSetTheory.30 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppSetTheory.30)
@@ -14021,7 +14052,7 @@ File: ./AlgebraAppendix/AppSetTheory.38 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.38)
 File: ./AlgebraAppendix/AppSetTheory.39 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.39) [1327]
+(./AlgebraAppendix/AppSetTheory.39) [1329]
 File: ./AlgebraAppendix/AppSetTheory.40 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppSetTheory.40)
@@ -14030,7 +14061,7 @@ File: ./AlgebraAppendix/AppSetTheory.41 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.41)
 Underfull \vbox (badness 4505) has occurred while \output is active []
 
- [1328]
+ [1330]
 File: ./AlgebraAppendix/AppSetTheory.42 Graphic file (type mps)
 
 [MP to PDF] (./AlgebraAppendix/AppSetTheory.42)
@@ -14045,7 +14076,7 @@ File: ./AlgebraAppendix/AppSetTheory.45 Graphic file (type mps)
 (./AlgebraAppendix/AppSetTheory.45)
 File: ./AlgebraAppendix/AppSetTheory.46 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppSetTheory.46))) [1329]
+(./AlgebraAppendix/AppSetTheory.46))) [1331]
 (./AlgebraAppendix/AppRealNumberArithmetic.tex
 
 Mfpic: No file AppRealNumberArithmetic.1.
@@ -14057,26 +14088,26 @@ Mfpic: Don't forget to process AppRealNumberArithmetic.mp!
 Mfpic: Apply metapost to AppRealNumberArithmetic.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1330] [1331] [1332] [1333]
+[1332] [1333] [1334] [1335]
 Overfull \hbox (1.19293pt too wide) in paragraph at lines 239--240
 []$[]$[] 
  []
 
-[1334] [1335] [1336] [1337] [1338] [1339]
+[1336] [1337] [1338] [1339] [1340] [1341]
 Underfull \vbox (badness 2042) has occurred while \output is active []
 
- [1340]
-[1341] [1342] [1343] [1344]
+ [1342]
+[1343] [1344] [1345] [1346]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1345]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1346]
-Underfull \vbox (badness 4621) has occurred while \output is active []
 
  [1347]
-[1348] (./AlgebraAppendix/ExercisesforAppRealNumberArithmetic.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1348]
+Underfull \vbox (badness 4621) has occurred while \output is active []
+
+ [1349]
+[1350] (./AlgebraAppendix/ExercisesforAppRealNumberArithmetic.tex
 Overfull \hbox (18.632pt too wide) in paragraph at lines 92--93
 []$[]$ 
  []
@@ -14086,7 +14117,7 @@ Overfull \hbox (8.44061pt too wide) in paragraph at lines 104--105
 []$[]$ 
  []
 
-[1349])) [1350] (./AlgebraAppendix/AppCartesianPlane.tex
+[1351])) [1352] (./AlgebraAppendix/AppCartesianPlane.tex
 
 Mfpic: Initializing AppCartesianPlane.mp.
 \openout3 = `AppCartesianPlane.mp'.
@@ -14096,7 +14127,7 @@ Mfpic: Apply metapost to AppCartesianPlane.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
 File: ./AlgebraAppendix/AppCartesianPlane.1 Graphic file (type mps)
-[MP to PDF] (./AlgebraAppendix/AppCartesianPlane.1) [1351]
+[MP to PDF] (./AlgebraAppendix/AppCartesianPlane.1) [1353]
 File: ./AlgebraAppendix/AppCartesianPlane.2 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppCartesianPlane.2)
@@ -14105,37 +14136,37 @@ File: ./AlgebraAppendix/AppCartesianPlane.3 Graphic file (type mps)
 (./AlgebraAppendix/AppCartesianPlane.3)
 Underfull \vbox (badness 4634) has occurred while \output is active []
 
- [1352]
+ [1354]
 File: ./AlgebraAppendix/AppCartesianPlane.4 Graphic file (type mps)
 
 [MP to PDF] (./AlgebraAppendix/AppCartesianPlane.4)
 File: ./AlgebraAppendix/AppCartesianPlane.5 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppCartesianPlane.5) [1353]
+(./AlgebraAppendix/AppCartesianPlane.5) [1355]
 File: ./AlgebraAppendix/AppCartesianPlane.6 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppCartesianPlane.6) [1354]
+(./AlgebraAppendix/AppCartesianPlane.6) [1356]
 File: ./AlgebraAppendix/AppCartesianPlane.7 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppCartesianPlane.7)
 File: ./AlgebraAppendix/AppCartesianPlane.8 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppCartesianPlane.8) [1355]
+(./AlgebraAppendix/AppCartesianPlane.8) [1357]
 
-LaTeX Warning: Reference `QDensity' on page 1356 undefined on input line 369.
+LaTeX Warning: Reference `QDensity' on page 1358 undefined on input line 369.
 
 File: ./AlgebraAppendix/AppCartesianPlane.9 Graphic file (type mps)
 [MP to PDF] (./AlgebraAppendix/AppCartesianPlane.9)
 File: ./AlgebraAppendix/AppCartesianPlane.10 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppCartesianPlane.10) [1356] [1357]
+(./AlgebraAppendix/AppCartesianPlane.10) [1358] [1359]
 File: ./AlgebraAppendix/AppCartesianPlane.11 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppCartesianPlane.11) [1358] [1359] [1360]
+(./AlgebraAppendix/AppCartesianPlane.11) [1360] [1361] [1362]
 (./AlgebraAppendix/ExercisesforAppCartesianPlane.tex
 File: ./AlgebraAppendix/AppCartesianPlane.12 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppCartesianPlane.12) [1361] [1362]
+(./AlgebraAppendix/AppCartesianPlane.12) [1363] [1364]
 File: ./AlgebraAppendix/AppCartesianPlane.13 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppCartesianPlane.13)
@@ -14146,7 +14177,7 @@ Overfull \hbox (2.92192pt too wide) in paragraph at lines 175--216
 []  [] 
  []
 
-[1363] [1364]
+[1365] [1366]
 Overfull \hbox (10.55203pt too wide) in paragraph at lines 249--250
 []\OT1/phv/m/n/10.95 The re-quired points $ \OT1/phv/m/sl/10.95 A\OT1/phv/m/n/1
 0.95 (\OMS/cmsy/m/n/10.95 ^^@\OT1/phv/m/n/10.95 3, \OMS/cmsy/m/n/10.95 ^^@\OT1/
@@ -14163,11 +14194,11 @@ File: ./AlgebraAppendix/AppCartesianPlane.15 Graphic file (type mps)
 [MP to PDF] (./AlgebraAppendix/AppCartesianPlane.15)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1365]
+ [1367]
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 296.
 ))
-[1366] (./AlgebraAppendix/AppLinearEqIneq.tex
+[1368] (./AlgebraAppendix/AppLinearEqIneq.tex
 
 Mfpic: No file AppLinearEqIneq.1.
 
@@ -14178,12 +14209,12 @@ Mfpic: Don't forget to process AppLinearEqIneq.mp!
 Mfpic: Apply metapost to AppLinearEqIneq.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1367] [1368] [1369]
+[1369] [1370] [1371]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1370]
-[1371] [1372] [1373] [1374] (./AlgebraAppendix/ExercisesforAppLinearEqIneq.tex
-[1375] [1376] [1377])) [1378] (./AlgebraAppendix/AppLines.tex
+ [1372]
+[1373] [1374] [1375] [1376] (./AlgebraAppendix/ExercisesforAppLinearEqIneq.tex
+[1377] [1378] [1379])) [1380] (./AlgebraAppendix/AppLines.tex
 
 Mfpic: Initializing AppLines.mp.
 \openout3 = `AppLines.mp'.
@@ -14199,7 +14230,7 @@ File: ./AlgebraAppendix/AppLines.2 Graphic file (type mps)
 (./AlgebraAppendix/AppLines.2)
 File: ./AlgebraAppendix/AppLines.3 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.3)
-[1379]
+[1381]
 File: ./AlgebraAppendix/AppLines.4 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.4)
 File: ./AlgebraAppendix/AppLines.5 Graphic file (type mps)
@@ -14212,16 +14243,16 @@ File: ./AlgebraAppendix/AppLines.7 Graphic file (type mps)
 [MP to PDF] (./AlgebraAppendix/AppLines.7)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1380]
+ [1382]
 File: ./AlgebraAppendix/AppLines.8 Graphic file (type mps)
 
-[MP to PDF] (./AlgebraAppendix/AppLines.8) [1381]
+[MP to PDF] (./AlgebraAppendix/AppLines.8) [1383]
 File: ./AlgebraAppendix/AppLines.9 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppLines.9)
 File: ./AlgebraAppendix/AppLines.10 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.10)
-[1382]
+[1384]
 File: ./AlgebraAppendix/AppLines.11 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.11)
 File: ./AlgebraAppendix/AppLines.12 Graphic file (type mps)
@@ -14235,13 +14266,13 @@ File: ./AlgebraAppendix/AppLines.13 Graphic file (type mps)
 [MP to PDF] (./AlgebraAppendix/AppLines.13)
 File: ./AlgebraAppendix/AppLines.14 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLines.14) [1383]
+(./AlgebraAppendix/AppLines.14) [1385]
 File: ./AlgebraAppendix/AppLines.15 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLines.15) [1384]
+(./AlgebraAppendix/AppLines.15) [1386]
 File: ./AlgebraAppendix/AppLines.16 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLines.16) [1385]
+(./AlgebraAppendix/AppLines.16) [1387]
 File: ./AlgebraAppendix/AppLines.17 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppLines.17)
@@ -14251,13 +14282,13 @@ Overfull \hbox (17.37572pt too wide) in paragraph at lines 544--575
 []  [] 
  []
 
-[1386]
+[1388]
 File: ./AlgebraAppendix/AppLines.19 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.19)
 File: ./AlgebraAppendix/AppLines.20 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLines.20) [1387]
-<./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg, id=23645, 2806.485pt x 151
+(./AlgebraAppendix/AppLines.20) [1389]
+<./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg, id=23804, 2806.485pt x 151
 9.6775pt>
 File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg Graphic file (type jpg
 )
@@ -14265,7 +14296,7 @@ File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg Graphic file (type jpg
 Package pdftex.def Info: ./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg  us
 ed on input line 745.
 (pdftex.def)             Requested size: 144.54pt x 78.26079pt.
-<./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg, id=23646, 2808.4925pt x 15
+<./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg, id=23805, 2808.4925pt x 15
 11.6475pt>
 File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg Graphic file (type jpg
 )
@@ -14273,15 +14304,15 @@ File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg Graphic file (type jpg
 Package pdftex.def Info: ./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg  us
 ed on input line 747.
 (pdftex.def)             Requested size: 144.54pt x 77.77805pt.
- [1388 <./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg> <./AlgebraAppendix/
+ [1390 <./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg> <./AlgebraAppendix/
 ./AppLinesGraphics/A5Graph02.jpg>]
 File: ./AlgebraAppendix/AppLines.21 Graphic file (type mps)
 
-[MP to PDF] (./AlgebraAppendix/AppLines.21) [1389]
-(./AlgebraAppendix/ExercisesforAppLines.tex [1390]
+[MP to PDF] (./AlgebraAppendix/AppLines.21) [1391]
+(./AlgebraAppendix/ExercisesforAppLines.tex [1392]
 File: ./AlgebraAppendix/AppLines.22 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLines.22) [1391]
+(./AlgebraAppendix/AppLines.22) [1393]
 File: ./AlgebraAppendix/AppLines.23 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppLines.23)
@@ -14296,7 +14327,7 @@ Overfull \vbox (20.04675pt too high) has occurred while \output is active []
 Overfull \vbox (14.54675pt too high) has occurred while \output is active []
 
 
-[1392]
+[1394]
 File: ./AlgebraAppendix/AppLines.25 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.25)
 File: ./AlgebraAppendix/AppLines.26 Graphic file (type mps)
@@ -14312,7 +14343,7 @@ File: ./AlgebraAppendix/AppLines.29 Graphic file (type mps)
 (./AlgebraAppendix/AppLines.29)
 File: ./AlgebraAppendix/AppLines.30 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLines.30)
-[1393])) [1394] (./AlgebraAppendix/AppLinearSystems.tex
+[1395])) [1396] (./AlgebraAppendix/AppLinearSystems.tex
 
 Mfpic: Initializing AppLinearSystems.mp.
 \openout3 = `AppLinearSystems.mp'.
@@ -14321,12 +14352,12 @@ Mfpic: Don't forget to process AppLinearSystems.mp!
 Mfpic: Apply metapost to AppLinearSystems.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1395]
+[1397]
 File: ./AlgebraAppendix/AppLinearSystems.1 Graphic file (type mps)
  [MP to PDF] (./AlgebraAppendix/AppLinearSystems.1)
 File: ./AlgebraAppendix/AppLinearSystems.2 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLinearSystems.2) [1396] [1397]
+(./AlgebraAppendix/AppLinearSystems.2) [1398] [1399]
 File: ./AlgebraAppendix/AppLinearSystems.3 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppLinearSystems.3)
@@ -14338,8 +14369,8 @@ File: ./AlgebraAppendix/AppLinearSystems.5 Graphic file (type mps)
 (./AlgebraAppendix/AppLinearSystems.5)
 File: ./AlgebraAppendix/AppLinearSystems.6 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppLinearSystems.6) [1398] [1399] [1400]
-(./AlgebraAppendix/ExercisesforAppLinearSystems.tex [1401])) [1402]
+(./AlgebraAppendix/AppLinearSystems.6) [1400] [1401] [1402]
+(./AlgebraAppendix/ExercisesforAppLinearSystems.tex [1403])) [1404]
 (./AlgebraAppendix/AppAbsValEqIneq.tex
 
 Mfpic: Initializing AppAbsValEqIneq.mp.
@@ -14353,20 +14384,20 @@ File: ./AlgebraAppendix/AppAbsValEqIneq.1 Graphic file (type mps)
 [MP to PDF] (./AlgebraAppendix/AppAbsValEqIneq.1)
 File: ./AlgebraAppendix/AppAbsValEqIneq.2 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppAbsValEqIneq.2) [1403]
+(./AlgebraAppendix/AppAbsValEqIneq.2) [1405]
 File: ./AlgebraAppendix/AppAbsValEqIneq.3 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppAbsValEqIneq.3) [1404] [1405]
+(./AlgebraAppendix/AppAbsValEqIneq.3) [1406] [1407]
 File: ./AlgebraAppendix/AppAbsValEqIneq.4 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppAbsValEqIneq.4)
 File: ./AlgebraAppendix/AppAbsValEqIneq.5 Graphic file (type mps)
  [MP to PDF]
-(./AlgebraAppendix/AppAbsValEqIneq.5) [1406] [1407]
+(./AlgebraAppendix/AppAbsValEqIneq.5) [1408] [1409]
 Underfull \vbox (badness 2512) has occurred while \output is active []
 
- [1408]
-[1409] (./AlgebraAppendix/ExercisesforAppAbsValEqIneq.tex [1410])) [1411]
+ [1410]
+[1411] (./AlgebraAppendix/ExercisesforAppAbsValEqIneq.tex [1412])) [1413]
 (./AlgebraAppendix/AppPolyArith.tex
 
 Mfpic: No file AppPolyArith.1.
@@ -14378,11 +14409,11 @@ Mfpic: Don't forget to process AppPolyArith.mp!
 Mfpic: Apply metapost to AppPolyArith.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1412] [1413] [1414] [1415] [1416] [1417]
+[1414] [1415] [1416] [1417] [1418] [1419]
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [1418]
-[1419] (./AlgebraAppendix/ExercisesforAppPolyArith.tex [1420])) [1421]
+ [1420]
+[1421] (./AlgebraAppendix/ExercisesforAppPolyArith.tex [1422])) [1423]
 (./AlgebraAppendix/AppFactoring.tex
 
 Mfpic: No file AppFactoring.1.
@@ -14394,16 +14425,16 @@ Mfpic: Don't forget to process AppFactoring.mp!
 Mfpic: Apply metapost to AppFactoring.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1422]
+[1424]
 Underfull \vbox (badness 1092) has occurred while \output is active []
 
- [1423]
-[1424] [1425] [1426] [1427] [1428]
+ [1425]
+[1426] [1427] [1428] [1429] [1430]
 Underfull \vbox (badness 1147) has occurred while \output is active []
 
- [1429]
-[1430] [1431] [1432] (./AlgebraAppendix/ExercisesforAppFactoring.tex [1433]))
-[1434] (./AlgebraAppendix/AppQuadEqus.tex
+ [1431]
+[1432] [1433] [1434] (./AlgebraAppendix/ExercisesforAppFactoring.tex [1435]))
+[1436] (./AlgebraAppendix/AppQuadEqus.tex
 
 Mfpic: No file AppQuadEqus.1.
 
@@ -14414,12 +14445,12 @@ Mfpic: Don't forget to process AppQuadEqus.mp!
 Mfpic: Apply metapost to AppQuadEqus.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1435] [1436] [1437] [1438] [1439] [1440] [1441]
+[1437] [1438] [1439] [1440] [1441] [1442] [1443]
 Underfull \vbox (badness 1616) has occurred while \output is active []
 
- [1442]
-[1443] [1444] [1445] (./AlgebraAppendix/ExercisesforAppQuadEqus.tex [1446]))
-[1447] (./AlgebraAppendix/AppCmpNums.tex
+ [1444]
+[1445] [1446] [1447] (./AlgebraAppendix/ExercisesforAppQuadEqus.tex [1448]))
+[1449] (./AlgebraAppendix/AppCmpNums.tex
 
 Mfpic: No file AppCmpNums.1.
 
@@ -14430,8 +14461,8 @@ Mfpic: Don't forget to process AppCmpNums.mp!
 Mfpic: Apply metapost to AppCmpNums.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1448] [1449] [1450] [1451] [1452]
-(./AlgebraAppendix/ExercisesforAppCmpNums.tex [1453] [1454] [1455])) [1456]
+[1450] [1451] [1452] [1453] [1454]
+(./AlgebraAppendix/ExercisesforAppCmpNums.tex [1455] [1456] [1457])) [1458]
 (./AlgebraAppendix/AppRatExpEqus.tex
 
 Mfpic: No file AppRatExpEqus.1.
@@ -14443,32 +14474,32 @@ Mfpic: Don't forget to process AppRatExpEqus.mp!
 Mfpic: Apply metapost to AppRatExpEqus.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1457] [1458]
+[1459] [1460]
 Underfull \vbox (badness 2980) has occurred while \output is active []
 
- [1459]
+ [1461]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1460]
-[1461] [1462]
+ [1462]
+[1463] [1464]
 Underfull \vbox (badness 7925) has occurred while \output is active []
 
- [1463]
+ [1465]
 Underfull \vbox (badness 2261) has occurred while \output is active []
 
- [1464]
+ [1466]
 Underfull \vbox (badness 1436) has occurred while \output is active []
 
- [1465]
+ [1467]
 Underfull \vbox (badness 1205) has occurred while \output is active []
 
- [1466]
-[1467] [1468] (./AlgebraAppendix/ExercisesforAppRatExpEqus.tex
+ [1468]
+[1469] [1470] (./AlgebraAppendix/ExercisesforAppRatExpEqus.tex
 Underfull \hbox (badness 10000) in paragraph at lines 73--74
 []$[]$
  []
 
-[1469] [1470])) [1471] (./AlgebraAppendix/AppRadEqus.tex
+[1471] [1472])) [1473] (./AlgebraAppendix/AppRadEqus.tex
 
 Mfpic: No file AppRadEqus.1.
 
@@ -14479,13 +14510,13 @@ Mfpic: Don't forget to process AppRadEqus.mp!
 Mfpic: Apply metapost to AppRadEqus.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1472] [1473] [1474] [1475] [1476] [1477] [1478] [1479] [1480] [1481] [1482]
-[1483] [1484] (./AlgebraAppendix/ExercisesforAppRadEqus.tex [1485]
+[1474] [1475] [1476] [1477] [1478] [1479] [1480] [1481] [1482] [1483] [1484]
+[1485] [1486] (./AlgebraAppendix/ExercisesforAppRadEqus.tex [1487]
 Overfull \hbox (17.53804pt too wide) in paragraph at lines 372--373
 []$[]$ 
  []
 
-)) [1486] (./AlgebraAppendix/AppVariation.tex
+)) [1488] (./AlgebraAppendix/AppVariation.tex
 
 Mfpic: No file AppVariation.1.
 
@@ -14496,12 +14527,12 @@ Mfpic: Don't forget to process AppVariation.mp!
 Mfpic: Apply metapost to AppVariation.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[1487] [1488] (./AlgebraAppendix/ExercisesforAppVariation.tex [1489] [1490]))
-[1491]) [1492
+[1489] [1490] (./AlgebraAppendix/ExercisesforAppVariation.tex [1491] [1492]))
+[1493]) [1494
 
 ]
 Appendix B.
-(./GeometryAppendix/GeometryAppendix.tex [1493]
+(./GeometryAppendix/GeometryAppendix.tex [1495]
 (./GeometryAppendix/AppAngles.tex
 
 Mfpic: Initializing AppAngles.mp.
@@ -14531,7 +14562,7 @@ File: ./GeometryAppendix/AppAngles.7 Graphic file (type mps)
 [MP to PDF] (./GeometryAppendix/AppAngles.7)
 File: ./GeometryAppendix/AppAngles.8 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppAngles.8) [1494]
+(./GeometryAppendix/AppAngles.8) [1496]
 File: ./GeometryAppendix/AppAngles.9 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppAngles.9)
@@ -14553,13 +14584,13 @@ File: ./GeometryAppendix/AppAngles.14 Graphic file (type mps)
  [MP to PDF] (./GeometryAppendix/AppAngles.14)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1495]
-[1496]
+ [1497]
+[1498]
 File: ./GeometryAppendix/AppAngles.15 Graphic file (type mps)
  [MP to PDF] (./GeometryAppendix/AppAngles.15)
 File: ./GeometryAppendix/AppAngles.16 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppAngles.16) [1497]
+(./GeometryAppendix/AppAngles.16) [1499]
 File: ./GeometryAppendix/AppAngles.17 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppAngles.17)
@@ -14569,12 +14600,12 @@ File: ./GeometryAppendix/AppAngles.19 Graphic file (type mps)
 [MP to PDF] (./GeometryAppendix/AppAngles.19)
 File: ./GeometryAppendix/AppAngles.20 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppAngles.20) [1498]
+(./GeometryAppendix/AppAngles.20) [1500]
 File: ./GeometryAppendix/AppAngles.21 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppAngles.21)
 File: ./GeometryAppendix/AppAngles.22 Graphic file (type mps)
- [MP to PDF] (./GeometryAppendix/AppAngles.22) [1499]
+ [MP to PDF] (./GeometryAppendix/AppAngles.22) [1501]
 File: ./GeometryAppendix/AppAngles.23 Graphic file (type mps)
  [MP to PDF] (./GeometryAppendix/AppAngles.23)
 File: ./GeometryAppendix/AppAngles.24 Graphic file (type mps)
@@ -14583,8 +14614,8 @@ File: ./GeometryAppendix/AppAngles.24 Graphic file (type mps)
 File: ./GeometryAppendix/AppAngles.25 Graphic file (type mps)
  [MP to PDF] (./GeometryAppendix/AppAngles.25)
 File: ./GeometryAppendix/AppAngles.26 Graphic file (type mps)
-[MP to PDF] (./GeometryAppendix/AppAngles.26) [1500] [1501]
-(./GeometryAppendix/ExercisesforAppAngles.tex [1502]
+[MP to PDF] (./GeometryAppendix/AppAngles.26) [1502] [1503]
+(./GeometryAppendix/ExercisesforAppAngles.tex [1504]
 File: ./GeometryAppendix/AppAngles.27 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppAngles.27)
@@ -14598,7 +14629,7 @@ File: ./GeometryAppendix/AppAngles.30 Graphic file (type mps)
 File: ./GeometryAppendix/AppAngles.31 Graphic file (type mps)
  [MP to PDF] (./GeometryAppendix/AppAngles.31)
 File: ./GeometryAppendix/AppAngles.32 Graphic file (type mps)
-[MP to PDF] (./GeometryAppendix/AppAngles.32) [1503]
+[MP to PDF] (./GeometryAppendix/AppAngles.32) [1505]
 File: ./GeometryAppendix/AppAngles.33 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppAngles.33)
@@ -14612,7 +14643,7 @@ File: ./GeometryAppendix/AppAngles.36 Graphic file (type mps)
 File: ./GeometryAppendix/AppAngles.37 Graphic file (type mps)
  [MP to PDF] (./GeometryAppendix/AppAngles.37)
 File: ./GeometryAppendix/AppAngles.38 Graphic file (type mps)
-[MP to PDF] (./GeometryAppendix/AppAngles.38))) [1504]
+[MP to PDF] (./GeometryAppendix/AppAngles.38))) [1506]
 (./GeometryAppendix/AppRightTrig.tex
 
 Mfpic: Initializing AppRightTrig.mp.
@@ -14629,10 +14660,10 @@ File: ./GeometryAppendix/AppRightTrig.2 Graphic file (type mps)
 (./GeometryAppendix/AppRightTrig.2)
 File: ./GeometryAppendix/AppRightTrig.3 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.3) [1505]
+(./GeometryAppendix/AppRightTrig.3) [1507]
 File: ./GeometryAppendix/AppRightTrig.4 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.4) [1506]
+(./GeometryAppendix/AppRightTrig.4) [1508]
 File: ./GeometryAppendix/AppRightTrig.5 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.5)
@@ -14644,7 +14675,7 @@ File: ./GeometryAppendix/AppRightTrig.7 Graphic file (type mps)
 (./GeometryAppendix/AppRightTrig.7)
 File: ./GeometryAppendix/AppRightTrig.8 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.8) [1507]
+(./GeometryAppendix/AppRightTrig.8) [1509]
 File: ./GeometryAppendix/AppRightTrig.9 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.9)
@@ -14653,7 +14684,7 @@ Overfull \hbox (2.65166pt too wide) in paragraph at lines 297--298
  []
 
 File: ./GeometryAppendix/AppRightTrig.10 Graphic file (type mps)
-[MP to PDF] (./GeometryAppendix/AppRightTrig.10) [1508]
+[MP to PDF] (./GeometryAppendix/AppRightTrig.10) [1510]
 File: ./GeometryAppendix/AppRightTrig.11 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.11)
@@ -14662,20 +14693,20 @@ File: ./GeometryAppendix/AppRightTrig.12 Graphic file (type mps)
 (./GeometryAppendix/AppRightTrig.12)
 File: ./GeometryAppendix/AppRightTrig.13 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.13) [1509]
+(./GeometryAppendix/AppRightTrig.13) [1511]
 File: ./GeometryAppendix/AppRightTrig.14 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.14)
 File: ./GeometryAppendix/AppRightTrig.15 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.15) [1510]
+(./GeometryAppendix/AppRightTrig.15) [1512]
 File: ./GeometryAppendix/AppRightTrig.16 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.16)
 File: ./GeometryAppendix/AppRightTrig.17 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.17)
-<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg, id=25576, 715.17
+<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg, id=25735, 715.17
 188pt x 311.66437pt>
 File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg Graphic file
  (type jpg)
@@ -14683,7 +14714,7 @@ File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg Graphic file
 Package pdftex.def Info: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig
 01.jpg  used on input line 567.
 (pdftex.def)             Requested size: 198.7425pt x 86.60915pt.
-<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg, id=25577, 726.46
+<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg, id=25736, 726.46
 407pt x 444.91219pt>
 File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg Graphic file
  (type jpg)
@@ -14691,10 +14722,10 @@ File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg Graphic file
 Package pdftex.def Info: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig
 02.jpg  used on input line 568.
 (pdftex.def)             Requested size: 144.54pt x 88.51921pt.
- [1511]
+ [1513]
 File: ./GeometryAppendix/AppRightTrig.18 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.18) [1512 <./GeometryAppendix/./AppRightTrigGr
+(./GeometryAppendix/AppRightTrig.18) [1514 <./GeometryAppendix/./AppRightTrigGr
 aphics/AppRightTrig01.jpg> <./GeometryAppendix/./AppRightTrigGraphics/AppRightT
 rig02.jpg>] (./GeometryAppendix/ExercisesforAppRightTrig.tex
 File: ./GeometryAppendix/AppRightTrig.19 Graphic file (type mps)
@@ -14708,10 +14739,10 @@ File: ./GeometryAppendix/AppRightTrig.21 Graphic file (type mps)
 (./GeometryAppendix/AppRightTrig.21)
 File: ./GeometryAppendix/AppRightTrig.22 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.22) [1513]
+(./GeometryAppendix/AppRightTrig.22) [1515]
 File: ./GeometryAppendix/AppRightTrig.23 Graphic file (type mps)
  [MP to PDF]
-(./GeometryAppendix/AppRightTrig.23) [1514] [1515] [1516] [1517])) [1518])
+(./GeometryAppendix/AppRightTrig.23) [1516] [1517] [1518] [1519])) [1520])
 No file Precalculus4i.ind.
 (./Precalculus4i.aux)
  ***********
@@ -14729,10 +14760,10 @@ Package rerunfilecheck Info: File `Precalculus4i.out' has not changed.
 (rerunfilecheck)             Checksum: F61863361E57F3305484E0D31F5F6FC9;51553.
  ) 
 Here is how much of TeX's memory you used:
- 51319 strings out of 474116
- 1384121 string characters out of 5743682
+ 51448 strings out of 474116
+ 1386218 string characters out of 5743682
  1992187 words of memory out of 5000000
- 55265 multiletter control sequences out of 15000+600000
+ 55283 multiletter control sequences out of 15000+600000
  646664 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,32n,79p,2708b,2335s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -14772,10 +14803,10 @@ al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr
 cal/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/te
 xlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2
 024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Precalculus4i.pdf (1530 pages, 63453435 bytes).
+Output written on Precalculus4i.pdf (1532 pages, 63553163 bytes).
 PDF statistics:
- 28723 PDF objects out of 31911 (max. 8388607)
- 26442 compressed objects within 265 object streams
- 13791 named destinations out of 15390 (max. 500000)
- 4026 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28905 PDF objects out of 31911 (max. 8388607)
+ 26619 compressed objects within 267 object streams
+ 13899 named destinations out of 15390 (max. 500000)
+ 4031 words of extra memory for PDF output out of 10000 (max. 10000000)
 

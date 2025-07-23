@@ -199,127 +199,127 @@
 \contentsline {subsection}{\numberline {11.3.1}Applications of Sinusoids}{953}{subsection.11.3.1}%
 \contentsline {subsection}{\numberline {11.3.2}Limits involving Sine and Cosine}{957}{subsection.11.3.2}%
 \contentsline {subsection}{\numberline {11.3.3}Exercises}{960}{subsection.11.3.3}%
-\contentsline {subsection}{\numberline {11.3.4}Answers}{964}{subsection.11.3.4}%
-\contentsline {section}{\numberline {11.4}The Circular Functions: Tangent, Secant, Cosecant, and Cotangent}{969}{section.11.4}%
-\contentsline {subsection}{\numberline {11.4.1}Exercises}{977}{subsection.11.4.1}%
-\contentsline {subsection}{\numberline {11.4.2}Answers}{980}{subsection.11.4.2}%
-\contentsline {section}{\numberline {11.5}Graphs of Secant, Cosecant, Tangent, and Cotangent Functions}{983}{section.11.5}%
-\contentsline {subsection}{\numberline {11.5.1}Graphs of the Secant and Cosecant Functions}{983}{subsection.11.5.1}%
-\contentsline {subsection}{\numberline {11.5.2}Graphs of the Tangent and Cotangent Functions}{989}{subsection.11.5.2}%
-\contentsline {subsection}{\numberline {11.5.3}Extended Interval Notation}{996}{subsection.11.5.3}%
-\contentsline {subsection}{\numberline {11.5.4}Exercises}{998}{subsection.11.5.4}%
-\contentsline {subsection}{\numberline {11.5.5}Answers}{1000}{subsection.11.5.5}%
-\contentsline {chapter}{\numberline {12}Analytical Trigonometry}{1005}{chapter.12}%
-\contentsline {section}{\numberline {12.1}The Pythagorean Identities}{1005}{section.12.1}%
-\contentsline {subsection}{\numberline {12.1.1}Exercises}{1012}{subsection.12.1.1}%
-\contentsline {subsection}{\numberline {12.1.2}Answers}{1015}{subsection.12.1.2}%
-\contentsline {section}{\numberline {12.2}More Identities}{1016}{section.12.2}%
-\contentsline {subsection}{\numberline {12.2.1}Sinusoids, Revisited}{1029}{subsection.12.2.1}%
-\contentsline {subsection}{\numberline {12.2.2}Exercises}{1033}{subsection.12.2.2}%
-\contentsline {subsection}{\numberline {12.2.3}Answers}{1039}{subsection.12.2.3}%
-\contentsline {section}{\numberline {12.3}The Inverse Circular Functions}{1042}{section.12.3}%
-\contentsline {subsection}{\numberline {12.3.1}Inverses of Secant and Cosecant: Trigonometry Friendly Approach}{1053}{subsection.12.3.1}%
-\contentsline {subsection}{\numberline {12.3.2}Inverses of Secant and Cosecant: Calculus Friendly Approach}{1057}{subsection.12.3.2}%
-\contentsline {subsection}{\numberline {12.3.3}Calculators and the Inverse Circular Functions.}{1061}{subsection.12.3.3}%
-\contentsline {subsection}{\numberline {12.3.4}Solving Equations Using the Inverse Trigonometric Functions.}{1065}{subsection.12.3.4}%
-\contentsline {subsection}{\numberline {12.3.5}Exercises}{1070}{subsection.12.3.5}%
-\contentsline {subsection}{\numberline {12.3.6}Answers}{1077}{subsection.12.3.6}%
-\contentsline {section}{\numberline {12.4}Equations and Inequalities Involving the Circular Functions}{1085}{section.12.4}%
-\contentsline {subsection}{\numberline {12.4.1}Harmonic Motion}{1109}{subsection.12.4.1}%
-\contentsline {subsection}{\numberline {12.4.2}Exercises}{1118}{subsection.12.4.2}%
-\contentsline {subsection}{\numberline {12.4.3}Answers}{1122}{subsection.12.4.3}%
-\contentsline {chapter}{\numberline {13}Geometric Applications of Trigonometry}{1127}{chapter.13}%
-\contentsline {section}{\numberline {13.1}The Law of Sines}{1127}{section.13.1}%
-\contentsline {subsection}{\numberline {13.1.1}Bearings}{1135}{subsection.13.1.1}%
-\contentsline {subsection}{\numberline {13.1.2}Exercises}{1138}{subsection.13.1.2}%
-\contentsline {subsection}{\numberline {13.1.3}Answers}{1141}{subsection.13.1.3}%
-\contentsline {section}{\numberline {13.2}The Law of Cosines}{1143}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}Exercises}{1149}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}Answers}{1151}{subsection.13.2.2}%
-\contentsline {section}{\numberline {13.3}Vectors}{1152}{section.13.3}%
-\contentsline {subsection}{\numberline {13.3.1}Exercises}{1168}{subsection.13.3.1}%
-\contentsline {subsection}{\numberline {13.3.2}Answers}{1172}{subsection.13.3.2}%
-\contentsline {section}{\numberline {13.4}The Dot Product}{1175}{section.13.4}%
-\contentsline {subsection}{\numberline {13.4.1}Vector Projections}{1180}{subsection.13.4.1}%
-\contentsline {subsection}{\numberline {13.4.2}Exercises}{1185}{subsection.13.4.2}%
-\contentsline {subsection}{\numberline {13.4.3}Answers}{1187}{subsection.13.4.3}%
-\contentsline {chapter}{\numberline {14}Polar Coordinates and Parametric Equations}{1191}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Polar Coordinates}{1191}{section.14.1}%
-\contentsline {subsection}{\numberline {14.1.1}Exercises}{1203}{subsection.14.1.1}%
-\contentsline {subsection}{\numberline {14.1.2}Answers}{1205}{subsection.14.1.2}%
-\contentsline {section}{\numberline {14.2}The Graphs of Polar Equations}{1211}{section.14.2}%
-\contentsline {subsection}{\numberline {14.2.1}Exercises}{1232}{subsection.14.2.1}%
-\contentsline {subsection}{\numberline {14.2.2}Answers}{1237}{subsection.14.2.2}%
-\contentsline {section}{\numberline {14.3}The Polar Form of Complex Numbers}{1247}{section.14.3}%
-\contentsline {subsection}{\numberline {14.3.1}Exercises}{1261}{subsection.14.3.1}%
-\contentsline {subsection}{\numberline {14.3.2}Answers}{1264}{subsection.14.3.2}%
-\contentsline {section}{\numberline {14.4}The Polar Form of the Conic Sections}{1269}{section.14.4}%
-\contentsline {subsection}{\numberline {14.4.1}Rotation of Axes}{1269}{subsection.14.4.1}%
-\contentsline {subsection}{\numberline {14.4.2}The Polar Form of Conics}{1277}{subsection.14.4.2}%
-\contentsline {subsection}{\numberline {14.4.3}Exercises}{1284}{subsection.14.4.3}%
-\contentsline {subsection}{\numberline {14.4.4}Answers}{1285}{subsection.14.4.4}%
-\contentsline {section}{\numberline {14.5}Parametric Equations}{1289}{section.14.5}%
-\contentsline {subsection}{\numberline {14.5.1}Exercises}{1301}{subsection.14.5.1}%
-\contentsline {subsection}{\numberline {14.5.2}Answers}{1306}{subsection.14.5.2}%
-\contentsline {chapter}{\numberline {A}Algebra Review}{1313}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Basic Set Theory and Interval Notation}{1315}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Some Basic Set Theory Notions}{1315}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline {A.1.2}Sets of Real Numbers}{1318}{subsection.A.1.2}%
-\contentsline {subsection}{\numberline {A.1.3}Exercises}{1325}{subsection.A.1.3}%
-\contentsline {subsection}{\numberline {A.1.4}Answers}{1327}{subsection.A.1.4}%
-\contentsline {section}{\numberline {A.2}Real Number Arithmetic}{1330}{section.A.2}%
-\contentsline {subsection}{\numberline {A.2.1}Exercises}{1349}{subsection.A.2.1}%
-\contentsline {subsection}{\numberline {A.2.2}Answers}{1350}{subsection.A.2.2}%
-\contentsline {section}{\numberline {A.3}The Cartesian Plane}{1351}{section.A.3}%
-\contentsline {subsection}{\numberline {A.3.1}The Cartesian Coordinate Plane}{1351}{subsection.A.3.1}%
-\contentsline {subsection}{\numberline {A.3.2}Distance in the Plane}{1355}{subsection.A.3.2}%
-\contentsline {subsection}{\numberline {A.3.3}Exercises}{1361}{subsection.A.3.3}%
-\contentsline {subsection}{\numberline {A.3.4}Answers}{1365}{subsection.A.3.4}%
-\contentsline {section}{\numberline {A.4}Linear Equations and Inequalities}{1367}{section.A.4}%
-\contentsline {subsection}{\numberline {A.4.1}Linear Equations}{1367}{subsection.A.4.1}%
-\contentsline {subsection}{\numberline {A.4.2}Linear Inequalities}{1372}{subsection.A.4.2}%
-\contentsline {subsection}{\numberline {A.4.3}Exercises}{1375}{subsection.A.4.3}%
-\contentsline {subsection}{\numberline {A.4.4}Answers}{1377}{subsection.A.4.4}%
-\contentsline {section}{\numberline {A.5}Graphing Lines}{1379}{section.A.5}%
-\contentsline {subsection}{\numberline {A.5.1}Exercises}{1390}{subsection.A.5.1}%
-\contentsline {subsection}{\numberline {A.5.2}Answers}{1392}{subsection.A.5.2}%
-\contentsline {section}{\numberline {A.6}Systems of Two Linear Equations in Two Unknowns}{1395}{section.A.6}%
-\contentsline {subsection}{\numberline {A.6.1}Exercises}{1401}{subsection.A.6.1}%
-\contentsline {subsection}{\numberline {A.6.2}Answers}{1402}{subsection.A.6.2}%
-\contentsline {section}{\numberline {A.7}Absolute Value Equations and Inequalities}{1403}{section.A.7}%
-\contentsline {subsection}{\numberline {A.7.1}Absolute Value Equations}{1404}{subsection.A.7.1}%
-\contentsline {subsection}{\numberline {A.7.2}Absolute Value Inequalities}{1406}{subsection.A.7.2}%
-\contentsline {subsection}{\numberline {A.7.3}Exercises}{1410}{subsection.A.7.3}%
-\contentsline {subsection}{\numberline {A.7.4}Answers}{1411}{subsection.A.7.4}%
-\contentsline {section}{\numberline {A.8}Polynomial Arithmetic}{1412}{section.A.8}%
-\contentsline {subsection}{\numberline {A.8.1}Polynomial Addition, Subtraction and Multiplication.}{1413}{subsection.A.8.1}%
-\contentsline {subsection}{\numberline {A.8.2}Polynomial Long Division.}{1416}{subsection.A.8.2}%
-\contentsline {subsection}{\numberline {A.8.3}Exercises}{1420}{subsection.A.8.3}%
-\contentsline {subsection}{\numberline {A.8.4}Answers}{1421}{subsection.A.8.4}%
-\contentsline {section}{\numberline {A.9}Basic Factoring Techniques}{1422}{section.A.9}%
-\contentsline {subsection}{\numberline {A.9.1}Solving Equations by Factoring}{1428}{subsection.A.9.1}%
-\contentsline {subsection}{\numberline {A.9.2}Exercises}{1433}{subsection.A.9.2}%
-\contentsline {subsection}{\numberline {A.9.3}Answers}{1434}{subsection.A.9.3}%
-\contentsline {section}{\numberline {A.10}Quadratic Equations}{1435}{section.A.10}%
-\contentsline {subsection}{\numberline {A.10.1}Exercises}{1446}{subsection.A.10.1}%
-\contentsline {subsection}{\numberline {A.10.2}Answers}{1447}{subsection.A.10.2}%
-\contentsline {section}{\numberline {A.11}Complex Numbers}{1448}{section.A.11}%
-\contentsline {subsection}{\numberline {A.11.1}Exercises}{1453}{subsection.A.11.1}%
-\contentsline {subsection}{\numberline {A.11.2}Answers}{1454}{subsection.A.11.2}%
-\contentsline {section}{\numberline {A.12}Rational Expressions and Equations}{1457}{section.A.12}%
-\contentsline {subsection}{\numberline {A.12.1}Exercises}{1469}{subsection.A.12.1}%
-\contentsline {subsection}{\numberline {A.12.2}Answers}{1471}{subsection.A.12.2}%
-\contentsline {section}{\numberline {A.13}Radical Equations}{1472}{section.A.13}%
-\contentsline {subsection}{\numberline {A.13.1}Rationalizing Denominators and Numerators}{1480}{subsection.A.13.1}%
-\contentsline {subsection}{\numberline {A.13.2}Exercises}{1485}{subsection.A.13.2}%
-\contentsline {subsection}{\numberline {A.13.3}Answers}{1486}{subsection.A.13.3}%
-\contentsline {section}{\numberline {A.14}Variation}{1487}{section.A.14}%
-\contentsline {subsection}{\numberline {A.14.1}Exercises}{1489}{subsection.A.14.1}%
-\contentsline {subsection}{\numberline {A.14.2}Answers}{1491}{subsection.A.14.2}%
-\contentsline {chapter}{\numberline {B}Geometry Review}{1493}{appendix.B}%
-\contentsline {section}{\numberline {B.1}Angles in Degrees}{1494}{section.B.1}%
-\contentsline {subsection}{\numberline {B.1.1}Exercises}{1502}{subsection.B.1.1}%
-\contentsline {subsection}{\numberline {B.1.2}Answers}{1503}{subsection.B.1.2}%
-\contentsline {section}{\numberline {B.2}Right Triangle Trigonometry}{1505}{section.B.2}%
-\contentsline {subsection}{\numberline {B.2.1}Exercises}{1513}{subsection.B.2.1}%
-\contentsline {subsection}{\numberline {B.2.2}Answers}{1517}{subsection.B.2.2}%
+\contentsline {subsection}{\numberline {11.3.4}Answers}{965}{subsection.11.3.4}%
+\contentsline {section}{\numberline {11.4}The Circular Functions: Tangent, Secant, Cosecant, and Cotangent}{971}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Exercises}{979}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}Answers}{982}{subsection.11.4.2}%
+\contentsline {section}{\numberline {11.5}Graphs of Secant, Cosecant, Tangent, and Cotangent Functions}{985}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}Graphs of the Secant and Cosecant Functions}{985}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}Graphs of the Tangent and Cotangent Functions}{991}{subsection.11.5.2}%
+\contentsline {subsection}{\numberline {11.5.3}Extended Interval Notation}{998}{subsection.11.5.3}%
+\contentsline {subsection}{\numberline {11.5.4}Exercises}{1000}{subsection.11.5.4}%
+\contentsline {subsection}{\numberline {11.5.5}Answers}{1002}{subsection.11.5.5}%
+\contentsline {chapter}{\numberline {12}Analytical Trigonometry}{1007}{chapter.12}%
+\contentsline {section}{\numberline {12.1}The Pythagorean Identities}{1007}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Exercises}{1014}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}Answers}{1017}{subsection.12.1.2}%
+\contentsline {section}{\numberline {12.2}More Identities}{1018}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Sinusoids, Revisited}{1031}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}Exercises}{1035}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}Answers}{1041}{subsection.12.2.3}%
+\contentsline {section}{\numberline {12.3}The Inverse Circular Functions}{1044}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Inverses of Secant and Cosecant: Trigonometry Friendly Approach}{1054}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Inverses of Secant and Cosecant: Calculus Friendly Approach}{1058}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}Calculators and the Inverse Circular Functions.}{1062}{subsection.12.3.3}%
+\contentsline {subsection}{\numberline {12.3.4}Solving Equations Using the Inverse Trigonometric Functions.}{1066}{subsection.12.3.4}%
+\contentsline {subsection}{\numberline {12.3.5}Exercises}{1071}{subsection.12.3.5}%
+\contentsline {subsection}{\numberline {12.3.6}Answers}{1078}{subsection.12.3.6}%
+\contentsline {section}{\numberline {12.4}Equations and Inequalities Involving the Circular Functions}{1086}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Harmonic Motion}{1110}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}Exercises}{1119}{subsection.12.4.2}%
+\contentsline {subsection}{\numberline {12.4.3}Answers}{1123}{subsection.12.4.3}%
+\contentsline {chapter}{\numberline {13}Geometric Applications of Trigonometry}{1129}{chapter.13}%
+\contentsline {section}{\numberline {13.1}The Law of Sines}{1129}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}Bearings}{1137}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}Exercises}{1140}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}Answers}{1144}{subsection.13.1.3}%
+\contentsline {section}{\numberline {13.2}The Law of Cosines}{1146}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Exercises}{1152}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Answers}{1154}{subsection.13.2.2}%
+\contentsline {section}{\numberline {13.3}Vectors}{1155}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Exercises}{1171}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Answers}{1175}{subsection.13.3.2}%
+\contentsline {section}{\numberline {13.4}The Dot Product}{1178}{section.13.4}%
+\contentsline {subsection}{\numberline {13.4.1}Vector Projections}{1183}{subsection.13.4.1}%
+\contentsline {subsection}{\numberline {13.4.2}Exercises}{1188}{subsection.13.4.2}%
+\contentsline {subsection}{\numberline {13.4.3}Answers}{1190}{subsection.13.4.3}%
+\contentsline {chapter}{\numberline {14}Polar Coordinates and Parametric Equations}{1193}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Polar Coordinates}{1193}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}Exercises}{1205}{subsection.14.1.1}%
+\contentsline {subsection}{\numberline {14.1.2}Answers}{1207}{subsection.14.1.2}%
+\contentsline {section}{\numberline {14.2}The Graphs of Polar Equations}{1213}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}Exercises}{1234}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}Answers}{1239}{subsection.14.2.2}%
+\contentsline {section}{\numberline {14.3}The Polar Form of Complex Numbers}{1249}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}Exercises}{1263}{subsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.3.2}Answers}{1266}{subsection.14.3.2}%
+\contentsline {section}{\numberline {14.4}The Polar Form of the Conic Sections}{1271}{section.14.4}%
+\contentsline {subsection}{\numberline {14.4.1}Rotation of Axes}{1271}{subsection.14.4.1}%
+\contentsline {subsection}{\numberline {14.4.2}The Polar Form of Conics}{1279}{subsection.14.4.2}%
+\contentsline {subsection}{\numberline {14.4.3}Exercises}{1286}{subsection.14.4.3}%
+\contentsline {subsection}{\numberline {14.4.4}Answers}{1287}{subsection.14.4.4}%
+\contentsline {section}{\numberline {14.5}Parametric Equations}{1291}{section.14.5}%
+\contentsline {subsection}{\numberline {14.5.1}Exercises}{1303}{subsection.14.5.1}%
+\contentsline {subsection}{\numberline {14.5.2}Answers}{1308}{subsection.14.5.2}%
+\contentsline {chapter}{\numberline {A}Algebra Review}{1315}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Basic Set Theory and Interval Notation}{1317}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Some Basic Set Theory Notions}{1317}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Sets of Real Numbers}{1320}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Exercises}{1327}{subsection.A.1.3}%
+\contentsline {subsection}{\numberline {A.1.4}Answers}{1329}{subsection.A.1.4}%
+\contentsline {section}{\numberline {A.2}Real Number Arithmetic}{1332}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}Exercises}{1351}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}Answers}{1352}{subsection.A.2.2}%
+\contentsline {section}{\numberline {A.3}The Cartesian Plane}{1353}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}The Cartesian Coordinate Plane}{1353}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Distance in the Plane}{1357}{subsection.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Exercises}{1363}{subsection.A.3.3}%
+\contentsline {subsection}{\numberline {A.3.4}Answers}{1367}{subsection.A.3.4}%
+\contentsline {section}{\numberline {A.4}Linear Equations and Inequalities}{1369}{section.A.4}%
+\contentsline {subsection}{\numberline {A.4.1}Linear Equations}{1369}{subsection.A.4.1}%
+\contentsline {subsection}{\numberline {A.4.2}Linear Inequalities}{1374}{subsection.A.4.2}%
+\contentsline {subsection}{\numberline {A.4.3}Exercises}{1377}{subsection.A.4.3}%
+\contentsline {subsection}{\numberline {A.4.4}Answers}{1379}{subsection.A.4.4}%
+\contentsline {section}{\numberline {A.5}Graphing Lines}{1381}{section.A.5}%
+\contentsline {subsection}{\numberline {A.5.1}Exercises}{1392}{subsection.A.5.1}%
+\contentsline {subsection}{\numberline {A.5.2}Answers}{1394}{subsection.A.5.2}%
+\contentsline {section}{\numberline {A.6}Systems of Two Linear Equations in Two Unknowns}{1397}{section.A.6}%
+\contentsline {subsection}{\numberline {A.6.1}Exercises}{1403}{subsection.A.6.1}%
+\contentsline {subsection}{\numberline {A.6.2}Answers}{1404}{subsection.A.6.2}%
+\contentsline {section}{\numberline {A.7}Absolute Value Equations and Inequalities}{1405}{section.A.7}%
+\contentsline {subsection}{\numberline {A.7.1}Absolute Value Equations}{1406}{subsection.A.7.1}%
+\contentsline {subsection}{\numberline {A.7.2}Absolute Value Inequalities}{1408}{subsection.A.7.2}%
+\contentsline {subsection}{\numberline {A.7.3}Exercises}{1412}{subsection.A.7.3}%
+\contentsline {subsection}{\numberline {A.7.4}Answers}{1413}{subsection.A.7.4}%
+\contentsline {section}{\numberline {A.8}Polynomial Arithmetic}{1414}{section.A.8}%
+\contentsline {subsection}{\numberline {A.8.1}Polynomial Addition, Subtraction and Multiplication.}{1415}{subsection.A.8.1}%
+\contentsline {subsection}{\numberline {A.8.2}Polynomial Long Division.}{1418}{subsection.A.8.2}%
+\contentsline {subsection}{\numberline {A.8.3}Exercises}{1422}{subsection.A.8.3}%
+\contentsline {subsection}{\numberline {A.8.4}Answers}{1423}{subsection.A.8.4}%
+\contentsline {section}{\numberline {A.9}Basic Factoring Techniques}{1424}{section.A.9}%
+\contentsline {subsection}{\numberline {A.9.1}Solving Equations by Factoring}{1430}{subsection.A.9.1}%
+\contentsline {subsection}{\numberline {A.9.2}Exercises}{1435}{subsection.A.9.2}%
+\contentsline {subsection}{\numberline {A.9.3}Answers}{1436}{subsection.A.9.3}%
+\contentsline {section}{\numberline {A.10}Quadratic Equations}{1437}{section.A.10}%
+\contentsline {subsection}{\numberline {A.10.1}Exercises}{1448}{subsection.A.10.1}%
+\contentsline {subsection}{\numberline {A.10.2}Answers}{1449}{subsection.A.10.2}%
+\contentsline {section}{\numberline {A.11}Complex Numbers}{1450}{section.A.11}%
+\contentsline {subsection}{\numberline {A.11.1}Exercises}{1455}{subsection.A.11.1}%
+\contentsline {subsection}{\numberline {A.11.2}Answers}{1456}{subsection.A.11.2}%
+\contentsline {section}{\numberline {A.12}Rational Expressions and Equations}{1459}{section.A.12}%
+\contentsline {subsection}{\numberline {A.12.1}Exercises}{1471}{subsection.A.12.1}%
+\contentsline {subsection}{\numberline {A.12.2}Answers}{1473}{subsection.A.12.2}%
+\contentsline {section}{\numberline {A.13}Radical Equations}{1474}{section.A.13}%
+\contentsline {subsection}{\numberline {A.13.1}Rationalizing Denominators and Numerators}{1482}{subsection.A.13.1}%
+\contentsline {subsection}{\numberline {A.13.2}Exercises}{1487}{subsection.A.13.2}%
+\contentsline {subsection}{\numberline {A.13.3}Answers}{1488}{subsection.A.13.3}%
+\contentsline {section}{\numberline {A.14}Variation}{1489}{section.A.14}%
+\contentsline {subsection}{\numberline {A.14.1}Exercises}{1491}{subsection.A.14.1}%
+\contentsline {subsection}{\numberline {A.14.2}Answers}{1493}{subsection.A.14.2}%
+\contentsline {chapter}{\numberline {B}Geometry Review}{1495}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Angles in Degrees}{1496}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}Exercises}{1504}{subsection.B.1.1}%
+\contentsline {subsection}{\numberline {B.1.2}Answers}{1505}{subsection.B.1.2}%
+\contentsline {section}{\numberline {B.2}Right Triangle Trigonometry}{1507}{section.B.2}%
+\contentsline {subsection}{\numberline {B.2.1}Exercises}{1515}{subsection.B.2.1}%
+\contentsline {subsection}{\numberline {B.2.2}Answers}{1519}{subsection.B.2.2}%

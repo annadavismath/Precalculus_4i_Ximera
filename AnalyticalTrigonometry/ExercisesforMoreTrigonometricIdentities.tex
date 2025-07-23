@@ -223,7 +223,7 @@ In Exercises \ref{sumdifffirst} - \ref{sumdifflast}, use the Sum and Difference 
 
 \end{enumerate}
 
-\newpage
+\pagebreak
 
 In Exercises \ref{expandedsinusoidexerfirst} - \ref{expandedsinusoidexerlast}, use Example \ref{expandedsinusoidex1} as a guide to show that the function is a sinusoid by rewriting it in the forms $C(t) = A \cos(\omega t + \phi) + B$ and $S(t) = A \sin(\omega t + \phi) + B$ for $\omega > 0$ and $0 \leq \phi < 2\pi$.
 
@@ -413,26 +413,85 @@ In Exercises \ref{identfirstident} - \ref{identlastident}, verify the identity.\
 \setcounter{enumi}{\value{HW}}
 
 \item $\dfrac{\cos(\alpha + \beta)}{\cos(\alpha - \beta)} = \dfrac{1 - \tan(\alpha)\tan(\beta)}{1 + \tan(\alpha)\tan(\beta)}$
-\item $\dfrac{\tan(\alpha + \beta)}{\tan(\alpha - \beta)} = \dfrac{\sin(\alpha)\cos(\alpha) + \sin(\beta)\cos(\beta)}{\sin(\alpha)\cos(\alpha) - \sin(\beta)\cos(\beta)}$
+\item $\dfrac{\tan(\alpha + \beta)}{\tan(\alpha - \beta)} = \dfrac{\sin(\alpha)\cos(\alpha) + \sin(\beta)\cos(\beta)}{\sin(\alpha)\cos(\alpha) - \sin(\beta)\cos(\beta)}$\label{identlastident}
 
 \setcounter{HW}{\value{enumi}}
 
 \end{enumerate}
-
 \end{multicols}
 
-\begin{enumerate}
+\pagebreak
 
+In Exercise \ref{derivativesine} - \ref{derivativecosine}, use the results from  Exercise \ref{sintovertexercise3} in Section \ref{TheOtherCircularFunctions}: $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{\sin(\theta)}{\theta} = 1$ and Exercise \ref{oneminuscosinelimit} in Section \ref{FundamentalTrigonometricIdentities} :   $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{1 - \cos(\theta)}{\theta} = 0$ to help you find the derivatives of the sine and cosine functions.
+
+\begin{enumerate}
 \setcounter{enumi}{\value{HW}}
 
-\item $\dfrac{\sin(t + h) - \sin(t)}{h} = \cos(t) \left(\dfrac{\sin(h)}{h} \right) + \sin(t) \left( \dfrac{\cos(h) - 1}{h} \right)$
-\item $\dfrac{\cos(t + h) - \cos(t)}{h} = \cos(t) \left( \dfrac{\cos(h) - 1}{h} \right) - \sin(t) \left(\dfrac{\sin(h)}{h} \right)$
-\item  $\dfrac{\tan(t + h) - \tan(t)}{h} = \left( \dfrac{\tan(h)}{h} \right) \left(\dfrac{\sec^{2}(t)}{1 - \tan(t)\tan(h)} \right)$ \label{identlastident}
+\item\label{derivativesine}  \begin{enumerate}  \item  Verify for $f(t) = \sin(t)$, $\dfrac{f(t+h) - f(t)}{h} = \dfrac{\sin(t + h) - \sin(t)}{h} = \cos(t) \left(\dfrac{\sin(h)}{h} \right) + \sin(t) \left( \dfrac{\cos(h) - 1}{h} \right)$
 
-\setcounter{HW}{\value{enumi}}
+\smallskip
+
+\item  Show $\ds{f'(t) = \lim_{h \rightarrow 0} \dfrac{f(t+h) - f(t)}{h} = \cos(t)}$.
+
+\smallskip
+
+\textbf{HINT:}   $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{\cos(\theta) - 1}{\theta} =$ $\ds{\lim_{\theta \rightarrow 0}}$ $\left(-\frac{1 - \cos(\theta)}{\theta}\right) = - (0) = 0$
+
+\item  Find the equation of the tangent line to the graph of $y = \sin(t)$ at $(0,0)$, $\left(\frac{\pi}{2}, 1\right)$ and $(\pi, 0)$.  
+
+\smallskip
+
+Check your answers graphically.
 
 \end{enumerate}
 
+\item\label{derivativecosine} \begin{enumerate} \item   Verify for $g(t) = \cos(t)$, $\dfrac{g(t+h) - g(t)}{h} = \dfrac{\cos(t + h) - \cos(t)}{h} = \cos(t) \left( \dfrac{\cos(h) - 1}{h} \right) - \sin(t) \left(\dfrac{\sin(h)}{h} \right)$
+
+\smallskip
+
+\item  Show $\ds{g'(t) = \lim_{h \rightarrow 0} \dfrac{g(t+h) - g(t)}{h} =  - \sin(t)}$.
+
+\smallskip
+
+\item  Find the equation of the tangent line to the graph of $y = \cos(t)$ at $(0,1)$, $\left(\frac{\pi}{2}, 0\right)$ and $\left(-\frac{\pi}{2}, 0\right)$.  
+
+\smallskip
+
+Check your answers graphically.
+
+\end{enumerate}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
+
+\item\label{derivativetangent}   \begin{enumerate}  \item\label{tanthetaoverthetalimit}  Use the fact\footnote{See Exercise \ref{sintovertexercise3} in Section \ref{TheOtherCircularFunctions}.} that $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{\sin(\theta)}{\theta} = 1$  to prove $\ds{\lim_{\theta \rightarrow 0}}$ $\frac{\tan(\theta)}{\theta} = 1$.
+
+\smallskip
+
+\textbf{HINT:}  $\frac{\tan(\theta)}{\theta} = \frac{\sin(\theta)}{\theta} \, \frac{1}{\cos(\theta)}$ \ldots
+
+\smallskip
+
+ \item For $f(t) = \tan(t)$, show $\dfrac{f(t+h) - f(t)}{h} = \dfrac{\tan(t + h) - \tan(t)}{h} = \left( \dfrac{\tan(h)}{h} \right) \left(\dfrac{\sec^{2}(t)}{1 - \tan(t)\tan(h)} \right)$.
+
+\smallskip
+
+\item Use part \ref{tanthetaoverthetalimit} to show $\ds{f'(t) = \lim_{h \rightarrow 0} \dfrac{f(t+h) - f(t)}{h} = \sec^{2}(t)}$
+
+
+\item  Find the equation of the tangent line to the graph of $y = \tan(t)$ at $(0,0)$, $\left(\frac{\pi}{4}, 1 \right)$ and $\left(-\frac{\pi}{4}, -1\right)$.  
+
+\smallskip
+
+Check your answers graphically.
+
+\end{enumerate}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
 
 
 In Exercises \ref{idenhalfanglefirst} - \ref{idenhalfanglelast}, use the Half Angle Formulas to find the exact value.  You may have need of the Quotient, Reciprocal or Even / Odd Identities as well.
@@ -684,6 +743,9 @@ In Exercises \ref{moreidentfirst} - \ref{moreidentlast}, verify the identity.  A
 
 \end{enumerate}
 
+\pagebreak
+
+
 \begin{enumerate}
 
 \setcounter{enumi}{\value{HW}}
@@ -756,11 +818,15 @@ In Exercises \ref{moreidentfirst} - \ref{moreidentlast}, verify the identity.  A
 
 \item In part \ref{cosinepolynomial} of Example \ref{doubleangleex}, we wrote $\cos(3\theta)$ as a polynomial in terms of $\cos(\theta)$.  In Exercise \ref{cosine4theta}, we had you verify an identity which expresses $\cos(4\theta)$ as a polynomial in terms of $\cos(\theta)$.   Can you find a polynomial in terms of $\cos(\theta)$ for $\cos(5\theta)$?  $\cos(6\theta)$?  Can you find a pattern so that $\cos(n\theta)$ could be written as a polynomial in cosine for any natural number $n$?
 
+
 \item In Exercise \ref{sine3theta}, we has you verify an identity which expresses $\sin(3\theta)$ as a polynomial in terms of $\sin(\theta)$.   Can you do the same for  $\sin(5\theta)$?  What about for $\sin(4\theta)$?  If not, what goes wrong?
 
 \setcounter{HW}{\value{enumi}}
 
 \end{enumerate}
+
+\pagebreak
+
 
 In Exercises \ref{idengraphfirst} - \ref{idengraphlast}, verify the identity by graphing the right and left hand using a graphing utility.
 
@@ -913,7 +979,7 @@ In Exercises \ref{beatexfirst} - \ref{beatexlast}, using the remarks following E
 
 \end{enumerate}
 
-\newpage
+\pagebreak
 
 \subsection{Answers}
 
@@ -1168,13 +1234,40 @@ In Exercises \ref{beatexfirst} - \ref{beatexlast}, using the remarks following E
 \setcounter{HW}{\value{enumi}}
 \end{enumerate}
 
-\begin{multicols}{2}
+
 
 \begin{enumerate}
 
 \setcounter{enumi}{\value{HW}}
 
-\addtocounter{enumi}{18}
+\addtocounter{enumi}{15}
+
+\item  \begin{enumerate}   \addtocounter{enumii}{3}
+
+\item   at $(0,0)$:  $y = x$;  at $\left(\frac{\pi}{2}, 1\right)$:  $y = 1$   at $(\pi, 0)$:  $y = -x + \pi$
+
+\end{enumerate}
+
+\item  \begin{enumerate}   \addtocounter{enumii}{3}
+
+\item   at $(0,1)$:  $y = 1$;  at $\left(\frac{\pi}{2}, 0\right)$:  $y = -x + \frac{\pi}{2}$   at $\left(-\frac{\pi}{2}, 0\right)$:  $y = x + \frac{\pi}{2}$
+
+\end{enumerate}
+
+
+\item  \begin{enumerate}   \addtocounter{enumii}{4}
+
+\item   at $(0,0)$:  $y = x$;  at $\left(\frac{\pi}{4}, 1\right)$:  $y = 2x - \frac{\pi}{2} +1$   at $\left(-\frac{\pi}{4}, -1\right)$:  $y = 2x + \frac{\pi}{2} - 1$
+
+\end{enumerate}
+
+\setcounter{HW}{\value{enumi}}
+\end{enumerate}
+
+\begin{multicols}{2}
+
+\begin{enumerate}
+\setcounter{enumi}{\value{HW}}
 
 \item $\cos(75^{\circ}) = \frac{\sqrt{2-\sqrt{3}}}{2}$ 
 \item $\sin(105^{\circ}) = \frac{\sqrt{2+\sqrt{3}}}{2}$ 
@@ -1324,7 +1417,7 @@ In Exercises \ref{beatexfirst} - \ref{beatexlast}, using the remarks following E
 
 \end{multicols}
 
-
+\pagebreak
 
 \item \begin{multicols}{3}
 
