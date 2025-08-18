@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  23 JUL 2025 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.31)  18 AUG 2025 03:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -592,11 +592,11 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 )
-LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 42.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
-(Font)                  U/msb/m/n --> U/msb/m/n on input line 42.
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
-(Font)                  U/msb/m/n --> U/msb/m/n on input line 42.
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 41.
 \c@HW=\count322
 \c@HWindent=\count323
  (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/helvet.sty
@@ -673,12 +673,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsl' in version `bold'
 
 Writing index file Precalculus4i.idx
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7
-8.
+7.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 78.
+(Font)              scaled to size 10.07397pt on input line 77.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
@@ -713,24 +713,24 @@ LaTeX Warning: Label `orientedanglelast' multiply defined.
 )
 \openout1 = `Precalculus4i.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count325
@@ -761,48 +761,48 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 78.
+Package hyperref Info: Link coloring ON on input line 77.
 
 (./Precalculus4i.out) (./Precalculus4i.out)
 \@outlinefile=\write5
 \openout5 = `Precalculus4i.out'.
 
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 105.
+(Font)              scaled to size 15.89755pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 22.88956pt on input line 105.
+(Font)              scaled to size 22.88956pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 19.08076pt on input line 105.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 105
+(Font)              scaled to size 19.08076pt on input line 104.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 104
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 105
+LaTeX Font Info:    Trying to load font information for U+msb on input line 104
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 22.88956pt on input line 105.
+(Font)              scaled to size 22.88956pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 19.08076pt on input line 105.
+(Font)              scaled to size 19.08076pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 15.89755pt on input line 105.
+(Font)              scaled to size 15.89755pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 105.
+(Font)              scaled to size 11.03998pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 105.
+(Font)              scaled to size 7.35999pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 105.
+(Font)              scaled to size 5.51999pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 11.03998pt on input line 105.
+(Font)              scaled to size 11.03998pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 7.35999pt on input line 105.
+(Font)              scaled to size 7.35999pt on input line 104.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 5.51999pt on input line 105.
+(Font)              scaled to size 5.51999pt on input line 104.
  [1
 
 
@@ -813,7 +813,7 @@ al/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 22.88956pt on input line 118.
+(Font)              scaled to size 22.88956pt on input line 117.
  (./Precalculus4i.toc
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 10.07397pt on input line 2.
@@ -936,47 +936,47 @@ Overfull \hbox (1.18849pt too wide) detected at line 47
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 48
- []\OT1/phv/m/n/10.95 230
+ []\OT1/phv/m/n/10.95 231
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 49
- []\OT1/phv/m/n/10.95 240
+ []\OT1/phv/m/n/10.95 241
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 50
- []\OT1/phv/m/n/10.95 245
+ []\OT1/phv/m/n/10.95 246
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 51
- []\OT1/phv/m/n/10.95 252
+ []\OT1/phv/m/n/10.95 253
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 52
- []\OT1/phv/m/n/10.95 265
+ []\OT1/phv/m/n/10.95 266
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 53
- []\OT1/phv/m/n/10.95 267
+ []\OT1/phv/m/n/10.95 268
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 54
- []\OT1/phv/m/n/10.95 275
+ []\OT1/phv/m/n/10.95 276
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 55
- []\OT1/phv/m/n/10.95 283
+ []\OT1/phv/m/n/10.95 284
  []
 
 
 Overfull \hbox (1.18849pt too wide) detected at line 56
- []\OT1/phv/m/n/10.95 286
+ []\OT1/phv/m/n/10.95 287
  []
 
 
@@ -2268,7 +2268,7 @@ Overfull \hbox (6.78955pt too wide) detected at line 325
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 19.08076pt on input line 135.
+(Font)              scaled to size 19.08076pt on input line 134.
 (./IntroductiontoFunctions/IntroductiontoFunctions.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 13.24796pt on input line 1.
@@ -4246,13 +4246,13 @@ File: ./RationalFunctions/IntroRational.19 Graphic file (type mps)
 File: ./RationalFunctions/IntroRational.20 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/IntroRational.20) [227] [228]
-Overfull \hbox (26.73068pt too wide) in paragraph at lines 842--843
+Overfull \hbox (26.73068pt too wide) in paragraph at lines 846--847
 []\OT1/phv/m/n/10.95 A graph-ing util-ity ver-i-fies this claim, and from the g
 raph, we see that $[]$, $[]$,
  []
 
 
-Overfull \hbox (19.1703pt too wide) in paragraph at lines 850--851
+Overfull \hbox (19.1703pt too wide) in paragraph at lines 854--855
 []\OT1/phv/m/n/10.95 Graphing $\OT1/phv/m/sl/10.95 g$ \OT1/phv/m/n/10.95 we can
  def-i-nitely see the ver-ti-cal asymp-tote $\OT1/phv/m/sl/10.95 t \OT1/phv/m/n
 /10.95 = \OMS/cmsy/m/n/10.95 ^^@\OT1/phv/m/n/10.95 3$: as $[]$ and $[]$.
@@ -4264,7 +4264,7 @@ File: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx01.jpg Graphic file
  (type jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx01.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx
-01.jpg  used on input line 856.
+01.jpg  used on input line 860.
 (pdftex.def)             Requested size: 216.81pt x 118.3089pt.
 <./RationalFunctions/./IntroRationalGraphics/VAorHoleEx02.jpg, id=5297, 2766.33
 5pt x 1509.64pt>
@@ -4272,192 +4272,197 @@ File: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx02.jpg Graphic file
  (type jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx02.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx
-02.jpg  used on input line 856.
+02.jpg  used on input line 860.
 (pdftex.def)             Requested size: 216.81pt x 118.3089pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 854--862
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 858--866
  [] 
  []
 
-[229 <./RationalFunctions/./IntroRationalGraphics/VAorHoleEx01.jpg> <./Rational
-Functions/./IntroRationalGraphics/VAorHoleEx02.jpg>]
+[229]
 <./RationalFunctions/./IntroRationalGraphics/VAorHoleEx03.jpg, id=5312, 2770.35
 pt x 1515.6625pt>
 File: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx03.jpg Graphic file
  (type jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx03.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx
-03.jpg  used on input line 872.
+03.jpg  used on input line 876.
 (pdftex.def)             Requested size: 216.81pt x 118.59586pt.
-<./RationalFunctions/./IntroRationalGraphics/VAorHoleEx04.jpg, id=5313, 2768.34
-25pt x 1513.655pt>
-File: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx04.jpg Graphic file
- (type jpg)
-<use ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx04.jpg>
+<./RationalFunctions/./IntroRationalGraphics/VAorHoleEx04.png, id=5313, 583.178
+76pt x 514.92375pt>
+File: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx04.png Graphic file
+ (type png)
+<use ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx04.png>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/VAorHoleEx
-04.jpg  used on input line 872.
-(pdftex.def)             Requested size: 216.81pt x 118.53116pt.
+04.png  used on input line 876.
+(pdftex.def)             Requested size: 216.81pt x 191.43022pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 870--878
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 874--882
  [] 
  []
 
-[230 <./RationalFunctions/./IntroRationalGraphics/VAorHoleEx03.jpg> <./Rational
-Functions/./IntroRationalGraphics/VAorHoleEx04.jpg>]
+[230 <./RationalFunctions/./IntroRationalGraphics/VAorHoleEx01.jpg> <./Rational
+Functions/./IntroRationalGraphics/VAorHoleEx02.jpg> <./RationalFunctions/./Intr
+oRationalGraphics/VAorHoleEx03.jpg> <./RationalFunctions/./IntroRationalGraphic
+s/VAorHoleEx04.png>]
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 920.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 924.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 925.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 929.
 
 
 File: ./RationalFunctions/IntroRational.21 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/IntroRational.21)
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 942.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 946.
 
 
 
-LaTeX Font Warning: Command \normalsize invalid in math mode on input line 948.
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 952.
 
 
 File: ./RationalFunctions/IntroRational.22 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/IntroRational.22)
-Overfull \hbox (17.09282pt too wide) detected at line 958
+Overfull \hbox (17.09282pt too wide) detected at line 962
 []
  []
 
 [231]
-Overfull \hbox (1.63164pt too wide) in paragraph at lines 990--992
+Overfull \hbox (1.63164pt too wide) in paragraph at lines 994--996
 [][][][][][][]  
  []
 
-[232]
-<./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg, id=5369, 2774.365pt x 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [232]
+[233]
+<./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg, id=5376, 2774.365pt x 
 1517.67pt>
 File: ./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg
-  used on input line 1063.
+  used on input line 1067.
 (pdftex.def)             Requested size: 216.81pt x 118.59084pt.
-<./RationalFunctions/./IntroRationalGraphics/HAEx02.jpg, id=5370, 2766.335pt x 
+<./RationalFunctions/./IntroRationalGraphics/HAEx02.jpg, id=5377, 2766.335pt x 
 1505.625pt>
 File: ./RationalFunctions/./IntroRationalGraphics/HAEx02.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/HAEx02.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/HAEx02.jpg
-  used on input line 1063.
+  used on input line 1067.
 (pdftex.def)             Requested size: 216.81pt x 117.99425pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 1061--1068
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 1065--1072
  [] 
  []
 
-[233 <./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg> <./RationalFuncti
+[234 <./RationalFunctions/./IntroRationalGraphics/HAEx01.jpg> <./RationalFuncti
 ons/./IntroRationalGraphics/HAEx02.jpg>]
-<./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg, id=5386, 2766.335pt x 
+<./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg, id=5393, 2766.335pt x 
 1513.655pt>
 File: ./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg
-  used on input line 1083.
+  used on input line 1087.
 (pdftex.def)             Requested size: 216.81pt x 118.62355pt.
-<./RationalFunctions/./IntroRationalGraphics/HAEx04.jpg, id=5387, 2766.335pt x 
+<./RationalFunctions/./IntroRationalGraphics/HAEx04.jpg, id=5394, 2766.335pt x 
 1505.625pt>
 File: ./RationalFunctions/./IntroRationalGraphics/HAEx04.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/HAEx04.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/HAEx04.jpg
-  used on input line 1083.
+  used on input line 1087.
 (pdftex.def)             Requested size: 216.81pt x 117.99425pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 1081--1088
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 1085--1092
  [] 
  []
 
-[234 <./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg> <./RationalFuncti
-ons/./IntroRationalGraphics/HAEx04.jpg>]
 <./RationalFunctions/./IntroRationalGraphics/SAEx01.jpg, id=5398, 2764.3275pt x
  1509.64pt>
 File: ./RationalFunctions/./IntroRationalGraphics/SAEx01.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/SAEx01.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/SAEx01.jpg
-  used on input line 1126.
+  used on input line 1130.
 (pdftex.def)             Requested size: 289.07999pt x 157.86037pt.
- [235 <./RationalFunctions/./IntroRationalGraphics/SAEx01.jpg>]
-<./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg, id=5422, 2770.35pt x 1
+[235 <./RationalFunctions/./IntroRationalGraphics/HAEx03.jpg> <./RationalFuncti
+ons/./IntroRationalGraphics/HAEx04.jpg>] [236 <./RationalFunctions/./IntroRatio
+nalGraphics/SAEx01.jpg>]
+<./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg, id=5428, 2770.35pt x 1
 515.6625pt>
 File: ./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg
-  used on input line 1233.
+  used on input line 1237.
 (pdftex.def)             Requested size: 216.81pt x 118.59586pt.
-<./RationalFunctions/./IntroRationalGraphics/SAEx03.jpg, id=5423, 2766.335pt x 
+<./RationalFunctions/./IntroRationalGraphics/SAEx03.jpg, id=5429, 2766.335pt x 
 1519.6775pt>
 File: ./RationalFunctions/./IntroRationalGraphics/SAEx03.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/SAEx03.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/SAEx03.jpg
-  used on input line 1233.
+  used on input line 1237.
 (pdftex.def)             Requested size: 216.81pt x 119.09552pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 1231--1238
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 1235--1242
  [] 
  []
 
-[236]
-<./RationalFunctions/./IntroRationalGraphics/SAEx04.jpg, id=5442, 2768.3425pt x
+[237]
+<./RationalFunctions/./IntroRationalGraphics/SAEx04.jpg, id=5447, 2768.3425pt x
  1519.6775pt>
 File: ./RationalFunctions/./IntroRationalGraphics/SAEx04.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/SAEx04.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/SAEx04.jpg
-  used on input line 1257.
+  used on input line 1261.
 (pdftex.def)             Requested size: 216.81pt x 119.00278pt.
-<./RationalFunctions/./IntroRationalGraphics/SAEx05.jpg, id=5443, 2770.35pt x 1
+<./RationalFunctions/./IntroRationalGraphics/SAEx05.jpg, id=5448, 2770.35pt x 1
 505.625pt>
 File: ./RationalFunctions/./IntroRationalGraphics/SAEx05.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/SAEx05.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/SAEx05.jpg
-  used on input line 1257.
+  used on input line 1261.
 (pdftex.def)             Requested size: 216.81pt x 117.81046pt.
 
-Overfull \hbox (15.24007pt too wide) in paragraph at lines 1255--1262
+Overfull \hbox (15.24007pt too wide) in paragraph at lines 1259--1266
  [] 
  []
 
-[237 <./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg> <./RationalFuncti
-ons/./IntroRationalGraphics/SAEx03.jpg>] [238 <./RationalFunctions/./IntroRatio
+[238 <./RationalFunctions/./IntroRationalGraphics/SAEx02.jpg> <./RationalFuncti
+ons/./IntroRationalGraphics/SAEx03.jpg>] [239 <./RationalFunctions/./IntroRatio
 nalGraphics/SAEx04.jpg> <./RationalFunctions/./IntroRationalGraphics/SAEx05.jpg
 >]
-<./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg, id=5466, 2770.35pt x 1
+<./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg, id=5471, 2770.35pt x 1
 513.655pt>
 File: ./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg Graphic file (type
  jpg)
 <use ./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg>
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg
-  used on input line 1322.
+  used on input line 1326.
 (pdftex.def)             Requested size: 289.07999pt x 157.93376pt.
- [239 <./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg>]
+ [240 <./RationalFunctions/./IntroRationalGraphics/SAEx06.jpg>]
 (./RationalFunctions/ExercisesforIntroRational.tex
 File: ./RationalFunctions/IntroRational.23 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/IntroRational.23)
 File: ./RationalFunctions/IntroRational.24 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/IntroRational.24) [240]
+(./RationalFunctions/IntroRational.24) [241]
 File: ./RationalFunctions/IntroRational.25 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/IntroRational.25)
 File: ./RationalFunctions/IntroRational.26 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/IntroRational.26) [241] [242] [243] [244]
+(./RationalFunctions/IntroRational.26) [242] [243] [244] [245]
 Underfull \hbox (badness 10000) in paragraph at lines 442--447
 
  []
@@ -4487,7 +4492,7 @@ Overfull \vbox (4.93709pt too high) has occurred while \output is active []
 Overfull \vbox (4.93709pt too high) has occurred while \output is active []
 
 
-[245]
+[246]
 File: ./RationalFunctions/IntroRational.30 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/IntroRational.30)
 Underfull \hbox (badness 10000) in paragraph at lines 607--617
@@ -4502,7 +4507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 622--632
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [246]
+ [247]
 Underfull \hbox (badness 10000) in paragraph at lines 643--654
 
  []
@@ -4532,7 +4537,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 727--738
 
  []
 
-[247]
+[248]
 Underfull \hbox (badness 10000) in paragraph at lines 747--757
 
  []
@@ -4562,7 +4567,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 834--845
 
  []
 
-[248]
+[249]
 Underfull \hbox (badness 10000) in paragraph at lines 855--865
 
  []
@@ -4582,8 +4587,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 898--907
 
  []
 
-[249] [250]
-<./RationalFunctions/./IntroRationalGraphics/MaxPowerRegression.jpg, id=5685, 1
+[250] [251]
+<./RationalFunctions/./IntroRationalGraphics/MaxPowerRegression.jpg, id=5690, 1
 562.83875pt x 941.5175pt>
 File: ./RationalFunctions/./IntroRationalGraphics/MaxPowerRegression.jpg Graphi
 c file (type jpg)
@@ -4591,7 +4596,7 @@ c file (type jpg)
 Package pdftex.def Info: ./RationalFunctions/./IntroRationalGraphics/MaxPowerRe
 gression.jpg  used on input line 969.
 (pdftex.def)             Requested size: 239.92435pt x 144.54pt.
-)) [251 <./RationalFunctions/./IntroRationalGraphics/MaxPowerRegression.jpg>] (
+)) [252 <./RationalFunctions/./IntroRationalGraphics/MaxPowerRegression.jpg>] (
 ./RationalFunctions/RationalGraphs.tex
 
 Mfpic: Initializing RationalGraphs.mp.
@@ -4604,13 +4609,13 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 Underfull \vbox (badness 1946) has occurred while \output is active []
 
- [252]
-[253] [254]
+ [253]
+[254] [255]
 File: ./RationalFunctions/RationalGraphs.1 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/RationalGraphs.1)
 File: ./RationalFunctions/RationalGraphs.2 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalGraphs.2) [255]
+(./RationalFunctions/RationalGraphs.2) [256]
 File: ./RationalFunctions/RationalGraphs.3 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalGraphs.3)
@@ -4621,12 +4626,12 @@ Overfull \hbox (14.51465pt too wide) in paragraph at lines 214--215
 []|[] 
  []
 
-[256]
+[257]
 File: ./RationalFunctions/RationalGraphs.5 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/RationalGraphs.5)
 File: ./RationalFunctions/RationalGraphs.6 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalGraphs.6) [257]
+(./RationalFunctions/RationalGraphs.6) [258]
 File: ./RationalFunctions/RationalGraphs.7 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalGraphs.7)
@@ -4637,7 +4642,7 @@ Overfull \hbox (21.6829pt too wide) in paragraph at lines 355--356
 []|[] 
  []
 
-[258] [259]
+[259] [260]
 File: ./RationalFunctions/RationalGraphs.9 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/RationalGraphs.9)
 File: ./RationalFunctions/RationalGraphs.10 Graphic file (type mps)
@@ -4656,31 +4661,31 @@ Overfull \hbox (21.07875pt too wide) in paragraph at lines 496--497
 []|[] 
  []
 
-[260]
+[261]
 File: ./RationalFunctions/RationalGraphs.13 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/RationalGraphs.13)
 File: ./RationalFunctions/RationalGraphs.14 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalGraphs.14) [261]
+(./RationalFunctions/RationalGraphs.14) [262]
 File: ./RationalFunctions/RationalGraphs.15 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalGraphs.15)
 File: ./RationalFunctions/RationalGraphs.16 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalGraphs.16) [262] [263] [264]
+(./RationalFunctions/RationalGraphs.16) [263] [264] [265]
 (./RationalFunctions/ExercisesforRationalGraphs.tex
 File: ./RationalFunctions/RationalGraphs.17 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalGraphs.17)
 File: ./RationalFunctions/RationalGraphs.18 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalGraphs.18) [265]
+(./RationalFunctions/RationalGraphs.18) [266]
 File: ./RationalFunctions/RationalGraphs.19 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalGraphs.19)
 File: ./RationalFunctions/RationalGraphs.20 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalGraphs.20) [266]
+(./RationalFunctions/RationalGraphs.20) [267]
 Underfull \hbox (badness 10000) in paragraph at lines 256--267
 
  []
@@ -4695,7 +4700,7 @@ File: ./RationalFunctions/RationalGraphs.22 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.22)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [267]
+ [268]
 Underfull \hbox (badness 10000) in paragraph at lines 329--340
 
  []
@@ -4710,7 +4715,7 @@ File: ./RationalFunctions/RationalGraphs.24 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.24)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [268]
+ [269]
 Underfull \hbox (badness 10000) in paragraph at lines 403--416
 
  []
@@ -4725,7 +4730,7 @@ File: ./RationalFunctions/RationalGraphs.26 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.26)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [269]
+ [270]
 Underfull \hbox (badness 10000) in paragraph at lines 482--493
 
  []
@@ -4740,7 +4745,7 @@ File: ./RationalFunctions/RationalGraphs.28 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.28)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [270]
+ [271]
 Underfull \hbox (badness 10000) in paragraph at lines 558--570
 
  []
@@ -4755,7 +4760,7 @@ File: ./RationalFunctions/RationalGraphs.30 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.30)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [271]
+ [272]
 Underfull \hbox (badness 10000) in paragraph at lines 641--652
 
  []
@@ -4770,7 +4775,7 @@ File: ./RationalFunctions/RationalGraphs.32 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.32)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [272]
+ [273]
 Underfull \hbox (badness 10000) in paragraph at lines 716--728
 
  []
@@ -4785,7 +4790,7 @@ File: ./RationalFunctions/RationalGraphs.34 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalGraphs.34)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [273]
+ [274]
 Underfull \hbox (badness 10000) in paragraph at lines 800--809
 
  []
@@ -4797,7 +4802,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 832--845
  []
 
 File: ./RationalFunctions/RationalGraphs.36 Graphic file (type mps)
-[MP to PDF] (./RationalFunctions/RationalGraphs.36))) [274]
+[MP to PDF] (./RationalFunctions/RationalGraphs.36))) [275]
 (./RationalFunctions/RationalIneq.tex
 
 Mfpic: Initializing RationalIneq.mp.
@@ -4807,10 +4812,10 @@ Mfpic: Don't forget to process RationalIneq.mp!
 Mfpic: Apply metapost to RationalIneq.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[275]
+[276]
 File: ./RationalFunctions/RationalIneq.1 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/RationalIneq.1)
-<./RationalFunctions/./RationalIneqGraphics/RatIneqEx01.jpg, id=5972, 2770.35pt
+<./RationalFunctions/./RationalIneqGraphics/RatIneqEx01.jpg, id=5979, 2770.35pt
  x 1511.6475pt>
 File: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx01.jpg Graphic file (
 type jpg)
@@ -4818,7 +4823,7 @@ type jpg)
 Package pdftex.def Info: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx01
 .jpg  used on input line 98.
 (pdftex.def)             Requested size: 198.7425pt x 108.43257pt.
-<./RationalFunctions/./RationalIneqGraphics/RatIneqEx02.jpg, id=5973, 2764.3275
+<./RationalFunctions/./RationalIneqGraphics/RatIneqEx02.jpg, id=5980, 2764.3275
 pt x 1513.655pt>
 File: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx02.jpg Graphic file (
 type jpg)
@@ -4826,11 +4831,11 @@ type jpg)
 Package pdftex.def Info: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx02
 .jpg  used on input line 98.
 (pdftex.def)             Requested size: 198.7425pt x 108.80754pt.
- [276 <./RationalFunctions/./RationalIneqGraphics/RatIneqEx01.jpg> <./RationalF
+ [277 <./RationalFunctions/./RationalIneqGraphics/RatIneqEx01.jpg> <./RationalF
 unctions/./RationalIneqGraphics/RatIneqEx02.jpg>]
 File: ./RationalFunctions/RationalIneq.2 Graphic file (type mps)
  [MP to PDF] (./RationalFunctions/RationalIneq.2)
-<./RationalFunctions/./RationalIneqGraphics/RatIneqEx03.jpg, id=5983, 2766.335p
+<./RationalFunctions/./RationalIneqGraphics/RatIneqEx03.jpg, id=5991, 2766.335p
 t x 1513.655pt>
 File: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx03.jpg Graphic file (
 type jpg)
@@ -4843,17 +4848,17 @@ Overfull \hbox (18.0675pt too wide) in paragraph at lines 154--155
 []|[]| 
  []
 
-[277 <./RationalFunctions/./RationalIneqGraphics/RatIneqEx03.jpg>]
+[278 <./RationalFunctions/./RationalIneqGraphics/RatIneqEx03.jpg>]
 File: ./RationalFunctions/RationalIneq.3 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalIneq.3) [278]
+(./RationalFunctions/RationalIneq.3) [279]
 File: ./RationalFunctions/RationalIneq.4 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalIneq.4) [279]
+(./RationalFunctions/RationalIneq.4) [280]
 File: ./RationalFunctions/RationalIneq.5 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalIneq.5)
-<./RationalFunctions/./RationalIneqGraphics/RatIneqEx04.jpg, id=6027, 2762.32pt
+<./RationalFunctions/./RationalIneqGraphics/RatIneqEx04.jpg, id=6034, 2762.32pt
  x 1425.325pt>
 File: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx04.jpg Graphic file (
 type jpg)
@@ -4861,8 +4866,8 @@ type jpg)
 Package pdftex.def Info: ./RationalFunctions/./RationalIneqGraphics/RatIneqEx04
 .jpg  used on input line 330.
 (pdftex.def)             Requested size: 289.07999pt x 149.15245pt.
- [280]
-<./RationalFunctions/./RationalIneqGraphics/BoylesLawEx.jpg, id=6041, 2762.32pt
+ [281]
+<./RationalFunctions/./RationalIneqGraphics/BoylesLawEx.jpg, id=6048, 2762.32pt
  x 1503.6175pt>
 File: ./RationalFunctions/./RationalIneqGraphics/BoylesLawEx.jpg Graphic file (
 type jpg)
@@ -4870,7 +4875,7 @@ type jpg)
 Package pdftex.def Info: ./RationalFunctions/./RationalIneqGraphics/BoylesLawEx
 .jpg  used on input line 375.
 (pdftex.def)             Requested size: 433.62pt x 236.01799pt.
- [281 <./RationalFunctions/./RationalIneqGraphics/RatIneqEx04.jpg>] [282 <./Rat
+ [282 <./RationalFunctions/./RationalIneqGraphics/RatIneqEx04.jpg>] [283 <./Rat
 ionalFunctions/./RationalIneqGraphics/BoylesLawEx.jpg>] (./RationalFunctions/Ex
 ercisesforRationalIneq.tex
 File: ./RationalFunctions/RationalIneq.6 Graphic file (type mps)
@@ -4878,7 +4883,7 @@ File: ./RationalFunctions/RationalIneq.6 Graphic file (type mps)
 [MP to PDF] (./RationalFunctions/RationalIneq.6)
 File: ./RationalFunctions/RationalIneq.7 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalIneq.7) [283]
+(./RationalFunctions/RationalIneq.7) [284]
 File: ./RationalFunctions/RationalIneq.8 Graphic file (type mps)
  [MP to PDF]
 (./RationalFunctions/RationalIneq.8)
@@ -4890,9 +4895,7 @@ File: ./RationalFunctions/RationalIneq.10 Graphic file (type mps)
 (./RationalFunctions/RationalIneq.10)
 File: ./RationalFunctions/RationalIneq.11 Graphic file (type mps)
  [MP to PDF]
-(./RationalFunctions/RationalIneq.11) [284] [285] [286])) [287]) [288
-
-]
+(./RationalFunctions/RationalIneq.11) [285] [286] [287])) [288])
 Chapter 4.
 (./RootRadicalPowerFunctions/RootRadicalPowerFunctions.tex
 (./RootRadicalPowerFunctions/RootRadicalFunctions.tex
@@ -4904,7 +4907,9 @@ Mfpic: Don't forget to process RootRadicalFunctions.mp!
 Mfpic: Apply metapost to RootRadicalFunctions.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-[289]
+[289
+
+]
 File: ./RootRadicalPowerFunctions/RootRadicalFunctions.1 Graphic file (type mps
 )
  [MP to PDF] (./RootRadicalPowerFunctions/RootRadicalFunctions.1)
@@ -4997,7 +5002,7 @@ MS/cmsy/m/n/10.95 ^^Y \OT1/phv/m/n/10.95 ([])[] = ([])([]) = []$, so $[]$.
  []
 
 <./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx01.jp
-g, id=6277, 2764.3275pt x 1505.625pt>
+g, id=6280, 2764.3275pt x 1505.625pt>
 File: ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx
 01.jpg Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx0
@@ -5009,7 +5014,7 @@ File: ./RootRadicalPowerFunctions/RootRadicalFunctions.19 Graphic file (type mp
 s)
 [MP to PDF] (./RootRadicalPowerFunctions/RootRadicalFunctions.19) [295]
 <./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx02.jp
-g, id=6292, 2766.335pt x 1507.6325pt>
+g, id=6295, 2766.335pt x 1507.6325pt>
 File: ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx
 02.jpg Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx0
@@ -5023,7 +5028,7 @@ s)
 [MP to PDF] (./RootRadicalPowerFunctions/RootRadicalFunctions.20) [296 <./RootR
 adicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx01.jpg>]
 <./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx03.jp
-g, id=6301, 2768.3425pt x 1499.6025pt>
+g, id=6304, 2768.3425pt x 1499.6025pt>
 File: ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx
 03.jpg Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx0
@@ -5040,7 +5045,7 @@ Underfull \vbox (badness 4739) has occurred while \output is active []
  [297 <./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphE
 x02.jpg>]
 <./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx04.jp
-g, id=6313, 2764.3275pt x 1505.625pt>
+g, id=6316, 2764.3275pt x 1505.625pt>
 File: ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx
 04.jpg Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx0
@@ -5059,7 +5064,7 @@ s)
 [MP to PDF] (./RootRadicalPowerFunctions/RootRadicalFunctions.23) [299 <./RootR
 adicalPowerFunctions/./RootRadicalFunctionsGraphics/RadicalGraphEx04.jpg>]
 <./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/CostCableEx.jpg, id
-=6330, 2778.38pt x 1513.655pt>
+=6333, 2778.38pt x 1513.655pt>
 File: ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/CostCableEx.jp
 g Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./RootRadicalFunctionsGraphics/CostCableEx.jpg
@@ -5358,7 +5363,7 @@ File: ./RootRadicalPowerFunctions/PowerFunctions.25 Graphic file (type mps)
  [MP to PDF]
 (./RootRadicalPowerFunctions/PowerFunctions.25) [315]
 <./RootRadicalPowerFunctions/./PowerFunctionsGraphics/RationalExpEx01.jpg, id=6
-535, 2760.3125pt x 1425.325pt>
+538, 2760.3125pt x 1425.325pt>
 File: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/RationalExpEx01.jpg 
 Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/RationalExpEx01.jpg>
@@ -5370,7 +5375,7 @@ File: ./RootRadicalPowerFunctions/PowerFunctions.26 Graphic file (type mps)
 (./RootRadicalPowerFunctions/PowerFunctions.26) [316 <./RootRadicalPowerFunctio
 ns/./PowerFunctionsGraphics/RationalExpEx01.jpg>]
 <./RootRadicalPowerFunctions/./PowerFunctionsGraphics/RationalExpEx02.jpg, id=6
-544, 2820.5375pt x 1509.64pt>
+547, 2820.5375pt x 1509.64pt>
 File: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/RationalExpEx02.jpg 
 Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/RationalExpEx02.jpg>
@@ -5384,7 +5389,7 @@ ns/./PowerFunctionsGraphics/RationalExpEx02.jpg>]
 File: ./RootRadicalPowerFunctions/PowerFunctions.28 Graphic file (type mps)
  [MP to PDF]
 (./RootRadicalPowerFunctions/PowerFunctions.28) [318]
-<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/LorenzEx.jpg, id=6563, 27
+<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/LorenzEx.jpg, id=6566, 27
 66.335pt x 1521.685pt>
 File: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/LorenzEx.jpg Graphic
  file (type jpg)
@@ -5542,7 +5547,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 896--897
 
  []
 
-<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/WINDCHILL.jpg, id=6690, 1
+<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/WINDCHILL.jpg, id=6693, 1
 508.63625pt x 525.965pt>
 File: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/WINDCHILL.jpg Graphi
 c file (type jpg)
@@ -5550,7 +5555,7 @@ c file (type jpg)
 Package pdftex.def Info: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/W
 INDCHILL.jpg  used on input line 898.
 (pdftex.def)             Requested size: 362.74768pt x 126.47249pt.
-<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/PURSUIT01.jpg, id=6691, 1
+<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/PURSUIT01.jpg, id=6694, 1
 244.65pt x 581.17125pt>
 File: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/PURSUIT01.jpg Graphi
 c file (type jpg)
@@ -5558,7 +5563,7 @@ c file (type jpg)
 Package pdftex.def Info: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/P
 URSUIT01.jpg  used on input line 910.
 (pdftex.def)             Requested size: 309.54742pt x 144.54pt.
-<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/PURSUIT02.jpg, id=6692, 1
+<./RootRadicalPowerFunctions/./PowerFunctionsGraphics/PURSUIT02.jpg, id=6695, 1
 114.1625pt x 1160.335pt>
 File: ./RootRadicalPowerFunctions/./PowerFunctionsGraphics/PURSUIT02.jpg Graphi
 c file (type jpg)
@@ -5579,7 +5584,7 @@ Mfpic: Apply metapost to PowerEqIneq.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
 [328]
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx01.jpg, id=6725, 28
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx01.jpg, id=6728, 28
 22.545pt x 1507.6325pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx01.jpg Graphic
  file (type jpg)
@@ -5587,7 +5592,7 @@ File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx01.jpg Graphic
 Package pdftex.def Info: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/Powe
 rEqEx01.jpg  used on input line 89.
 (pdftex.def)             Requested size: 216.81pt x 115.8051pt.
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx02.jpg, id=6726, 28
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx02.jpg, id=6729, 28
 12.5075pt x 1507.6325pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx02.jpg Graphic
  file (type jpg)
@@ -5602,7 +5607,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 87--94
 
 [329 <./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx01.jpg> <./Roo
 tRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx02.jpg>]
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx03.jpg, id=6741, 28
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx03.jpg, id=6744, 28
 18.53pt x 1509.64pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx03.jpg Graphic
  file (type jpg)
@@ -5610,7 +5615,7 @@ File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx03.jpg Graphic
 Package pdftex.def Info: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/Powe
 rEqEx03.jpg  used on input line 124.
 (pdftex.def)             Requested size: 216.81pt x 116.12054pt.
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx04.jpg, id=6742, 28
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx04.jpg, id=6745, 28
 22.545pt x 1511.6475pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx04.jpg Graphic
  file (type jpg)
@@ -5634,7 +5639,7 @@ Overfull \hbox (5.54996pt too wide) detected at line 160
 []
  []
 
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx05.jpg, id=6761, 28
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx05.jpg, id=6764, 28
 12.5075pt x 1507.6325pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx05.jpg Graphic
  file (type jpg)
@@ -5642,7 +5647,7 @@ File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx05.jpg Graphic
 Package pdftex.def Info: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/Powe
 rEqEx05.jpg  used on input line 168.
 (pdftex.def)             Requested size: 216.81pt x 116.21918pt.
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx06.jpg, id=6762, 28
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx06.jpg, id=6765, 28
 26.56pt x 1511.6475pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerEqEx06.jpg Graphic
  file (type jpg)
@@ -5663,7 +5668,7 @@ File: ./RootRadicalPowerFunctions/PowerEqIneq.1 Graphic file (type mps)
 File: ./RootRadicalPowerFunctions/PowerEqIneq.2 Graphic file (type mps)
  [MP to PDF]
 (./RootRadicalPowerFunctions/PowerEqIneq.2)
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx01.jpg, id=6816, 
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx01.jpg, id=6819, 
 2822.545pt x 1511.6475pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx01.jpg Graph
 ic file (type jpg)
@@ -5679,7 +5684,7 @@ Overfull \hbox (36.13501pt too wide) in paragraph at lines 364--365
 [334]
 File: ./RootRadicalPowerFunctions/PowerEqIneq.3 Graphic file (type mps)
  [MP to PDF] (./RootRadicalPowerFunctions/PowerEqIneq.3)
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx02.jpg, id=6833, 
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx02.jpg, id=6836, 
 2824.5525pt x 1517.67pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx02.jpg Graph
 ic file (type jpg)
@@ -5697,7 +5702,7 @@ ootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx02.jpg>] [336]
 File: ./RootRadicalPowerFunctions/PowerEqIneq.4 Graphic file (type mps)
 
 [MP to PDF] (./RootRadicalPowerFunctions/PowerEqIneq.4)
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx03.jpg, id=6851, 
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx03.jpg, id=6854, 
 2818.53pt x 1511.6475pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx03.jpg Graph
 ic file (type jpg)
@@ -5714,7 +5719,7 @@ Overfull \hbox (36.13501pt too wide) in paragraph at lines 480--481
 File: ./RootRadicalPowerFunctions/PowerEqIneq.5 Graphic file (type mps)
 
 [MP to PDF] (./RootRadicalPowerFunctions/PowerEqIneq.5)
-<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx04.jpg, id=6862, 
+<./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx04.jpg, id=6865, 
 2824.5525pt x 1507.6325pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx04.jpg Graph
 ic file (type jpg)
@@ -5730,7 +5735,7 @@ Overfull \hbox (36.13501pt too wide) in paragraph at lines 539--540
 [338 <./RootRadicalPowerFunctions/./PowerEqIneqGraphics/PowerIneqEx04.jpg>]
 [339] (./RootRadicalPowerFunctions/ExercisesforPowerEqIneq.tex [340]
 <./RootRadicalPowerFunctions/./PowerEqIneqGraphics/CobbDouglasExercise.jpg, id=
-6918, 1051.93pt x 959.585pt>
+6921, 1051.93pt x 959.585pt>
 File: ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/CobbDouglasExercise.jpg
  Graphic file (type jpg)
 <use ./RootRadicalPowerFunctions/./PowerEqIneqGraphics/CobbDouglasExercise.jpg>
@@ -5842,7 +5847,7 @@ Underfull \vbox (badness 4132) has occurred while \output is active []
 
  [366]
 <./FurtherTopicsonFunctions/./FunctionArithmeticGraphics/MaxProfitARoCEx.png, i
-d=7340, 627.34375pt x 388.45125pt>
+d=7343, 627.34375pt x 388.45125pt>
 File: ./FurtherTopicsonFunctions/./FunctionArithmeticGraphics/MaxProfitARoCEx.p
 ng Graphic file (type png)
 <use ./FurtherTopicsonFunctions/./FunctionArithmeticGraphics/MaxProfitARoCEx.pn
@@ -5991,7 +5996,7 @@ File: ./FurtherTopicsonFunctions/Transformations.7 Graphic file (type mps)
  [MP to PDF]
 (./FurtherTopicsonFunctions/Transformations.7) [410]
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01a.jpg,
- id=8048, 2820.5375pt x 1507.6325pt>
+ id=8051, 2820.5375pt x 1507.6325pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01a
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01a.
@@ -6000,7 +6005,7 @@ Package pdftex.def Info: ./FurtherTopicsonFunctions/./TransformationsGraphics/T
 ransformationsEx01a.jpg  used on input line 428.
 (pdftex.def)             Requested size: 216.81pt x 115.87411pt.
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01b.jpg,
- id=8049, 2818.53pt x 1517.67pt>
+ id=8052, 2818.53pt x 1517.67pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01b
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01b.
@@ -6017,7 +6022,7 @@ Overfull \hbox (18.72536pt too wide) in paragraph at lines 426--433
 .jpg> <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01
 b.jpg>]
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01c.jpg,
- id=8062, 2820.5375pt x 1507.6325pt>
+ id=8065, 2820.5375pt x 1507.6325pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01c
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx01c.
@@ -6147,7 +6152,7 @@ Overfull \hbox (27.38924pt too wide) in paragraph at lines 955--956
 
 [416] [417]
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx02a.jpg,
- id=8140, 2682.02pt x 1507.6325pt>
+ id=8143, 2682.02pt x 1507.6325pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx02a
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx02a.
@@ -6156,7 +6161,7 @@ Package pdftex.def Info: ./FurtherTopicsonFunctions/./TransformationsGraphics/T
 ransformationsEx02a.jpg  used on input line 1036.
 (pdftex.def)             Requested size: 216.81pt x 121.8553pt.
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx02b.jpg,
- id=8141, 2682.02pt x 1505.625pt>
+ id=8144, 2682.02pt x 1505.625pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx02b
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx02b.
@@ -6336,7 +6341,7 @@ Overfull \hbox (10.37308pt too wide) in paragraph at lines 1926--1927
 
 [426] [427]
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx03a.jpg,
- id=8267, 2682.02pt x 1505.625pt>
+ id=8270, 2682.02pt x 1505.625pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx03a
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx03a.
@@ -6345,7 +6350,7 @@ Package pdftex.def Info: ./FurtherTopicsonFunctions/./TransformationsGraphics/T
 ransformationsEx03a.jpg  used on input line 2050.
 (pdftex.def)             Requested size: 216.81pt x 121.69305pt.
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx03b.jpg,
- id=8268, 2688.0425pt x 1517.67pt>
+ id=8271, 2688.0425pt x 1517.67pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx03b
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx03b.
@@ -6576,7 +6581,7 @@ File: ./FurtherTopicsonFunctions/Transformations.65 Graphic file (type mps)
  [MP to PDF]
 (./FurtherTopicsonFunctions/Transformations.65) [435]
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04a.jpg,
- id=8347, 2673.99pt x 1501.61pt>
+ id=8350, 2673.99pt x 1501.61pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04a
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04a.
@@ -6585,7 +6590,7 @@ Package pdftex.def Info: ./FurtherTopicsonFunctions/./TransformationsGraphics/T
 ransformationsEx04a.jpg  used on input line 2871.
 (pdftex.def)             Requested size: 216.81pt x 121.73514pt.
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04b.jpg,
- id=8348, 2678.005pt x 1507.6325pt>
+ id=8351, 2678.005pt x 1507.6325pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04b
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04b.
@@ -6600,7 +6605,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 2869--2876
 
 [436]
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04c.jpg,
- id=8365, 2675.9975pt x 1507.6325pt>
+ id=8368, 2675.9975pt x 1507.6325pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04c
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04c.
@@ -6609,7 +6614,7 @@ Package pdftex.def Info: ./FurtherTopicsonFunctions/./TransformationsGraphics/T
 ransformationsEx04c.jpg  used on input line 2887.
 (pdftex.def)             Requested size: 216.81pt x 122.13136pt.
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04d.jpg,
- id=8366, 2678.005pt x 1509.64pt>
+ id=8369, 2678.005pt x 1509.64pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04d
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04d.
@@ -6623,7 +6628,7 @@ Overfull \hbox (18.0362pt too wide) in paragraph at lines 2885--2892
  []
 
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04e.jpg,
- id=8369, 2678.005pt x 1501.61pt>
+ id=8372, 2678.005pt x 1501.61pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04e
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04e.
@@ -6632,7 +6637,7 @@ Package pdftex.def Info: ./FurtherTopicsonFunctions/./TransformationsGraphics/T
 ransformationsEx04e.jpg  used on input line 2914.
 (pdftex.def)             Requested size: 216.81pt x 121.55183pt.
 <./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04f.jpg,
- id=8370, 2673.99pt x 1507.6325pt>
+ id=8373, 2673.99pt x 1507.6325pt>
 File: ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04f
 .jpg Graphic file (type jpg)
 <use ./FurtherTopicsonFunctions/./TransformationsGraphics/TransformationsEx04f.
@@ -7281,10 +7286,7 @@ File: ./FirstStepsCalculus/IntroLimits.1 Graphic file (type mps)
 [MP to PDF] (./FirstStepsCalculus/IntroLimits.1) [497
 
 ]
-
-LaTeX Warning: Reference `Epislonics' on page 498 undefined on input line 58.
-
-<./FirstStepsCalculus/./IntroLimitsGraphics/limitgrapha.png, id=9287, 395.4775p
+<./FirstStepsCalculus/./IntroLimitsGraphics/limitgrapha.png, id=9289, 395.4775p
 t x 357.335pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/limitgrapha.png Graphic file (
 type png)
@@ -7292,7 +7294,7 @@ type png)
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroLimitsGraphics/limitgrapha
 .png  used on input line 81.
 (pdftex.def)             Requested size: 144.54pt x 130.59793pt.
-<./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphc.png, id=9288, 395.4775p
+<./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphc.png, id=9290, 395.4775p
 t x 357.335pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphc.png Graphic file (
 type png)
@@ -7300,7 +7302,7 @@ type png)
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphc
 .png  used on input line 81.
 (pdftex.def)             Requested size: 144.54pt x 130.59793pt.
-<./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphb.png, id=9289, 395.4775p
+<./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphb.png, id=9291, 395.4775p
 t x 357.335pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphb.png Graphic file (
 type png)
@@ -7309,11 +7311,11 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphb
 .png  used on input line 81.
 (pdftex.def)             Requested size: 144.54pt x 130.59793pt.
 File: ./FirstStepsCalculus/IntroLimits.2 Graphic file (type mps)
-[MP to PDF] (./FirstStepsCalculus/IntroLimits.2) [498 <./FirstStepsCalculus/./I
-ntroLimitsGraphics/limitgrapha.png> <./FirstStepsCalculus/./IntroLimitsGraphics
-/limitgraphc.png> <./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphb.png>]
-[499]
-<./FirstStepsCalculus/./IntroLimitsGraphics/LimitfromGraphEx.png, id=9318, 932.
+ [MP to PDF]
+(./FirstStepsCalculus/IntroLimits.2) [498 <./FirstStepsCalculus/./IntroLimitsGr
+aphics/limitgrapha.png> <./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphc
+.png> <./FirstStepsCalculus/./IntroLimitsGraphics/limitgraphb.png>] [499]
+<./FirstStepsCalculus/./IntroLimitsGraphics/LimitfromGraphEx.png, id=9319, 932.
 48375pt x 537.00626pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/LimitfromGraphEx.png Graphic f
 ile (type png)
@@ -7321,7 +7323,8 @@ ile (type png)
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroLimitsGraphics/LimitfromGr
 aphEx.png  used on input line 175.
 (pdftex.def)             Requested size: 397.48499pt x 228.90884pt.
- [500 <./FirstStepsCalculus/./IntroLimitsGraphics/LimitfromGraphEx.png>]
+
+[500 <./FirstStepsCalculus/./IntroLimitsGraphics/LimitfromGraphEx.png>]
 [501]
 File: ./FirstStepsCalculus/IntroLimits.3 Graphic file (type mps)
  [MP to PDF] (./FirstStepsCalculus/IntroLimits.3)
@@ -7360,7 +7363,7 @@ Overfull \hbox (21.91862pt too wide) detected at line 743
  []
 
 [507]
-<./FirstStepsCalculus/./IntroLimitsGraphics/jumpdisc.png, id=9411, 470.75874pt 
+<./FirstStepsCalculus/./IntroLimitsGraphics/jumpdisc.png, id=9412, 470.75874pt 
 x 498.86375pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/jumpdisc.png Graphic file (typ
 e png)
@@ -7368,7 +7371,7 @@ e png)
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroLimitsGraphics/jumpdisc.pn
 g  used on input line 818.
 (pdftex.def)             Requested size: 216.81pt x 229.75414pt.
-<./FirstStepsCalculus/./IntroLimitsGraphics/glued.png, id=9412, 470.75874pt x 4
+<./FirstStepsCalculus/./IntroLimitsGraphics/glued.png, id=9413, 470.75874pt x 4
 98.86375pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/glued.png Graphic file (type p
 ng)
@@ -7383,7 +7386,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 816--823
 
 [508] [509 <./FirstStepsCalculus/./IntroLimitsGraphics/jumpdisc.png> <./FirstSt
 epsCalculus/./IntroLimitsGraphics/glued.png>]
-<./FirstStepsCalculus/./IntroLimitsGraphics/NearNegativeOne.jpeg, id=9440, 2667
+<./FirstStepsCalculus/./IntroLimitsGraphics/NearNegativeOne.jpeg, id=9442, 2667
 .9675pt x 1347.0325pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/NearNegativeOne.jpeg Graphic f
 ile (type jpg)
@@ -7393,7 +7396,7 @@ eOne.jpeg  used on input line 859.
 (pdftex.def)             Requested size: 361.34999pt x 182.4376pt.
  [510 <./FirstStepsCalculus/./IntroLimitsGraphics/NearNegativeOne.jpeg>]
 (./FirstStepsCalculus/ExercisesforIntroLimits.tex
-<./FirstStepsCalculus/./IntroLimitsGraphics/M2500TH01.png, id=9447, 834.11626pt
+<./FirstStepsCalculus/./IntroLimitsGraphics/M2500TH01.png, id=9450, 834.11626pt
  x 569.12625pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/M2500TH01.png Graphic file (ty
 pe png)
@@ -7402,7 +7405,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroLimitsGraphics/M2500TH01.p
 ng  used on input line 17.
 (pdftex.def)             Requested size: 397.48499pt x 271.20619pt.
  [511 <./FirstStepsCalculus/./IntroLimitsGraphics/M2500TH01.png>]
-<./FirstStepsCalculus/./IntroLimitsGraphics/M2500_T01_Sp25_a.png, id=9461, 950.
+<./FirstStepsCalculus/./IntroLimitsGraphics/M2500_T01_Sp25_a.png, id=9464, 950.
 55125pt x 652.4375pt>
 File: ./FirstStepsCalculus/./IntroLimitsGraphics/M2500_T01_Sp25_a.png Graphic f
 ile (type png)
@@ -7460,7 +7463,7 @@ Mfpic: Then reprocess this file "Precalculus4i".
 File: ./FirstStepsCalculus/IntroductiontoDerivatives.1 Graphic file (type mps)
  [MP to PDF] (./FirstStepsCalculus/IntroductiontoDerivatives.1) [520]
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan01.png, id=96
-50, 469.755pt x 498.86375pt>
+53, 469.755pt x 498.86375pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan01.png G
 raphic file (type png)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan01.png>
@@ -7468,7 +7471,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/sectotan01.png  used on input line 165.
 (pdftex.def)             Requested size: 144.54pt x 153.49673pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan03.png, id=96
-51, 469.755pt x 498.86375pt>
+54, 469.755pt x 498.86375pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan03.png G
 raphic file (type png)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan03.png>
@@ -7476,14 +7479,14 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/sectotan03.png  used on input line 165.
 (pdftex.def)             Requested size: 144.54pt x 153.49673pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan05.png, id=96
-52, 469.755pt x 498.86375pt>
+55, 469.755pt x 498.86375pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan05.png G
 raphic file (type png)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan05.png>
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/sectotan05.png  used on input line 165.
 (pdftex.def)             Requested size: 144.54pt x 153.49673pt.
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangent.png, id=9654,
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangent.png, id=9658,
  479.7925pt x 488.82625pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangent.png Grap
 hic file (type png)
@@ -7492,7 +7495,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/tangent.png  used on input line 181.
 (pdftex.def)             Requested size: 144.54pt x 147.26062pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom1.png, id=
-9655, 479.7925pt x 488.82625pt>
+9659, 479.7925pt x 488.82625pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom1.png
  Graphic file (type png)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom1.png>
@@ -7501,7 +7504,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/tangentzoom1.png  used on input line 181.
 (pdftex.def)             Requested size: 144.54pt x 147.26062pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom2.png, id=
-9656, 479.7925pt x 488.82625pt>
+9660, 479.7925pt x 488.82625pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom2.png
  Graphic file (type png)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom2.png>
@@ -7514,7 +7517,7 @@ cs/tangentzoom2.png  used on input line 181.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan03.png> <./Fi
 rstStepsCalculus/./IntroductiontoDerivativesGraphics/sectotan05.png>]
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/SecantLine.png, id=96
-68, 664.4825pt x 498.86375pt>
+73, 664.4825pt x 498.86375pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/SecantLine.png G
 raphic file (type png)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/SecantLine.png>
@@ -7525,7 +7528,7 @@ cs/SecantLine.png  used on input line 201.
 /FirstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom1.png> <./Fi
 rstStepsCalculus/./IntroductiontoDerivativesGraphics/tangentzoom2.png> <./First
 StepsCalculus/./IntroductiontoDerivativesGraphics/SecantLine.png>] [523]
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx.png, id=9693, 47
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx.png, id=9698, 47
 9.7925pt x 488.82625pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx.png Graphic
  file (type png)
@@ -7533,7 +7536,7 @@ File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx.png Graphic
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/TLEx.png  used on input line 321.
 (pdftex.def)             Requested size: 180.67499pt x 184.07765pt.
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLExZoom.png, id=9694
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLExZoom.png, id=9699
 , 479.7925pt x 488.82625pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLExZoom.png Gra
 phic file (type png)
@@ -7543,7 +7546,7 @@ cs/TLExZoom.png  used on input line 321.
 (pdftex.def)             Requested size: 180.67499pt x 184.07765pt.
  [524] [525 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx.png>
  <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLExZoom.png>]
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02.png, id=9718, 47
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02.png, id=9723, 47
 9.7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02.png Graphic
  file (type png)
@@ -7551,7 +7554,7 @@ File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02.png Graphic
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/TL02.png  used on input line 407.
 (pdftex.def)             Requested size: 180.67499pt x 181.80975pt.
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02Zoom.png, id=9719
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02Zoom.png, id=9724
 , 479.7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TL02Zoom.png Gra
 phic file (type png)
@@ -7560,7 +7563,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/TL02Zoom.png  used on input line 407.
 (pdftex.def)             Requested size: 180.67499pt x 181.80975pt.
  [526]
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/HTL.png, id=9732, 479
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/HTL.png, id=9737, 479
 .7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/HTL.png Graphic 
 file (type png)
@@ -7568,7 +7571,7 @@ file (type png)
 Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/HTL.png  used on input line 424.
 (pdftex.def)             Requested size: 216.81pt x 218.17319pt.
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/HTLZoom.png, id=9733,
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/HTLZoom.png, id=9738,
  479.7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/HTLZoom.png Grap
 hic file (type png)
@@ -7589,7 +7592,7 @@ ne 439.
 stStepsCalculus/./IntroductiontoDerivativesGraphics/TL02Zoom.png> <./FirstSteps
 Calculus/./IntroductiontoDerivativesGraphics/HTL.png> <./FirstStepsCalculus/./I
 ntroductiontoDerivativesGraphics/HTLZoom.png>] [528]
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx201.png, id=9772,
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx201.png, id=9778,
  479.7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx201.png Grap
 hic file (type png)
@@ -7598,7 +7601,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/TLEx201.png  used on input line 533.
 (pdftex.def)             Requested size: 144.54pt x 145.44633pt.
  [529 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx201.png>]
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx202.png, id=9783,
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx202.png, id=9788,
  479.7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx202.png Grap
 hic file (type png)
@@ -7608,7 +7611,7 @@ cs/TLEx202.png  used on input line 590.
 (pdftex.def)             Requested size: 144.54pt x 145.44633pt.
  [530] [531 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx202.p
 ng>]
-<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx203.png, id=9801,
+<./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx203.png, id=9806,
  479.7925pt x 482.80376pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/TLEx203.png Grap
 hic file (type png)
@@ -7629,7 +7632,7 @@ not ex-ist by show-ing $[]$ and $[]$
 
 [536] [537]
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc01.jpeg, id=
-9918, 1798.72pt x 1316.92pt>
+9923, 1798.72pt x 1316.92pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc01.jpeg
  Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc01.jpeg>
@@ -7638,7 +7641,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchFunc01.jpeg  used on input line 406.
 (pdftex.def)             Requested size: 198.7425pt x 145.50467pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv03.jpeg, id
-=9919, 1834.855pt x 1320.935pt>
+=9924, 1834.855pt x 1320.935pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv03.jpe
 g Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv03.jpeg
@@ -7647,7 +7650,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchDeriv03.jpeg  used on input line 408.
 (pdftex.def)             Requested size: 198.7425pt x 143.066pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc02.jpeg, id=
-9920, 1794.705pt x 1280.785pt>
+9925, 1794.705pt x 1280.785pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc02.jpeg
  Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc02.jpeg>
@@ -7656,7 +7659,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchFunc02.jpeg  used on input line 430.
 (pdftex.def)             Requested size: 198.7425pt x 141.82486pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv01.jpeg, id
-=9921, 1718.42pt x 1334.9875pt>
+=9926, 1718.42pt x 1334.9875pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv01.jpe
 g Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv01.jpeg
@@ -7665,7 +7668,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchDeriv01.jpeg  used on input line 432.
 (pdftex.def)             Requested size: 198.7425pt x 154.38606pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc03.jpeg, id=
-9922, 1844.8925pt x 1284.8pt>
+9927, 1844.8925pt x 1284.8pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc03.jpeg
  Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc03.jpeg>
@@ -7674,7 +7677,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchFunc03.jpeg  used on input line 457.
 (pdftex.def)             Requested size: 198.7425pt x 138.38777pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv02.jpeg, id
-=9923, 1808.7575pt x 1349.04pt>
+=9928, 1808.7575pt x 1349.04pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv02.jpe
 g Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv02.jpeg
@@ -7693,7 +7696,7 @@ FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv01.jpeg> <./Fi
 rstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc03.jpeg> <./First
 StepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv02.jpeg>]
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc04.jpeg, id=
-9933, 1901.1025pt x 1349.04pt>
+9938, 1901.1025pt x 1349.04pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc04.jpeg
  Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc04.jpeg>
@@ -7702,7 +7705,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchFunc04.jpeg  used on input line 491.
 (pdftex.def)             Requested size: 198.7425pt x 141.02554pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv06.jpeg, id
-=9934, 1834.855pt x 1341.01pt>
+=9939, 1834.855pt x 1341.01pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv06.jpe
 g Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv06.jpeg
@@ -7711,7 +7714,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchDeriv06.jpeg  used on input line 493.
 (pdftex.def)             Requested size: 198.7425pt x 145.24025pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc06.jpeg, id=
-9935, 1828.8325pt x 1345.025pt>
+9940, 1828.8325pt x 1345.025pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc06.jpeg
  Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc06.jpeg>
@@ -7720,7 +7723,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchFunc06.jpeg  used on input line 518.
 (pdftex.def)             Requested size: 198.7425pt x 146.14714pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv04.jpeg, id
-=9936, 1790.69pt x 1349.04pt>
+=9941, 1790.69pt x 1349.04pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv04.jpe
 g Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv04.jpeg
@@ -7729,7 +7732,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchDeriv04.jpeg  used on input line 520.
 (pdftex.def)             Requested size: 198.7425pt x 149.71228pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc05.jpeg, id=
-9937, 1828.8325pt x 1351.0475pt>
+9942, 1828.8325pt x 1351.0475pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc05.jpeg
  Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchFunc05.jpeg>
@@ -7738,7 +7741,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphi
 cs/MatchFunc05.jpeg  used on input line 544.
 (pdftex.def)             Requested size: 198.7425pt x 146.80153pt.
 <./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv05.jpeg, id
-=9938, 1840.8775pt x 1343.0175pt>
+=9943, 1840.8775pt x 1343.0175pt>
 File: ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv05.jpe
 g Graphic file (type jpg)
 <use ./FirstStepsCalculus/./IntroductiontoDerivativesGraphics/MatchDeriv05.jpeg
@@ -7766,7 +7769,7 @@ Mfpic: Then reprocess this file "Precalculus4i".
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [545]
-<./FirstStepsCalculus/./AppDerivativesGraphics/IncCU.png, id=10054, 522.95375pt
+<./FirstStepsCalculus/./AppDerivativesGraphics/IncCU.png, id=10059, 522.95375pt
  x 441.65pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/IncCU.png Graphic file (typ
 e png)
@@ -7774,7 +7777,7 @@ e png)
 Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/IncCU.pn
 g  used on input line 81.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./FirstStepsCalculus/./AppDerivativesGraphics/IncCD.png, id=10055, 522.95375pt
+<./FirstStepsCalculus/./AppDerivativesGraphics/IncCD.png, id=10060, 522.95375pt
  x 441.65pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/IncCD.png Graphic file (typ
 e png)
@@ -7782,7 +7785,7 @@ e png)
 Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/IncCD.pn
 g  used on input line 83.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./FirstStepsCalculus/./AppDerivativesGraphics/DecCU.png, id=10056, 522.95375pt
+<./FirstStepsCalculus/./AppDerivativesGraphics/DecCU.png, id=10061, 522.95375pt
  x 441.65pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/DecCU.png Graphic file (typ
 e png)
@@ -7790,7 +7793,7 @@ e png)
 Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/DecCU.pn
 g  used on input line 96.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./FirstStepsCalculus/./AppDerivativesGraphics/DecCD.png, id=10057, 522.95375pt
+<./FirstStepsCalculus/./AppDerivativesGraphics/DecCD.png, id=10062, 522.95375pt
  x 441.65pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/DecCD.png Graphic file (typ
 e png)
@@ -7798,7 +7801,7 @@ e png)
 Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/DecCD.pn
 g  used on input line 98.
 (pdftex.def)             Requested size: 108.405pt x 91.54968pt.
-<./FirstStepsCalculus/./AppDerivativesGraphics/Constant.png, id=10058, 522.9537
+<./FirstStepsCalculus/./AppDerivativesGraphics/Constant.png, id=10063, 522.9537
 5pt x 441.65pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/Constant.png Graphic file (
 type png)
@@ -7817,7 +7820,7 @@ File: ./FirstStepsCalculus/AppDerivatives.1 Graphic file (type mps)
 File: ./FirstStepsCalculus/AppDerivatives.2 Graphic file (type mps)
  [MP to PDF]
 (./FirstStepsCalculus/AppDerivatives.2)
-<./FirstStepsCalculus/./AppDerivativesGraphics/IncDecPoly.PNG, id=10073, 956.57
+<./FirstStepsCalculus/./AppDerivativesGraphics/IncDecPoly.PNG, id=10078, 956.57
 375pt x 597.23125pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/IncDecPoly.PNG Graphic file
  (type png)
@@ -7831,8 +7834,8 @@ File: ./FirstStepsCalculus/AppDerivatives.3 Graphic file (type mps)
 (./FirstStepsCalculus/AppDerivatives.3)
 File: ./FirstStepsCalculus/AppDerivatives.4 Graphic file (type mps)
  [MP to PDF]
-(./FirstStepsCalculus/AppDerivatives.4)
-<./FirstStepsCalculus/./AppDerivativesGraphics/IncDecRoot.PNG, id=10084, 693.59
+(./FirstStepsCalculus/AppDerivatives.4) [548]
+<./FirstStepsCalculus/./AppDerivativesGraphics/IncDecRoot.PNG, id=10104, 693.59
 125pt x 642.4pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/IncDecRoot.PNG Graphic file
  (type png)
@@ -7840,7 +7843,7 @@ File: ./FirstStepsCalculus/./AppDerivativesGraphics/IncDecRoot.PNG Graphic file
 Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/IncDecRo
 ot.PNG  used on input line 329.
 (pdftex.def)             Requested size: 216.81pt x 200.80832pt.
- [548]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [549 <./FirstStepsCalculus/./AppDerivativesGraphics/IncDecRoot.PNG>]
@@ -7877,7 +7880,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 File: ./FirstStepsCalculus/AppDerivatives.6 Graphic file (type mps)
  [MP to PDF]
 (./FirstStepsCalculus/AppDerivatives.6)
-<./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityPoly.PNG, id=10111, 956
+<./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityPoly.PNG, id=10119, 956
 .57375pt x 597.23125pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityPoly.PNG Graphic f
 ile (type png)
@@ -7892,7 +7895,7 @@ File: ./FirstStepsCalculus/AppDerivatives.7 Graphic file (type mps)
 File: ./FirstStepsCalculus/AppDerivatives.8 Graphic file (type mps)
  [MP to PDF]
 (./FirstStepsCalculus/AppDerivatives.8)
-<./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityRoot.PNG, id=10132, 852
+<./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityRoot.PNG, id=10141, 852
 .18375pt x 635.37375pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityRoot.PNG Graphic f
 ile (type png)
@@ -7904,7 +7907,7 @@ yRoot.PNG  used on input line 664.
 Underfull \vbox (badness 5862) has occurred while \output is active []
 
  [553 <./FirstStepsCalculus/./AppDerivativesGraphics/ConcavityRoot.PNG>]
-<./FirstStepsCalculus/./AppDerivativesGraphics/derivgraph.PNG, id=10140, 883.3p
+<./FirstStepsCalculus/./AppDerivativesGraphics/derivgraph.PNG, id=10149, 883.3p
 t x 630.355pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/derivgraph.PNG Graphic file
  (type png)
@@ -7919,7 +7922,7 @@ File: ./FirstStepsCalculus/AppDerivatives.9 Graphic file (type mps)
 File: ./FirstStepsCalculus/AppDerivatives.10 Graphic file (type mps)
  [MP to PDF]
 (./FirstStepsCalculus/AppDerivatives.10)
-<./FirstStepsCalculus/./AppDerivativesGraphics/original.PNG, id=10153, 883.3pt 
+<./FirstStepsCalculus/./AppDerivativesGraphics/original.PNG, id=10161, 883.3pt 
 x 630.355pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/original.PNG Graphic file (
 type png)
@@ -7929,7 +7932,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/original
 (pdftex.def)             Requested size: 289.07999pt x 206.29608pt.
  [555 <./FirstStepsCalculus/./AppDerivativesGraphics/original.PNG>]
 (./FirstStepsCalculus/ExercisesforAppDerivatives.tex [556]
-<./FirstStepsCalculus/./AppDerivativesGraphics/T04Graph.PNG, id=10188, 648.4225
+<./FirstStepsCalculus/./AppDerivativesGraphics/T04Graph.PNG, id=10196, 648.4225
 pt x 431.6125pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/T04Graph.PNG Graphic file (
 type png)
@@ -7939,7 +7942,7 @@ Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/T04Graph
 (pdftex.def)             Requested size: 361.34999pt x 240.52905pt.
  [557 <./FirstStepsCalculus/./AppDerivativesGraphics/T04Graph.PNG>]
 <./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexercise.png,
- id=10201, 724.7075pt x 514.92375pt>
+ id=10209, 724.7075pt x 514.92375pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexercise
 .png Graphic file (type png)
 <use ./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexercise.
@@ -7949,7 +7952,7 @@ mderivativeexercise.png  used on input line 176.
 (pdftex.def)             Requested size: 361.34999pt x 256.75409pt.
  [558 <./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexercis
 e.png>]
-<./FirstStepsCalculus/./AppDerivativesGraphics/COVIDPatients.PNG, id=10210, 447
+<./FirstStepsCalculus/./AppDerivativesGraphics/COVIDPatients.PNG, id=10218, 447
 .17062pt x 232.61906pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/COVIDPatients.PNG Graphic f
 ile (type png)
@@ -7957,7 +7960,7 @@ ile (type png)
 Package pdftex.def Info: ./FirstStepsCalculus/./AppDerivativesGraphics/COVIDPat
 ients.PNG  used on input line 186.
 (pdftex.def)             Requested size: 361.34999pt x 187.98026pt.
-<./FirstStepsCalculus/./AppDerivativesGraphics/flattenthecurve.jpeg, id=10211, 
+<./FirstStepsCalculus/./AppDerivativesGraphics/flattenthecurve.jpeg, id=10219, 
 1465.475pt x 702.625pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/flattenthecurve.jpeg Graphi
 c file (type jpg)
@@ -7974,7 +7977,7 @@ Overfull \hbox (24.30121pt too wide) in paragraph at lines 264--266
 
 [560]
 <./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexerciseanswe
-r.png, id=10243, 583.17876pt x 514.92375pt>
+r.png, id=10251, 583.17876pt x 514.92375pt>
 File: ./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexercise
 answer.png Graphic file (type png)
 <use ./FirstStepsCalculus/./AppDerivativesGraphics/graphfromderivativeexercisea
@@ -8046,7 +8049,7 @@ File: ./ExponentialandLogarithmicFunctions/ExponentialFunctions.12 Graphic file
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/ExponentialFunctions.12) [571]
 <./ExponentialandLogarithmicFunctions/./ExponentialFunctionsGraphics/Exponentia
-lFunctionsEx01.jpg, id=10371, 2806.485pt x 1499.6025pt>
+lFunctionsEx01.jpg, id=10379, 2806.485pt x 1499.6025pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialFunctionsGraphics/Expon
 entialFunctionsEx01.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialFunctionsGraphics/Expone
@@ -8232,7 +8235,7 @@ File: ./ExponentialandLogarithmicFunctions/LogarithmicFunctions.9 Graphic file
 [MP to PDF] (./ExponentialandLogarithmicFunctions/LogarithmicFunctions.9)
 [586]
 <./ExponentialandLogarithmicFunctions/./LogarithmicFunctionsGraphics/Logarithmi
-cFunctionsEx01a.jpg, id=10640, 2808.4925pt x 1511.6475pt>
+cFunctionsEx01a.jpg, id=10648, 2808.4925pt x 1511.6475pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicFunctionsGraphics/Logar
 ithmicFunctionsEx01a.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicFunctionsGraphics/Logari
@@ -8247,7 +8250,7 @@ File: ./ExponentialandLogarithmicFunctions/LogarithmicFunctions.10 Graphic file
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/LogarithmicFunctions.10)
 <./ExponentialandLogarithmicFunctions/./LogarithmicFunctionsGraphics/Logarithmi
-cFunctionsEx01b.jpg, id=10656, 2808.4925pt x 1509.64pt>
+cFunctionsEx01b.jpg, id=10664, 2808.4925pt x 1509.64pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicFunctionsGraphics/Logar
 ithmicFunctionsEx01b.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicFunctionsGraphics/Logari
@@ -8428,7 +8431,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [601]
 [602] [603] [604] [605] [606]
 <./ExponentialandLogarithmicFunctions/./PropertiesofLogarithmsGraphics/LogProps
-01.jpg, id=11044, 2800.4625pt x 1509.64pt>
+01.jpg, id=11052, 2800.4625pt x 1509.64pt>
 File: ./ExponentialandLogarithmicFunctions/./PropertiesofLogarithmsGraphics/Log
 Props01.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./PropertiesofLogarithmsGraphics/LogP
@@ -8437,7 +8440,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./PropertiesofLog
 arithmsGraphics/LogProps01.jpg  used on input line 454.
 (pdftex.def)             Requested size: 289.07999pt x 155.83327pt.
 <./ExponentialandLogarithmicFunctions/./PropertiesofLogarithmsGraphics/LogProps
-02.jpg, id=11045, 2804.4775pt x 1507.6325pt>
+02.jpg, id=11053, 2804.4775pt x 1507.6325pt>
 File: ./ExponentialandLogarithmicFunctions/./PropertiesofLogarithmsGraphics/Log
 Props02.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./PropertiesofLogarithmsGraphics/LogP
@@ -8461,7 +8464,7 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 [613]
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx01.jpg, id=11241, 2818.53pt x 1523.6925pt>
+hics/ExpEqnEx01.jpg, id=11250, 2818.53pt x 1523.6925pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx01.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8470,7 +8473,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./ExponentialEqua
 tionsandInequalitiesGraphics/ExpEqnEx01.jpg  used on input line 127.
 (pdftex.def)             Requested size: 216.81pt x 117.20146pt.
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx02.jpg, id=11242, 2804.4775pt x 1503.6175pt>
+hics/ExpEqnEx02.jpg, id=11251, 2804.4775pt x 1503.6175pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx02.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8487,7 +8490,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 125--138
 sGraphics/ExpEqnEx01.jpg> <./ExponentialandLogarithmicFunctions/./ExponentialEq
 uationsandInequalitiesGraphics/ExpEqnEx02.jpg>]
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx03.jpg, id=11251, 2804.4775pt x 1489.565pt>
+hics/ExpEqnEx03.jpg, id=11259, 2804.4775pt x 1489.565pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx03.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8496,7 +8499,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./ExponentialEqua
 tionsandInequalitiesGraphics/ExpEqnEx03.jpg  used on input line 188.
 (pdftex.def)             Requested size: 216.81pt x 115.1446pt.
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx04.jpg, id=11252, 2814.515pt x 1487.5575pt>
+hics/ExpEqnEx04.jpg, id=11260, 2814.515pt x 1487.5575pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx04.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8513,7 +8516,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 186--199
 sGraphics/ExpEqnEx03.jpg> <./ExponentialandLogarithmicFunctions/./ExponentialEq
 uationsandInequalitiesGraphics/ExpEqnEx04.jpg>]
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx05.jpg, id=11262, 2804.4775pt x 1505.625pt>
+hics/ExpEqnEx05.jpg, id=11270, 2804.4775pt x 1505.625pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx05.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8522,7 +8525,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./ExponentialEqua
 tionsandInequalitiesGraphics/ExpEqnEx05.jpg  used on input line 244.
 (pdftex.def)             Requested size: 216.81pt x 116.38606pt.
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx06.jpg, id=11263, 2800.4625pt x 1523.6925pt>
+hics/ExpEqnEx06.jpg, id=11271, 2800.4625pt x 1523.6925pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx06.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8543,7 +8546,7 @@ File: ./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.1)
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx07.jpg, id=11274, 2816.5225pt x 1519.6775pt>
+hics/ExpEqnEx07.jpg, id=11282, 2816.5225pt x 1519.6775pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx07.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8559,7 +8562,7 @@ File: ./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.2)
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx08.jpg, id=11284, 2808.4925pt x 1519.6775pt>
+hics/ExpEqnEx08.jpg, id=11292, 2808.4925pt x 1519.6775pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx08.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8575,7 +8578,7 @@ File: ./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.3)
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpEqnEx09.jpg, id=11294, 2810.5pt x 1511.6475pt>
+hics/ExpEqnEx09.jpg, id=11302, 2810.5pt x 1511.6475pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpEqnEx09.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8624,7 +8627,7 @@ File: ./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.
 [MP to PDF]
 (./ExponentialandLogarithmicFunctions/ExponentialEquationsandInequalities.9)
 <./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitiesGrap
-hics/ExpCurveSketchingExample.PNG, id=11328, 570.13pt x 417.56pt>
+hics/ExpCurveSketchingExample.PNG, id=11336, 570.13pt x 417.56pt>
 File: ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalitie
 sGraphics/ExpCurveSketchingExample.PNG Graphic file (type png)
 <use ./ExponentialandLogarithmicFunctions/./ExponentialEquationsandInequalities
@@ -8649,7 +8652,7 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 [629]
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx01.jpg, id=11551, 2812.5075pt x 1521.685pt>
+hics/LogEqnEx01.jpg, id=11559, 2812.5075pt x 1521.685pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx01.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8658,7 +8661,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./LogarithmicEqua
 tionsandInequalitiesGraphics/LogEqnEx01.jpg  used on input line 114.
 (pdftex.def)             Requested size: 216.81pt x 117.30244pt.
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx02.jpg, id=11552, 2812.5075pt x 1521.685pt>
+hics/LogEqnEx02.jpg, id=11560, 2812.5075pt x 1521.685pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx02.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8672,7 +8675,7 @@ Overfull \hbox (15.24007pt too wide) in paragraph at lines 112--125
  []
 
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx03.jpg, id=11553, 2814.515pt x 1511.6475pt>
+hics/LogEqnEx03.jpg, id=11561, 2814.515pt x 1511.6475pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx03.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8681,7 +8684,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./LogarithmicEqua
 tionsandInequalitiesGraphics/LogEqnEx03.jpg  used on input line 157.
 (pdftex.def)             Requested size: 216.81pt x 116.43643pt.
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx04.jpg, id=11554, 2818.53pt x 1515.6625pt>
+hics/LogEqnEx04.jpg, id=11562, 2818.53pt x 1515.6625pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx04.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8704,7 +8707,7 @@ Hence if sub-sti-tuted into the orig-i-nal equa-tion, the term $2 [][] []$
  []
 
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx05.jpg, id=11562, 2818.53pt x 1519.6775pt>
+hics/LogEqnEx05.jpg, id=11570, 2818.53pt x 1519.6775pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx05.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8713,7 +8716,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./LogarithmicEqua
 tionsandInequalitiesGraphics/LogEqnEx05.jpg  used on input line 213.
 (pdftex.def)             Requested size: 216.81pt x 116.89262pt.
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx06.jpg, id=11563, 2808.4925pt x 1519.6775pt>
+hics/LogEqnEx06.jpg, id=11571, 2808.4925pt x 1519.6775pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx06.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8737,7 +8740,7 @@ File: ./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.1)
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx07.jpg, id=11588, 2814.515pt x 1515.6625pt>
+hics/LogEqnEx07.jpg, id=11596, 2814.515pt x 1515.6625pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx07.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8751,7 +8754,7 @@ File: ./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.
 [MP to PDF]
 (./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.2)
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx08.jpg, id=11589, 2810.5pt x 1503.6175pt>
+hics/LogEqnEx08.jpg, id=11597, 2810.5pt x 1503.6175pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx08.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8769,7 +8772,7 @@ File: ./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.
  [MP to PDF]
 (./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.3)
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx09.jpg, id=11595, 2800.4625pt x 1511.6475pt>
+hics/LogEqnEx09.jpg, id=11603, 2800.4625pt x 1511.6475pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx09.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8782,7 +8785,7 @@ tionsandInequalitiesGraphics/LogEqnEx09.jpg  used on input line 446.
 sGraphics/LogEqnEx08.jpg> <./ExponentialandLogarithmicFunctions/./LogarithmicEq
 uationsandInequalitiesGraphics/LogEqnEx09.jpg>]
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx10.jpg, id=11607, 2810.5pt x 1513.655pt>
+hics/LogEqnEx10.jpg, id=11615, 2810.5pt x 1513.655pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx10.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8793,7 +8796,7 @@ tionsandInequalitiesGraphics/LogEqnEx10.jpg  used on input line 493.
  [635 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequaliti
 esGraphics/LogEqnEx10.jpg>]
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/LogEqnEx11.jpg, id=11618, 2804.4775pt x 1505.625pt>
+hics/LogEqnEx11.jpg, id=11626, 2804.4775pt x 1505.625pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/LogEqnEx11.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8807,7 +8810,7 @@ Underfull \vbox (badness 1248) has occurred while \output is active []
  [636 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequaliti
 esGraphics/LogEqnEx11.jpg>]
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/x^2ln(x)near0.PNG, id=11628, 1212.53pt x 427.5975pt>
+hics/x^2ln(x)near0.PNG, id=11636, 1212.53pt x 427.5975pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/x^2ln(x)near0.PNG Graphic file (type png)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8838,7 +8841,7 @@ File: ./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.
 (./ExponentialandLogarithmicFunctions/LogarithmicEquationsandInequalities.7)
 [638]
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/x^2ln(x)min.PNG, id=11661, 570.13pt x 417.56pt>
+hics/x^2ln(x)min.PNG, id=11669, 570.13pt x 417.56pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/x^2ln(x)min.PNG Graphic file (type png)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8847,7 +8850,7 @@ Package pdftex.def Info: ./ExponentialandLogarithmicFunctions/./LogarithmicEqua
 tionsandInequalitiesGraphics/x^2ln(x)min.PNG  used on input line 717.
 (pdftex.def)             Requested size: 180.67499pt x 132.32214pt.
 <./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitiesGrap
-hics/x^2ln(x)IP.PNG, id=11662, 570.13pt x 417.56pt>
+hics/x^2ln(x)IP.PNG, id=11670, 570.13pt x 417.56pt>
 File: ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalitie
 sGraphics/x^2ln(x)IP.PNG Graphic file (type png)
 <use ./ExponentialandLogarithmicFunctions/./LogarithmicEquationsandInequalities
@@ -8917,7 +8920,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [653]
 [654]
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx01.jpg, id=11987, 2806.485pt x 1505.625pt>
+FunctionsGraphics/ExpLogAppEx01.jpg, id=11995, 2806.485pt x 1505.625pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx01.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -8927,7 +8930,7 @@ xponentialandLogarithmicFunctionsGraphics/ExpLogAppEx01.jpg  used on input line
  504.
 (pdftex.def)             Requested size: 289.07999pt x 155.07422pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx02.jpg, id=11990, 2804.4775pt x 1521.685pt>
+FunctionsGraphics/ExpLogAppEx02.jpg, id=11998, 2804.4775pt x 1521.685pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx02.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -8937,7 +8940,7 @@ xponentialandLogarithmicFunctionsGraphics/ExpLogAppEx02.jpg  used on input line
  529.
 (pdftex.def)             Requested size: 216.81pt x 117.62752pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx03.jpg, id=11991, 2808.4925pt x 1517.67pt>
+FunctionsGraphics/ExpLogAppEx03.jpg, id=11999, 2808.4925pt x 1517.67pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx03.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -8952,7 +8955,7 @@ nctions/./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx0
 2.jpg> <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLoga
 rithmicFunctionsGraphics/ExpLogAppEx03.jpg>]
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx04.jpg, id=12030, 2814.515pt x 1515.6625pt>
+FunctionsGraphics/ExpLogAppEx04.jpg, id=12039, 2814.515pt x 1515.6625pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx04.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -8962,7 +8965,7 @@ xponentialandLogarithmicFunctionsGraphics/ExpLogAppEx04.jpg  used on input line
  611.
 (pdftex.def)             Requested size: 216.81pt x 116.74568pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx05.jpg, id=12031, 2804.4775pt x 1507.6325pt>
+FunctionsGraphics/ExpLogAppEx05.jpg, id=12040, 2804.4775pt x 1507.6325pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx05.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -8980,7 +8983,7 @@ Overfull \hbox (28.90155pt too wide) detected at line 633
 thmicFunctionsGraphics/ExpLogAppEx04.jpg> <./ExponentialandLogarithmicFunctions
 /./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx05.jpg>]
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx10.jpg, id=12040, 2808.4925pt x 1507.6325pt>
+FunctionsGraphics/ExpLogAppEx10.jpg, id=12048, 2808.4925pt x 1507.6325pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx10.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -8990,7 +8993,7 @@ xponentialandLogarithmicFunctionsGraphics/ExpLogAppEx10.jpg  used on input line
  646.
 (pdftex.def)             Requested size: 216.81pt x 116.38022pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx06a.jpg, id=12041, 2804.4775pt x 1515.6625pt>
+FunctionsGraphics/ExpLogAppEx06a.jpg, id=12049, 2804.4775pt x 1515.6625pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx06a.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9000,7 +9003,7 @@ xponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a.jpg  used on input lin
 e 648.
 (pdftex.def)             Requested size: 216.81pt x 117.16197pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx09.jpg, id=12046, 2804.4775pt x 1503.6175pt>
+FunctionsGraphics/ExpLogAppEx09.jpg, id=12054, 2804.4775pt x 1503.6175pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx09.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9010,7 +9013,7 @@ xponentialandLogarithmicFunctionsGraphics/ExpLogAppEx09.jpg  used on input line
  688.
 (pdftex.def)             Requested size: 216.81pt x 116.23088pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx07a.jpg, id=12047, 2808.4925pt x 1507.6325pt>
+FunctionsGraphics/ExpLogAppEx07a.jpg, id=12055, 2808.4925pt x 1507.6325pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx07a.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9024,7 +9027,7 @@ thmicFunctionsGraphics/ExpLogAppEx10.jpg> <./ExponentialandLogarithmicFunctions
 /./ApplicationsofExponentialandLogarithmicFunctionsGraphics/ExpLogAppEx06a.jpg>
 ]
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/ExpLogAppEx08.jpg, id=12055, 2804.4775pt x 1513.655pt>
+FunctionsGraphics/ExpLogAppEx08.jpg, id=12063, 2804.4775pt x 1513.655pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/ExpLogAppEx08.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9045,7 +9048,7 @@ Underfull \vbox (badness 3078) has occurred while \output is active []
  [663]
 [664] [665] [666] [667] [668] [669] [670]
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/PURSUIT03.jpg, id=12285, 850.17625pt x 611.28375pt>
+FunctionsGraphics/PURSUIT03.jpg, id=12293, 850.17625pt x 611.28375pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/PURSUIT03.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9057,7 +9060,7 @@ xponentialandLogarithmicFunctionsGraphics/PURSUIT03.jpg  used on input line 720
  [671 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogar
 ithmicFunctionsGraphics/PURSUIT03.jpg>]
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/OldLorenzModel.jpg, id=12309, 668.4975pt x 665.48625pt>
+FunctionsGraphics/OldLorenzModel.jpg, id=12317, 668.4975pt x 665.48625pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/OldLorenzModel.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9067,7 +9070,7 @@ xponentialandLogarithmicFunctionsGraphics/OldLorenzModel.jpg  used on input lin
 e 765.
 (pdftex.def)             Requested size: 108.88966pt x 108.405pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/NewLorenzModel.jpg, id=12310, 666.49pt x 669.50125pt>
+FunctionsGraphics/NewLorenzModel.jpg, id=12318, 666.49pt x 669.50125pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/NewLorenzModel.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9077,7 +9080,7 @@ xponentialandLogarithmicFunctionsGraphics/NewLorenzModel.jpg  used on input lin
 e 769.
 (pdftex.def)             Requested size: 107.9118pt x 108.405pt.
 <./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarithmic
-FunctionsGraphics/LAKECOUNTYLOGISTIC.jpg, id=12312, 1603.9925pt x 930.47626pt>
+FunctionsGraphics/LAKECOUNTYLOGISTIC.jpg, id=12320, 1603.9925pt x 930.47626pt>
 File: ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogari
 thmicFunctionsGraphics/LAKECOUNTYLOGISTIC.jpg Graphic file (type jpg)
 <use ./ExponentialandLogarithmicFunctions/./ApplicationsofExponentialandLogarit
@@ -9103,7 +9106,7 @@ Mfpic: Don't forget to process IntrotoConics.mp!
 Mfpic: Apply metapost to IntrotoConics.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
-<./TheConicSections/./IntrotoConicsGraphics/cone.jpg, id=12327, 385.44pt x 385.
+<./TheConicSections/./IntrotoConicsGraphics/cone.jpg, id=12335, 385.44pt x 385.
 44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/cone.jpg Graphic file (type jp
 g)
@@ -9111,7 +9114,7 @@ g)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/cone.jpg  u
 sed on input line 11.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Circle01.jpg, id=12328, 385.44pt x 
+<./TheConicSections/./IntrotoConicsGraphics/Circle01.jpg, id=12336, 385.44pt x 
 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Circle01.jpg Graphic file (typ
 e jpg)
@@ -9119,7 +9122,7 @@ e jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Circle01.jp
 g  used on input line 19.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Circle02.jpg, id=12329, 385.44pt x 
+<./TheConicSections/./IntrotoConicsGraphics/Circle02.jpg, id=12337, 385.44pt x 
 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Circle02.jpg Graphic file (typ
 e jpg)
@@ -9132,7 +9135,7 @@ g  used on input line 19.
  <./TheConicSections/./IntrotoConicsGraphics/cone.jpg> <./TheConicSections/./In
 trotoConicsGraphics/Circle01.jpg> <./TheConicSections/./IntrotoConicsGraphics/C
 ircle02.jpg>]
-<./TheConicSections/./IntrotoConicsGraphics/Ellipse01.jpg, id=12335, 385.44pt x
+<./TheConicSections/./IntrotoConicsGraphics/Ellipse01.jpg, id=12343, 385.44pt x
  385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Ellipse01.jpg Graphic file (ty
 pe jpg)
@@ -9140,7 +9143,7 @@ pe jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Ellipse01.j
 pg  used on input line 33.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Ellipse02.jpg, id=12336, 385.44pt x
+<./TheConicSections/./IntrotoConicsGraphics/Ellipse02.jpg, id=12344, 385.44pt x
  385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Ellipse02.jpg Graphic file (ty
 pe jpg)
@@ -9148,7 +9151,7 @@ pe jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Ellipse02.j
 pg  used on input line 33.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Parabola01.jpg, id=12337, 385.44pt 
+<./TheConicSections/./IntrotoConicsGraphics/Parabola01.jpg, id=12345, 385.44pt 
 x 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Parabola01.jpg Graphic file (t
 ype jpg)
@@ -9156,7 +9159,7 @@ ype jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Parabola01.
 jpg  used on input line 45.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Parabola02.jpg, id=12338, 385.44pt 
+<./TheConicSections/./IntrotoConicsGraphics/Parabola02.jpg, id=12346, 385.44pt 
 x 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Parabola02.jpg Graphic file (t
 ype jpg)
@@ -9164,7 +9167,7 @@ ype jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Parabola02.
 jpg  used on input line 45.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Hyperbola01.jpg, id=12339, 385.44pt
+<./TheConicSections/./IntrotoConicsGraphics/Hyperbola01.jpg, id=12347, 385.44pt
  x 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Hyperbola01.jpg Graphic file (
 type jpg)
@@ -9172,7 +9175,7 @@ type jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Hyperbola01
 .jpg  used on input line 57.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Hyperbola02.jpg, id=12340, 385.44pt
+<./TheConicSections/./IntrotoConicsGraphics/Hyperbola02.jpg, id=12348, 385.44pt
  x 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Hyperbola02.jpg Graphic file (
 type jpg)
@@ -9185,7 +9188,7 @@ tions/./IntrotoConicsGraphics/Ellipse02.jpg> <./TheConicSections/./IntrotoConic
 sGraphics/Parabola01.jpg> <./TheConicSections/./IntrotoConicsGraphics/Parabola0
 2.jpg> <./TheConicSections/./IntrotoConicsGraphics/Hyperbola01.jpg> <./TheConic
 Sections/./IntrotoConicsGraphics/Hyperbola02.jpg>]
-<./TheConicSections/./IntrotoConicsGraphics/Point01.jpg, id=12345, 385.44pt x 3
+<./TheConicSections/./IntrotoConicsGraphics/Point01.jpg, id=12353, 385.44pt x 3
 85.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Point01.jpg Graphic file (type
  jpg)
@@ -9193,7 +9196,7 @@ File: ./TheConicSections/./IntrotoConicsGraphics/Point01.jpg Graphic file (type
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Point01.jpg
   used on input line 75.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Point02.jpg, id=12346, 385.44pt x 3
+<./TheConicSections/./IntrotoConicsGraphics/Point02.jpg, id=12354, 385.44pt x 3
 85.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Point02.jpg Graphic file (type
  jpg)
@@ -9201,7 +9204,7 @@ File: ./TheConicSections/./IntrotoConicsGraphics/Point02.jpg Graphic file (type
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Point02.jpg
   used on input line 75.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Ilines01.jpg, id=12347, 385.44pt x 
+<./TheConicSections/./IntrotoConicsGraphics/Ilines01.jpg, id=12355, 385.44pt x 
 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Ilines01.jpg Graphic file (typ
 e jpg)
@@ -9209,7 +9212,7 @@ e jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Ilines01.jp
 g  used on input line 77.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Ilines02.jpg, id=12348, 385.44pt x 
+<./TheConicSections/./IntrotoConicsGraphics/Ilines02.jpg, id=12356, 385.44pt x 
 385.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Ilines02.jpg Graphic file (typ
 e jpg)
@@ -9217,7 +9220,7 @@ e jpg)
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Ilines02.jp
 g  used on input line 77.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Tline01.jpg, id=12349, 385.44pt x 3
+<./TheConicSections/./IntrotoConicsGraphics/Tline01.jpg, id=12357, 385.44pt x 3
 85.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Tline01.jpg Graphic file (type
  jpg)
@@ -9225,7 +9228,7 @@ File: ./TheConicSections/./IntrotoConicsGraphics/Tline01.jpg Graphic file (type
 Package pdftex.def Info: ./TheConicSections/./IntrotoConicsGraphics/Tline01.jpg
   used on input line 79.
 (pdftex.def)             Requested size: 144.54pt x 144.53964pt.
-<./TheConicSections/./IntrotoConicsGraphics/Tline02.jpg, id=12350, 385.44pt x 3
+<./TheConicSections/./IntrotoConicsGraphics/Tline02.jpg, id=12358, 385.44pt x 3
 85.44pt>
 File: ./TheConicSections/./IntrotoConicsGraphics/Tline02.jpg Graphic file (type
  jpg)
@@ -9291,7 +9294,7 @@ File: ./TheConicSections/Parabolas.13 Graphic file (type mps)
 (./TheConicSections/Parabolas.13)
 File: ./TheConicSections/Parabolas.14 Graphic file (type mps)
  [MP to PDF] (./TheConicSections/Parabolas.14) [682]
-<./TheConicSections/./ParabolasGraphics/Paraboloid01.jpg, id=12446, 385.44pt x 
+<./TheConicSections/./ParabolasGraphics/Paraboloid01.jpg, id=12454, 385.44pt x 
 385.44pt>
 File: ./TheConicSections/./ParabolasGraphics/Paraboloid01.jpg Graphic file (typ
 e jpg)
@@ -9299,7 +9302,7 @@ e jpg)
 Package pdftex.def Info: ./TheConicSections/./ParabolasGraphics/Paraboloid01.jp
 g  used on input line 643.
 (pdftex.def)             Requested size: 180.67499pt x 180.67455pt.
-<./TheConicSections/./ParabolasGraphics/Paraboloid02.jpg, id=12447, 385.44pt x 
+<./TheConicSections/./ParabolasGraphics/Paraboloid02.jpg, id=12455, 385.44pt x 
 385.44pt>
 File: ./TheConicSections/./ParabolasGraphics/Paraboloid02.jpg Graphic file (typ
 e jpg)
@@ -9814,7 +9817,7 @@ LaTeX Font Info:    Font shape `OT1/phv/b/sl' will be
 [743
 
 ]
-<./SystemsofEquationsandMatrices/./LinSystemsGraphics/3planes01.jpg, id=13324, 
+<./SystemsofEquationsandMatrices/./LinSystemsGraphics/3planes01.jpg, id=13332, 
 385.44pt x 385.44pt>
 File: ./SystemsofEquationsandMatrices/./LinSystemsGraphics/3planes01.jpg Graphi
 c file (type jpg)
@@ -9837,7 +9840,7 @@ Mfpic: Apply metapost to AugMatrices.mp.
 Mfpic: Then reprocess this file "Precalculus4i".
 
 [755] [756] [757] [758] [759] [760]
-<./SystemsofEquationsandMatrices/./AugMatricesGraphics/RREF01.jpg, id=13531, 95
+<./SystemsofEquationsandMatrices/./AugMatricesGraphics/RREF01.jpg, id=13539, 95
 .8782pt x 65.5248pt>
 File: ./SystemsofEquationsandMatrices/./AugMatricesGraphics/RREF01.jpg Graphic 
 file (type jpg)
@@ -9845,7 +9848,7 @@ file (type jpg)
 Package pdftex.def Info: ./SystemsofEquationsandMatrices/./AugMatricesGraphics/
 RREF01.jpg  used on input line 720.
 (pdftex.def)             Requested size: 144.54pt x 98.78384pt.
-<./SystemsofEquationsandMatrices/./AugMatricesGraphics/QUADFIT01.jpg, id=13532,
+<./SystemsofEquationsandMatrices/./AugMatricesGraphics/QUADFIT01.jpg, id=13540,
  95.8782pt x 65.5248pt>
 File: ./SystemsofEquationsandMatrices/./AugMatricesGraphics/QUADFIT01.jpg Graph
 ic file (type jpg)
@@ -9912,7 +9915,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 11.03998pt on input line 196.
  [788] [789] [790] [791]
 <./SystemsofEquationsandMatrices/./MatMethodsGraphics/CircuitDiagram01.pdf, id=
-13924, 333.98886pt x 223.2077pt>
+13933, 333.98886pt x 223.2077pt>
 File: ./SystemsofEquationsandMatrices/./MatMethodsGraphics/CircuitDiagram01.pdf
  Graphic file (type pdf)
 <use ./SystemsofEquationsandMatrices/./MatMethodsGraphics/CircuitDiagram01.pdf>
@@ -9923,7 +9926,7 @@ ircuitDiagram01.pdf  used on input line 483.
  [792] [793 <./SystemsofEquationsandMatrices/./MatMethodsGraphics/CircuitDiagra
 m01.pdf>]
 <./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE01.jpg, id=1
-3968, 95.8782pt x 65.5248pt>
+3976, 95.8782pt x 65.5248pt>
 File: ./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE01.jpg 
 Graphic file (type jpg)
 <use ./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE01.jpg>
@@ -9931,7 +9934,7 @@ Package pdftex.def Info: ./SystemsofEquationsandMatrices/./MatMethodsGraphics/M
 ATRIXINVERSE01.jpg  used on input line 549.
 (pdftex.def)             Requested size: 144.54pt x 98.78384pt.
 <./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE02.jpg, id=1
-3969, 95.8782pt x 65.5248pt>
+3977, 95.8782pt x 65.5248pt>
 File: ./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE02.jpg 
 Graphic file (type jpg)
 <use ./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE02.jpg>
@@ -9939,7 +9942,7 @@ Package pdftex.def Info: ./SystemsofEquationsandMatrices/./MatMethodsGraphics/M
 ATRIXINVERSE02.jpg  used on input line 551.
 (pdftex.def)             Requested size: 144.54pt x 98.78384pt.
 <./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE03.jpg, id=1
-3970, 95.8782pt x 65.5248pt>
+3978, 95.8782pt x 65.5248pt>
 File: ./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE03.jpg 
 Graphic file (type jpg)
 <use ./SystemsofEquationsandMatrices/./MatMethodsGraphics/MATRIXINVERSE03.jpg>
@@ -10024,7 +10027,7 @@ ps)
  [MP to PDF]
 (./SystemsofEquationsandMatrices/NonLinearEquations.5) [826]
 <./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear01.jpg, 
-id=14452, 2800.4625pt x 1497.595pt>
+id=14460, 2800.4625pt x 1497.595pt>
 File: ./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear01.
 jpg Graphic file (type jpg)
 <use ./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear01.j
@@ -10035,7 +10038,7 @@ aphics/NonLinear01.jpg  used on input line 356.
  [827 <./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear01
 .jpg>]
 <./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear03a.jpg,
- id=14457, 734.745pt x 677.53125pt>
+ id=14465, 734.745pt x 677.53125pt>
 File: ./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear03a
 .jpg Graphic file (type jpg)
 <use ./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear03a.
@@ -10044,7 +10047,7 @@ Package pdftex.def Info: ./SystemsofEquationsandMatrices/./NonLinearEquationsGr
 aphics/NonLinear03a.jpg  used on input line 392.
 (pdftex.def)             Requested size: 176.34239pt x 162.6075pt.
 <./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear03b.jpg,
- id=14458, 766.865pt x 804.00375pt>
+ id=14466, 766.865pt x 804.00375pt>
 File: ./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear03b
 .jpg Graphic file (type jpg)
 <use ./SystemsofEquationsandMatrices/./NonLinearEquationsGraphics/NonLinear03b.
@@ -10177,7 +10180,7 @@ Overfull \hbox (17.41399pt too wide) detected at line 610
 
 [842]
 <./SystemsofEquationsandMatrices/./NonLinearInequalitiesGraphics/CircuitDiagram
-01.pdf, id=14654, 333.98886pt x 223.2077pt>
+01.pdf, id=14662, 333.98886pt x 223.2077pt>
 File: ./SystemsofEquationsandMatrices/./NonLinearInequalitiesGraphics/CircuitDi
 agram01.pdf Graphic file (type pdf)
 <use ./SystemsofEquationsandMatrices/./NonLinearInequalitiesGraphics/CircuitDia
@@ -10271,7 +10274,7 @@ File: ./SequencesandtheBinomialTheorem/Sequences.1 Graphic file (type mps)
  [MP to PDF] (./SequencesandtheBinomialTheorem/Sequences.1) [851]
 [852] [853] [854] [855]
 <./SequencesandtheBinomialTheorem/./SequenceGraphics/sequenceoncurve.png, id=14
-851, 570.13pt x 417.56pt>
+859, 570.13pt x 417.56pt>
 File: ./SequencesandtheBinomialTheorem/./SequenceGraphics/sequenceoncurve.png G
 raphic file (type png)
 <use ./SequencesandtheBinomialTheorem/./SequenceGraphics/sequenceoncurve.png>
@@ -10280,7 +10283,7 @@ quenceoncurve.png  used on input line 356.
 (pdftex.def)             Requested size: 216.81pt x 158.78912pt.
  [856 <./SequencesandtheBinomialTheorem/./SequenceGraphics/sequenceoncurve.png>
 ] [857]
-<./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex02.png, id=14879
+<./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex02.png, id=14887
 , 570.13pt x 417.56pt>
 File: ./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex02.png Grap
 hic file (type png)
@@ -10288,7 +10291,7 @@ hic file (type png)
 Package pdftex.def Info: ./SequencesandtheBinomialTheorem/./SequenceGraphics/se
 qlimitex02.png  used on input line 424.
 (pdftex.def)             Requested size: 180.67499pt x 132.32214pt.
-<./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex01.png, id=14880
+<./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex01.png, id=14888
 , 570.13pt x 417.56pt>
 File: ./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex01.png Grap
 hic file (type png)
@@ -10296,7 +10299,7 @@ hic file (type png)
 Package pdftex.def Info: ./SequencesandtheBinomialTheorem/./SequenceGraphics/se
 qlimitex01.png  used on input line 426.
 (pdftex.def)             Requested size: 180.67499pt x 132.32214pt.
-<./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex03.png, id=14882
+<./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex03.png, id=14890
 , 570.13pt x 417.56pt>
 File: ./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex03.png Grap
 hic file (type png)
@@ -10307,7 +10310,7 @@ qlimitex03.png  used on input line 455.
  [858 <./SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex02.png> <.
 /SequencesandtheBinomialTheorem/./SequenceGraphics/seqlimitex01.png> <./Sequenc
 esandtheBinomialTheorem/./SequenceGraphics/seqlimitex03.png>]
-<./SequencesandtheBinomialTheorem/./SequenceGraphics/squeezethm.png, id=14896, 
+<./SequencesandtheBinomialTheorem/./SequenceGraphics/squeezethm.png, id=14904, 
 658.46pt x 417.56pt>
 File: ./SequencesandtheBinomialTheorem/./SequenceGraphics/squeezethm.png Graphi
 c file (type png)
@@ -10465,7 +10468,7 @@ File: ./FoundationsofTrigonometry/RadianMeasure.15 Graphic file (type mps)
  [MP to PDF]
 (./FoundationsofTrigonometry/RadianMeasure.15) [910] [911]
 <./FoundationsofTrigonometry/./RadianMeasureGraphics/Latitude_(PSF).png, id=157
-40, 315.3381pt x 326.6604pt>
+48, 315.3381pt x 326.6604pt>
 File: ./FoundationsofTrigonometry/./RadianMeasureGraphics/Latitude_(PSF).png Gr
 aphic file (type png)
 <use ./FoundationsofTrigonometry/./RadianMeasureGraphics/Latitude_(PSF).png>
@@ -10887,7 +10890,7 @@ File: ./FoundationsofTrigonometry/GraphsofSineandCosine.20 Graphic file (type m
 ps)
  [MP to PDF] (./FoundationsofTrigonometry/GraphsofSineandCosine.20)
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/RoughFitDaylight.j
-pg, id=16519, 1682.285pt x 1266.7325pt>
+pg, id=16527, 1682.285pt x 1266.7325pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/RoughFitDayli
 ght.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/RoughFitDaylig
@@ -10903,7 +10906,7 @@ Overfull \hbox (23.7435pt too wide) in paragraph at lines 1065--1066
 [956 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/RoughFitDayli
 ght.jpg>]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/desmos_regression.
-jpg, id=16536, 1976.38374pt x 1239.63126pt>
+jpg, id=16545, 1976.38374pt x 1239.63126pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/desmos_regres
 sion.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/desmos_regress
@@ -10912,7 +10915,7 @@ Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
 phics/desmos_regression.jpg  used on input line 1097.
 (pdftex.def)             Requested size: 198.7425pt x 124.65134pt.
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/both_daylight.jpg,
- id=16537, 1981.4025pt x 1245.65375pt>
+ id=16546, 1981.4025pt x 1245.65375pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/both_daylight
 .jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/both_daylight.
@@ -10924,7 +10927,7 @@ phics/both_daylight.jpg  used on input line 1098.
 ssion.jpg> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/both_da
 ylight.jpg>]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sinpiovert.png, id
-=16548, 1280.785pt x 428.60126pt>
+=16556, 1280.785pt x 428.60126pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sinpiovert.pn
 g Graphic file (type png)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sinpiovert.png
@@ -10933,7 +10936,7 @@ Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
 phics/sinpiovert.png  used on input line 1156.
 (pdftex.def)             Requested size: 433.62pt x 145.1012pt.
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tfar.png,
- id=16549, 903.375pt x 417.56pt>
+ id=16557, 903.375pt x 417.56pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tfar
 .png Graphic file (type png)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tfar.
@@ -10942,7 +10945,7 @@ Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
 phics/sine10^23tfar.png  used on input line 1170.
 (pdftex.def)             Requested size: 216.81pt x 100.21007pt.
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tzoom.png
-, id=16550, 868.24374pt x 434.62375pt>
+, id=16558, 868.24374pt x 434.62375pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tzoo
 m.png Graphic file (type png)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tzoom
@@ -10960,7 +10963,7 @@ g> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tfar.p
 ng> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sine10^23tzoom
 .png>]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sintovert.png, id=
-16564, 1280.785pt x 428.60126pt>
+16572, 1280.785pt x 428.60126pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sintovert.png
  Graphic file (type png)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/sintovert.png>
@@ -11114,7 +11117,7 @@ Overfull \hbox (2.87132pt too wide) in paragraph at lines 780--781
 
 [968]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempReg.jp
-g, id=16752, 869.2475pt x 610.28pt>
+g, id=16760, 869.2475pt x 610.28pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempR
 eg.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieTempRe
@@ -11123,7 +11126,7 @@ Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
 phics/LakeErieTempReg.jpg  used on input line 886.
 (pdftex.def)             Requested size: 154.40193pt x 108.405pt.
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRegDesmos.
-jpg, id=16753, 1177.39874pt x 745.78625pt>
+jpg, id=16761, 1177.39874pt x 745.78625pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRegDe
 smos.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieRegDes
@@ -11132,7 +11135,7 @@ Package pdftex.def Info: ./FoundationsofTrigonometry/./GraphsofSineandCosineGra
 phics/LakeErieRegDesmos.jpg  used on input line 897.
 (pdftex.def)             Requested size: 171.14064pt x 108.405pt.
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminationRe
-g.jpg, id=16754, 1040.88875pt x 573.14125pt>
+g.jpg, id=16762, 1040.88875pt x 573.14125pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminat
 ionReg.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminati
@@ -11144,7 +11147,7 @@ phics/MoonIlluminationReg.jpg  used on input line 914.
 Reg.jpg> <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/LakeErieR
 egDesmos.jpg>]
 <./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminatonDes
-mos.jpg, id=16777, 1040.88875pt x 542.025pt>
+mos.jpg, id=16785, 1040.88875pt x 542.025pt>
 File: ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminat
 onDesmos.jpg Graphic file (type jpg)
 <use ./FoundationsofTrigonometry/./GraphsofSineandCosineGraphics/MoonIlluminato
@@ -11509,7 +11512,7 @@ File: ./AnalyticalTrigonometry/MoreTrigonometricIdentities.7 Graphic file (type
 (./AnalyticalTrigonometry/MoreTrigonometricIdentities.7) [1026] [1027] [1028]
 [1029] [1030] [1031] [1032]
 <./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/ExpandedSinusoi
-dExample.jpg, id=17876, 1561.835pt x 1147.28625pt>
+dExample.jpg, id=17884, 1561.835pt x 1147.28625pt>
 File: ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/ExpandedSi
 nusoidExample.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/ExpandedSin
@@ -11518,7 +11521,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./MoreTrigonometricIdentities
 Graphics/ExpandedSinusoidExample.jpg  used on input line 1114.
 (pdftex.def)             Requested size: 289.07999pt x 212.34967pt.
 <./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Beats.jpg, id=1
-7885, 1559.8275pt x 1174.3875pt>
+7893, 1559.8275pt x 1174.3875pt>
 File: ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Beats.jpg 
 Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./MoreTrigonometricIdentitiesGraphics/Beats.jpg>
@@ -11724,7 +11727,7 @@ File: ./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.33 Graphic file
  [MP to PDF]
 (./AnalyticalTrigonometry/TheInverseTrigonometricFunctions.33) [1064]
 <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arccosgrap
-h.jpg, id=18537, 728.7225pt x 629.35126pt>
+h.jpg, id=18545, 728.7225pt x 629.35126pt>
 File: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arcco
 sgraph.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arccos
@@ -11733,7 +11736,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunc
 tionsGraphics/arccosgraph.jpg  used on input line 2016.
 (pdftex.def)             Requested size: 150.62332pt x 130.08621pt.
 <./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arctangrap
-h.jpg, id=18538, 910.40125pt x 940.51375pt>
+h.jpg, id=18546, 910.40125pt x 940.51375pt>
 File: ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arcta
 ngraph.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TheInverseTrigonometricFunctionsGraphics/arctan
@@ -11846,7 +11849,7 @@ Mfpic: Then reprocess this file "Precalculus4i".
 
 [1086]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq01.jpg, id=19171, 1434.35875pt x 817.0525pt>
+quIneq01.jpg, id=19179, 1434.35875pt x 817.0525pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq01.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11857,7 +11860,7 @@ equalitiesGraphics/TrigEquIneq01.jpg  used on input line 113.
  [1087 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq01.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq02.jpg, id=19178, 806.01125pt x 471.7625pt>
+quIneq02.jpg, id=19186, 806.01125pt x 471.7625pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq02.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11866,7 +11869,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq02.jpg  used on input line 165.
 (pdftex.def)             Requested size: 277.8159pt x 162.6075pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq03.jpg, id=19180, 1351.0475pt x 397.485pt>
+quIneq03.jpg, id=19188, 1351.0475pt x 397.485pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq03.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11877,7 +11880,7 @@ equalitiesGraphics/TrigEquIneq03.jpg  used on input line 196.
  [1088 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq02.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq04.jpg, id=19188, 1308.89pt x 800.9925pt>
+quIneq04.jpg, id=19196, 1308.89pt x 800.9925pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq04.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11891,7 +11894,7 @@ Underfull \vbox (badness 2653) has occurred while \output is active []
  [1089 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq03.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq05.jpg, id=19196, 1415.2875pt x 760.8425pt>
+quIneq05.jpg, id=19204, 1415.2875pt x 760.8425pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq05.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11903,7 +11906,7 @@ equalitiesGraphics/TrigEquIneq05.jpg  used on input line 284.
 s/TrigEquIneq04.jpg>] [1091 <./AnalyticalTrigonometry/./TrigonometricEquationsa
 ndInequalitiesGraphics/TrigEquIneq05.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq06.jpg, id=19211, 1183.42125pt x 746.79pt>
+quIneq06.jpg, id=19220, 1183.42125pt x 746.79pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq06.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11914,7 +11917,7 @@ equalitiesGraphics/TrigEquIneq06.jpg  used on input line 343.
  [1092 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq06.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq07.jpg, id=19233, 1596.96625pt x 1086.0575pt>
+quIneq07.jpg, id=19241, 1596.96625pt x 1086.0575pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq07.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11926,7 +11929,7 @@ equalitiesGraphics/TrigEquIneq07.jpg  used on input line 455.
 [1093 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
 /TrigEquIneq07.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq08.jpg, id=19246, 1121.18875pt x 987.69pt>
+quIneq08.jpg, id=19254, 1121.18875pt x 987.69pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq08.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11937,7 +11940,7 @@ equalitiesGraphics/TrigEquIneq08.jpg  used on input line 496.
  [1094 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq08.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq09.jpg, id=19252, 1134.2375pt x 1056.94875pt>
+quIneq09.jpg, id=19260, 1134.2375pt x 1056.94875pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq09.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11946,7 +11949,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq09.jpg  used on input line 524.
 (pdftex.def)             Requested size: 174.48965pt x 162.6075pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq10.jpg, id=19256, 1139.25626pt x 687.56876pt>
+quIneq10.jpg, id=19264, 1139.25626pt x 687.56876pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq10.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11969,7 +11972,7 @@ hv/m/sl/10.95 x\OT1/phv/m/n/10.95 ) [](\OT1/phv/m/sl/10.95 x\OT1/phv/m/n/10.95
  []
 
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq11.jpg, id=19267, 1503.6175pt x 767.86874pt>
+quIneq11.jpg, id=19275, 1503.6175pt x 767.86874pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq11.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11983,7 +11986,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1096 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/TrigEquIneq10.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq12.jpg, id=19276, 1452.42625pt x 1145.27875pt>
+quIneq12.jpg, id=19284, 1452.42625pt x 1145.27875pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq12.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -11995,7 +11998,7 @@ equalitiesGraphics/TrigEquIneq12.jpg  used on input line 616.
 s/TrigEquIneq11.jpg> <./AnalyticalTrigonometry/./TrigonometricEquationsandInequ
 alitiesGraphics/TrigEquIneq12.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq13.jpg, id=19282, 1518.67375pt x 750.805pt>
+quIneq13.jpg, id=19290, 1518.67375pt x 750.805pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq13.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12004,7 +12007,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/TrigEquIneq13.jpg  used on input line 635.
 (pdftex.def)             Requested size: 328.89531pt x 162.6075pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq14.jpg, id=19284, 853.1875pt x 797.98125pt>
+quIneq14.jpg, id=19292, 853.1875pt x 797.98125pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq14.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12023,7 +12026,7 @@ file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.1)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq15.jpg, id=19312, 752.8125pt x 880.28876pt>
+quIneq15.jpg, id=19320, 752.8125pt x 880.28876pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq15.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12038,7 +12041,7 @@ file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.2)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq16.jpg, id=19319, 1436.36626pt x 763.85374pt>
+quIneq16.jpg, id=19327, 1436.36626pt x 763.85374pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq16.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12053,7 +12056,7 @@ file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.3)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/TrigE
-quIneq17.jpg, id=19329, 1397.22pt x 764.8575pt>
+quIneq17.jpg, id=19337, 1397.22pt x 764.8575pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 TrigEquIneq17.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/T
@@ -12077,7 +12080,7 @@ file (type mps)
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.6)
 [1104]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCSI
-NEQN.jpg, id=19359, 620.3175pt x 637.38126pt>
+NEQN.jpg, id=19367, 620.3175pt x 637.38126pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCSINEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12088,7 +12091,7 @@ equalitiesGraphics/ARCSINEQN.jpg  used on input line 1139.
  [1105 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCSINEQN.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCCO
-SEQN.jpg, id=19374, 994.71625pt x 882.29625pt>
+SEQN.jpg, id=19382, 994.71625pt x 882.29625pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCCOSEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12097,7 +12100,7 @@ Package pdftex.def Info: ./AnalyticalTrigonometry/./TrigonometricEquationsandIn
 equalitiesGraphics/ARCCOSEQN.jpg  used on input line 1158.
 (pdftex.def)             Requested size: 203.69048pt x 180.67499pt.
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCSE
-CEQN.jpg, id=19377, 806.01125pt x 683.55376pt>
+CEQN.jpg, id=19385, 806.01125pt x 683.55376pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCSECEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12111,7 +12114,7 @@ Underfull \vbox (badness 1377) has occurred while \output is active []
  [1106 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/ARCCOSEQN.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCTA
-NEQN.jpg, id=19385, 536.0025pt x 525.965pt>
+NEQN.jpg, id=19393, 536.0025pt x 525.965pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCTANEQN.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12127,7 +12130,7 @@ file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.7)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCCO
-SINEQ.jpg, id=19392, 979.66pt x 864.22874pt>
+SINEQ.jpg, id=19400, 979.66pt x 864.22874pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCCOSINEQ.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12142,7 +12145,7 @@ file (type mps)
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.8)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/ARCCO
-TINEQ.jpg, id=19401, 1069.9975pt x 1158.3275pt>
+TINEQ.jpg, id=19409, 1069.9975pt x 1158.3275pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 ARCCOTINEQ.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/A
@@ -12170,7 +12173,7 @@ File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.12 Graphic
  [MP to PDF]
 (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.12) [1112]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid05.jpg, id=19447, 1162.3425pt x 892.33376pt>
+oid05.jpg, id=19455, 1162.3425pt x 892.33376pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid05.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12182,7 +12185,7 @@ equalitiesGraphics/Sinusoid05.jpg  used on input line 1527.
 [1113 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics
 /Sinusoid05.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid06.jpg, id=19461, 1104.125pt x 1129.21875pt>
+oid06.jpg, id=19469, 1104.125pt x 1129.21875pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid06.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12193,7 +12196,7 @@ equalitiesGraphics/Sinusoid06.jpg  used on input line 1575.
  [1114 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/Sinusoid06.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid08.jpg, id=19474, 1162.3425pt x 1208.515pt>
+oid08.jpg, id=19482, 1162.3425pt x 1208.515pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid08.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12204,7 +12207,7 @@ equalitiesGraphics/Sinusoid08.jpg  used on input line 1593.
  [1115 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphic
 s/Sinusoid08.jpg>]
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/Sinus
-oid10.jpg, id=19490, 1118.1775pt x 1060.96375pt>
+oid10.jpg, id=19498, 1118.1775pt x 1060.96375pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 Sinusoid10.jpg Graphic file (type jpg)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/S
@@ -12222,7 +12225,7 @@ File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.14 Graphic
  file (type mps)
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.14)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/IncDe
-cSine.png, id=19502, 711.65875pt x 464.73625pt>
+cSine.png, id=19510, 711.65875pt x 464.73625pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 IncDecSine.png Graphic file (type png)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/I
@@ -12241,7 +12244,7 @@ File: ./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.16 Graphic
 
 [MP to PDF] (./AnalyticalTrigonometry/TrigonometricEquationsandInequalities.16)
 <./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/IPExa
-mple.png, id=19513, 814.04124pt x 514.92375pt>
+mple.png, id=19521, 814.04124pt x 514.92375pt>
 File: ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/
 IPExample.png Graphic file (type png)
 <use ./AnalyticalTrigonometry/./TrigonometricEquationsandInequalitiesGraphics/I
@@ -12371,7 +12374,7 @@ File: ./GeometricApplicationsofTrigonometry/TheLawofSines.22 Graphic file (type
 (./GeometricApplicationsofTrigonometry/ExercisesforTheLawofSines.tex [1140]
 [1141]
 <./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jpg, id=2
-0032, 803.0pt x 533.995pt>
+0040, 803.0pt x 533.995pt>
 File: ./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jpg 
 Graphic file (type jpg)
 <use ./GeometricApplicationsofTrigonometry/./LawofSinesGraphics/AshBridge.jpg>
@@ -13179,7 +13182,7 @@ e mps)
 [MP to PDF] (./PolarCoordinatesandParametricEquations/PolarGraphs.67) [1233]
 (./PolarCoordinatesandParametricEquations/ExercisesforPolarGraphs.tex [1234]
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.jpg, id
-=21498, 95.8782pt x 65.5248pt>
+=21506, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar01.jpg
@@ -13188,7 +13191,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar01.jpg  used on input line 317.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jpg, id
-=21499, 95.8782pt x 65.5248pt>
+=21507, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jpg
@@ -13197,7 +13200,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar02.jpg  used on input line 318.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jpg, id
-=21500, 95.8782pt x 65.5248pt>
+=21508, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jpg
@@ -13210,7 +13213,7 @@ Graphics/Polar03.jpg  used on input line 319.
 pg> <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar02.jpg
 > <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar03.jpg>]
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.jpg, id
-=21523, 95.8782pt x 65.5248pt>
+=21532, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar04.jpg
@@ -13219,7 +13222,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar04.jpg  used on input line 331.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jpg, id
-=21524, 95.8782pt x 65.5248pt>
+=21533, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar05.jpg
@@ -13228,7 +13231,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar05.jpg  used on input line 332.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jpg, id
-=21525, 95.8782pt x 65.5248pt>
+=21534, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar06.jpg
@@ -13237,7 +13240,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar06.jpg  used on input line 344.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jpg, id
-=21526, 95.8782pt x 65.5248pt>
+=21535, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar07.jpg
@@ -13246,7 +13249,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar07.jpg  used on input line 345.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jpg, id
-=21527, 95.8782pt x 65.5248pt>
+=21536, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar08.jpg
@@ -13255,7 +13258,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./PolarGraphs
 Graphics/Polar08.jpg  used on input line 346.
 (pdftex.def)             Requested size: 130.08621pt x 88.90556pt.
 <./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jpg, id
-=21528, 95.8782pt x 65.5248pt>
+=21537, 95.8782pt x 65.5248pt>
 File: ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jp
 g Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./PolarGraphsGraphics/Polar09.jpg
@@ -13733,7 +13736,7 @@ Overfull \hbox (5.22356pt too wide) in paragraph at lines 899--900
  []
 
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/cycloid
-.jpg, id=22512, 1157.32375pt x 808.01875pt>
+.jpg, id=22520, 1157.32375pt x 808.01875pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/cy
 cloid.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/cyc
@@ -13746,7 +13749,7 @@ ycloid.jpg>]
 (./PolarCoordinatesandParametricEquations/ExercisesforParametricEquations.tex
 [1303]
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric01.jpg, id=22550, 198.7425pt x 134.5025pt>
+ric01.jpg, id=22558, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric01.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13755,7 +13758,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric01.jpg  used on input line 130.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric02.jpg, id=22551, 198.7425pt x 134.5025pt>
+ric02.jpg, id=22559, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric02.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13764,7 +13767,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric02.jpg  used on input line 131.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric03.jpg, id=22555, 198.7425pt x 134.5025pt>
+ric03.jpg, id=22563, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric03.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13773,7 +13776,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric03.jpg  used on input line 142.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric04.jpg, id=22556, 198.7425pt x 134.5025pt>
+ric04.jpg, id=22564, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric04.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13782,7 +13785,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric04.jpg  used on input line 143.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric05.jpg, id=22558, 198.7425pt x 134.5025pt>
+ric05.jpg, id=22566, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric05.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -13791,7 +13794,7 @@ Package pdftex.def Info: ./PolarCoordinatesandParametricEquations/./ParametricE
 quationsGraphics/Parametric05.jpg  used on input line 156.
 (pdftex.def)             Requested size: 144.54pt x 97.82272pt.
 <./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Paramet
-ric06.jpg, id=22559, 198.7425pt x 134.5025pt>
+ric06.jpg, id=22567, 198.7425pt x 134.5025pt>
 File: ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Pa
 rametric06.jpg Graphic file (type jpg)
 <use ./PolarCoordinatesandParametricEquations/./ParametricEquationsGraphics/Par
@@ -14288,7 +14291,7 @@ File: ./AlgebraAppendix/AppLines.19 Graphic file (type mps)
 File: ./AlgebraAppendix/AppLines.20 Graphic file (type mps)
  [MP to PDF]
 (./AlgebraAppendix/AppLines.20) [1389]
-<./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg, id=23804, 2806.485pt x 151
+<./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg, id=23812, 2806.485pt x 151
 9.6775pt>
 File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg Graphic file (type jpg
 )
@@ -14296,7 +14299,7 @@ File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg Graphic file (type jpg
 Package pdftex.def Info: ./AlgebraAppendix/./AppLinesGraphics/A5Graph01.jpg  us
 ed on input line 745.
 (pdftex.def)             Requested size: 144.54pt x 78.26079pt.
-<./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg, id=23805, 2808.4925pt x 15
+<./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg, id=23813, 2808.4925pt x 15
 11.6475pt>
 File: ./AlgebraAppendix/./AppLinesGraphics/A5Graph02.jpg Graphic file (type jpg
 )
@@ -14706,7 +14709,7 @@ File: ./GeometryAppendix/AppRightTrig.16 Graphic file (type mps)
 File: ./GeometryAppendix/AppRightTrig.17 Graphic file (type mps)
  [MP to PDF]
 (./GeometryAppendix/AppRightTrig.17)
-<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg, id=25735, 715.17
+<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg, id=25743, 715.17
 188pt x 311.66437pt>
 File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg Graphic file
  (type jpg)
@@ -14714,7 +14717,7 @@ File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig01.jpg Graphic file
 Package pdftex.def Info: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig
 01.jpg  used on input line 567.
 (pdftex.def)             Requested size: 198.7425pt x 86.60915pt.
-<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg, id=25736, 726.46
+<./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg, id=25744, 726.46
 407pt x 444.91219pt>
 File: ./GeometryAppendix/./AppRightTrigGraphics/AppRightTrig02.jpg Graphic file
  (type jpg)
@@ -14760,10 +14763,10 @@ Package rerunfilecheck Info: File `Precalculus4i.out' has not changed.
 (rerunfilecheck)             Checksum: F61863361E57F3305484E0D31F5F6FC9;51553.
  ) 
 Here is how much of TeX's memory you used:
- 51448 strings out of 474116
- 1386218 string characters out of 5743682
+ 51450 strings out of 474116
+ 1386248 string characters out of 5743682
  1992187 words of memory out of 5000000
- 55283 multiletter control sequences out of 15000+600000
+ 55282 multiletter control sequences out of 15000+600000
  646664 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,32n,79p,2708b,2335s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -14803,10 +14806,10 @@ al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr
 cal/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/te
 xlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2
 024/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Precalculus4i.pdf (1532 pages, 63553163 bytes).
+Output written on Precalculus4i.pdf (1532 pages, 63468841 bytes).
 PDF statistics:
- 28905 PDF objects out of 31911 (max. 8388607)
- 26619 compressed objects within 267 object streams
- 13899 named destinations out of 15390 (max. 500000)
+ 28913 PDF objects out of 31911 (max. 8388607)
+ 26626 compressed objects within 267 object streams
+ 13902 named destinations out of 15390 (max. 500000)
  4031 words of extra memory for PDF output out of 10000 (max. 10000000)
 

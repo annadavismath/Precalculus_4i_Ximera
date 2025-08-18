@@ -221,9 +221,9 @@ We generalize our observations about local extrema in the following result.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{firstderivatvetest}   \textbf{The (First)\footnote{Why `First'?  Stay tuned \ldots} Derivative Test for Local Extema:}  Suppose $f$ is differentiable on an open interval $I$ containing $c$:
+\begin{thm}  \label{firstderivatvetest}   \textbf{The (First)\footnote{Why `First'?  Stay tuned \ldots} Derivative Test for Local Extema:}  Let $f$ be continuous on an open interval $I$ containing a critical number $c$.\footnote{Recall this means $f'(c) = 0$ or $f'(c)$ does not exist.}  If $f$ is differentiable on $I$, except possibly at $c$, then  
 
-Let  $c$ be a critical number for a continuous function $f$ (i.e.,   $f'(c) = 0$ or $f'(c)$ does not exist.)
+\medskip
 
 \begin{itemize}
 
@@ -250,7 +250,7 @@ Let  $c$ be a critical number for a continuous function $f$ (i.e.,   $f'(c) = 0$
 
 \end{enumerate}
 
-{\bf Solution.}  \begin{enumerate}  \item In order to make a sign diagram for $f'(x)$, we rewrite $f'(x)$ as a single fraction:  \[f'(x) = \dfrac{4}{3} x^{1/3} - \dfrac{4}{3} x^{-2/3} =  \dfrac{4x^{1/3}}{3}  - \dfrac{4}{3x^{2/3}}  = \dfrac{4x^{1/3}}{3} \cdot \dfrac{x^{2/3}}{x^{2/3}} - \dfrac{4}{3x^{2/3}} = \dfrac{4x}{3x^{2/3}} - \dfrac{4}{3x^{2/3}}   = \dfrac{4x-4}{3x^{2/3}}.\]
+{\bf Solution.}    \begin{enumerate}  \item In order to make a sign diagram for $f'(x)$, we rewrite $f'(x)$ as a single fraction:  \[f'(x) = \dfrac{4}{3} x^{1/3} - \dfrac{4}{3} x^{-2/3} =  \dfrac{4x^{1/3}}{3}  - \dfrac{4}{3x^{2/3}}  = \dfrac{4x^{1/3}}{3} \cdot \dfrac{x^{2/3}}{x^{2/3}} - \dfrac{4}{3x^{2/3}} = \dfrac{4x}{3x^{2/3}} - \dfrac{4}{3x^{2/3}}   = \dfrac{4x-4}{3x^{2/3}}.\]
 
 \medskip
 
@@ -318,7 +318,7 @@ We get $f$ is decreasing for $x<0$ as well as from $0 < x < 1$.  Since $0$ is in
 
 \medskip
 
-\item   Since $f$ changes from decreasing just to the left of $x=1$ to increasing just to the right of $x=1$,  the graph of $f$ has a local minimum at $x=1$.  The local minimum value is $f(1) = (1)^{4/3} - 4(1)^{1/3} = -3$. 
+\item   We note that $f$ satisfies the conditions of Theorem \ref{firstderivatvetest} since $f$ is continuous everywhere and $f'$ exists for all $x \neq 0$.  Since $f$ changes from decreasing just to the left of $x=1$ to increasing just to the right of $x=1$,  the graph of $f$ has a local minimum at $x=1$.  The local minimum value is $f(1) = (1)^{4/3} - 4(1)^{1/3} = -3$. 
 
 \medskip
 
@@ -587,7 +587,7 @@ We see $f''(x) =  \frac{4x+8}{9x^{5/3}} $ is undefined when $9x^{5/3}= 0$, that 
 
 \medskip
 
-Solving $f''(x) =  \frac{4x+8}{9x^{5/3}} $ gives $4x+8 = 0$ so $x = -2$. 
+Solving $f''(x) =  \frac{4x+8}{9x^{5/3}}  = 0$ gives $4x+8 = 0$ so $x = -2$. 
 
 \newpage
 
@@ -710,7 +710,7 @@ Find the $x$-coordinates of the inflection points.
 
 \medskip
 
-\item  Sketch a plausible graph of $y = f(x)$.
+\item  Sketch a possible graph of $y = f(x)$.
 
 \end{enumerate}
 

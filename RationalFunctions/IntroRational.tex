@@ -97,14 +97,14 @@ $\begin{array}{|r||c|}  \hline
 
 \end{center}
 
-Like we did in Section \ref{GraphsofPolynomials}, we'll borrow some notation from Calculus in order for us to codify the behavior as $x \rightarrow 0$.  First off, note that the behavior of $f$ differs depending on which direction we approach $0$.  We describe the values $x<0$ but $x \rightarrow 0$  (such as $x = -0.01$, $-0.001$, etc.)  as  `$x$ approaching $0$ \textbf{from the left},' written as $x \rightarrow 0^{-}$.  If we think of these numbers as all being $x$-values where  $x  = \text{`$0-$ a little bit'}$, the  the `$-$' in the notation `$x \rightarrow 0^{-}$' makes better sense.  For these values,  the function values $r(x) \rightarrow -\infty$.   Using the limit notation introduced in Section \ref{GraphsofPolynomials}, we'd write: $\ds{ \lim_{x \rightarrow 0^{-}} r(x) = - \infty}$.  
+Like we did in Section \ref{GraphsofPolynomials}, we'll borrow some notation from Calculus in order for us to codify the behavior as $x \rightarrow 0$.  First off, note that the behavior of $r$ differs depending on which direction we approach $0$.  We describe the values $x<0$ but $x \rightarrow 0$  (such as $x = -0.01$, $-0.001$, etc.)  as  `$x$ approaching $0$ \textbf{from the left},' written as $x \rightarrow 0^{-}$.  If we think of these numbers as all being $x$-values where  $x  = \text{`$0-$ a little bit'}$, the  the `$-$' in the notation `$x \rightarrow 0^{-}$' makes better sense.  For these values,  the function values $r(x) \rightarrow -\infty$.   Using the limit notation introduced in Section \ref{GraphsofPolynomials}, we'd write: $\ds{ \lim_{x \rightarrow 0^{-}} r(x) = - \infty}$.  
 
 
 Similarly, we say `as $x$ approaches $0$ \textbf{from the right},' that is as $x \rightarrow 0^{+}$, $r(x) \rightarrow \infty$, or, more succinctly, $\ds{ \lim_{x \rightarrow 0^{+}} r(x) =  \infty}$.  As before, we understand `from the right' means we are using $x$ values slightly to the \textbf{right} of $0$ on the number line:  numbers such as $x =0.001.$ These numbers could described as `$0 + \text{a little bit}$,' which justifies the `$+$' in the notation `$x \rightarrow 0^{+}$.'
 
-We can also use this notation to describe the end behavior, but here the numerical roles are reversed.  We see as $x \rightarrow -\infty$, $r(x) \rightarrow 0^{-}$ and as $x \rightarrow \infty$, $r(x) \rightarrow 0^{+}$.  When it comes to codifying these results using Calculus, we write $\ds{ \lim_{x \rightarrow -\infty} r(x) =  0}$ and $\ds{ \lim_{x \rightarrow \infty} r(x) =  0}$.  Note that, unfortunately, we lose the directionality here on the limiting value - that is, we do not write $\ds{ \lim_{x \rightarrow -\infty} r(x) =  0^{-}}$ or $\ds{ \lim_{x \rightarrow \infty} r(x) =  0^{+}}$.  Without getting too much into formal definitions, the reason is that if limiting values are finite, we express them as real numbers.  Period.\footnote{We will, of course, offer more detail if the situation presents itself.}
+We can also use this notation to describe the end behavior, but here the numerical roles are reversed.  We see as $x \rightarrow -\infty$, $r(x) \rightarrow 0^{-}$ and as $x \rightarrow \infty$, $r(x) \rightarrow 0^{+}$.  When it comes to codifying these results using Calculus, we write $\ds{ \lim_{x \rightarrow -\infty} r(x) =  0}$ and $\ds{ \lim_{x \rightarrow \infty} r(x) =  0}$.  Note that, unfortunately, we lose the directionality here on the limiting value - that is, we do not write $\ds{ \lim_{x \rightarrow -\infty} r(x) =  0^{-}}$ or $\ds{ \lim_{x \rightarrow \infty} r(x) =  0^{+}}$.  Without getting too much into formal definitions, the reason is that if limiting values are finite, we express them as real numbers.\footnote{We will, of course, offer more detail if the situation presents itself.}  Period.
 
-The way we describe what is happening graphically is to say the line $x = 0$ is a  \index{asymptote ! vertical ! intuitive definition of}\index{vertical asymptote ! intuitive definition of}\textbf{vertical asymptote}  to the graph of $y = r(x)$ an the line $y = 0$ is a \index{asymptote ! horizontal ! intuitive definition of}\index{horizontal asymptote ! intuitive definition of}\textbf{horizontal asymptote} to the graph of $y = r(x)$.  Roughly speaking, asymptotes are lines which approximate functions as either the inputs our outputs become unbounded. 
+The way we describe what is happening graphically is to say the line $x = 0$ is a  \index{asymptote ! vertical ! intuitive definition of}\index{vertical asymptote ! intuitive definition of}\textbf{vertical asymptote}  to the graph of $y = r(x)$ and the line $y = 0$ is a \index{asymptote ! horizontal ! intuitive definition of}\index{horizontal asymptote ! intuitive definition of}\textbf{horizontal asymptote} to the graph of $y = r(x)$.  Roughly speaking, asymptotes are lines which approximate functions as either the inputs or outputs become unbounded. 
 
 \colorbox{ResultColor}{\bbm
 
@@ -189,9 +189,9 @@ $\begin{array}{|r||c|c|c|}  \hline
 
 \end{tabular}
 
-We repeat the same experiment with functions of the form $f(x) = \frac{1}{x^{n}} = x^{-n}$ where $n$ is even. $y = \frac{1}{x^2} = x^2$, $y = \frac{1}{x^4} = x^{-4}$ and $y = \frac{1}{x^6} = x^{-6}$.  These graphs all share the points $(-1,1)$ and $(1,1)$, and asymptotes $x = 0$ and $y = 0$.  Note here that both $\ds{\lim_{x \rightarrow 0^{-}} f(x) = \infty}$ and $\ds{\lim_{x \rightarrow 0^{+}} f(x) = \infty}$, so we may simply write $\ds{\lim_{x \rightarrow 0} f(x) = \infty}$. 
+We repeat the same experiment with functions of the form $f(x) = \frac{1}{x^{n}} = x^{-n}$ where $n$ is even. $y = \frac{1}{x^2} = x^{-2}$, $y = \frac{1}{x^4} = x^{-4}$ and $y = \frac{1}{x^6} = x^{-6}$.  These graphs all share the points $(-1,1)$ and $(1,1)$, and asymptotes $x = 0$ and $y = 0$.  Note here that both $\ds{\lim_{x \rightarrow 0^{-}} f(x) = \infty}$ and $\ds{\lim_{x \rightarrow 0^{+}} f(x) = \infty}$, so we may simply write $\ds{\lim_{x \rightarrow 0} f(x) = \infty}$. 
 
-The same remarks about the steepness for $|x|<1$ and the flattening for $|x|>1$ also apply. For the same reasons as given above, the domain of each of these functions is $(-\infty, 0) \cup (0, \infty)$.  When it comes to the range, the fact $n$ is even tells us there are  solutions to $\frac{1}{x^n} = c$ only if $c>0$. It follows that the range is $(0, \infty)$ for each of these functions.  Concerning symmetry, as $n$ is even, $f(-x) = (-x)^{-n} = (-1)^{-n} x^{-n} = x^{-n} = f(x)$, proving each member of this function family is even.  Hence, all of the graphs of these functions is symmetric about the $y$-axis.
+The same remarks about the steepness for $|x|<1$ and the flattening for $|x|>1$ also apply. For the same reasons as given above, the domain of each of these functions is $(-\infty, 0) \cup (0, \infty)$.  When it comes to the range, the fact $n$ is even tells us there are  solutions to $\frac{1}{x^n} = c$ only if $c>0$. It follows that the range is $(0, \infty)$ for each of these functions.  Concerning symmetry, as $n$ is even, $f(-x) = (-x)^{-n} = (-1)^{-n} x^{-n} = x^{-n} = f(x)$, proving each member of this function family is even.  Hence,  the graphs of these functions are symmetric about the $y$-axis.
 
 
 \begin{tabular}{m{2.75in}m{1.25in}m{1.25in}m{1.25in}}
@@ -655,9 +655,11 @@ We take time now to focus on behaviors of the graphs of rational functions near 
 
 Will all  values excluded from the domain of a rational function produce vertical asymptotes in the graph?  The short answer is `no.'  There are milder interruptions that can occur - holes in the graph - which we explore in our next example.  
 
-To this end, we formalize the notion of \textbf{average velocity} - a concept we first encountered in  Example \ref{ARCRocketExample} in Section \ref{ConstantandLinearFunctions}. In that example, the function $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ gives the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  The function $s$ an example of a \index{position function}\index{function ! position}\textbf{position function} since it provides information about \textbf{where} the rocket is at time $t$.   In that example, we interpreted the average rate of change of $s$ over an interval as the average velocity of the rocket over that interval.  The average velocity provides two pieces of information:  the average speed of the rocket along with the rocket's direction.  
+To this end, we formalize the notion of \textbf{average velocity} - a concept we first encountered in  Example \ref{ARCRocketExample} in Section \ref{ConstantandLinearFunctions}. In that example, the function $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ gives the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  The function $s$ is an example of a \index{position function}\index{function ! position}\textbf{position function} since it provides information about \textbf{where} the rocket is at time $t$.   In that example, we interpreted the average rate of change of $s$ over an interval as the average velocity of the rocket over that interval.  The average velocity provides two pieces of information:  the average speed of the rocket along with the rocket's direction.  
 
 Suppose we have a position function $s$ defined over an interval containing some fixed time $t_{0}$.  We can define the average velocity as a function of any time $t$ other than $t_{0}$:
+
+\bigskip
 
 \colorbox{ResultColor}{\bbm
 
@@ -668,7 +670,9 @@ Suppose we have a position function $s$ defined over an interval containing some
 
 \ebm}
 
-It is clear why we must exclude $t = t_{0}$ from the domain of $\overline{v}$ in Definition \ref{averagevelocitydefn} since otherwise we would have a $0$ in the denominator.  What is interesting in this case however, is that substituting $t = t_{0}$ also produces $0$ in the \textbf{numerator}. (Do you see why?)  While `$\frac{0}{0}$' is undefined, it is more precisely called an `indeterminate form' and is studied extensively in Calculus.  We explore this phenomenon  in the next example.
+\bigskip
+
+We must exclude $t = t_{0}$ from the domain of $\overline{v}$ in Definition \ref{averagevelocitydefn} since, otherwise, we would have a $0$ in the denominator.  What is interesting in this case however, is that substituting $t = t_{0}$ also produces $0$ in the \textbf{numerator}. (Do you see why?)  While `$\frac{0}{0}$' is undefined, it is more precisely called an `indeterminate form' and is studied extensively in Calculus.  We explore this phenomenon  in the next example.
 
 \begin{ex} \label{averagevelocityrocketex} Let $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ give the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  
 
@@ -698,9 +702,9 @@ It is clear why we must exclude $t = t_{0}$ from the domain of $\overline{v}$ in
                         & = & \dfrac{-5(t-15)(t-5)}{t-15} &   \\
                         & = &  \dfrac{-5\cancel{(t-15)} (t-5)}{\cancel{(t-15)}}  & \\
                          & = & -5(t-5) = -5t + 25, & \text{$t \neq 15$} \end{array} \]
-Since  domain of $s$ is  $0 \leq t \leq 20$, our final answer is $\overline{v}(t) = -5t+25$,  for $t \in [0, 15) \cup (15, 20]$. 
+Since  the domain of $s$ is  $0 \leq t \leq 20$, our final answer is $\overline{v}(t) = -5t+25$,  for $t \in [0, 15) \cup (15, 20]$. 
 
-\item  We find $\overline{v}(14) = -5(14)+25 = -45$.  This means between  $14$ and $15$ seconds after launch, the rocket was traveling, on average,  a speed $45$ feet per second \textbf{downwards}, or falling back to the Moon's surface.
+\item  We find $\overline{v}(14) = -5(14)+25 = -45$.  This means that between  $14$ and $15$ seconds after launch, the rocket was traveling, on average,  a speed $45$ feet per second \textbf{downwards}, or falling back to the Moon's surface.
 
 
 \item  To find $\ds{ \lim_{t \rightarrow 15} \overline{v}(t)}$, we need to analyze the outputs from $\overline{v}(t)$ as $t \rightarrow 15$. Using the table below on the left, it certainly \textbf{appears} to be the case that $\ds{ \lim_{t \rightarrow 15} \overline{v}(t) = -50}$.  Of course, we could be choosing the number $-50$ because of a bias towards nice, integer answers.\footnote{Or maybe the limit is actually $-49.999999865$ which, owing to calculation limitations of the graphing utility rounds to $-50$.}
@@ -826,7 +830,7 @@ We practice this methodology in the following example.
 
 \item  $h(t) = \dfrac{t^2-t-6}{t^2+9}$
 
-\item  $r(t) = \dfrac{t^2-t-6}{t^2+6t+9}$
+\item  $r(t) = \dfrac{t^2-t-6}{t^2+4t+4}$
 
 \setcounter{HW}{\value{enumi}}
 \end{enumerate}
@@ -845,7 +849,7 @@ As a side note, the graph of $f$ appears to be symmetric about the origin.  Sure
 
 \item  As above, we find the values excluded from the domain of $g$ finding the zeros of the denominator.  Solving $t^2 - 9 = 0$ gives $t = \pm 3$.  In this case, we can simplify the formula for $g(t)$:  $\frac{t^2-t-6}{t^2-9} = \frac{(t-3)(t+2)}{(t-3)(t+3)} =\frac{\cancel{(t-3)}(t+2)}{\cancel{(t-3)}(t+3)} =  \frac{t+2}{t+3}$.   Hence, $g(t) = \frac{t+2}{t+3}$ provided $t \neq 3$.  
 
-Since the factor $(t+3)$ which corresponds to the zero $t = -3$ did not cancel from the denominator of $g(t)$, we expect a vertical asymptote to the graph at $t = -3$.  On the other hand, as $t \rightarrow 3$, $t+2 \rightarrow 5$ and $t+3 \rightarrow 6$ so $\frac{t+2}{t+3} \rightarrow \frac{3+2}{3+3} = \frac{5}{6}$.  This gives $\ds{\lim_{t \rightarrow 3} g(t)} =$  $\frac{5}{6}$.   Hence we have a hole in the graph of $y = g(t)$ at  $\left(3, \frac{5}{6}\right)$.
+Since the factor $(t+3)$, which corresponds to the zero $t = -3$, did not cancel from the denominator of $g(t)$, we expect a vertical asymptote to the graph at $t = -3$.  On the other hand, as $t \rightarrow 3$, $t+2 \rightarrow 5$ and $t+3 \rightarrow 6$ so $\frac{t+2}{t+3} \rightarrow \frac{3+2}{3+3} = \frac{5}{6}$.  This gives $\ds{\lim_{t \rightarrow 3} g(t)} =$  $\frac{5}{6}$.   Hence we have a hole in the graph of $y = g(t)$ at  $\left(3, \frac{5}{6}\right)$.
 
  Graphing $g$ we can definitely see the vertical asymptote $t=-3$:  as  $\ds{\lim_{t \rightarrow -3^{-}} g(t) = \infty}$ and $\ds{\lim_{t \rightarrow -3^{+}} g(t) = -\infty}$.  Near $t=3$, the graph seems to have no interruptions, but we know $g$ is undefined at $t=3$.  Depending on the graphing utility, we may or may not convince the display to show us the hole at $\left(3, \frac{5}{6}\right)$.
 
@@ -863,13 +867,13 @@ The graph of $y=f(x)$  \hspace{0.75in} & The graph of $y=g(t)$ \\
 
 \item  Setting the denominator of the expression for $h(t)$ to $0$ gives $t^2+9 = 0$, which has no real solutions.  Accordingly, the graph of $y=h(t)$ (at least as much as we can discern from the technology) is devoid of both vertical asymptotes and holes.  Using terms defined in Section \ref{GraphsofPolynomials},  the function $h$ is both continuous and smooth.\footnote{We'll remind you more about continuous functions in Section \ref{RationalGraphs}  \ldots}
 
-\item  Setting the denominator of $r(t)$ to zero gives the equation $t^2+6t+4 = 0$.  We get  the (repeated!) solution $t=-2$.  Simplifying, we get  $\frac{t^2-t-6}{t^2+4t+4} = \frac{(t-3)(t+2)}{(t+2)(t+2)}  =  \frac{(t-3)\cancel{(t+2)}}{(t+2)\cancel{(t+2)}} =  \frac{t-3}{t+2}$.  Since  not all factors of $(t+2)$ cancelled from the denominator, $t=-2$ continues to produce a $0$ in the denominator as $t \rightarrow -2$.  Hence $t=-2$ is a vertical asymptote to the graph.  A graphing utility bears this out.  Specifically,     $\ds{\lim_{t \rightarrow -2^{-}} r(t) = \infty}$ and  $\ds{\lim_{t \rightarrow -2^{+}} r(t) = -\infty}$ .
+\item  Setting the denominator of $r(t)$ to zero gives the equation $t^2+4t+4 = 0$.  We get  the (repeated!) solution $t=-2$.  Simplifying, we get  $\frac{t^2-t-6}{t^2+4t+4} = \frac{(t-3)(t+2)}{(t+2)(t+2)}  =  \frac{(t-3)\cancel{(t+2)}}{(t+2)\cancel{(t+2)}} =  \frac{t-3}{t+2}$.  Since  not all factors of $(t+2)$ cancelled from the denominator, $t=-2$ continues to produce a $0$ in the denominator.  Hence $t=-2$ is a vertical asymptote to the graph.  A graphing utility bears this out.  Specifically,     $\ds{\lim_{t \rightarrow -2^{-}} r(t) = \infty}$ and  $\ds{\lim_{t \rightarrow -2^{+}} r(t) = -\infty}$ .
 
 \begin{center}
 
 \begin{tabular}{cc}
 
-\includegraphics[width=3in]{./IntroRationalGraphics/VAorHoleEx03.jpg} & \includegraphics[width=3in]{./IntroRationalGraphics/VAorHoleEx04.jpg} \\
+\includegraphics[width=3in]{./IntroRationalGraphics/VAorHoleEx03.jpg} & \includegraphics[width=3in]{./IntroRationalGraphics/VAorHoleEx04.png} \\
 
 The graph of $y=h(t)$  \hspace{0.75in} & The graph of $y=r(t)$ \\
 
@@ -884,7 +888,7 @@ The graph of $y=h(t)$  \hspace{0.75in} & The graph of $y=r(t)$ \\
 \subsection{End Behavior}
 \label{ebrationalsection}
 
-Now that we've thoroughly discussed behavior near values excluded from the domains of rational functions, focus our attention on  end behavior.  We have already seen one example of this in the form of horizontal asymptotes.  Our next example of the section gives us a real-world application of a horizontal asymptote.\footnote{Though the population below is more accurately modeled with the functions in Chapter \ref{ExponentialandLogarithmicFunctions}, we approximate it (using Calculus, of course!) using a rational function.}
+Now that we've  discussed behavior near values excluded from the domains of rational functions, let's focus our attention on  end behavior.  We have already seen one example of this in the form of horizontal asymptotes.  Our next example of the section gives us a real-world application of a horizontal asymptote.\footnote{Though the population below is more accurately modeled with the functions in Chapter \ref{ExponentialandLogarithmicFunctions}, we approximate it (using Calculus, of course!) using a rational function.}
 
 \begin{ex}  \label{fluex} The number of students $N(t)$ at local college who have had the flu $t$ months after the semester begins can be modeled by: \[ N(t) = \dfrac{1500t + 50}{3t+1},  \quad t \geq 0.\]
 

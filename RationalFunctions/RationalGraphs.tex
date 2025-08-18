@@ -229,7 +229,7 @@ Something important to note about the above example is that while $y=0$ is the h
 
 \begin{enumerate}
 
-\item  To find the values excluded from the domain of $g$, we solve  $t^2-t-6 = 0$ and find $t = -2$ and $t=3$.  Hence, our domain is $\{ t \in \mathbb{R} \, | \, t \neq -2 3 \}$, or using interval notation: $(-\infty, -2) \cup (-2,3) \cup (3,\infty)$.
+\item  To find the values excluded from the domain of $g$, we solve  $t^2-t-6 = 0$ and find $t = -2$ and $t=3$.  Hence, our domain is $\{ t \in \mathbb{R} \, | \, t \neq -2, 3 \}$, or using interval notation: $(-\infty, -2) \cup (-2,3) \cup (3,\infty)$.
 
 \item  To check if $g(t)$ is in lowest terms, we factor:  $g(t) = \frac{(2t-5)(t+1)}{(t-3)(t+2)}$.  There is no cancellation, so $g(t)$ is in lowest terms.
 
@@ -239,7 +239,7 @@ Something important to note about the above example is that while $y=0$ is the h
 
 \item  \textit{The behavior of $y=g(t)$ as $t \rightarrow -2$:}  As $t \rightarrow -2^{-}$, we imagine substituting a number a little bit less than $-2$. We have \[g(t) \approx \frac{(-9)(-1)}{(-5)(\text{very small $(-)$})} \approx \frac{9}{\text{very small $(+)$}} \approx \text{very big (+)}\] so  $\ds{ \lim_{t \rightarrow -2^{-}} g(t) = \infty}$. On the flip side, as $t \rightarrow -2^{+}$, we get \[g(t) \approx \frac{9}{\text{ very small $(-)$}} \approx \text{very big $(-)$}\] so  $\ds{ \lim_{t \rightarrow -2^{+}} g(t) = -\infty}$.
 
-\item  \textit{The behavior of $y=g(t)$ as $x \rightarrow 3$:}  As $t \rightarrow 3^{-}$, we imagine plugging in a number just shy  of $3$. We have \[g(t) \approx \frac{(1)(4)}{(\text{ very small $(-)$}) (5)} \approx \frac{4}{\text{very small $(-)$}} \approx \text{very big $(-)$}\] Hence, $\ds{ \lim_{t \rightarrow 3^{-}} g(t) = -\infty}$. As $t \rightarrow 3^{+}$, we get \[g(t) \approx \frac{4}{\text{ very small $(+)$}} \approx \text{very big $(+)$}\] so  $\ds{ \lim_{t \rightarrow 3^{+}} g(t) = \infty}$.
+\item  \textit{The behavior of $y=g(t)$ as $t \rightarrow 3$:}  As $t \rightarrow 3^{-}$, we imagine substituting a  number just shy  of $3$. We have \[g(t) \approx \frac{(1)(4)}{(\text{ very small $(-)$}) (5)} \approx \frac{4}{\text{very small $(-)$}} \approx \text{very big $(-)$}\] Hence, $\ds{ \lim_{t \rightarrow 3^{-}} g(t) = -\infty}$. As $t \rightarrow 3^{+}$, we get \[g(t) \approx \frac{4}{\text{ very small $(+)$}} \approx \text{very big $(+)$}\] so  $\ds{ \lim_{t \rightarrow 3^{+}} g(t) = \infty}$.
 
 \end{itemize}
 
@@ -254,7 +254,7 @@ We interpret this analysis graphically below on the left.
 
 \item  \textit{The behavior of $y=g(t)$ as $t \rightarrow -\infty$:} If imagine substituting $t = \text{$-1$ billion}$ into $\frac{t-7}{t^2-t-6}$, we estimate $\frac{t-7}{t^2-t-6} \approx \frac{\text{\scriptsize $-1$ billion}}{1 \text{\scriptsize billion}^2}  = \frac{-1}{\text{\scriptsize billion}} \approx \text{very small $(-)$}$.\footnote{We are once again using the fact that for polynomials, end behavior is determined by the leading term, so in the denominator, the $t^2$ term dominates the $t$ and constant terms.}  Hence, \[g(t) =  2 - \frac{t-7}{t^2-t-6} \approx 2 - \text{very small $(-)$} = 2 + \text{very small $(+)$}\]  Hence, as $t \rightarrow -\infty$, the graph is a little bit \textit{above} the line $y=2$.
 
-\item  \textit{The behavior of $y=g(t)$ as $t \rightarrow \infty$.}  To consider $\frac{t-7}{t^2-t-6}$ as $t \rightarrow \infty$, we imagine substituting $t= \text{$1$ billion}$ and, going through the usual mental routine, find \[\frac{t-7}{t^2-t-6} \approx \text{very small $(+)$}\]  Hence, $g(t) \approx 2 - \ \text{very small $(+)$}$, so the graph is just \textit{below} the line $y=2$ as $t \rightarrow \infty$.
+\item  \textit{The behavior of $y=g(t)$ as $t \rightarrow \infty$:}  To consider $\frac{t-7}{t^2-t-6}$ as $t \rightarrow \infty$, we imagine substituting $t= \text{$1$ billion}$ and, going through the usual mental routine, find \[\frac{t-7}{t^2-t-6} \approx \text{very small $(+)$}\]  Hence, $g(t) \approx 2 - \ \text{very small $(+)$}$, so the graph is just \textit{below} the line $y=2$ as $t \rightarrow \infty$.
 
 \end{itemize}
 
@@ -380,9 +380,9 @@ Note we can use this formula for $h(x)$ in our analysis of the graph of $h$ as l
 
 \begin{itemize}
 
-\item  \textit{The behavior of $y=h(x)$ as $x \rightarrow -2$:}  As $x \rightarrow -2^{-}$, we imagine substituting a number a little bit less than $-2$. We have $h(x) \approx \frac{(-3)(-1)}{(\text{\scriptsize very small $(-)$})} \approx \frac{3}{(\text{\scriptsize very small $(-)$})}\approx \text{very big $(-)$}$ thus $\ds{\lim_{x \rightarrow -2^{-}} h(x) = - \infty}$.  On the other side of $-2$, as $x \rightarrow -2^{+}$, we find that $h(x) \approx \frac{3}{\text{\scriptsize very small $(+)$}} \approx \text{very big $(+)$}$, so  $\ds{\lim_{x \rightarrow -2^{+}} h(x) =  \infty}$.
+\item  \textit{The behavior of $y=h(x)$ as $x \rightarrow -2$:}  As $x \rightarrow -2^{-}$, we imagine substituting a number a little bit less than $-2$. We have $h(x) \approx \frac{(-3)(-1)}{(\text{\scriptsize very small $(-)$})} \approx \frac{3}{(\text{\scriptsize very small $(-)$})}\approx \text{very big $(-)$}$.  Hence,  $\ds{\lim_{x \rightarrow -2^{-}} h(x) = - \infty}$.  On the other side of $-2$, as $x \rightarrow -2^{+}$, we find that $h(x) \approx \frac{3}{\text{\scriptsize very small $(+)$}} \approx \text{very big $(+)$}$, so  $\ds{\lim_{x \rightarrow -2^{+}} h(x) =  \infty}$.
 
-\item  \textit{The behavior of $y=h(x)$ as $x \rightarrow -1$.}    As $x \rightarrow -1$, we have $2x+1 \rightarrow -1$, $x+1 \rightarrow 0$, and $x+2 \rightarrow 1$.  Hence, $\frac{(2x+1)(x+1)}{x+2} \rightarrow \frac{(-1)(0)}{1} = 0$ so $\ds{\lim_{x \rightarrow -1} h(x) = 0}$.  This means we have a hole at $(-1,0)$.
+\item  \textit{The behavior of $y=h(x)$ as $x \rightarrow -1$.}    As $x \rightarrow -1$, we have $2x+1 \rightarrow -1$, $x+1 \rightarrow 0$, and $x+2 \rightarrow 1$.  Hence, $\frac{(2x+1)(x+1)}{x+2} \rightarrow \frac{(-1)(0)}{1} = 0$ so $\ds{\lim_{x \rightarrow -1} h(x) = 0}$.  This means we have a hole at $(-1,0)$.  More specifically,\footnote{We'll also see this  when we make the sign diagram later \ldots} we note that as $x \rightarrow -1^{-}$,  $h(x) > 0$ whereas as $x \rightarrow -1^{+}$, $h(x) < 0$. This helps us sketch the graph of $h$ near $(-1,0)$.
 
 \end{itemize}
 
@@ -524,7 +524,7 @@ Our last graphing example is challenging in that our six step process provides u
 \item  For end behavior, we note that since the degree of the numerator is exactly \textit{two} more than the degree of the denominator, neither Theorems \ref{hathm} nor \ref{sathm} apply.\footnote{This won't stop us from giving it the old community college try, however!} We know from our attempt to reduce $r(x)$ that we can rewrite $r(x) = x^2-1+\frac{2}{x^2+1}$, so we focus our attention on the term corresponding to the remainder, $\frac{2}{x^2+1}$  It should be clear that as $x \rightarrow - \infty$ or $x \rightarrow \infty$, $\frac{2}{x^2+1} \approx \text{very small $(+)$}$, which means $r(x) \approx x^2-1 + \text{very small $(+)$}$.  So the graph $y=r(x)$ is a little bit \textit{above} the graph of the parabola $y=x^2-1$ as $x \rightarrow  -\infty$ and $x \rightarrow \infty$. 
 
 
-\item  There isn't much work to do for a sign diagram for $r(x)$, since its domain is all real numbers and it has no zeros.  Our sole test interval is $(-\infty, \infty)$, and since we know $r(0) = 1$, we conclude $r(x)$ is $(+)$ for all real numbers.   We check for symmetry, and find $r(-x) = \frac{(-x)^4+1}{(-x)^2+1} = \frac{x^4+1}{x^2+1} = r(x)$, so $r$ is even and, hence, the graph is symmetric about the $y$-axis.  It may be tempting at this point to call it quits, reach for a graphing utility, or ask someone who knows Calculus.\footnote{This is exactly what the authors did in the Third Edition. Special thanks go to Erik Boczko from Ohio University for showing us that, in fact, we could do more with this example algeraically.}  It turns out, we can do a little bit better.  Recall from Section \ref{MonomialFunctions}, that when $|x| <1$ but $x \neq 0$, $x^4 < x^2$, hence $x^4+1 < x^2+1$.  This means for $-1<x<0$ and $0<x<1$, $r(x) = \frac{x^4+1}{x^2+1} < 1$. Since we know $r(0) = 1$, this means the graph of $y = r(x)$ must fall to either side before heading off to $\infty$.  This means $(0,1)$ is a local maximum and, moreover, there are at least two local minimums, one on either side of $(0,1)$.  We invite the reader to confirm this using a graphing utility. 
+\item  There isn't much work to do for a sign diagram for $r(x)$, since its domain is all real numbers and it has no zeros.  Our sole test interval is $(-\infty, \infty)$, and since we know $r(0) = 1$, we conclude $r(x)$ is $(+)$ for all real numbers.   We check for symmetry, and find $r(-x) = \frac{(-x)^4+1}{(-x)^2+1} = \frac{x^4+1}{x^2+1} = r(x)$, so $r$ is even and, hence, the graph is symmetric about the $y$-axis.  It may be tempting at this point to call it quits, reach for a graphing utility, or ask someone who knows Calculus.\footnote{This is exactly what the authors did in the Third Edition. Special thanks go to Erik Boczko from Ohio University for showing us that, in fact, we could do more with this example algeraically.}  It turns out, we can do a little bit better.  Recall from Section \ref{MonomialFunctions}, that when $|x| <1$ but $x \neq 0$, $x^4 < x^2$, hence $x^4+1 < x^2+1$.  This means for $-1<x<0$ and $0<x<1$, $r(x) = \frac{x^4+1}{x^2+1} < 1$. Since we know $r(0) = 1$, this means the graph of $y = r(x)$ must fall to either side before heading off to $\infty$.  This means $(0,1)$ is a local maximum and, moreover, there are at least two local minimums, at least one on either side of $(0,1)$.  We invite the reader to confirm this using a graphing utility. 
 
 
 
@@ -578,7 +578,7 @@ end behavior & sketch of $y = r(x)$
 \end{ex}
 
 
-Our last example turns the tables and invites us to write formulas for rational function given their graphs.
+Our last example turns the tables and invites us to write formulas for rational functions given their graphs.
 
 \begin{ex} \label{rationalfromgraph}  Write formulas for rational functions $r(x)$ and $F(x)$ given their graphs below:
 
@@ -638,7 +638,7 @@ Our last example turns the tables and invites us to write formulas for rational 
 
 We focus our attention first on finding an expression for $p(x)$.  When finding the $x$-intercepts, we look for the zeros of $r$ by solving $r(x) = \frac{p(x)}{q(x)} = 0$.  This equation quickly reduces to solving $p(x) =0$.  Since  $\left(\frac{5}{3}, 0 \right)$ is an $x$-intercept of the graph, we know $x = \frac{5}{3}$ is a zero of $r$, and, hence, a zero of $p$.  Since we are shown no other $x$-intercepts, we assume $r$, hence $p$ have no other real zeros (and no non-real zeros by our assumption.)  Theorem \ref{complexfactorization}  gives  $p(x) = a\left(x - \frac{5}{3}\right)^m$ where $a$ is the leading coefficient of $p(x)$ and $m$ is the multiplicity of the zero $x = \frac{5}{3}$.  Since the graph of $y = r(x)$ crosses through the $x$-axis in what appears to be a fairly linear fashion at  $\left(\frac{5}{3}, 0 \right)$, it seems reasonable to set $m=1$.  Hence, $p(x) = a \left(x - \frac{5}{3}\right)$.
 
-Next, we focus our attention on finding $q(x)$.  Theorem \ref{vavshole} $x=1$ comes from a factor of $(x-1)$ in the denominator of $r(x)$.  This means $(x-1)$ is a factor of $q(x)$.  Since there are no other vertical asymptotes or holes in the graph, $x=1$ is the only real zero, hence (per our assumption) only zero of $q$.  At this point, we have $q(x) = b(x-1)^m$ where $b$ is the leading coefficient of $q(x)$ and $m$ is the multiplicity of the zero $x=1$.  Since the graph of  $r$ has the \textit{horizontal} asymptote $y = 3$,Theorem \ref{ha} tells us two  things:  first,  degree of $q$ must match the degree of $p$; second, the ratio $\frac{a}{b} = 3$.   Hence, the degree of $q$ is $1$ so that: 
+Next, we focus our attention on finding $q(x)$.  Per Theorem \ref{vavshole}, the vertical asymptote  $x=1$ comes from a factor of $(x-1)$ in the denominator of $r(x)$.  This means $(x-1)$ is a factor of $q(x)$.  Since there are no other vertical asymptotes or holes in the graph, $x=1$ is the only real zero, hence (per our assumption) only zero of $q$.  At this point, we have $q(x) = b(x-1)^m$ where $b$ is the leading coefficient of $q(x)$ and $m$ is the multiplicity of the zero $x=1$.  Since the graph of  $r$ has the \textit{horizontal} asymptote $y = 3$,Theorem \ref{ha} tells us two  things:  first,  degree of $q$ must match the degree of $p$; second, the ratio $\frac{a}{b} = 3$.   Hence, the degree of $q$ is $1$ so that: 
 
 \[ \begin{array}{rcl}
 
@@ -656,7 +656,7 @@ Now it is time to find a formula for $F(x)$.  The graphs of $r$ and $F$ look ide
 F(x) & = &  r(x) \cdot \dfrac{\left(x - \frac{5}{3} \right)}{\left(x - \frac{5}{3} \right)} & \\
        & = &  \dfrac{3x-5}{x-1} \cdot \dfrac{\left(x - \frac{5}{3} \right)}{\left(x - \frac{5}{3} \right)} & \\
        & = & \dfrac{3x^2-10x+\frac{25}{3}}{x^2 - \frac{8}{3} x + \frac{5}{3}} & \text{expand}\\
-       & = & \dfrac{9x^2-30x+25}{3x^2-8x+5} & \text{multiply by $1 = \frac{3}{3}$ to reduce complex fractions.}\\ \end{array} \]
+       & = & \dfrac{9x^2-30x+25}{3x^2-8x+5} & \text{multiply by $1 = \frac{3}{3}$ to reduce the complex fraction.}\\ \end{array} \]
 
 Again, we can check our answer by applying the six step method to this function or, for a quick verification, we can use a graphing utility.\footnote{Be warned, however, a graphing utility may not show the hole at  $\left(\frac{5}{3}, 0 \right)$.} \qed
  

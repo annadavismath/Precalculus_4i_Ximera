@@ -173,26 +173,26 @@
 \indexentry{hole ! location of|hyperpage}{228}
 \indexentry{asymptote ! vertical ! location of|hyperpage}{228}
 \indexentry{vertical asymptote ! location of|hyperpage}{228}
-\indexentry{asymptote ! horizontal ! location of|hyperpage}{232}
-\indexentry{horizontal asymptote ! location of|hyperpage}{232}
-\indexentry{asymptote ! slant (oblique)|hyperpage}{235}
-\indexentry{slant asymptote|hyperpage}{235}
-\indexentry{oblique asymptote|hyperpage}{235}
-\indexentry{asymptote ! slant ! formal definition of|hyperpage}{235}
-\indexentry{slant asymptote ! formal definition of|hyperpage}{235}
-\indexentry{asymptote ! slant ! formal definition of|hyperpage}{235}
-\indexentry{slant asymptote ! formal definition of|hyperpage}{235}
-\indexentry{asymptote ! slant ! determination of|hyperpage}{236}
-\indexentry{slant asymptote ! determination of|hyperpage}{236}
-\indexentry{average cost|hyperpage}{238}
-\indexentry{cost ! average|hyperpage}{238}
-\indexentry{average profit|hyperpage}{238}
-\indexentry{profit ! average|hyperpage}{238}
-\indexentry{Learning Curve Equation|hyperpage}{244}
-\indexentry{Thurstone, Louis Leon|hyperpage}{244}
-\indexentry{sign diagram ! rational function|hyperpage}{252}
-\indexentry{interrobang|hyperpage}{252}
-\indexentry{graph ! rational function|hyperpage}{253}
+\indexentry{asymptote ! horizontal ! location of|hyperpage}{233}
+\indexentry{horizontal asymptote ! location of|hyperpage}{233}
+\indexentry{asymptote ! slant (oblique)|hyperpage}{236}
+\indexentry{slant asymptote|hyperpage}{236}
+\indexentry{oblique asymptote|hyperpage}{236}
+\indexentry{asymptote ! slant ! formal definition of|hyperpage}{236}
+\indexentry{slant asymptote ! formal definition of|hyperpage}{236}
+\indexentry{asymptote ! slant ! formal definition of|hyperpage}{236}
+\indexentry{slant asymptote ! formal definition of|hyperpage}{236}
+\indexentry{asymptote ! slant ! determination of|hyperpage}{237}
+\indexentry{slant asymptote ! determination of|hyperpage}{237}
+\indexentry{average cost|hyperpage}{239}
+\indexentry{cost ! average|hyperpage}{239}
+\indexentry{average profit|hyperpage}{239}
+\indexentry{profit ! average|hyperpage}{239}
+\indexentry{Learning Curve Equation|hyperpage}{245}
+\indexentry{Thurstone, Louis Leon|hyperpage}{245}
+\indexentry{sign diagram ! rational function|hyperpage}{253}
+\indexentry{interrobang|hyperpage}{253}
+\indexentry{graph ! rational function|hyperpage}{254}
 \indexentry{$n$th root function|hyperpage}{289}
 \indexentry{function, $n$th root|hyperpage}{289}
 \indexentry{power function|hyperpage}{309}
@@ -283,6 +283,7 @@
 \indexentry{tangent line|hyperpage}{521}
 \indexentry{line ! tangent|hyperpage}{521}
 \indexentry{local linearity|hyperpage}{521}
+\indexentry{differentiability|hyperpage}{521}
 \indexentry{secant line|hyperpage}{522}
 \indexentry{difference quotient|hyperpage}{523}
 \indexentry{instantaneous rate of change|hyperpage}{523}

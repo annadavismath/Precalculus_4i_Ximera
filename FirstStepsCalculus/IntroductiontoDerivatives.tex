@@ -14,7 +14,7 @@ We begin this section by revisiting (again!) the notion of \textbf{average veloc
 
 \medskip
 
-In this scenario,  the \index{function ! position}\index{position function}position function function\footnote{So named because $s(t)$   provides information about \textbf{where} the rocket is at time $t$.} $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ gives the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  The average rate of change of $s$ over an interval is the \index{velocity ! average}\index{average veocity}\textbf{average velocity} of the rocket over that interval.  The average velocity provides two pieces of information:  the average speed of the rocket along with the rocket's direction.   We formalized the average velocity in Definition \ref{averagevelocitydefn} in Section \ref{IntroRational}:
+In this scenario,  the \index{function ! position}\index{position function}position  function\footnote{So named because $s(t)$   provides information about \textbf{where} the rocket is at time $t$.} $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ gives the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  The average rate of change of $s$ over an interval is the \index{velocity ! average}\index{average veocity}\textbf{average velocity} of the rocket over that interval.  The average velocity provides two pieces of information:  the average speed of the rocket along with the rocket's direction.   We formalized the average velocity in Definition \ref{averagevelocitydefn} in Section \ref{IntroRational}:
 
 \medskip
 
@@ -94,7 +94,7 @@ In addition to $\Delta t \neq 0$,  the domain of $s$ is restricted to $0 \leq t 
 
 
 
-Recall from Example \ref{averagevelocityrocketex} that the limit value here, $-50$  is the so-called \textit{instantaneous velocity} of the rocket \textit{at} $t=15$ seconds.  That is, $15$ seconds after lift-off, the rocket is heading back towards the surface of the moon at a rate of $15$ feet per second. 
+Recall from Example \ref{averagevelocityrocketex} that the limit value here, $-50$  is the so-called \textit{instantaneous velocity} of the rocket \textit{at} $t=15$ seconds.  That is, $15$ seconds after lift-off, the rocket is heading back towards the surface of the moon at a rate of $50$ feet per second. 
 
 
 
@@ -170,7 +170,7 @@ Below is a sequence of secant lines along with the graph of $y = s(t)$.  In each
  \end{center}
  To find the equation of the tangent line in this case, which we'll call $L(t)$,  we refer to the point-slope form of a line, Equation \ref{linearfunctionpointslope}:  \[ L(t) = s\left(t_{0} \right)+ m \left(t-t_{0} \right) = s(15) + v(15)(t-15) = 375 - 50(t-15) = -50t+1125.\]
  
-The tangent line can best be thought of as `the best linear approximation' to the graph of $y = s(t)$ at $(15,375)$.  That is, if we zoom in near $(15,375)$, the graph of $y = s(t)$ and this tangent line become indistinguishable.  This property of $y = s(t)$ is called \index{local linearity}\textbf{local linearity} and is foundational to the analysis of functions.   Below we graph $y = s(t) =  -5t^2+100t$ along with $y = L(t) = -50t + 1125$ and observe the local linearity near $(15, 375)$. 
+The tangent line can best be thought of as `the best linear approximation' to the graph of $y = s(t)$ at $(15,375)$.  That is, if we zoom in near $(15,375)$, the graph of $y = s(t)$ and this tangent line become indistinguishable.  This geometric property of $y = s(t)$ is called \index{local linearity}\textbf{local linearity}\footnote{a.k.a. \index{differentiability}\textbf{differentiability}} and is foundational to the analysis of functions.   Below we graph $y = s(t) =  -5t^2+100t$ along with $y = L(t) = -50t + 1125$ and observe the local linearity near $(15, 375)$. 
   
   \medskip
 
@@ -201,7 +201,7 @@ Geometrically, the average rate of change is the slope of the so-called \index{s
 \includegraphics[width=4in]{./IntroductiontoDerivativesGraphics/SecantLine.png}
 \end{center}
 
-Consider a function $f$ defined over an interval containing $x$ and $x+h$ where $h \neq 0$. The average rate of change of $f$ over the interval $[x,x+h]$ is thus given by the formula:\footnote{assuming $h>0$;  otherwise, we  the interval is $[x+h, x]$.  We get the same formula for the difference quotient either way.}
+Consider a function $f$ defined over an interval containing $x$ and $x+h$ where $h \neq 0$. The average rate of change of $f$ over the interval $[x,x+h]$ is thus given by the formula:\footnote{assuming $h>0$;  otherwise,  the interval is $[x+h, x]$.  We get the same formula for the difference quotient either way.}
 
 \[ \dfrac{\Delta[f(x)]}{\Delta x} = \dfrac{f(x+h)-f(x)}{h}, \quad h \neq 0.\]
 
@@ -220,14 +220,14 @@ Note that, regardless of which form the difference quotient takes, when $h$,  $\
 
 \medskip
 
-In Section \ref{avginstantvelocity}, taking the limit of average velocity as $\Delta t \rightarrow 0$  produced instantaneous velocity.  More generally, taking the limit of the average rate of change  as the denominator approaches $0$ produces the \index{instantaneous rate of change}\index{rate of change ! instantaneous}\textbf{instantaneous rate of change} of the function at that point.   The instantaneous rate of change of a function is called the \index{derivative}\textbf{derivative} of the function is defined below.
+In Section \ref{avginstantvelocity}, taking the limit of average velocity as $\Delta t \rightarrow 0$  produced instantaneous velocity.  More generally, taking the limit of the average rate of change  as the denominator approaches $0$ produces the \index{instantaneous rate of change}\index{rate of change ! instantaneous}\textbf{instantaneous rate of change} of the function at that point.   The instantaneous rate of change of a function, called the \index{derivative}\textbf{derivative} of the function, is defined below.
 
 \medskip
 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{derivativedefn} Given a function $f$ defined on an open interval containing $x=a$, the \textbf{derivative} of $f$ at $a$, denoted $f'(a)$ is defined as
+\begin{defn} \label{derivativedefn} Given a function $f$ defined on an open interval containing $x=a$, the \textbf{derivative} of $f$ at $a$, denoted $f'(a)$, is defined as
 
 \[ f'(a) = \lim_{h \rightarrow 0} \dfrac{f(a+h) - f(a)}{h}, \quad \text{provided this limit exists.} \]
 
@@ -243,7 +243,7 @@ Using the language of derivatives, Examples \ref{averagevelocityrocketex}  and \
 
 \medskip
 
-As in Section \ref{avginstantvelocity},  $f'(a)$ represents the slope of the tangent line at the point $(a, f'(a))$.  We use this to formally define the \index{tangent line}\index{line ! tangent}\textbf{tangent line} below.
+As in Section \ref{avginstantvelocity},  $f'(a)$ represents the slope of the tangent line at the point $(a, f(a))$.  We use this to formally define the \index{tangent line}\index{line ! tangent}\textbf{tangent line} below.
 
 \medskip
 
@@ -278,7 +278,7 @@ We put these definitions to good use in the following example.
 
 {\bf Solution.}  \begin{enumerate} \item We first find $m_{\text{tan}} = f'(-2)$ using Definition \ref{derivativedefn} with $a = -2$:  $ f'(-2) = \ds{\lim_{h \rightarrow 0} \dfrac{f(-2+h) - f(-2)}{h}}$. 
 
-First we find $f(-2+h)$ and are  careful to apply the exponent in the expression $-(-2+h)^2$ first:
+First we find $f(-2+h)$ and are  careful to apply the exponent in the expression $-(-2+h)^2$:
 
 \[ \begin{array}{rclr}  
   f(-2+h) & = & -(-2+h)^2 +3(-2+h) -1 & \\ 
@@ -303,7 +303,7 @@ Finally, we get $ f'(-2) = \ds{\lim_{h \rightarrow 0} \dfrac{f(-2+h) - f(-2)}{h}
 
 \bigskip
 
-Hence, the slope of the tangent line is $m_{\text{tan}} = f'(-2) = 7$.  Hence, the equation of the tangent line is: 
+Hence, the slope of the tangent line is $m_{\text{tan}} = f'(-2) = 7$.  The equation of the tangent line is: 
 
 \[ \begin{array}{rclr}  
  y & = & f'(-2)(x - (-2)) + f(-2) & \\ 
@@ -340,7 +340,7 @@ What if we wanted to find the equation of the tangent line to the graph of the f
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{derivativefcndefn} Given a function $f$ defined on an open interval, the \textbf{derivative} of $f$, denoted  $f'(x)$ is the function
+\begin{defn} \label{derivativefcndefn} Given a function $f$ defined on an open interval, the \textbf{derivative} of $f$, denoted  $f'(x)$, is the function
 
 \[ f'(x) = \lim_{h \rightarrow 0} \dfrac{f(x+h) - f(x)}{h}, \quad \text{provided the limit exists.}\]
 
@@ -375,7 +375,7 @@ It is worth noting that if we set $h = \Delta x$, and consider the graph $y = f(
 
 \begin{enumerate}
 
-\item  We start finding $f'(x) = \ds{ \lim_{h \rightarrow 0} \dfrac{f(x+h) - f(x)}{h}}$ by first finding $f(x+h)$:
+\item  To find  $f'(x) = \ds{ \lim_{h \rightarrow 0} \dfrac{f(x+h) - f(x)}{h}}$ we  first find $f(x+h)$:
 
 \[ \begin{array}{rclr}  
   f(x+h) & = & -(x+h)^2 +3(x+h) -1 & \\ 
@@ -661,7 +661,7 @@ Hence, \[ r'(9) = \lim_{h \rightarrow 0} \frac{1}{\sqrt{9+h} +3} = \frac{1}{\sqr
 
  \end{center}
 
-\item As one might expect, we use this same strategy of rationalizing numerators to simplify the difference quotient to find $r'(t)$:
+\item As one might expect, we use this same strategy of rationalizing the numerator to simplify the difference quotient to find $r'(t)$:
 
 \[ \begin{array}{rcll}  
 

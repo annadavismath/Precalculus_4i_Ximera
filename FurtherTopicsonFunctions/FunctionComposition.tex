@@ -572,7 +572,7 @@ Since $F$ takes the square root of $\frac{g(x)}{h(x)}$, the our last function $f
 
 We close this section of a real-world application of function composition.
 
-\begin{ex}\label{surfaceareaex1}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.    Suppose a spherical balloon being inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm).  Find and interpret $(S \circ r)(t)$.
+\begin{ex}\label{surfaceareaex1}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.    Suppose a spherical balloon is inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm).  Find and interpret $(S \circ r)(t)$.
 
 \medskip
 
@@ -596,7 +596,7 @@ In Section \ref{rocarithmetic}, we studied the difference operator, $\Delta$ and
 
 \medskip
 
-\begin{ex}\label{surfaceareaex2chainrule}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.  Suppose a spherical balloon being inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm). 
+\begin{ex}\label{surfaceareaex2chainrule}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.  Suppose a spherical balloon is inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm). 
 
 \begin{enumerate}
 
@@ -649,11 +649,11 @@ $ \dfrac{\Delta[r(t)]}{\Delta t}$ & $=$ & $\dfrac{r(t+ \Delta t) - r(t)}{\Delta 
                                      & $=$ &   $\dfrac{ 2 \cancel{\Delta t} }{\cancelto{1}{(\Delta t)}}$ \\[10pt]
                          &$=$ &    $2$ \\ \end{longtable}
                          
-The fact that the average rate of change here is constant shouldn't be too surprising.  $r(t) = 2t$ is a linear function whose slope, $2$ is the constant rate of change.\footnote{We could probably have lead with that and avoided some tedious computations \ldots}  This means that the radius of the balloon is increasing at a constant rate of $2$ $\frac{\text{cm}}{\text{min}}$.
+The fact that the average rate of change here is constant shouldn't be too surprising.  Note $r(t) = 2t$ is a linear function with slope $2$.  Hence, `$2$' is the (constant) rate of change of $r$.\footnote{We could probably have lead with that and avoided some tedious computations \ldots}  This means that the radius of the balloon is increasing at a constant rate of $2$ $\frac{\text{cm}}{\text{min}}$.
 
 
                          
-\item  To find  $\dfrac{\Delta[S(t)]}{\Delta t} = \dfrac{S(t+ \Delta t) - S(r)}{\Delta t}$, we start with our answer from Example \ref{surfaceareaex1}:  $S(t) =  16 \pi t^{2}$ :
+\item  To find  $\dfrac{\Delta[S(t)]}{\Delta t} = \dfrac{S(t+ \Delta t) - S(t)}{\Delta t}$, we start with our answer from Example \ref{surfaceareaex1}:  $S(t) =  16 \pi t^{2}$ :
 
 \begin{longtable}{rcl}
 
@@ -714,7 +714,7 @@ Let $f$ and $u$ be functions where $u$ is defined over an interval containing $x
 
 \medskip
 
-If we think of $u$ as being an `intermediary' variable, Theorem \ref{relatedratesaroc} allows us to determine the rate of change of $f$ with respect to $x$ by multiplying the rate of change of $f$ with respect to this `intermediary' $u$ by the rate of change of the `intermediary' $u$ with respect to $x$.   That is, we are looking for rate  information on how $f$ depends on $x$ by decomposing the rates into two rates as visualized below.
+If we think of $u$ as being an `intermediary' variable, Theorem \ref{relatedratesaroc} allows us to determine the rate of change of $f$ with respect to $x$ by multiplying the rate of change of $f$ with respect to this `intermediary' $u$ by the rate of change of the `intermediary' $u$ with respect to $x$.   That is, we are looking for rate  information on how $f$ depends on $x$ by decomposing the rate into two rates as visualized below.
 
 \begin{center}
 
@@ -752,7 +752,7 @@ We are told that the speed is increasing at a constant rate of $9.8$ meters per 
 
 \medskip
 
-To $\frac{\Delta[F(v)]}{\Delta v}$ as the speed changes from $5$ $\frac{\text{m}}{\text{s}}$ to $6$ $\frac{\text{m}}{\text{s}}$, we calculate:
+To find $\frac{\Delta[F(v)]}{\Delta v}$ as the speed changes from $5$ $\frac{\text{m}}{\text{s}}$ to $6$ $\frac{\text{m}}{\text{s}}$, we calculate:
 
 \[ \dfrac{\Delta[F(v)]}{\Delta v} = \dfrac{F(6) - F(5)}{6-5} = \dfrac{0.6 (6)^2 - 0.6 (5)^2}{1} = 6.6.\]
 
@@ -765,7 +765,7 @@ The force is increasing at an average rate of $64.68$ Newtons per second.  \qed
 
 \end{ex}
 
-Note that we never needed to know explicitly how the speed, $v$ directly depended on time in order to answer the question posed in Example \ref{dragforceex}. All we needed was the rate.  
+Note that we never needed to know explicitly how the speed, $v$, directly depended on time in order to answer the question posed in Example \ref{dragforceex}. All we needed was the rate.  
 
 \newpage
 
