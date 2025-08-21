@@ -15,27 +15,69 @@ Even though we didn't introduce the limit concept or notation until Chapter \ref
 
 \begin{center}
 
-\begin{mfpic}[15]{-5}{5}{-5}{5}
-\axes
-\tlabel[cc](5,-0.5){\scriptsize $v$}
-\tlabel[cc](0.5,5){\scriptsize $w$}
-\tlabel[cc](2.5,-0.5){\scriptsize $(2,0)$}
-\tlabel[cc](-3,-0.5){\scriptsize $(-2,0)$}
-\tlabel[cc](1,-4.25){\scriptsize $(0,-4)$}
-\tlabel[cc](2,-3.25){\scriptsize $(1,-3)$}
-\xmarks{-4 step 1 until 4 }
-\ymarks{-4 step 1 until 4}
-\tlpointsep{5pt}
-\scriptsize
-\axislabels {x}{{$-1 \hspace{7pt}$} -1, {$1$} 1, {$4$} 4}
-\axislabels {y}{{$-3$} -3,{$-2$} -2,  {$-1$} -1, {$1$} 1, {$2$} 2, {$3$} 3, {$4$} 4}
-\normalsize
-\penwd{1.25pt}
-\arrow \function{-2,3,0.1}{x**2-4}
-\point[4pt]{(-2,0), (0,-4), (2,0)}
-\pointfillfalse
-\point[4pt]{(1,-3)}
-\end{mfpic} 
+\begin{tikzpicture}[scale=0.8]
+  % Axes
+  \draw[->] (-5,0) -- (5.2,0) node[below right] {\scriptsize $v$};
+  \draw[->] (0,-5) -- (0,5.2) node[above right] {\scriptsize $w$};
+
+  % Axis ticks
+  \foreach \x in {-4,-3,-2,-1,1,2,3,4}
+    \draw (\x,0.1) -- (\x,-0.1);
+  \foreach \y in {-4,-3,-2,-1,1,2,3,4}
+    \draw (0.1,\y) -- (-0.1,\y);
+
+  % Custom x-axis labels
+  \node[below] at (-1,0) {\scriptsize $-1$};
+  \node[below] at (1,0)  {\scriptsize $1$};
+  \node[below] at (4,0)  {\scriptsize $4$};
+
+  % Custom y-axis labels
+  \node[left] at (0,-3) {\scriptsize $-3$};
+  \node[left] at (0,-2) {\scriptsize $-2$};
+  \node[left] at (0,-1) {\scriptsize $-1$};
+  \node[left] at (0,1)  {\scriptsize $1$};
+  \node[left] at (0,2)  {\scriptsize $2$};
+  \node[left] at (0,3)  {\scriptsize $3$};
+  \node[left] at (0,4)  {\scriptsize $4$};
+
+  % Labels for specific points
+  \node[below] at (2,0) {\scriptsize $(2,0)$};
+  \node[below] at (-2,0) {\scriptsize $(-2,0)$};
+  \node[below] at (0,-4) {\scriptsize $(0,-4)$};
+  \node[below right] at (1,-3) {\scriptsize $(1,-3)$};
+
+  % Function plot: w = v^2 - 4
+  \draw[thick,domain=-2:3,samples=100] plot (\x,{\x*\x-4});
+
+  % Points
+  \filldraw ( -2, 0) circle (2pt);
+  \filldraw (  0,-4) circle (2pt);
+  \filldraw (  2, 0) circle (2pt);
+
+  \draw (1,-3) circle (2pt); % unfilled point
+\end{tikzpicture}
+
+% \begin{mfpic}[15]{-5}{5}{-5}{5}
+% \axes
+% \tlabel[cc](5,-0.5){\scriptsize $v$}
+% \tlabel[cc](0.5,5){\scriptsize $w$}
+% \tlabel[cc](2.5,-0.5){\scriptsize $(2,0)$}
+% \tlabel[cc](-3,-0.5){\scriptsize $(-2,0)$}
+% \tlabel[cc](1,-4.25){\scriptsize $(0,-4)$}
+% \tlabel[cc](2,-3.25){\scriptsize $(1,-3)$}
+% \xmarks{-4 step 1 until 4 }
+% \ymarks{-4 step 1 until 4}
+% \tlpointsep{5pt}
+% \scriptsize
+% \axislabels {x}{{$-1 \hspace{7pt}$} -1, {$1$} 1, {$4$} 4}
+% \axislabels {y}{{$-3$} -3,{$-2$} -2,  {$-1$} -1, {$1$} 1, {$2$} 2, {$3$} 3, {$4$} 4}
+% \normalsize
+% \penwd{1.25pt}
+% \arrow \function{-2,3,0.1}{x**2-4}
+% \point[4pt]{(-2,0), (0,-4), (2,0)}
+% \pointfillfalse
+% \point[4pt]{(1,-3)}
+% \end{mfpic} 
 
 \end{center}
 
