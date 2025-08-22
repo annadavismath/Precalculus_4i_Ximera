@@ -66,7 +66,7 @@ The main idea to get from the diagram is that $g$ takes the outputs from $f$ and
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{inversefunctiondefn} Suppose $f$ and $g$ are two functions such that
+\begin{definition} \label{inversefunctiondefn} Suppose $f$ and $g$ are two functions such that
 
 \begin{enumerate}
 
@@ -80,7 +80,7 @@ The main idea to get from the diagram is that $g$ takes the outputs from $f$ and
 
 then $f$ and $g$ are \index{function ! inverse ! definition of}\index{inverse ! of a function ! definition of}\textbf{inverses} of each other and the functions $f$ and $g$ are said to be \textbf{invertible}. \index{invertible ! function}
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -104,7 +104,7 @@ We summarize the important properties of invertible functions in the following t
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}\textbf{Properties of Inverse Functions:} \label{inversefunctionprops} Suppose $f$ is an invertible function. \index{inverse ! of a function ! properties of} \index{function ! inverse ! properties of}
+\begin{theorem}\textbf{Properties of Inverse Functions:} \label{inversefunctionprops} Suppose $f$ is an invertible function. \index{inverse ! of a function ! properties of} \index{function ! inverse ! properties of}
 
 \begin{itemize}
 
@@ -126,7 +126,7 @@ We summarize the important properties of invertible functions in the following t
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -183,7 +183,7 @@ Graphs of inverse functions $y = f(x) =3x+4 $ and $y =  f^{-1}(x) =  \dfrac{x-4}
 
 \end{center}
 
-\begin{ex}  \label{inverseverifyex}  For each pair of functions $f$ and $g$ below:
+\begin{example}  \label{inverseverifyex}  For each pair of functions $f$ and $g$ below:
 
 \begin{enumerate}
 
@@ -479,7 +479,7 @@ To check, we find $f\left(-\frac{5}{3} \right) = \left(-\frac{10}{3}\right) / \l
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 We now investigate under what circumstances a function is invertible. As a way to motivate the discussion, we consider  $f(x) = x^2$.  A likely candidate for the inverse is the function $g(x) = \sqrt{x}$.  However,  $(g\circ f)(x) = g(f(x)) = \sqrt{x^2} = |x|$, which is not equal to $x$ unless $x \geq 0$.  
 
@@ -519,9 +519,9 @@ In general, in order for a function to be invertible, each output can come from 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{onetoone} \index{one-to-one function}\index{function ! one-to-one} A function $f$ is said to be \index{function ! one-to-one} \textbf{one-to-one} if whenever $f(a) = f(b)$, then $a=b$. 
+\begin{definition} \label{onetoone} \index{one-to-one function}\index{function ! one-to-one} A function $f$ is said to be \index{function ! one-to-one} \textbf{one-to-one} if whenever $f(a) = f(b)$, then $a=b$. 
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -603,7 +603,7 @@ So, to review, $f(x) = x^2$ is not invertible, not one-to-one, and its graph fai
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{inversefunctionequivalency} \textbf{Equivalent Conditions for Invertibility:}  \index{invertibility ! function}
+\begin{theorem} \label{inversefunctionequivalency} \textbf{Equivalent Conditions for Invertibility:}  \index{invertibility ! function}
  
 For a function $f$, either all of the following statements are true or none of them are:
 
@@ -617,7 +617,7 @@ For a function $f$, either all of the following statements are true or none of t
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 To prove Theorem \ref{inversefunctionequivalency}, we first suppose $f$ is invertible.  Then there is a function $g$ so that $g(f(x)) = x$ for all $x$ in the domain of $f$.    If $f(a) = f(b)$, then $g(f(a)) = g(f(b))$.  Since $g(f(x)) = x$, the equation $g(f(a)) = g(f(b))$ reduces to $a = b$. We've shown that if $f(a) = f(b)$, then $a = b$, proving $f$ is one-to-one.
@@ -640,7 +640,7 @@ We put this result to work in the next example.
 
 \smallskip
 
-\begin{ex}  \label{inversefunctiononetooneex} Determine if the following functions are one-to-one: (a) analytically using Definition \ref{onetoone} and (b) graphically using the Horizontal Line Test.  For the functions that are one-to-one, graph the inverse.
+\begin{example}  \label{inversefunctiononetooneex} Determine if the following functions are one-to-one: (a) analytically using Definition \ref{onetoone} and (b) graphically using the Horizontal Line Test.  For the functions that are one-to-one, graph the inverse.
 
 \begin{multicols}{2}
 \begin{enumerate}
@@ -929,7 +929,7 @@ We are given  $G = \{ (t^3+1, 2t) \, | \, \text{$t$ is a real number.} \}$. and 
 
 \qed
 
-\end{ex}
+\end{example}
 
  In Example \ref{inversefunctiononetooneex}, we showed the functions $G$ and  $g$ are invertible and graphed their inverses.  While graphs are perfectly fine representations of functions, we have seen where they aren't the most accurate.  Ideally, we would like to represent $G^{-1}$ and $g^{-1}$ in the same manner in which $G$ and $g$ are presented to us.  The key to doing this is to recall that inverse functions take outputs back to their associated inputs.
  
@@ -1212,7 +1212,7 @@ Our next example continues the theme of restricting the domain of a function to 
 
 \smallskip
 
-\begin{ex} \label{inverserestrictionex} Graph the following functions to show they are one-to-one and find their inverses. Check your answers analytically using function composition and graphically.
+\begin{example} \label{inverserestrictionex} Graph the following functions to show they are one-to-one and find their inverses. Check your answers analytically using function composition and graphically.
 
 \begin{multicols}{2}
 
@@ -1456,13 +1456,13 @@ Graphically, everything checks out, provided that we remember the domain restric
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Our last example of the section gives an application of inverse functions.  Recall in Example \ref{PortaBoyDemand} in Section \ref{ConstantandLinearFunctions}, we modeled the demand for PortaBoy game systems as the price per system, $p(x)$ as a function of the number of systems sold, $x$.  In the following example, we find $p^{-1}(x)$ and interpret what it means.
 
 
 
-\begin{ex} \label{demandfunctionofprice} Recall the price-demand function for PortaBoy game systems is modeled by the formula $p(x) = -1.5x + 250$ for $0 \leq x \leq 166$  where $x$ represents the number of systems sold (the demand) and $p(x)$ is the price per system, in dollars.  
+\begin{example} \label{demandfunctionofprice} Recall the price-demand function for PortaBoy game systems is modeled by the formula $p(x) = -1.5x + 250$ for $0 \leq x \leq 166$  where $x$ represents the number of systems sold (the demand) and $p(x)$ is the price per system, in dollars.  
 
 \begin{enumerate}
 
@@ -1502,7 +1502,7 @@ Hence, weekly profit is maximized if we set the price at $\$165$ per system.  Co
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 \newpage
 

@@ -56,7 +56,7 @@ We could just as easily associate $z$ with a pair of \textit{polar} coordinates 
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{modulusargumentdefn} \textbf{The Modulus and Argument of Complex Numbers:} 
+\begin{definition} \label{modulusargumentdefn} \textbf{The Modulus and Argument of Complex Numbers:} 
 
  Let $z = a+bi$ be a complex number with $a = \text{Re}(z)$ and $b=\text{Im}(z)$.  Let $(r,\theta)$ be a polar representation of the point with rectangular coordinates $(a,b)$ where $r \geq 0$.
 
@@ -72,7 +72,7 @@ We could just as easily associate $z$ with a pair of \textit{polar} coordinates 
 
 \smallskip
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -101,7 +101,7 @@ The set $\text{arg}(z)$ of \text{all} arguments of $z$ can be described as $\tex
 If $z=0$ then the point in question is the origin, which we know can be represented in polar coordinates as $(0,\theta)$ for \textit{any} angle $\theta$. In this case, we have $\text{arg}(0) = (-\infty, \infty)$ and since there is no one value of $\theta$ which lies $(-\pi, \pi]$, we leave $\text{Arg}(0)$ undefined. It is time for an example.
 
 
-\begin{ex} \label{plotmodargex}  For each of the following complex numbers find $\text{Re}(z)$, $\text{Im}(z)$, $|z|$, $\text{arg}(z)$ and $\text{Arg}(z)$.  Plot each complex number $z$ in the complex plane.
+\begin{example} \label{plotmodargex}  For each of the following complex numbers find $\text{Re}(z)$, $\text{Im}(z)$, $|z|$, $\text{arg}(z)$ and $\text{Arg}(z)$.  Plot each complex number $z$ in the complex plane.
 
 \begin{multicols}{4}
 
@@ -189,7 +189,7 @@ Only one of these values, $\theta = \pi$, (just barely!) lies in the interval $(
 \end{enumerate}
 
 
-\end{ex}
+\end{example}
 
 Now that we've had practice computing the modulus of a complex number, we state some properties below.
 
@@ -197,7 +197,7 @@ Now that we've had practice computing the modulus of a complex number, we state 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{modprops} \textbf{Properties of the Modulus:}  Let $z$ and $w$ be complex numbers. \index{complex number ! modulus ! properties of} \index{modulus of a complex number ! properties of}
+\begin{theorem} \label{modprops} \textbf{Properties of the Modulus:}  Let $z$ and $w$ be complex numbers. \index{complex number ! modulus ! properties of} \index{modulus of a complex number ! properties of}
 
 \begin{itemize}
 
@@ -215,7 +215,7 @@ Now that we've had practice computing the modulus of a complex number, we state 
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -283,7 +283,7 @@ Next, we characterize the argument of a complex number in terms of its real and 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{argprops} \textbf{Properties of the Argument:}  Let $z$ be a complex number. \index{complex number ! argument ! properties of} \index{argument ! of a complex number ! properties of}
+\begin{theorem} \label{argprops} \textbf{Properties of the Argument:}  Let $z$ be a complex number. \index{complex number ! argument ! properties of} \index{argument ! of a complex number ! properties of}
  
 \begin{itemize}
 
@@ -299,7 +299,7 @@ Next, we characterize the argument of a complex number in terms of its real and 
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -354,13 +354,13 @@ We know from  Theorem \ref{polarrectangularconversion} that $a = r\cos(\theta)$ 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{polarformcomplex} \index{complex number ! polar form ! cis-notation} \index{polar form of a complex number} \textbf{A Polar Form of a Complex Number:} 
+\begin{definition} \label{polarformcomplex} \index{complex number ! polar form ! cis-notation} \index{polar form of a complex number} \textbf{A Polar Form of a Complex Number:} 
 
 Suppose $z$ is a complex number and $\theta \in \text{arg}(z)$.  The expression:  \[|z| \text{cis}(\theta) = |z|\left[ \cos(\theta) + i \sin(\theta)\right]\]
 
 is called a polar form for $z$.
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -368,7 +368,7 @@ is called a polar form for $z$.
 
 Since there are infinitely many choices for $\theta \in \text{arg}(z)$, there infinitely many polar forms for $z$, so we used the indefinite article `a' in Definition \ref{polarformcomplex}.  It is time for an example.
 
-\begin{ex} \label{polarcomplexex} $~$
+\begin{example} \label{polarcomplexex} $~$
 
 \begin{enumerate}
 
@@ -456,7 +456,7 @@ Head out $3$ units from $0$ along the positive real axis. Rotating $\frac{\pi}{2
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 The following theorem summarizes the advantages of working with complex numbers in polar form.
 
@@ -464,7 +464,7 @@ The following theorem summarizes the advantages of working with complex numbers 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{prodquotpolarcomplex} \textbf{Products, Powers and Quotients Complex Numbers in Polar Form:}  
+\begin{theorem} \label{prodquotpolarcomplex} \textbf{Products, Powers and Quotients Complex Numbers in Polar Form:}  
 
 Suppose $z$ and $w$ are complex numbers with polar forms $z = |z|\text{cis}(\alpha)$ and $w = |w|\text{cis}(\beta)$.  Then
 
@@ -478,7 +478,7 @@ Suppose $z$ and $w$ are complex numbers with polar forms $z = |z|\text{cis}(\alp
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -570,7 +570,7 @@ Putting it all together, we get
 and we are done.  The next example makes good use of Theorem \ref{prodquotpolarcomplex}.
 
 
-\begin{ex}  \label{polararithmeticex} Let $z = 2\sqrt{3} + 2i$ and $w = -1 + i\sqrt{3}$.  Use Theorem \ref{prodquotpolarcomplex} to find the following.
+\begin{example}  \label{polararithmeticex} Let $z = 2\sqrt{3} + 2i$ and $w = -1 + i\sqrt{3}$.  Use Theorem \ref{prodquotpolarcomplex} to find the following.
 
 \begin{multicols}{3}
 
@@ -626,7 +626,7 @@ Since $-\frac{\pi}{2}$ is a quadrantal angle, we can `see' the rectangular form 
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Some remarks are in order.  First, the reader may not be sold on using the polar form of complex numbers to multiply complex numbers -- especially if they aren't given in polar form to begin with. 
 
@@ -818,10 +818,10 @@ Our last goal of the section is to reverse DeMoivre's Theorem to extract roots o
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{nthrootcomplex} Let $z$ and $w$ be complex numbers.  If there is a natural number $n$ such that $w^{n} = z$, then $w$ is an \textbf{\boldmath $n^{\mbox{\textbf{\scriptsize th}}}$ root} of $z$. \index{$n^{\textrm{th}}$ root ! of a complex number} \index{complex number ! $n^{\textrm{th}}$ root} 
+\begin{definition} \label{nthrootcomplex} Let $z$ and $w$ be complex numbers.  If there is a natural number $n$ such that $w^{n} = z$, then $w$ is an \textbf{\boldmath $n^{\mbox{\textbf{\scriptsize th}}}$ root} of $z$. \index{$n^{\textrm{th}}$ root ! of a complex number} \index{complex number ! $n^{\textrm{th}}$ root} 
 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -874,7 +874,7 @@ If we start with a generic complex number in polar form $z = |z| \text{cis}(\the
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{nthrootscomplexthm} \textbf{The \boldmath $n^{\mbox{\textbf{\scriptsize th}}}$ roots of a Complex Number:}
+\begin{theorem} \label{nthrootscomplexthm} \textbf{The \boldmath $n^{\mbox{\textbf{\scriptsize th}}}$ roots of a Complex Number:}
 
  Let $z \neq 0$ be a complex number with polar form $z = r\text{cis}(\theta)$. For each natural number $n$, $z$ has $n$ distinct $n^{\text{th}}$ roots, which we denote by $w_{\text{\tiny$0$}}$, $w_{\text{\tiny$1$}}$, \ldots, $w_{\text{\tiny$n-1$}}$, and they are given by the formula \index{$n^{\textrm{th}}$ root ! of a complex number} \index{complex number ! $n^{\textrm{th}}$ root} 
 
@@ -882,7 +882,7 @@ If we start with a generic complex number in polar form $z = |z| \text{cis}(\the
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 The proof of Theorem \ref{nthrootscomplexthm} breaks into to two parts:  first, showing that each $w_{\text{\tiny$k$}}$ is an $n^{\text{th}}$ root, and second, showing that the set  $\left\{ w_{\text{\tiny$k$}} \, | \, k = 0, 1, \ldots, (n-1)\right\}$ consists of $n$ different  complex numbers. 
@@ -923,7 +923,7 @@ As a result, $w_{\text{\tiny$k$}}$ and $w_{\text{\tiny$j$}}$ are different compl
 
 We illustrate Theorem \ref{nthrootscomplexthm} in the next example.
 
-\begin{ex} \label{nthrootscomplexex}  Use Theorem \ref{nthrootscomplexthm} to find the following:
+\begin{example} \label{nthrootscomplexex}  Use Theorem \ref{nthrootscomplexthm} to find the following:
 
 \begin{enumerate}
 
@@ -975,7 +975,7 @@ Once agin, we can conveniently convert our answers to rectangular form. We get: 
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Having done some computations with Theorem \ref{nthrootscomplexthm},  it's time to  take a step back to look at things geometrically.  
 

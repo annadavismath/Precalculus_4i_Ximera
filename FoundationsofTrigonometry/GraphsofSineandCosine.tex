@@ -24,7 +24,7 @@ When it comes to range, recall that the sine and cosine of angles are coordinate
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{cosinesinefunctiondomainrange}  \textbf{Domain and Range of the Cosine and Sine Functions:} 
+\begin{theorem} \label{cosinesinefunctiondomainrange}  \textbf{Domain and Range of the Cosine and Sine Functions:} 
 
 \vspace{.2in}
 
@@ -36,7 +36,7 @@ When it comes to range, recall that the sine and cosine of angles are coordinate
 
 \end{tabular}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -110,9 +110,9 @@ Note that by copying  the highlighted portion of the graph and pasting it end-to
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{periodic} \textbf{Periodic Functions:} A function $f$ is said to be \textbf{periodic}\index{function ! periodic}\index{periodic function}  if there is a real number $c$ so that $f(t+c) = f(t)$ for all real numbers $t$ in the domain of $f$.  The smallest positive number $p$ for which $f(t+p) = f(t)$ for all real numbers $t$ in the domain of $f$, if it exists, is called the \textbf{period} of $f$. \index{period ! of a function}
+\begin{definition} \label{periodic} \textbf{Periodic Functions:} A function $f$ is said to be \textbf{periodic}\index{function ! periodic}\index{periodic function}  if there is a real number $c$ so that $f(t+c) = f(t)$ for all real numbers $t$ in the domain of $f$.  The smallest positive number $p$ for which $f(t+p) = f(t)$ for all real numbers $t$ in the domain of $f$, if it exists, is called the \textbf{period} of $f$. \index{period ! of a function}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -219,7 +219,7 @@ Lastly, the graphs of  $f(t) = \sin(t)$ and $g(t) = \cos(t)$ suggest each enjoy 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{cosinesinefunctionprops}  \textbf{Properties of the Cosine and Sine Functions} \index{cosine ! properties of} \index{sine ! properties of}
+\begin{theorem} \label{cosinesinefunctionprops}  \textbf{Properties of the Cosine and Sine Functions} \index{cosine ! properties of} \index{sine ! properties of}
 
 \vspace{.2in}
 
@@ -242,7 +242,7 @@ Lastly, the graphs of  $f(t) = \sin(t)$ and $g(t) = \cos(t)$ suggest each enjoy 
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -308,7 +308,7 @@ In working through Section \ref{Transformations} , it was very helpful to track 
 It is worth noting that because the transformations discussed in Section \ref{Transformations} are linear,\footnote{See the remarks at the beginning of Section \ref{Transformations}.}  the \textit{relative spacing} of the points before and after the transformations remains the same.\footnote{If we use a linear function $f(t) = mt + b$ to transform the inputs, $t$, then  $\Delta[f(t)] = m \Delta t$.  That is, the change \textit{after} the the transformation, $m \Delta t$, is just a multiple of the change \textit{before} the transformation, $\Delta t$.}  In particular, wherever the interval $[0, 2\pi]$ is mapped, the quarter marks of the new interval correspond to the quarter marks of $[0, 2\pi]$.  (Can you see why?) We will exploit this fact in the following example.
 
 
-\begin{ex}  \label{cosinesinegraphex1} Graph one cycle of the following functions. State the period of each.
+\begin{example}  \label{cosinesinegraphex1} Graph one cycle of the following functions. State the period of each.
 
 \begin{multicols}{2}
 
@@ -442,7 +442,7 @@ We find one cycle of $y=g(t)$ is completed over the interval $\left[ -\frac{\pi}
 
   \qed
 
-\end{ex}
+\end{example}
 
 As previously mentioned, the curves graphed in Example \ref{cosinesinegraphex1} are examples of sinusoids. A sinusoid is the result of taking the graph of $y = \sin(t)$ or $y  = \cos(t)$ and performing any of the transformations mentioned in Section \ref{Transformations}.  We graph one cycle of a generic sinusoid below.  Sinusoids can be characterized by four properties:  period, phase shift, vertical shift (or `baseline'), and amplitude.
 
@@ -512,7 +512,7 @@ The following theorem shows how these four fundamental quantities relate to the 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{sinusoidform} For $\omega > 0$, the graphs of \[S(t) = A \sin(\omega t + \phi) + B \quad \text{and} \quad C(t) = A \cos(\omega t + \phi) + B  \]
+\begin{theorem}  \label{sinusoidform} For $\omega > 0$, the graphs of \[S(t) = A \sin(\omega t + \phi) + B \quad \text{and} \quad C(t) = A \cos(\omega t + \phi) + B  \]
 
 \begin{multicols}{2}
 
@@ -534,7 +534,7 @@ The following theorem shows how these four fundamental quantities relate to the 
 
 \vspace{-.12in}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -565,7 +565,7 @@ We put Theorem \ref{sinusoidform} to good use in the next example.
 
 \smallskip
 
-\begin{ex}  \label{cosinesinegraphex2} Use Theorem \ref{sinusoidform} to determine the frequency,  period, phase shift,  amplitude, and vertical shift of each of the following functions and use this information to graph one cycle of each function. 
+\begin{example}  \label{cosinesinegraphex2} Use Theorem \ref{sinusoidform} to determine the frequency,  period, phase shift,  amplitude, and vertical shift of each of the following functions and use this information to graph one cycle of each function. 
 
 \begin{multicols}{2}
 
@@ -698,7 +698,7 @@ Again, we can quickly check the vertical shift by averaging the maximum and mini
 \qed
 
 
-\end{ex}
+\end{example}
 
 \phantomsection
 \label{phaseshiftissue} 
@@ -779,7 +779,7 @@ Comparing this result with the one obtained in Example \ref{cosinesinegraphex2} 
 
 In the next example,  we use Theorem \ref{sinusoidform} to determine the formula of a sinusoid given the graph of one cycle.  Note that in some disciplines, sinusoids are written in terms of sines whereas in others,   cosines functions are preferred.  To cover all bases,  we ask for both.
 
-\begin{ex} \label{fitsinusoidtodata1} Below is the graph of one complete cycle of a sinusoid $y=f(t)$.
+\begin{example} \label{fitsinusoidtodata1} Below is the graph of one complete cycle of a sinusoid $y=f(t)$.
 
 \begin{center}
 
@@ -878,7 +878,7 @@ To that end, we imagine extending the graph of the given sinusoid as in the figu
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Note that each of the answers given in Example \ref{fitsinusoidtodata1} is one choice out of many possible answers.  For example, when fitting a sine function to the data, we could have chosen to start at $\left(\frac{1}{2}, \frac{1}{2}\right)$ taking $A = -2$.  In this case, the phase shift is $\frac{1}{2}$ so  $\phi = -\frac{\pi}{6}$ for an answer of $f(t) = -2 \sin\left(\frac{\pi}{3} t - \frac{\pi}{6}\right) + \frac{1}{2}$.  The ultimate check of any solution is to graph the answer and check it matches the given data.
 \smallskip
@@ -888,7 +888,7 @@ Note that each of the answers given in Example \ref{fitsinusoidtodata1} is one c
 
 In the same way exponential functions can be used to model a wide variety of phenomena in nature,\footnote{See Section \ref{ExpLogApplications}.} the sine and cosine functions can be used to model their fair share of natural behaviors. Our first foray into sinusoidal motion revisits circular motion - in particular Equation \ref{equationsforcircularmotion} . 
 
-\begin{ex} \label{ycoordonwheel} Recall from Exercise \ref{giantwheelmotion} in Section \ref{RadianMeasure} that The Giant Wheel at Cedar Point is a circle with diameter 128 feet which sits on an 8 foot tall platform making its overall height 136 feet.   It completes two revolutions in 2 minutes and 7 seconds.  Assuming that the riders are at the edge of the circle, find a sinusoid which describes the height of the passengers above the ground  $t$ seconds after they pass the point on the wheel closest to the ground.
+\begin{example} \label{ycoordonwheel} Recall from Exercise \ref{giantwheelmotion} in Section \ref{RadianMeasure} that The Giant Wheel at Cedar Point is a circle with diameter 128 feet which sits on an 8 foot tall platform making its overall height 136 feet.   It completes two revolutions in 2 minutes and 7 seconds.  Assuming that the riders are at the edge of the circle, find a sinusoid which describes the height of the passengers above the ground  $t$ seconds after they pass the point on the wheel closest to the ground.
 
 {\bf Solution.}  We sketch the problem situation below and assume a counter-clockwise rotation.\footnote{Otherwise, we could just observe the motion of the wheel from the other side.} 
 
@@ -986,7 +986,7 @@ We can check the reasonableness of our answer by graphing $y = h(t)$ over the in
 
 \vspace{-.5in} \qed
 
-\end{ex}
+\end{example}
 
 A few remarks about Example \ref{ycoordonwheel} are in order.  First, note that the amplitude of $64$ in our answer corresponds to the radius of the Giant Wheel.  This means that passengers on the Giant Wheel never stray more than $64$ feet vertically from the center of the Wheel, which makes sense.  Second, the phase shift of our answer works out to be $\frac{\pi/2}{4\pi/127} = \frac{127}{8} = 15.875$.  This represents the `time delay' (in seconds) we introduce by starting the motion at the point $P$ as opposed to the point $Q$.  Said differently, passengers which `start' at $P$ take  $15.875$ seconds to `catch up' to the point $Q$.  
 
@@ -994,7 +994,7 @@ A few remarks about Example \ref{ycoordonwheel} are in order.  First, note that 
 
 Our next example revisits the daylight data first introduced in Section \ref{QuadraticFunctions}, Exercise \ref{regsunlight}.
 
-\begin{ex} \label{sinusoidsunlight} According to the \href{http://aa.usno.navy.mil/data/docs/RS_OneYear.php}{\underline{U.S. Naval Observatory}} website, the number of hours $H$ of daylight that Fairbanks, Alaska received on the 21st day of the $n$th month of 2009 is given below.  Here  $t = 1$ represents January 21, 2009, $t = 2$ represents February 21, 2009, and so on.  
+\begin{example} \label{sinusoidsunlight} According to the \href{http://aa.usno.navy.mil/data/docs/RS_OneYear.php}{\underline{U.S. Naval Observatory}} website, the number of hours $H$ of daylight that Fairbanks, Alaska received on the 21st day of the $n$th month of 2009 is given below.  Here  $t = 1$ represents January 21, 2009, $t = 2$ represents February 21, 2009, and so on.  
 
 \medskip
 
@@ -1125,7 +1125,7 @@ Plotting both solutions.
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 The scenario described in Example \ref{sinusoidsunlight} is a typical example of where the circular functions are useful outside the context of angles or circular motion.  Indeed, sine and cosine functions are used extensively to model a wide range of periodic phenomena including signal analysis, wave physics, and even quantum mechanics.  We close this section discussing limits involving sine and cosine. 
 
@@ -1139,7 +1139,7 @@ We've already stated as fact (but not proven) that $f(t) = \sin(t)$ and $g(t) = 
  
  \pagebreak
  
- \begin{ex}\label{sinusoidgraphs}  Investigate the following limits numerically, graphically, and analytically.
+ \begin{example}\label{sinusoidgraphs}  Investigate the following limits numerically, graphically, and analytically.
  
  \begin{multicols}{3}
  \begin{enumerate}
@@ -1200,7 +1200,7 @@ Indeed, we know  $F(t) = \sin \left( 10^{23} \, t\right)$ is continuous, so $\ds
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 

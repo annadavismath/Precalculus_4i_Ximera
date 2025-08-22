@@ -19,9 +19,9 @@ In Section \ref{FunctionArithmetic}, we saw how the arithmetic of real numbers c
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{functioncompositiondefn} Let $f$ and $g$ be functions where the real number $x$ is in the domain of $f$ and the real number $f(x)$ is in the domain of $g$.  The \index{function ! composite ! definition of}\index{composite function ! definition of}\textbf{composite} of $g$ with $f$, denoted $g \circ f$, and read `$g$ composed with $f$' is defined by the formula: $(g \circ f) (x) = g(f(x))$.
+\begin{definition} \label{functioncompositiondefn} Let $f$ and $g$ be functions where the real number $x$ is in the domain of $f$ and the real number $f(x)$ is in the domain of $g$.  The \index{function ! composite ! definition of}\index{composite function ! definition of}\textbf{composite} of $g$ with $f$, denoted $g \circ f$, and read `$g$ composed with $f$' is defined by the formula: $(g \circ f) (x) = g(f(x))$.
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -55,7 +55,7 @@ To compute $(g \circ f)(x) $, we use the formula given in  Defintion \ref{functi
 
 In the expression $g(f(x))$, the function $f$ is often called the `inside' function while $g$ is often called the `outside' function.  When evaluating  composite function values we present two methods in the example below:  the `inside out' and `outside in'  methods.  
 
-\begin{ex}  Let $f(x) = x^2-4x$, $g(t) = 2-\sqrt{t+3}$, and $h(s) = \dfrac{2s}{s+1}$.  
+\begin{example}  Let $f(x) = x^2-4x$, $g(t) = 2-\sqrt{t+3}$, and $h(s) = \dfrac{2s}{s+1}$.  
 
 In numbers \ref{fcexvalfirst} - \ref{fcexvallast}, find the indicated function value.
 
@@ -306,14 +306,14 @@ Since the domain of $f$ is all real numbers, the challenge here to find the doma
 \end{enumerate}
 
 \label{functioncompex1}
-\end{ex}
+\end{example}
 
 As previously mentioned, it should be clear from  Example \ref{functioncompex1} that, in general, $g \circ f \neq f \circ g$, in other words, function composition is not \textit{commutative}.  However, numbers \ref{hogoffirst} and  \ref{fcexformlast} demonstrate the \index{associative property ! for function composition} \textbf{associative} property of function composition.  That is, when composing three (or more) functions, as long as we keep the order the same, it doesn't matter which two functions we compose first.  We summarize the important properties of function composition in the theorem below.
 
 \medskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm}\label{functioncompprops}  \textbf{Properties of Function Composition:} Suppose $f$, $g$, and $h$ are functions. \index{function ! composite ! properties of} \index{composite function ! properties of}
+\begin{theorem}\label{functioncompprops}  \textbf{Properties of Function Composition:} Suppose $f$, $g$, and $h$ are functions. \index{function ! composite ! properties of} \index{composite function ! properties of}
 
 \begin{itemize}
 
@@ -323,7 +323,7 @@ As previously mentioned, it should be clear from  Example \ref{functioncompex1} 
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
@@ -332,7 +332,7 @@ By repeated applications of Definition \ref{functioncompositiondefn}, we find  $
 
 As we know, not all functions are described by formulas, and, moreover, not all functions are described by just \textit{one} formula.  The next example applies the concept of function composition to functions represented in various and sundry ways.
 
-\begin{ex} \label{functioncompotherreprensex}  Consider the following functions:
+\begin{example} \label{functioncompotherreprensex}  Consider the following functions:
 
 \begin{multicols}{2}
 \begin{itemize}
@@ -524,13 +524,13 @@ Since neither $6$ nor $5$ are in the domain of $s$, $-2$ and $1$ are not in the 
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 
 A useful skill in Calculus is to be able to take a complicated function and break it down into a composition of easier functions which our last example illustrates. As with Example \ref{funcarithdecompex}, we want to avoid trivial decompositions, which, when it comes to function composition, are those involving the identity function $I(x) = x$ as described in Theorem \ref{functioncompprops}.
 
-\begin{ex}  \label{funccompdecompex} $~$
+\begin{example}  \label{funccompdecompex} $~$
 
 \begin{enumerate}
 
@@ -575,17 +575,17 @@ Since $F$ takes the square root of $\frac{g(x)}{h(x)}$, the our last function $f
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 We close this section of a real-world application of function composition.
 
-\begin{ex}\label{surfaceareaex1}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.    Suppose a spherical balloon is inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm).  Find and interpret $(S \circ r)(t)$.
+\begin{example}\label{surfaceareaex1}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.    Suppose a spherical balloon is inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm).  Find and interpret $(S \circ r)(t)$.
 
 \medskip
 
 {\bf Solution.}  The function  $S(r)$ gives the surface area of the sphere and $r(t)$ gives the radius of the sphere at a given time.    Given a specific time, $t$, we find the radius at that time, $r(t)$ and feed that into $S(r)$ to find the surface area. Hence,  the surface area $S$ is ultimately a function of time $t$ and we find $(S \circ r)(t) = S(r(t)) = 4 \pi (r(t))^2 = 4 \pi \left(2t\right)^2 = 16 \pi t^{2}$.  This formula allows us to compute the surface area directly given the time without going through the `intermediary variable' $r$. \qed
 
-\end{ex}
+\end{example}
 
 \subsection{Related Rates}
 \label{RelatedRates}
@@ -603,7 +603,7 @@ In Section \ref{rocarithmetic}, we studied the difference operator, $\Delta$ and
 
 \medskip
 
-\begin{ex}\label{surfaceareaex2chainrule}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.  Suppose a spherical balloon is inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm). 
+\begin{example}\label{surfaceareaex2chainrule}  The surface area of a sphere is a function of its radius $r$ and is given by the formula $S(r) = 4 \pi r^2$.  Suppose a spherical balloon is inflated so that the radius of the sphere is increasing according to the formula $r(t) = 2t$, where $t$ is measured in minutes (min), $t \geq 0$, and $r$ is measured in centimeters (cm). 
 
 \begin{enumerate}
 
@@ -704,7 +704,7 @@ Moreover, we note that the time interval $\frac{1}{2} \leq t \leq \frac{3}{2}$ c
 \end{enumerate}
 
 
-\end{ex}
+\end{example}
 
 Example \ref{surfaceareaex2chainrule} verifies a property of rates we formalize below.
 
@@ -712,11 +712,11 @@ Example \ref{surfaceareaex2chainrule} verifies a property of rates we formalize 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}\label{relatedratesaroc} \textbf{Related Rates:} 
+\begin{theorem}\label{relatedratesaroc} \textbf{Related Rates:} 
 Let $f$ and $u$ be functions where $u$ is defined over an interval containing $x$ and $x+\Delta x$ and $f$ is defined over an interval containing $u(x)$ and $u(x + \Delta x)$.  Then:
 \[ \dfrac{ \Delta[f(x)]}{\Delta x} =  \dfrac{ \Delta[f(u)]}{\Delta u}  \cdot  \dfrac{ \Delta[u(x)]}{\Delta x}, \quad \Delta x \neq 0,  \Delta u  \neq 0. \]
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
@@ -750,7 +750,7 @@ If we think of $u$ as being an `intermediary' variable, Theorem \ref{relatedrate
 
 We close the section with one last example.
 
-\begin{ex}\label{dragforceex} The drag force $F$, in Newtons (N), of a perfectly fine OER Precalculus Textbook which has been discarded off of a cliff because it didn't have enough Calculus in it is given by:  $F(v) = 0.6 \, v^2$, where $v$ is the speed of the book as it hurtles towards the Earth. If the speed is increasing at a constant rate of $9.8$ meters per second per second, $\frac{\text{m/s}}{\text{s}}$, determine the rate of change of $F$ with respect to time as the speed changes from $5$ $\frac{\text{m}}{\text{s}}$ to $6$ $\frac{\text{m}}{\text{s}}$
+\begin{example}\label{dragforceex} The drag force $F$, in Newtons (N), of a perfectly fine OER Precalculus Textbook which has been discarded off of a cliff because it didn't have enough Calculus in it is given by:  $F(v) = 0.6 \, v^2$, where $v$ is the speed of the book as it hurtles towards the Earth. If the speed is increasing at a constant rate of $9.8$ meters per second per second, $\frac{\text{m/s}}{\text{s}}$, determine the rate of change of $F$ with respect to time as the speed changes from $5$ $\frac{\text{m}}{\text{s}}$ to $6$ $\frac{\text{m}}{\text{s}}$
 
 \medskip
 
@@ -770,7 +770,7 @@ Hence, \[ \dfrac{\Delta[F(t)]}{\Delta t} =  \dfrac{\Delta[F(v)]}{\Delta v} \cdot
 
 The force is increasing at an average rate of $64.68$ Newtons per second.  \qed
 
-\end{ex}
+\end{example}
 
 Note that we never needed to know explicitly how the speed, $v$, directly depended on time in order to answer the question posed in Example \ref{dragforceex}. All we needed was the rate.  
 

@@ -71,10 +71,10 @@ The point of this section is to generalize the technique applied here.  First up
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{polydivthm} \textbf{Polynomial Division:} 
+\begin{theorem} \label{polydivthm} \textbf{Polynomial Division:} 
 
 Suppose $d(x)$ and $p(x)$ are nonzero polynomial functions where the degree of $p$ is greater than or equal to the degree of $d$.  There exist two unique polynomial functions, $q(x)$ and $r(x)$, such that $p(x) = d(x) \, q(x) + r(x),\,$ where either $r(x) = 0$ or the degree of $r$ is strictly less than the degree of $d$.
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
@@ -85,10 +85,10 @@ As you may recall, all of the polynomials in Theorem \ref{polydivthm} have speci
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{remainderthm}\index{Remainder Theorem}\textbf{The Remainder Theorem:}  
+\begin{theorem} \label{remainderthm}\index{Remainder Theorem}\textbf{The Remainder Theorem:}  
 Suppose $p$ is a polynomial function of degree at least $1$ and $c$ is a real number.  When $p(x)$ is divided by $x-c$ the remainder is $p(c)$.  Said differently, there is a polynomial  function $q(x)$ such that:  \[ p(x) = (x-c) q(x) + p(c)\]
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
@@ -100,11 +100,11 @@ The proof of Theorem \ref{remainderthm} is a direct consequence of Theorem \ref{
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{factorthm}\index{Factor Theorem}\textbf{The Factor Theorem:}  
+\begin{theorem} \label{factorthm}\index{Factor Theorem}\textbf{The Factor Theorem:}  
 
 Suppose $p$ is a nonzero polynomial function.  The real number $c$ is a zero of $p$ if and only if $(x-c)$ is a factor of $p(x)$.  
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
@@ -395,7 +395,7 @@ Also take note that when a polynomial (of degree at least $1$) is divided by $x-
 
 \medskip
 
-\begin{ex}  Use synthetic division to perform the following polynomial divisions.  Identify the quotient and remainder. Write the dividend, quotient and remainder in the form given in Theorem \ref{polydivthm}.
+\begin{example}  Use synthetic division to perform the following polynomial divisions.  Identify the quotient and remainder. Write the dividend, quotient and remainder in the form given in Theorem \ref{polydivthm}.
 
 \begin{multicols}{3}
 \begin{enumerate}
@@ -465,11 +465,11 @@ Hence,  $-6z^2-4z+2 = \left(z-\frac{3}{2}\right)(-6 z - 13) - \frac{35}{2}$.  Ho
  But how can we be sure these are the same quotient and remainder polynomial functions we would have obtained if we had taken the time to do the long division in the first place?   Because of the word   `unique' in Theorem \ref{polydivthm}.  The theorem states that there is only \textbf{one} way to decompose $-12z^2-8z+4$ as $(2z-3)q(z) + r(z)$.  Since we have found such a way, we can be sure it is the only way.\footnote{But it wouldn't hurt to check, just this once.} \qed
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 The next example pulls together all of the concepts discussed in this section.  
 
-\begin{ex} Let $p(x) = 2x^3-5x+3$.
+\begin{example} Let $p(x) = 2x^3-5x+3$.
 
 \begin{enumerate}
 
@@ -505,11 +505,11 @@ According to the Remainder Theorem, $p(-2) = -3$.  We can check this by direct s
 
 As promised, our remainder is $0$, and we get  $p(x) = (x-1)\left( 2x^2 + 2x - 3\right)$.  Setting this form of $p(x)$ equal to  $0$ we get $(x-1)\left( 2x^2 + 2x - 3\right) = 0$.  We recover  $x = 1$ from setting $x-1=0$  but we also obtain $x = \frac{-1 \pm \sqrt{7}}{2}$ from  $2x^2 + 2x - 3=0$, courtesy of the Quadratic Formula.   \qed
 \end{enumerate}
-\end{ex}
+\end{example}
 
 Our next example demonstrates how we can extend the synthetic division tableau to accommodate zeros of multiplicity greater than $1$.
 
-\begin{ex}  Let $p(x) = 4x^4-4x^3-11x^2+12x-3$. Show $x=\frac{1}{2}$ is a zero of multiplicity $2$ and find all of the remaining real zeros of $p$.
+\begin{example}  Let $p(x) = 4x^4-4x^3-11x^2+12x-3$. Show $x=\frac{1}{2}$ is a zero of multiplicity $2$ and find all of the remaining real zeros of $p$.
 
 
 {\bf Solution.}  While computing $p\left(\frac{1}{2} \right) = 0$ shows $x=\frac{1}{2}$  is a zero of $p$, to prove it has multiplicity $2$, we need to factor $p(x) = \left(x - \frac{1}{2}\right)^2 q(x)$ with $q\left( \frac{1}{2} \right) \neq 0$,.   We set up for synthetic division, but instead of stopping after the first division, we continue the tableau downwards and divide $\left(x - \frac{1}{2}\right)$ directly into the quotient we obtained from the first division as follows:
@@ -531,7 +531,7 @@ Our next example demonstrates how we can extend the synthetic division tableau t
 
 We get:\footnote{For those wanting more detail:  the first division gives:  $4x^4-4x^3-11x^2+12x-3=\left(x-\frac{1}{2}\right) \left(4x^3-2x^2-12x+6\right)$.  The second division gives: $4x^3-2x^2-12x+6=\left(x-\frac{1}{2}\right)\left(4x^2-12\right)$.}   $4x^4-4x^3-11x^2+12x-3 = \left(x-\frac{1}{2}\right)^2\left(4x^2-12\right)$.  Note if we let $q(x) = 4x^2-12$, then $q\left(\frac{1}{2} \right) = 4\left(\frac{1}{2} \right)^2 - 12 = -11 \neq 0$  which proves $x = \frac{1}{2}$ is a zero of $p$ of multiplicity $2$.   To find the remaining zeros of $p$, we set the quotient $4x^2-12=0$, so $x^2 = 3$ and extract square roots to get $x = \pm \sqrt{3}$.  \qed
 
-\end{ex}
+\end{example}
 
 A couple of things about the last example are worth mentioning. First, the extension of the synthetic division tableau for repeated divisions will be a common site in the sections to come. Typically, we will start with a higher order polynomial and peel off one zero at a time until we are left with a quadratic, whose roots can always be found using the Quadratic Formula.  
 
@@ -574,11 +574,11 @@ We have shown that $p$ is a product of its leading coefficient times linear fact
 \medskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \label{nzerosreal} 
+\begin{theorem}  \label{nzerosreal} 
 
 Suppose $f$ is a polynomial of degree $n \geq 1$.  Then $f$ has at most $n$ real zeros, counting multiplicities.
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip

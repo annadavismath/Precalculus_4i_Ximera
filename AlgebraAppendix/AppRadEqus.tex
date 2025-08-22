@@ -19,7 +19,7 @@ In this section we review simplifying expressions and solving equations involvin
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}\label{simplifyradicals} \textbf{Simplifying $\text{n}^{\text{th}}$ powers of $\text{n}^{\text{th}}$ roots and $\text{n}^{\text{th}}$ roots of $\text{n}^{\text{th}}$ powers}:  Suppose $n$ is a natural number, $a$ is a real number and $\sqrt[n]{a}$ is a real number.  Then
+\begin{theorem}\label{simplifyradicals} \textbf{Simplifying $\text{n}^{\text{th}}$ powers of $\text{n}^{\text{th}}$ roots and $\text{n}^{\text{th}}$ roots of $\text{n}^{\text{th}}$ powers}:  Suppose $n$ is a natural number, $a$ is a real number and $\sqrt[n]{a}$ is a real number.  Then
 
 \begin{itemize}
 
@@ -29,7 +29,7 @@ In this section we review simplifying expressions and solving equations involvin
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm} 
 
@@ -45,7 +45,7 @@ In the first case,  $\sqrt[3]{(-2)^3} =\sqrt[3]{-8} = -2$, so we have an instanc
 
 In general, we need the absolute values to simplify $\sqrt[n]{a^{n}}$ only when $n$ is even because a negative to an even power is always positive.  In particular, $\sqrt{x^2} = |x|$, not just `$x$' (unless we \textit{know} $x \geq 0$.)\footnote{This discussion should sound familiar - see the discussion following Definition \ref{rationalexponentdefn} and the discussion following `Extracting the Square Root' on page \pageref{extractingthesquareroot}.}  We practice these formulas in the following example.
 
-\begin{ex}\label{simplifyradexpressions}  Perform the indicated operations and simplify.
+\begin{example}\label{simplifyradexpressions}  Perform the indicated operations and simplify.
 
 \begin{multicols}{4}
 
@@ -154,7 +154,7 @@ To see if this simplifies any further, we factor the radicand:  $\sqrt{2y+20} = 
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Theorem \ref{simplifyradicals} allows us to generalize the process of `Extracting Square Roots' to `Extracting $\text{n}^{\text{th}}$ Roots' which in turn allows us to solve equations\footnote{Well, not entirely.  The equation $x^{7} = 1$ has seven answers: $x = 1$ and six complex number solutions which we'll find using techniques in Section \ref{PolarComplex}.} of the form $X^n  = c$.
 
@@ -207,7 +207,7 @@ Essentially, we solve $X^{n} = c$ by `taking the $\text{n}^{\text{th}}$ root' of
 
 The note about `extraneous solutions' can be demonstrated by the basic equation: $\sqrt{x} = -2$.  This equation has no solution since, by definition, $\sqrt{x} \geq 0$ for all real numbers $x$.  However, if we square both sides of this equation, we get $(\sqrt{x})^2 = (-2)^2$ or $x = 4$.  However, $x = 4$ doesn't check in the original equation, since $\sqrt{4} = 2$, not $-2$.  Once again, the root\footnote{Pun intended!} of all of our problems lies in the fact that a \textit{negative} number to an \textit{even} power results in a \textit{positive} number. In other words, raising both sides of an equation to an even power does \textit{not} produce an equivalent equation, but rather, an equation which may possess \textit{more} solutions than the original.  Hence the cautionary remark above about extraneous solutions.
 
-\begin{ex}\label{radicaleqnreview}  Solve the following equations.
+\begin{example}\label{radicaleqnreview}  Solve the following equations.
 
 
 \begin{multicols}{3}
@@ -463,7 +463,7 @@ v & = & \dfrac{c\sqrt{m^2 -m_{\text{\tiny$0$}}^{2}}}{m} & \text{$c > 0$ and $m >
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 \subsection{Rationalizing Denominators and Numerators}
 \label{rationalizingdenomandnumer}
@@ -476,8 +476,8 @@ In general, if the fraction contains either a single term numerator or denominat
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}\label{squarerootconj} \textbf{Congugate of a Square Root Expression:}  If $a$, $b$ and $c$ are real numbers with $c > 0$ then the quantities $(a + b \sqrt{c})$ and $(a - b\sqrt{c})$ are \textbf{conjugates} of one another.\footnote{As are $(b\sqrt{c} -a)$ and $(b\sqrt{c} + a)$ because $(b\sqrt{c} -a)(b\sqrt{c} + a) = b^2c - a^2$.}  Conjugates multiply according to the Difference of Squares Formula:  \[ (a + b \sqrt{c})(a - b\sqrt{c}) = a^2 - (b \sqrt{c})^2 = a^2 - b^2c\]
-\end{defn}
+\begin{definition}\label{squarerootconj} \textbf{Congugate of a Square Root Expression:}  If $a$, $b$ and $c$ are real numbers with $c > 0$ then the quantities $(a + b \sqrt{c})$ and $(a - b\sqrt{c})$ are \textbf{conjugates} of one another.\footnote{As are $(b\sqrt{c} -a)$ and $(b\sqrt{c} + a)$ because $(b\sqrt{c} -a)(b\sqrt{c} + a) = b^2c - a^2$.}  Conjugates multiply according to the Difference of Squares Formula:  \[ (a + b \sqrt{c})(a - b\sqrt{c}) = a^2 - (b \sqrt{c})^2 = a^2 - b^2c\]
+\end{definition}
 \ebm}
 
 \medskip
@@ -490,7 +490,7 @@ What if we had $\sqrt[3]{5}$ instead of $\sqrt{5}$?  We could try multiplying $4
 
 This sort of thing extends to $\text{n}^{\text{th}}$ roots since $(a-b)$ is a factor of $a^n - b^n$ for all natural numbers $n$, but in practice, we'll stick with square roots with just a few cube roots thrown in for a challenge.\footnote{To see what to do about fourth roots, use long division to find $(a^4 - b^4) \div (a-b)$, and apply this to $4 - \sqrt[4]{5}$.}
 
-\begin{ex} \label{rationalizenumdenom} Rationalize the indicated numerator or denominator:
+\begin{example} \label{rationalizenumdenom} Rationalize the indicated numerator or denominator:
 
 \begin{multicols}{2}
 \begin{enumerate}
@@ -535,11 +535,11 @@ This sort of thing extends to $\text{n}^{\text{th}}$ roots since $(a-b)$ is a fa
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 We close this section with an awesome example from Calculus.%\footnote{Slaying this expert-level Algebra boss is not for the fainthearted.  As an added challenge, we are not giving you the labels on the operations we perform at each step.  You and your brave Precalculus warrior-classmates should fill in those gaps on your own.}
 
-\begin{ex} \label{rationalizenumdenombosslevel}
+\begin{example} \label{rationalizenumdenombosslevel}
 
 Simplify the compound fraction $\dfrac{\dfrac{1}{\sqrt{2(x+h)+1}} - \dfrac{1}{\sqrt{2x+1}}}{h}$ then rationalize the numerator of the result.
 
@@ -572,7 +572,7 @@ Next, we multiply the numerator and denominator by the conjugate of $\sqrt{2x+1}
 
 While the denominator is quite a bit more complicated than what we started with, we have done what was asked of us.  In the interest of full disclosure, the reason we did all of this was to cancel the original `$h$' from the denominator. That's an awful lot of effort to get rid of just one little $h$, but you'll see the significance of this in Calculus.\qed
 
-\end{ex}
+\end{example}
 
 \newpage
 

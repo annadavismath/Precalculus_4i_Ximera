@@ -32,7 +32,7 @@ For example,  to add two functions means  we add their outputs;  to subtract two
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{functionarithmeticdefn}  \index{function ! arithmetic} Suppose $f$ and $g$ are functions and $x$ is in both the domain of $f$ and the domain of $g$.
+\begin{definition}  \label{functionarithmeticdefn}  \index{function ! arithmetic} Suppose $f$ and $g$ are functions and $x$ is in both the domain of $f$ and the domain of $g$.
 \begin{itemize}
 
 \item  The \index{function ! sum} \textbf{sum} of $f$ and $g$, denoted $f+g$, is the function defined by the formula \[(f+g)(x) = f(x) + g(x)\]
@@ -46,7 +46,7 @@ For example,  to add two functions means  we add their outputs;  to subtract two
 
 \end{itemize}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -57,7 +57,7 @@ For example,  to add two functions means  we add their outputs;  to subtract two
 We put these definitions to work for us in the next example.
 
 
-\begin{ex}  \label{funcarithex} Consider the following functions:
+\begin{example}  \label{funcarithex} Consider the following functions:
 
 \begin{multicols}{2}
 
@@ -254,7 +254,7 @@ Hence, $\left(\frac{g}{f} \right)(t) = \frac{1}{2t^2} = \frac{1}{2} t^{-2}$.  To
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
  
  A few remarks are in order.  First, in number \ref{funcarithfindvaluesex} parts \ref{threefunctionsfirstex} through \ref{threefunctionslastex}, we first encountered combinations of \textit{three} functions despite Definition \ref{functionarithmeticdefn} only addressing combinations of \textit{two} functions at a time.  It turns out that function arithmetic inherits many of the same properties of real number arithmetic. For example, we showed above that  $((s+g)+h)(3) = (s+(g+h))(3)$.  In general, given any three functions $f$, $g$, and $h$, $(f+g)+h = f +(g+h)$ that is, function addition is \textit{assocative}.  To see this, choose an element $x$ common to the domains of $f$, $g$, and $h$.  Then 
  
@@ -277,7 +277,7 @@ For completeness, we summarize the properties of function arithmetic in the theo
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{functionarithmeticprops}  Suppose $f$, $g$ and $h$ are functions.
+\begin{theorem}  \label{functionarithmeticprops}  Suppose $f$, $g$ and $h$ are functions.
 
 \begin{itemize}
 
@@ -302,7 +302,7 @@ For completeness, we summarize the properties of function arithmetic in the theo
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -310,7 +310,7 @@ For completeness, we summarize the properties of function arithmetic in the theo
 
 In the next example, we decompose given functions into sums, differences, products and/or quotients of other functions.  Note that there are infinitely many different ways to do this, including some trivial ones.  For example, suppose we were instructed to decompose $f(x) = x+2$ into a sum or difference of functions.  We could write $f = g+h$ where $g(x) = x$ and $h(x) = 2$ or we could choose $g(x) = 2x+3$ and $h(x) = -x-1$.  More simply, we could write $f = g+h$ where $g(x) = x+2$ and $h(x) = 0$.  We'll call this last decomposition a `trivial' decomposition.  Likewise, if we ask for a decomposition of $f(x) = 2x$ as a product, a nontrivial solution would be $f = gh$ where $g(x) = 2$ and $h(x) = x$ whereas a trivial solution would be $g(x) = 2x$ and $h(x) = 1$.  In general, non-trivial solutions to decomposition problems avoid using the additive identity, $0$,  for sums and differences and the multiplicative identity, $1$, for products and quotients.
 
-\begin{ex} \label{funcarithdecompex}  
+\begin{example} \label{funcarithdecompex}  
 
 \begin{enumerate}
 
@@ -387,7 +387,7 @@ In the next example, we decompose given functions into sums, differences, produc
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 \subsection{The Arithmetic of Change}
 \label{rocarithmetic}
@@ -522,7 +522,7 @@ We summarize these results in the following theorem.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{functionarithmeticchange}  Suppose $\Delta u = u_{2} - u_{1}$ and $\Delta v = v_{2} - v_{1}$:
+\begin{theorem}  \label{functionarithmeticchange}  Suppose $\Delta u = u_{2} - u_{1}$ and $\Delta v = v_{2} - v_{1}$:
 \begin{itemize}
 
 \item  \textbf{The Sum Rule for Change:}   $\Delta[u+v] = \Delta u + \Delta v$
@@ -542,7 +542,7 @@ We summarize these results in the following theorem.
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -556,7 +556,7 @@ In the following example, we use the Quotient Rule for Change to help approximat
 
 \medskip
 
-\begin{ex}\label{densityexample} The density of a substance, $\rho$, is calculated by dividing its mass, $m$, by its volume, $V$:  $\rho = \frac{m}{V}$.  A scientist collects $5$ milliliters (mL) of a substance and determines its mass to be $68.2$ grams (g).  She computes the density as:  $\rho = \frac{68.2 \, \text{g}}{5 \, \text{mL}} = 13.64 \, \frac{\text{g}}{\text{mL}}$.
+\begin{example}\label{densityexample} The density of a substance, $\rho$, is calculated by dividing its mass, $m$, by its volume, $V$:  $\rho = \frac{m}{V}$.  A scientist collects $5$ milliliters (mL) of a substance and determines its mass to be $68.2$ grams (g).  She computes the density as:  $\rho = \frac{68.2 \, \text{g}}{5 \, \text{mL}} = 13.64 \, \frac{\text{g}}{\text{mL}}$.
 
 \medskip
 
@@ -593,7 +593,7 @@ Since we have no idea the exact value of each uncertainty, we need to make a jud
  We may interpret this as the uncertainties in the measurements for mass and volume in this situation could produce up to a $2.58 \%$ error in the calculated density,  \qed
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 In order to establish formulas for the average rate of change for  functions, we substitute $f(x)$ for $u_{1}$ and $g(x)$ for $v_{1}$ and divide each of the expressions in Theorem \ref{functionarithmeticchange} by $\Delta x$.  For example,  if we  to find an expression for the average rate of change of $fg$ in terms of $f$, $g$, and their respective average rates of change:
@@ -614,7 +614,7 @@ In the result below, we abbreviate the average rate of change as `ARoC' for conv
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{functionarithmeticaroc}  Suppose $f$ and $g$ are functions defined on an interval containing $x$ and $x + \Delta x$, $\Delta x \neq 0$:
+\begin{theorem}  \label{functionarithmeticaroc}  Suppose $f$ and $g$ are functions defined on an interval containing $x$ and $x + \Delta x$, $\Delta x \neq 0$:
 \begin{itemize}
 
 \item  \textbf{The Sum Rule for ARoC:}   $\text{ARoC}[(f + g)(x)] = \text{ARoC}[f(x)] + \text{ARoC}[g(x)]$
@@ -639,7 +639,7 @@ In the result below, we abbreviate the average rate of change as `ARoC' for conv
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -650,7 +650,7 @@ Our final example  revisits the scenario in Exercise \ref{newportaboycost} in Se
 
 \medskip
 
-\begin{ex}\label{marginalsetupex}  The cost, in dollars,  $C(x)$, to produce $x$ `PortaBoy' handheld game systems is given by:  $C(x) = .03x^{3} - 4.5x^{2} + 225x + 250$.   The revenue generated by selling $x$  of the systems, $R(x)$, also in dollars, is given by $R(x) = -1.5x^2 + 250x$.
+\begin{example}\label{marginalsetupex}  The cost, in dollars,  $C(x)$, to produce $x$ `PortaBoy' handheld game systems is given by:  $C(x) = .03x^{3} - 4.5x^{2} + 225x + 250$.   The revenue generated by selling $x$  of the systems, $R(x)$, also in dollars, is given by $R(x) = -1.5x^2 + 250x$.
 
 
 \medskip
@@ -685,7 +685,7 @@ For revenue, we find  $\text{ARoC}[R(x)] = \frac{R(71) - R(70)}{71-70} = \frac{1
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Note that in Example \ref{marginalsetupex}, since $\Delta x = 1$, the average rate of change for the cost moving from producing $70$ to $71$ systems, $ \frac{C(71) - C(70)}{71-70}$ is the same numerical value as the additional cost incurred by producing the $71$st system,  $C(71) - C(70)$.  The same goes for the revenue and profit calculations.  This is the concept of \index{marginal analysis}\index{analysis ! marginal}\textbf{marginal analysis} is studied at length in Economics and Business Calculus classes.\footnote{We'll do some more exploration as well.  See, for example, Exercise \ref{AverageCostMarginalCostExercise}.}  For us, it's time for some Exercises.                       
                        

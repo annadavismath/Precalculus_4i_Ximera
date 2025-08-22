@@ -37,7 +37,7 @@ With this new notation we can define what it means for two matrices to be equal.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{matrixequality} \textbf{Matrix Equality:}  Two matrices are said to be \index{matrix ! equality} \textbf{equal} if they are the same size and their corresponding entries are equal.  More specifically, if $A =\left[a_{ij}\right]_{m \times n}$ and $B =\left[b_{ij}\right]_{p \times r}$, we write $A=B$ provided 
+\begin{definition} \label{matrixequality} \textbf{Matrix Equality:}  Two matrices are said to be \index{matrix ! equality} \textbf{equal} if they are the same size and their corresponding entries are equal.  More specifically, if $A =\left[a_{ij}\right]_{m \times n}$ and $B =\left[b_{ij}\right]_{p \times r}$, we write $A=B$ provided 
 
 \begin{enumerate}
 
@@ -47,7 +47,7 @@ With this new notation we can define what it means for two matrices to be equal.
 
 \end{enumerate}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -62,9 +62,9 @@ Now that we have an agreed upon understanding of what it means for two matrices 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{matrixaddition} \index{matrix ! addition ! definition of} \textbf{Matrix Addition:}  Given two matrices of the same size, the matrix obtained by adding the corresponding entries of the two matrices is called the \index{matrix ! sum} \textbf{sum} of the two matrices. More specifically,  if $A =\left[a_{ij}\right]_{m \times n}$ and $B =\left[b_{ij}\right]_{m \times n}$, we define \[A + B = \left[a_{ij}\right]_{m \times n} + \left[b_{ij}\right]_{m \times n} = \left[ a_{ij} + b_{ij} \right]_{m \times n}\] 
+\begin{definition} \label{matrixaddition} \index{matrix ! addition ! definition of} \textbf{Matrix Addition:}  Given two matrices of the same size, the matrix obtained by adding the corresponding entries of the two matrices is called the \index{matrix ! sum} \textbf{sum} of the two matrices. More specifically,  if $A =\left[a_{ij}\right]_{m \times n}$ and $B =\left[b_{ij}\right]_{m \times n}$, we define \[A + B = \left[a_{ij}\right]_{m \times n} + \left[b_{ij}\right]_{m \times n} = \left[ a_{ij} + b_{ij} \right]_{m \times n}\] 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -80,7 +80,7 @@ A similar argument shows the \index{matrix ! addition ! associative property}\in
 
 \smallskip
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{matrixadditionprops}  \textbf{Properties of Matrix Addition} \index{matrix ! addition ! properties of}
+\begin{theorem} \label{matrixadditionprops}  \textbf{Properties of Matrix Addition} \index{matrix ! addition ! properties of}
 \begin{itemize}
 
 \item  \textbf{Commutative Property:}  For all $m \times n$ matrices, $A + B = B + A$
@@ -94,7 +94,7 @@ That is, the additive identity for a matrix  is the matrix of the additive ident
 That is, the additive inverse of a matrix is the matrix of the additive inverses of each of its entries.  
 
 \end{itemize}
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -122,9 +122,9 @@ Our next task is to define what it means to multiply a matrix by a real number. 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{scalarmultmatrix} \index{scalar multiplication ! matrix ! definition of} \index{matrix ! scalar multiplication ! definition of}\textbf{Scalar\footnote{The word `scalar' here refers to real numbers.  `Scalar multiplication' in this context means we are multiplying a matrix by a real number (a scalar).  We will discuss this term momentarily.} Multiplication:} We define the product of a real number and a matrix to be the matrix obtained by multiplying each of its entries by said real number.  More specifically, if $k$ is a real number and $A = \left[a_{ij}\right]_{m \times n}$, we define \[kA = k\left[a_{ij}\right]_{m \times n} = \left[ka_{ij}\right]_{m \times n}\]
+\begin{definition} \label{scalarmultmatrix} \index{scalar multiplication ! matrix ! definition of} \index{matrix ! scalar multiplication ! definition of}\textbf{Scalar\footnote{The word `scalar' here refers to real numbers.  `Scalar multiplication' in this context means we are multiplying a matrix by a real number (a scalar).  We will discuss this term momentarily.} Multiplication:} We define the product of a real number and a matrix to be the matrix obtained by multiplying each of its entries by said real number.  More specifically, if $k$ is a real number and $A = \left[a_{ij}\right]_{m \times n}$, we define \[kA = k\left[a_{ij}\right]_{m \times n} = \left[ka_{ij}\right]_{m \times n}\]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -142,7 +142,7 @@ As did matrix addition, scalar multiplication inherits many properties from real
 
 \smallskip
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \label{matrixscalarmultprops}\textbf{Properties of Scalar Multiplication} \index{matrix ! scalar multiplication ! properties of} \index{scalar multiplication ! matrix ! properties of}
+\begin{theorem}  \label{matrixscalarmultprops}\textbf{Properties of Scalar Multiplication} \index{matrix ! scalar multiplication ! properties of} \index{scalar multiplication ! matrix ! properties of}
 
 \begin{itemize}
 
@@ -166,7 +166,7 @@ For every  $m \times n$ matrix $A$ and scalars  $k$ and $r$, \[(k+r)A = kA + rA\
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 \smallskip
 
@@ -181,7 +181,7 @@ which establishes the property.  The remaining proofs are similar and are left t
 
 The properties in Theorems \ref{matrixadditionprops} and \ref{matrixscalarmultprops} establish an algebraic system that lets us treat matrices and scalars more or less as we would real numbers and variables.  In the following example, we challenge the reader to justify each and every step of the calculations using either properties of matrix arithmetic.
 
-\begin{ex} \label{matrixaddscalarex} Solve for the matrix $A$:  \[3A - \left(\left[ \begin{array}{rr} 2 & -1 \\ 3 & 5 \\ \end{array}\right] + 5A\right) = \left[ \begin{array}{rr} -4 & 2 \\ 6 & -2 \\ \end{array}\right] + \dfrac{1}{3} \left[ \begin{array}{rr} 9 & 12 \\ -3 & 39 \\ \end{array}\right] \]
+\begin{example} \label{matrixaddscalarex} Solve for the matrix $A$:  \[3A - \left(\left[ \begin{array}{rr} 2 & -1 \\ 3 & 5 \\ \end{array}\right] + 5A\right) = \left[ \begin{array}{rr} -4 & 2 \\ 6 & -2 \\ \end{array}\right] + \dfrac{1}{3} \left[ \begin{array}{rr} 9 & 12 \\ -3 & 39 \\ \end{array}\right] \]
 \newpage
 
 {\bf Solution.} \[ \begin{array}{rcl}
@@ -234,7 +234,7 @@ A & =  &  \left[ \begin{array}{rr} -\frac{1}{2} & -\frac{5}{2} \\[2pt] -4 & -8 \
 
 \end{array} \]
 The reader is encouraged to check our answer in the original equation.  \qed
-\end{ex}
+\end{example}
 
 While the solution to the previous example is written in excruciating detail, in practice many of the steps above are omitted.  The reader is encouraged to solve the equation in Example \ref{matrixaddscalarex} as they would any other linear equation, for example: $3a-(2+5a)=-4+\frac{1}{3}(9)$.
 
@@ -320,10 +320,10 @@ Generalizing this process, we have the following definition.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{rowcolumnproduct} \textbf{Product of a Row and a Column:}  Suppose $A = [a_{ij}]_{m \times n}$ and $B = [b_{ij}]_{n \times r}$.  Let $Ri$ denote the $i$th row of $A$ and let $Cj$ denote the $j$th column of $B$.  The \index{matrix ! product of row and column} \textbf{product of \boldmath $R_{i}$ and \boldmath $C_{j}$, denoted $R_{i} \cdot C_{j}$} is the real number defined by
+\begin{definition} \label{rowcolumnproduct} \textbf{Product of a Row and a Column:}  Suppose $A = [a_{ij}]_{m \times n}$ and $B = [b_{ij}]_{n \times r}$.  Let $Ri$ denote the $i$th row of $A$ and let $Cj$ denote the $j$th column of $B$.  The \index{matrix ! product of row and column} \textbf{product of \boldmath $R_{i}$ and \boldmath $C_{j}$, denoted $R_{i} \cdot C_{j}$} is the real number defined by
 \[ Ri \cdot Cj = a_{i\mbox{\tiny$1$}}b_{\mbox{\tiny$1$}j} + a_{i\mbox{\tiny$2$}}b_{\mbox{\tiny$2$}j} + \ldots a_{in}b_{nj}\]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -335,7 +335,7 @@ Note that in order to multiply a row by a column, the number of entries in the r
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{matrixproduct} \textbf{Matrix Multiplication:}  Suppose $A = [a_{ij}]_{m \times n}$ and $B = [b_{ij}]_{n \times r}$.  Let $Ri$ denote the $i$th row of $A$ and let $Cj$ denote the $j$th column of $B$.  The \index{matrix ! matrix multiplication ! definition of} \textbf{product of \boldmath $A$ and \boldmath $B$}, denoted $AB$, is the matrix
+\begin{definition} \label{matrixproduct} \textbf{Matrix Multiplication:}  Suppose $A = [a_{ij}]_{m \times n}$ and $B = [b_{ij}]_{n \times r}$.  Let $Ri$ denote the $i$th row of $A$ and let $Cj$ denote the $j$th column of $B$.  The \index{matrix ! matrix multiplication ! definition of} \textbf{product of \boldmath $A$ and \boldmath $B$}, denoted $AB$, is the matrix
 \[AB = \left[ Ri \cdot Cj \right]_{m \times r} \]
 
 that is
@@ -347,7 +347,7 @@ R2 \cdot C1 & R2 \cdot C2 & \ldots & R2 \cdot Cr \\
    \vdots  & \vdots & & \vdots \\
 Rm \cdot C1 & Rm \cdot C2 & \ldots & Rm \cdot Cr \\  \end{array} \right] \]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -382,7 +382,7 @@ Even when the dimensions of $A$ and $B$ are compatible such that $AB$ and $BA$ a
 
 \smallskip
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \label{matrixmultprops}\textbf{Properties of Matrix Multiplication} \index{matrix ! matrix multiplication ! properties of} Let $A$, $B$ and $C$ be matrices such that all of the matrix products below are defined and let $k$ be a real number.
+\begin{theorem}  \label{matrixmultprops}\textbf{Properties of Matrix Multiplication} \index{matrix ! matrix multiplication ! properties of} Let $A$, $B$ and $C$ be matrices such that all of the matrix products below are defined and let $k$ be a real number.
 
 \begin{itemize}
 
@@ -398,7 +398,7 @@ For a natural number $k$, the \textbf{\boldmath $k \times k$ identity matrix}, d
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 \smallskip
 
@@ -427,7 +427,7 @@ and
 While the proofs of the properties in Theorem \ref{matrixmultprops} are computational in nature, the notation becomes quite involved very quickly, so they are left to a course in Linear Algebra. The following example provides some practice with matrix multiplication and its properties.  As usual, some valuable lessons are to be learned.
 
 
-\begin{ex} \label{matrixmultex}  $~$
+\begin{example} \label{matrixmultex}  $~$
 
 \begin{enumerate}
 
@@ -477,7 +477,7 @@ C^2 -5C + 10I_{\mbox{\tiny$2$}} & = & \left[ \begin{array}{rr} 1 & -2 \\ 3 & 4 \
 \qed
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Example \ref{matrixmultex} illustrates some interesting features of matrix multiplication.  First note that in the first problem, neither $A$ nor $B$ is the zero matrix, yet the product $AB$ is the zero matrix.  Hence, the the zero product property enjoyed by real numbers and scalar multiplication does not hold for matrix multiplication. 
 
@@ -487,7 +487,7 @@ The second and third problems  introduce us to polynomials involving matrices.  
 
 As we mentioned earlier, a point $P(x,y)$ in the $xy$-plane can be represented as a $2 \times 1$ position matrix.  We now show that matrix multiplication can be used to rotate these points, and hence graphs of equations.
 
-\begin{ex}  \label{rotationmatrixex} Let $R = \left[ \begin{array}{rr} \frac{\sqrt{2}}{2} & -\frac{\sqrt{2}}{2} \\ [3pt] \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \end{array} \right]$.
+\begin{example}  \label{rotationmatrixex} Let $R = \left[ \begin{array}{rr} \frac{\sqrt{2}}{2} & -\frac{\sqrt{2}}{2} \\ [3pt] \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} \end{array} \right]$.
 
 \begin{enumerate}
 
@@ -603,7 +603,7 @@ Since $(x,y)$ is on the hyperbola $x^2 - y^2 = 4$, we know that this last equati
 
 \qed
 
-\end{ex}   
+\end{example}   
 
 When we started this section, we mentioned that we would temporarily consider matrices as their own entities, but that the algebra developed here would ultimately allow us to solve systems of linear equations.  To that end, consider the system
 

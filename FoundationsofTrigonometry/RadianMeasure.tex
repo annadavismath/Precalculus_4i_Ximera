@@ -20,11 +20,11 @@ In Section \ref{AppAngles},  we review the concept of (oriented) angles and degr
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{pidefn} \index{pi, $\pi$} The real number $\pi$ is defined to be the ratio of a circle's circumference to its diameter.  In symbols, given a circle of circumference $C$ and diameter $d$, 
+\begin{definition} \label{pidefn} \index{pi, $\pi$} The real number $\pi$ is defined to be the ratio of a circle's circumference to its diameter.  In symbols, given a circle of circumference $C$ and diameter $d$, 
 
 \[ \pi = \dfrac{C}{d} \]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -124,7 +124,7 @@ Since one revolution sweeps out the circumference $2\pi r$, one revolution has r
 
 As with degree measure, the distinction between the angle itself and its measure is often blurred in practice, so when we write  `$\theta = \frac{\pi}{2}$', we mean $\theta$ is an angle which measures $\frac{\pi}{2}$ radians.\footnote{The authors are well aware that we are now identifying radians with real numbers.  We will justify this shortly.} We extend radian measure to oriented angles, just as we did with degrees beforehand, so that a positive measure indicates counter-clockwise rotation and a negative measure indicates clockwise rotation.\footnote{This, in turn, endows the subtended arcs with an orientation as well.  We address this in short order.}  Much like before, two positive angles $\alpha$ and $\beta$ are supplementary if $\alpha + \beta = \pi$ and complementary if $\alpha + \beta = \frac{\pi}{2}$.   Finally, we leave it to the reader to show that when using radian measure, two angles $\alpha$ and $\beta$ are coterminal if and only if $\beta = \alpha + 2\pi k$ for some integer $k$. 
 
-\begin{ex}  \label{orientedcoterminalradian} Graph each of the (oriented) angles below in standard position  and classify them according to where their terminal side lies. Find three coterminal angles, at least one of which is positive and one of which is negative.
+\begin{example}  \label{orientedcoterminalradian} Graph each of the (oriented) angles below in standard position  and classify them according to where their terminal side lies. Find three coterminal angles, at least one of which is positive and one of which is negative.
 
 \hspace{-0.1in}
 
@@ -271,7 +271,7 @@ $\gamma = \frac{9 \pi}{4}$ in standard position. & \hspace{1in} $\phi = -\frac{5
 \end{enumerate}
 \qed
 
-\end{ex}
+\end{example}
 
 It is worth mentioning that we could have plotted the angles in Example \ref{orientedcoterminalradian} by first converting them to degree measure and following the procedure set forth in Example \ref{orientedcoterminaldegree}.  While converting back and forth from degrees and radians is certainly a good skill to have, it is best that you learn to `think in radians' as well as you can `think in degrees'.  The authors would, however, be derelict in our duties if we ignored the basic conversion between these systems altogether.  Since one revolution counter-clockwise measures $360^{\circ}$ and the same angle measures $2 \pi$ radians, we can use the proportion $\frac{2 \pi \, \text{radians}}{360^{\circ}}$, or its reduced equivalent, $\frac{\pi \, \text{radians}}{180^{\circ}}$, as the conversion factor between the two systems.  For example, to convert $60^{\circ}$ to radians we find $60^{\circ} \left( \frac{\pi \, \text{radians}}{180^{\circ}}\right) = \frac{\pi}{3} \, \text{radians}$, or simply $\frac{\pi}{3}$.  To convert from radian measure back to degrees, we multiply by the ratio $\frac{180^{\circ}}{\pi \, \text{radian}}$.  For example,  $-\frac{5 \pi}{6} \, \text{radians}$ is equal to $\left(-\frac{5 \pi}{6} \, \text{radians} \right) \left( \frac{180^{\circ}}{\pi \, \text{radians}}\right) = -150^{\circ}$.\footnote{Note that the negative sign indicates clockwise rotation in both systems, and so it is carried along accordingly.}  Hence,  an angle which measures $1$ in radian measure is equal to $\frac{180^{\circ}}{\pi}  \approx 57.2958^{\circ}$.   To summarize:
 
@@ -393,7 +393,7 @@ Identifying $t < 0$ with an angle. \\
 
 \end{tabular}
 
-\begin{ex} \label{realwrap}  Sketch the oriented arc on the Unit Circle corresponding to each of the following real numbers.  
+\begin{example} \label{realwrap}  Sketch the oriented arc on the Unit Circle corresponding to each of the following real numbers.  
 
 \begin{multicols}{4}
 
@@ -515,7 +515,7 @@ Identifying $t < 0$ with an angle. \\
 
 \vspace{-.05in} \qed
 
-\end{ex}
+\end{example}
 
 \subsection{Applications of Radian Measure:  Circular Motion}
 \label{circularmotion}
@@ -562,7 +562,7 @@ If the path of the object were `uncurled' from a circle to form a line segment, 
 
 We need to talk about units here.  The units of $v$ are $\frac{\text{length}}{\text{time}}$, the units of $r$ are length only, and the units of $\omega$ are $\frac{\text{radians}}{\text{time}}$.  Thus the left hand side of the equation $v = r \omega$ has units $\frac{\text{length}}{\text{time}}$, whereas the right hand side has units $\text{length} \cdot \frac{\text{radians}}{\text{time}} = \frac{\text{length} \cdot \text{radians}}{\text{time}} $.  The supposed contradiction in units is resolved by remembering that radians are a dimensionless quantity and angles in radian measure are identified with real numbers so that the units $\frac{\text{length} \cdot \text{radians}}{\text{time}}$ reduce to the units $\frac{\text{length}}{\text{time}}$. We are long overdue for an example.
 
-\begin{ex}  \label{EarthRotationEx} Assuming that the surface of the Earth is a sphere, any point on the Earth can be thought of as an object traveling on a circle (this is the \textbf{parallel of latitude} of the point) as seen in the figure below.\footnote{Diagram credit:  \href{https://commons.wikimedia.org/wiki/File:Latitude_(PSF).png}{\underline{Pearson Scott Foresman [Public domain], via Wikimedia Commons}}.}  Since it takes the Earth (approximately) 24 hours to rotate, the object takes 24 hours to complete one revolution along this circle. Lakeland Community College is at $41.628^{\circ}$ north latitude, and it can be shown\footnote{We will discuss how we arrived at this approximation in Example \ref{cosinesinecircleex}.}  that the radius of the earth at this Latitude is approximately $2960$ miles.  Find the linear velocity, in miles per hour, of Lakeland Community College as the world turns.
+\begin{example}  \label{EarthRotationEx} Assuming that the surface of the Earth is a sphere, any point on the Earth can be thought of as an object traveling on a circle (this is the \textbf{parallel of latitude} of the point) as seen in the figure below.\footnote{Diagram credit:  \href{https://commons.wikimedia.org/wiki/File:Latitude_(PSF).png}{\underline{Pearson Scott Foresman [Public domain], via Wikimedia Commons}}.}  Since it takes the Earth (approximately) 24 hours to rotate, the object takes 24 hours to complete one revolution along this circle. Lakeland Community College is at $41.628^{\circ}$ north latitude, and it can be shown\footnote{We will discuss how we arrived at this approximation in Example \ref{cosinesinecircleex}.}  that the radius of the earth at this Latitude is approximately $2960$ miles.  Find the linear velocity, in miles per hour, of Lakeland Community College as the world turns.
 
 \begin{center}
 
@@ -574,7 +574,7 @@ We need to talk about units here.  The units of $v$ are $\frac{\text{length}}{\t
 
 {\bf Solution.}  To use the formula $v = r \omega$, we first need to compute the angular velocity $\omega$.  The earth makes one revolution in 24 hours, and one revolution is $2 \pi$ radians, so $\omega = \frac{2 \pi \, \text{radians}}{24 \, \text{hours}} = \frac{\pi}{12 \, \text{hours}}$. Note that once again, we are identifying angles in radian measure as real numbers so we can drop the `radian' units as they are dimensionless.  Also note that  for simplicity's sake, we assume that we are viewing the rotation of the earth as counter-clockwise so $\omega > 0$.  Hence, the linear velocity is \[ v = 2960 \, \text{miles} \cdot \frac{\pi}{12 \, \text{hours}} \approx 775 \, \frac{\text{miles}}{\text{hour}}\]  \qed
 
-\end{ex}
+\end{example}
 
 It is worth noting that the quantity $\frac{1 \, \text{revolution}}{24 \, \text{hours}}$ in Example \ref{EarthRotationEx} is called the \index{frequency ! ordinary} \index{ordinary frequency} \textbf{ordinary frequency} of the motion and is usually denoted by the variable $f$.  The ordinary frequency is a measure of how often an object makes a complete cycle of the motion.  The fact that $\omega = 2\pi f$ suggests that $\omega$ is also a frequency.  Indeed, it is called the \index{frequency ! angular} \index{angular frequency} \textbf{angular frequency} of the motion.  On a related note, the quantity $T = \frac{1}{f}$ is called the \index{period ! circular motion}\textbf{period} of the motion and is the amount of time it takes for the object to complete one cycle of the motion.  In the scenario of Example \ref{EarthRotationEx}, the period of the motion is 24 hours, or one day.  
 

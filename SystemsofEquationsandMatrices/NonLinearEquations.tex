@@ -19,7 +19,7 @@ Unlike the systems of linear equations for which we have developed several algor
 
 Along with the tried and true techniques of substitution and elimination, we shall often need equal parts tenacity and ingenuity to see a problem through to the end.  You may find it necessary to review topics throughout the text which pertain to solving equations involving the various functions we have studied thus far.  To get the section rolling we begin with a fairly routine example.
 
-\begin{ex}  \label{nonlinearex1} Solve the following systems of equations.  Verify  answers algebraically and  graphically.
+\begin{example}  \label{nonlinearex1} Solve the following systems of equations.  Verify  answers algebraically and  graphically.
 
 \begin{multicols}{2}
 
@@ -232,13 +232,13 @@ Our final answer is $\left\{ \left(\frac{\sqrt{-2 + 2\sqrt{17}}}{2},\frac{-1 + \
 
 \qed
 
-\end{ex}
+\end{example}
 
 A couple of remarks about Example \ref{nonlinearex1} are in order.  First note that, unlike systems of linear equations, it is possible for a system of non-linear equations to have more than one solution without having infinitely many solutions.  In fact, while we characterize systems of nonlinear equations as being `consistent' or `inconsistent,' we generally don't use the labels `dependent' or `independent'.  
 
 Secondly, as we saw with the last problem, sometimes making a quick sketch of the problem situation can save a lot of time and effort.  While in general the curves in a system of non-linear equations may not be easily visualized, it pays to take advantage when they are.  Our next example provides some considerable review of many of the topics introduced in this text.
 
-\begin{ex}  \label{nonlinearex2} Solve the following systems of equations.  Verify answers algebraically and graphically.
+\begin{example}  \label{nonlinearex2} Solve the following systems of equations.  Verify answers algebraically and graphically.
 
 \begin{multicols}{3}
 
@@ -414,7 +414,7 @@ Near $(3,0,3)$ \\
 \end{enumerate}
 
 
-\end{ex}
+\end{example}
 
 Example \ref{nonlinearex2} showcases some of the ingenuity and tenacity mentioned at the beginning of the section.  Sometimes you just have to look at a system the right way to find the most efficient method to solve it.  Sometimes you just have to try something.  
 
@@ -422,7 +422,7 @@ Example \ref{nonlinearex2} showcases some of the ingenuity and tenacity mentione
 
 Next we explore some common application problems which give rise to systems of nonlinear equations.
 
-\begin{ex}  \label{upstreamdownstreamex}  Carl decides to explore the Meander River, the location of several recent Sasquatch sightings.  From camp, he canoes downstream five miles to check out a purported Sasquatch nest.  Finding nothing, he immediately turns around, retraces his route (this time traveling upstream), and returns to camp 3 hours after he left.  If Carl canoes at a rate  of 6 miles per hour in still water, how fast was the Meander River flowing on that day?
+\begin{example}  \label{upstreamdownstreamex}  Carl decides to explore the Meander River, the location of several recent Sasquatch sightings.  From camp, he canoes downstream five miles to check out a purported Sasquatch nest.  Finding nothing, he immediately turns around, retraces his route (this time traveling upstream), and returns to camp 3 hours after he left.  If Carl canoes at a rate  of 6 miles per hour in still water, how fast was the Meander River flowing on that day?
 
 \smallskip
 
@@ -480,11 +480,11 @@ The last piece of information given to us is that the total trip lasted $3$ hour
 
 Since we are ultimately after $R$, we need to use these three equations to get at least one equation involving \textit{only} $R$.  We start with equation $E1$. We know that both $(6+R) \neq 0$  and  $t_{\text{down}} \neq 0$ since the product of these two quantities is $5$ and is nonzero.\footnote{This is a restatement of the Zero Product Property from Section \ref{AppRealNumberArithmetic}.}  Hence, we may solve $E1$ for $t_{\text{down}}$ by dividing both sides by the quantity $(6+R)$ to get $t_{\text{down}} = \frac{5}{6+R}$.   Similarly, we use $E2$  to get $t_{\text{up}} = \frac{5}{6-R}$. Substituting these into $E3$, we get:\footnote{The reader is encouraged to verify that the units in this equation are consistent. For starters, the units on the `3' is `hours.'} \[\dfrac{5}{6+R} + \dfrac{5}{6 - R} = 3.\] Clearing denominators, we get $5(6-R) + 5(6+R) = 3(6+R)(6-R)$ which reduces to  $R^2 = 16$.   We find $R = \pm 4$, and since $R$ represents the speed of the river, we choose $R = 4$.   On the day in question, the Meander River is flowing at a rate of $4$ miles per hour. \qed
 
-\end{ex}
+\end{example}
 
 One of the important lessons to learn from Example \ref{upstreamdownstreamex} is that speeds, and more generally, rates, are additive.  As we see in our next example, the concept of rate and its associated principles can be applied to a wide variety of problems - not just `distance-rate-time' scenarios.
 
-\begin{ex} \label{workex}  Working alone, Taylor can weed the garden in 4 hours.  If Carl helps, they can weed the garden in 3 hours.  How long would it take for Carl to weed the garden on his own?
+\begin{example} \label{workex}  Working alone, Taylor can weed the garden in 4 hours.  If Carl helps, they can weed the garden in 3 hours.  How long would it take for Carl to weed the garden on his own?
 
 \smallskip
 
@@ -530,7 +530,7 @@ so that $R = \frac{1}{12} \frac{\text{garden}}{\text{hour}}$.  Substituting this
 
 Solving $1 = \frac{1}{12} t$, we get $t = 12$, so it takes Carl 12 hours to weed the garden on his own.\footnote{Carl would much rather spend his time writing open-source Mathematics texts than gardening anyway.} \qed
 
-\end{ex}
+\end{example}
 
 As is common with `word problems' like Examples \ref{upstreamdownstreamex} and \ref{workex}, there is no short-cut to the answer.  Note that in  Examples \ref{upstreamdownstreamex}, we formalized the system of non-linear equations before solving whereas in Example \ref{workex}, the system remained much in the background.  We encourage the reader to carefully think through and apply the basic principles of rate to each (potentially different!) situation.  It is time well spent.  We also encourage the tracking of units, especially in the early stages of the problem.  Not only does this promote uniformity in the units, it also serves as a quick means to check if an equation makes sense.\footnote{In other words, make sure you don't try to add apples to oranges!}
 

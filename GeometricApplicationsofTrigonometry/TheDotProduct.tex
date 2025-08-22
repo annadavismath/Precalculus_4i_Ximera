@@ -17,7 +17,7 @@ In Section \ref{Vectors}, we learned how add and subtract vectors and how to mul
 
 \smallskip
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{dotproductdefn}    Given vectors  $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ and $\vec{w} = \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right>$,  the \textbf{dot product}\index{vector ! dot product ! definition of}\index{vector ! scalar product ! definition of}\index{dot product ! definition of} of $\vec{v}$ and $\vec{w}$ is given by
+\begin{definition} \label{dotproductdefn}    Given vectors  $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ and $\vec{w} = \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right>$,  the \textbf{dot product}\index{vector ! dot product ! definition of}\index{vector ! scalar product ! definition of}\index{dot product ! definition of} of $\vec{v}$ and $\vec{w}$ is given by
 
 \[ \vec{v} \cdot \vec{w} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right> \cdot \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right> = v_{\mbox{\tiny $1$}}w_{\mbox{\tiny $1$}} + v_{\mbox{\tiny $2$}}w_{\mbox{\tiny $2$}} \]
 
@@ -25,7 +25,7 @@ In Section \ref{Vectors}, we learned how add and subtract vectors and how to mul
 \smallskip
 
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -40,7 +40,7 @@ Note that the dot product takes two \textit{vectors} and produces a \textit{scal
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{dotprodprops} \textbf{Properties of the Dot Product} \index{vector ! dot product ! properties of} \index{vector ! scalar product ! properties of} \index{dot product ! properties of}
+\begin{theorem} \label{dotprodprops} \textbf{Properties of the Dot Product} \index{vector ! dot product ! properties of} \index{vector ! scalar product ! properties of} \index{dot product ! properties of}
 
 \begin{itemize}
 
@@ -56,7 +56,7 @@ Note that the dot product takes two \textit{vectors} and produces a \textit{scal
 
 \smallskip	
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -103,7 +103,7 @@ For the last property, we note that if  $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_
 
 The following example puts Theorem \ref{dotprodprops} to good use.  As in Example \ref{vectoreqnex}, we work out the problem in great detail and encourage the reader to supply the justification for each step.
 
-\begin{ex}  \label{dotprodpropex}  Prove the identity:  $\| \vec{v} - \vec{w} \|^2 =  \|\vec{v}\|^2  -2 (\vec{v}\cdot\vec{w}) + \|\vec{w}\|^2$.
+\begin{example}  \label{dotprodpropex}  Prove the identity:  $\| \vec{v} - \vec{w} \|^2 =  \|\vec{v}\|^2  -2 (\vec{v}\cdot\vec{w}) + \|\vec{w}\|^2$.
 
 \smallskip
 
@@ -123,7 +123,7 @@ The following example puts Theorem \ref{dotprodprops} to good use.  As in Exampl
 													& = & \|\vec{v}\|^2-2(\vec{v} \cdot \vec{w}) + \|\vec{w}\|^2 \\ \end{array} \]
 Hence,  $\| \vec{v} - \vec{w} \|^2 =  \|\vec{v}\|^2  -2 (\vec{v}\cdot\vec{w}) + \|\vec{w}\|^2$ as required.  \qed
 
-\end{ex} 
+\end{example} 
 
 If we take a step back from the pedantry in Example \ref{dotprodpropex}, we see that the bulk of the work is needed to show that $(\vec{v} - \vec{w}) \cdot (\vec{v} - \vec{w})  = \vec{v} \cdot \vec{v} -2(\vec{v} \cdot \vec{w}) + \vec{w}\cdot\vec{w}$.  If this looks familiar, it should. 
 
@@ -204,11 +204,11 @@ The following theorem gives us some insight into the geometric role the dot prod
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{dotproductgeo} \textbf{Geometric Interpretation of Dot Product:}  If $\vec{v}$ and $\vec{w}$ are nonzero vectors then \[ \vec{v} \cdot \vec{w} = \|\vec{v}\| \|\vec{w}\| \cos(\theta),\] where $\theta$ is the angle between $\vec{v}$ and $\vec{w}$. \index{vector ! dot product ! geometric interpretation} \index{dot product ! geometric interpretation}
+\begin{theorem} \label{dotproductgeo} \textbf{Geometric Interpretation of Dot Product:}  If $\vec{v}$ and $\vec{w}$ are nonzero vectors then \[ \vec{v} \cdot \vec{w} = \|\vec{v}\| \|\vec{w}\| \cos(\theta),\] where $\theta$ is the angle between $\vec{v}$ and $\vec{w}$. \index{vector ! dot product ! geometric interpretation} \index{dot product ! geometric interpretation}
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -292,13 +292,13 @@ An immediate consequence of Theorem \ref{dotproductgeo} is the following.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{anglebetweenvectorthm} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors and let $\theta$ the angle between $\vec{v}$ and $\vec{w}$.  Then \index{vector ! angle between two} \index{angle ! between two vectors}
+\begin{theorem} \label{anglebetweenvectorthm} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors and let $\theta$ the angle between $\vec{v}$ and $\vec{w}$.  Then \index{vector ! angle between two} \index{angle ! between two vectors}
 
 \[ \theta = \arccos\left( \dfrac{\vec{v} \cdot \vec{w}}{\| \vec{v} \| \|\vec{w} \|}\right) = \arccos(\bm\hat{v} \cdot \bm\hat{w}) \]
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -316,7 +316,7 @@ Using Theorem \ref{dotprodprops}, we can rewrite \[ \frac{\vec{v} \cdot \vec{w}}
 
 \smallskip
 
-\begin{ex} \label{anglebetweenvectorex}  Find the angle between the following pairs of vectors.  Graph each pair of vectors in standard position to check the reasonableness of your answer.
+\begin{example} \label{anglebetweenvectorex}  Find the angle between the following pairs of vectors.  Graph each pair of vectors in standard position to check the reasonableness of your answer.
 \begin{enumerate}
 
 \item  \label{anglebetweenvectorexone} $\vec{v} = \left< 3, -3\sqrt{3} \right>$, and $\vec{w} = \left<-\sqrt{3}, 1 \right>$
@@ -420,7 +420,7 @@ $\vec{v}$ and $\vec{w}$ from number \ref{anglebetweenvectorexthree} \\
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 \smallskip
 
@@ -532,9 +532,9 @@ Of the three cases diagrammed above, the one which has the most mathematical sig
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{dotprodorththm}   For nonzero vectors $\vec{v}$ and $\vec{w}$,  $\vec{v} \perp \vec{w}$ if and only if $\vec{v} \cdot \vec{w} = 0$. \index{vector ! dot product ! relation to orthogonality} \index{dot product ! relation to orthogonality}  
+\begin{theorem} \label{dotprodorththm}   For nonzero vectors $\vec{v}$ and $\vec{w}$,  $\vec{v} \perp \vec{w}$ if and only if $\vec{v} \cdot \vec{w} = 0$. \index{vector ! dot product ! relation to orthogonality} \index{dot product ! relation to orthogonality}  
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -553,7 +553,7 @@ We have already argued one direction of Theorem \ref{dotprodorththm}, namely if 
 
 We can use Theorem \ref{dotprodorththm} in the following example to provide a different proof about the relationship between the slopes of perpendicular lines.\footnote{See Exercise \ref{perpendicularlineproof} in Section \ref{AppLines}.}
 
-\begin{ex}\label{perpendicularlines2} Let $L_{\mbox{\tiny$1$}}$ be the line $y = m_{\mbox{\tiny$1$}}x + b_{\mbox{\tiny$1$}}$ and let $L_{\mbox{\tiny$2$}}$ be the line $y = m_{\mbox{\tiny$2$}}x + b_{\mbox{\tiny$2$}}$.  Prove that $L_{\mbox{\tiny$1$}}$ is perpendicular to $L_{\mbox{\tiny$2$}}$ if and only if $m_{\mbox{\tiny$1$}} \cdot m_{\mbox{\tiny$2$}} = -1$.
+\begin{example}\label{perpendicularlines2} Let $L_{\mbox{\tiny$1$}}$ be the line $y = m_{\mbox{\tiny$1$}}x + b_{\mbox{\tiny$1$}}$ and let $L_{\mbox{\tiny$2$}}$ be the line $y = m_{\mbox{\tiny$2$}}x + b_{\mbox{\tiny$2$}}$.  Prove that $L_{\mbox{\tiny$1$}}$ is perpendicular to $L_{\mbox{\tiny$2$}}$ if and only if $m_{\mbox{\tiny$1$}} \cdot m_{\mbox{\tiny$2$}} = -1$.
 
 \smallskip
 
@@ -573,7 +573,7 @@ $L_{\mbox{\tiny$2$}}$.  Hence, $L_{\mbox{\tiny$1$}}$ and $L_{\mbox{\tiny$2$}}$ a
 
 Notice that $\vec{v_{\mbox{\tiny$1$}}} \cdot \vec{v_{\mbox{\tiny$2$}}} = \left<1,m_{\mbox{\tiny$1$}}\right> \cdot \left<1,m_{\mbox{\tiny$2$}}\right> = 1 + m_{\mbox{\tiny$1$}}m_{\mbox{\tiny$2$}}$.  Hence,  $\vec{v_{\mbox{\tiny$1$}}} \cdot \vec{v_{\mbox{\tiny$2$}}} = 0$ if and only if $1 + m_{\mbox{\tiny$1$}}m_{\mbox{\tiny$2$}}  =0$, which is true if and only if $ m_{\mbox{\tiny$1$}}  m_{\mbox{\tiny$2$}} = -1$, as required. \qed
 
-\end{ex}
+\end{example}
 
 \subsection{Vector Projections}
 \label{projections}
@@ -719,7 +719,7 @@ If the angle between $\vec{v}$ and $\vec{w}$ is $\frac{\pi}{2}$ then it is easy 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{vectorproj} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors.  
+\begin{definition} \label{vectorproj} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors.  
 
 \smallskip
 
@@ -727,7 +727,7 @@ The \textbf{orthogonal projection of $\vec{v}$ onto $\vec{w}$}, denoted $\text{p
 
 \smallskip
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -742,11 +742,11 @@ While the formula given in Definition \ref{vectorproj} is theoretically appealin
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{altprojformulas} \textbf{Alternate Formulas for Vector Projections:}  If $\vec{v}$ and $\vec{w}$ are nonzero vectors then
+\begin{theorem} \label{altprojformulas} \textbf{Alternate Formulas for Vector Projections:}  If $\vec{v}$ and $\vec{w}$ are nonzero vectors then
 
 \[\text{proj}_{\vec{w}}(\vec{v}) = (\vec{v} \cdot \bm\hat{w}) \bm\hat{w} = \left(\dfrac{\vec{v} \cdot \vec{w}}{\| \vec{w}\|^2}\right) \vec{w} = \left(\dfrac{\vec{v} \cdot \vec{w}}{\vec{w} \cdot \vec{w}}\right) \vec{w} \]
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -755,7 +755,7 @@ The proof of Theorem \ref{altprojformulas}, which we leave to the reader as an e
 
 \smallskip
 
-\begin{ex} \label{projex}  Let $\vec{v} = \left<1,8\right>$ and $\vec{w} = \left<-1,2\right>$.  Find $\vec{p} = \text{proj}_{\vec{w}}(\vec{v})$.  Check your answer geometrically.
+\begin{example} \label{projex}  Let $\vec{v} = \left<1,8\right>$ and $\vec{w} = \left<-1,2\right>$.  Find $\vec{p} = \text{proj}_{\vec{w}}(\vec{v})$.  Check your answer geometrically.
 
 \smallskip
 
@@ -824,7 +824,7 @@ Since $\vec{v} = \left<1,8\right>$ and $\vec{p} = \left<-3,6\right>$,  $\vec{q} 
 
  \vspace{-0.25in} \qed
 
-\end{ex}
+\end{example}
 \smallskip
 
 In Example \ref{projex} above, writing $\vec{v} = \vec{p} + \vec{q}$ is an example of what is called a \index{decomposition ! vector}\index{vector decomposition}\textbf{vector decomposition} of $\vec{v}$.  We generalize this result in the following theorem.
@@ -833,9 +833,9 @@ In Example \ref{projex} above, writing $\vec{v} = \vec{p} + \vec{q}$ is an examp
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{generalizeddecompthm}  \textbf{Generalized Decomposition Theorem:} \index{vector ! Decomposition Theorem ! Generalized} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors.  There are unique vectors $\vec{p}$ and $\vec{q}$  such that $\vec{v} = \vec{p} + \vec{q}$ where $\vec{p} = k \vec{w}$ for some scalar $k$, and $\vec{q} \cdot \vec{w} = 0$.
+\begin{theorem} \label{generalizeddecompthm}  \textbf{Generalized Decomposition Theorem:} \index{vector ! Decomposition Theorem ! Generalized} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors.  There are unique vectors $\vec{p}$ and $\vec{q}$  such that $\vec{v} = \vec{p} + \vec{q}$ where $\vec{p} = k \vec{w}$ for some scalar $k$, and $\vec{q} \cdot \vec{w} = 0$.
 
-\end{thm}
+\end{theorem}
 
 
 \ebm}
@@ -920,13 +920,13 @@ Using Theorem \ref{dotproductgeo}, we can rewrite  $W = \vec{F} \cdot \overright
 \smallskip
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{workthm}\index{dot product ! work}\index{vector ! dot product ! work} \textbf{Work as a Dot Product:}  Suppose a constant force $\vec{F}$ is applied along the vector $\overrightarrow{PQ}$.  The work $W$ done by $\vec{F}$ is given by
+\begin{theorem} \label{workthm}\index{dot product ! work}\index{vector ! dot product ! work} \textbf{Work as a Dot Product:}  Suppose a constant force $\vec{F}$ is applied along the vector $\overrightarrow{PQ}$.  The work $W$ done by $\vec{F}$ is given by
 
 \[ W = \vec{F} \cdot \overrightarrow{PQ}  = \| \vec{F} \| \| \overrightarrow{PQ} \| \cos(\theta),\]
 
 where $\theta$ is the angle between $\vec{F}$ and $\overrightarrow{PQ}$.
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -936,7 +936,7 @@ We test out our formula for work in the following example.
 
 \smallskip
 
-\begin{ex}  \label{vectorworkex} Taylor exerts a force of $10$ pounds to pull her wagon a distance of $50$ feet over level ground.  If the handle of the wagon makes a $30^{\circ}$ angle with the horizontal, how much work did Taylor do pulling the wagon? Assume  the force of $10$ pounds is exerted at a $30^{\circ}$ angle for the duration of the $50$ feet.
+\begin{example}  \label{vectorworkex} Taylor exerts a force of $10$ pounds to pull her wagon a distance of $50$ feet over level ground.  If the handle of the wagon makes a $30^{\circ}$ angle with the horizontal, how much work did Taylor do pulling the wagon? Assume  the force of $10$ pounds is exerted at a $30^{\circ}$ angle for the duration of the $50$ feet.
 
 \begin{center}
 
@@ -977,7 +977,7 @@ Per Theorem \ref{workthm},  $W = \vec{F} \cdot \overrightarrow{PQ} = \left<5\sqr
   
  Alternatively, we can use the formula $W =  \| \vec{F} \| \| \overrightarrow{PQ} \| \cos(\theta)$.  With $\| \vec{F} \| = 10$ pounds, $\| \overrightarrow{PQ} \| = 50$ feet and $\theta = 30^{\circ}$, we get $W = (10 \, \text{pounds})(50 \, \text{feet}) \cos\left(30^{\circ}\right) = 250 \sqrt{3}$ foot-pounds of work. \qed
 
-\end{ex}
+\end{example}
 
 \newpage
 

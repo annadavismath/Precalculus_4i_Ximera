@@ -72,12 +72,12 @@ The component form of a vector is what ties these very geometric objects back to
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{componentformvector}  Suppose $\vec{v}$ is represented by a directed line segment with initial point $P\left(x_{\mbox{\tiny $0$}}, y_{\mbox{\tiny $0$}}\right)$ and terminal point $Q\left(x_{\mbox{\tiny $1$}}, y_{\mbox{\tiny $1$}}\right)$.  The \textbf{component form} of $\vec{v}$ is given by \index{component form of a vector}
+\begin{definition} \label{componentformvector}  Suppose $\vec{v}$ is represented by a directed line segment with initial point $P\left(x_{\mbox{\tiny $0$}}, y_{\mbox{\tiny $0$}}\right)$ and terminal point $Q\left(x_{\mbox{\tiny $1$}}, y_{\mbox{\tiny $1$}}\right)$.  The \textbf{component form} of $\vec{v}$ is given by \index{component form of a vector}
 
 \[ \vec{v} = \overrightarrow{PQ} = \left< x_{\mbox{\tiny $1$}} - x_{\mbox{\tiny $0$}}, y_{\mbox{\tiny $1$}} - y_{\mbox{\tiny $0$}} \right> \]
 
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -107,7 +107,7 @@ We now set about defining operations on vectors.  Suppose we are given two vecto
 Our next example makes good use of resultant vectors and reviews bearings and the Law of Cosines.\footnote{If necessary, review Sections \ref{bearings} and \ref{TheLawofCosines}.}  
 
 
-\begin{ex} \label{vectorbearingex}  A plane leaves an airport with an airspeed\footnote{That is, the speed of the plane relative to the air around it. If there were no wind, plane's airspeed would be the same as its speed as observed from the ground.  How does wind affect this?  Keep reading!}  of 175 miles per hour at a  bearing of  N$40^{\circ}$E.  A 35 mile per hour wind is blowing at a bearing of S$60^{\circ}$E.  Find the true speed of the plane, rounded to the nearest mile per hour,  and the true bearing of the plane, rounded to the nearest degree.
+\begin{example} \label{vectorbearingex}  A plane leaves an airport with an airspeed\footnote{That is, the speed of the plane relative to the air around it. If there were no wind, plane's airspeed would be the same as its speed as observed from the ground.  How does wind affect this?  Keep reading!}  of 175 miles per hour at a  bearing of  N$40^{\circ}$E.  A 35 mile per hour wind is blowing at a bearing of S$60^{\circ}$E.  Find the true speed of the plane, rounded to the nearest mile per hour,  and the true bearing of the plane, rounded to the nearest degree.
 
 {\bf Solution:} For both the plane and the wind, we are given their speeds and their directions.  Coupling speed (as a magnitude) with direction is the concept of \textit{velocity} which we've seen a few times before.\footnote{See Section \ref{circularmotion}, for instance.} 
 
@@ -209,22 +209,22 @@ From the Law of Cosines, we determine $c = \sqrt{31850 - 12250\cos(100^{\circ})}
  
  Given the geometry of the situation, we add $\alpha$ to the given $40^{\circ}$ and find the true bearing of the plane to be (approximately) N$51^{\circ}$E. \qed
 
-\end{ex}
+\end{example}
 
 Our next step is to define addition of vectors component-wise to match the geometric action.\footnote{Adding vectors `component-wise' should seem hauntingly familiar.  Compare this with how matrix addition was defined in section \ref{MatArithmetic}. In more advanced courses. chief among them Linear Algebra, vectors are actaually \textit{defined} as $1\times n$ or $n \times 1$ matrices, depending on the situation.}
 
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{vectoradd}  Suppose $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ and $\vec{w} = \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right>$.  The vector $\vec{v} + \vec{w}$ is defined by \index{vector ! addition ! definition of}
+\begin{definition} \label{vectoradd}  Suppose $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ and $\vec{w} = \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right>$.  The vector $\vec{v} + \vec{w}$ is defined by \index{vector ! addition ! definition of}
 
 \[ \vec{v} + \vec{w}  = \left< v_{\mbox{\tiny $1$}} + w_{\mbox{\tiny $1$}}, v_{\mbox{\tiny $2$}} + w_{\mbox{\tiny $2$}} \right> \]
 
 
-\end{defn}
+\end{definition}
 \ebm}
 
-\begin{ex}  \label{vectoraddex}  Let  $\vec{v} = \left<3,4\right>$ and suppose  $\vec{w} = \overrightarrow{PQ}$ where $P(-3,7)$ and $Q(-2,5)$.  Find $\vec{v} + \vec{w}$ and interpret this sum geometrically.
+\begin{example}  \label{vectoraddex}  Let  $\vec{v} = \left<3,4\right>$ and suppose  $\vec{w} = \overrightarrow{PQ}$ where $P(-3,7)$ and $Q(-2,5)$.  Find $\vec{v} + \vec{w}$ and interpret this sum geometrically.
 
 \medskip
 
@@ -260,7 +260,7 @@ To visualize this sum, we draw $\vec{v}$ with its initial point at $(0,0)$ (for 
 
 We see the vector $\vec{v} + \vec{w}$ has initial point $(0,0)$ and terminal point $(4,2)$ so its component form  is $\left<4,2\right>$. \qed
 
-\end{ex}
+\end{example}
 
 In order for vector addition to enjoy the same kinds of properties as real number addition, it is necessary to extend our definition of vectors to include a `zero vector', $\vec{0} = \left<0, 0\right>$.  
 
@@ -275,7 +275,7 @@ Geometrically,  $\vec{0}$ represents a point, which we can (very broadly) think 
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{vectoradditionprops}  \textbf{Properties of Vector Addition} \index{vector ! addition ! properties of}
+\begin{theorem} \label{vectoradditionprops}  \textbf{Properties of Vector Addition} \index{vector ! addition ! properties of}
 \begin{itemize}
 
 \item  \textbf{Commutative Property:}  For all vectors $\vec{v} \text{ and } \vec{w}$, $\vec{v} + \vec{w} = \vec{w} + \vec{v}$. \index{vector ! addition ! commutative property}\index{commutative property ! vector ! addition}
@@ -291,7 +291,7 @@ The vector $\vec{0}$ acts as the additive identity for vector addition.
 That is, the additive inverse of a vector is the vector of the additive inverses of its components.
 
 \end{itemize}
-\end{thm}
+\end{theorem}
 \ebm}
 
 
@@ -453,9 +453,9 @@ Next, we discuss \textit{scalar} multiplication -- that is, taking a real number
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{scalarmultvector} \index{vector ! scalar multiplication ! definition of} \index{scalar multiplication ! vector ! definition of} If $k$ is a real number and $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$, we define $k\vec{v}$ by \[k\vec{v} = k\left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right> =\left<k v_{\mbox{\tiny $1$}},k v_{\mbox{\tiny $2$}}\right> \]
+\begin{definition} \label{scalarmultvector} \index{vector ! scalar multiplication ! definition of} \index{scalar multiplication ! vector ! definition of} If $k$ is a real number and $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$, we define $k\vec{v}$ by \[k\vec{v} = k\left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right> =\left<k v_{\mbox{\tiny $1$}},k v_{\mbox{\tiny $2$}}\right> \]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -486,7 +486,7 @@ Note  by definition \ref{scalarmultvector}, $(-1)\vec{v} = (-1)\left<v_{\mbox{\t
 
 \smallskip
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \label{vectorscalarmultprops}\textbf{Properties of Scalar Multiplication} \index{vector ! scalar multiplication ! properties of} \index{scalar multiplication ! vector ! properties of}
+\begin{theorem}  \label{vectorscalarmultprops}\textbf{Properties of Scalar Multiplication} \index{vector ! scalar multiplication ! properties of} \index{scalar multiplication ! vector ! properties of}
 
 \begin{itemize}
 
@@ -510,7 +510,7 @@ For all vectors $\vec{v}$ and $\vec{w}$ and scalars $k$, \[k(\vec{v}+\vec{w}) = 
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 \smallskip
 
@@ -537,7 +537,7 @@ Our next example demonstrates how Theorem \ref{vectorscalarmultprops} allows us 
 
 
 
-\begin{ex} \label{vectoreqnex}  Solve $5\vec{v} - 2\left(\vec{v} + \left<1,-2\right>\right) = \vec{0}$ for $\vec{v}$.
+\begin{example} \label{vectoreqnex}  Solve $5\vec{v} - 2\left(\vec{v} + \left<1,-2\right>\right) = \vec{0}$ for $\vec{v}$.
 
 \medskip
 
@@ -567,7 +567,7 @@ Our next example demonstrates how Theorem \ref{vectorscalarmultprops} allows us 
 The reader is invited to check our solution in the original equation.  \qed
 
 
-\end{ex}
+\end{example}
 
 A vector whose initial point is $(0,0)$ is said to be in \index{vector ! standard position} \index{standard position of a vector} \textbf{standard position}.  If $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ is plotted in standard position, then its terminal point is necessarily $\left(v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right)$. (Once more, think about this before reading on.)  
 
@@ -612,7 +612,7 @@ This motivates the following definition.
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{polarformvector}  Suppose $\vec{v}$ is a vector with component form $\vec{v} =\left< v_{\mbox{\tiny $1$}} , v_{\mbox{\tiny $2$}}  \right>$.  Let $\theta$ be an angle in standard position whose terminal side contains the point $\left(v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right)$.
+\begin{definition} \label{polarformvector}  Suppose $\vec{v}$ is a vector with component form $\vec{v} =\left< v_{\mbox{\tiny $1$}} , v_{\mbox{\tiny $2$}}  \right>$.  Let $\theta$ be an angle in standard position whose terminal side contains the point $\left(v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right)$.
 
 \begin{itemize}
 
@@ -624,7 +624,7 @@ This motivates the following definition.
 
 Taken together, we get $\vec{v} =  \left< \| \vec{v} \| \cos(\theta), \| \vec{v} \| \sin(\theta) \right>$.
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -647,7 +647,7 @@ The following theorem summarizes the important facts about the magnitude and dir
 
 
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \label{magdirprops}  \textbf{Properties of Magnitude and Direction}: Suppose $\vec{v}$ is a vector. \index{vector ! magnitude ! properties of} \index{vector ! direction ! properties of}
+\begin{theorem}  \label{magdirprops}  \textbf{Properties of Magnitude and Direction}: Suppose $\vec{v}$ is a vector. \index{vector ! magnitude ! properties of} \index{vector ! direction ! properties of}
 
 \begin{itemize}
 
@@ -659,7 +659,7 @@ The following theorem summarizes the important facts about the magnitude and dir
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \smallskip
 
@@ -695,7 +695,7 @@ The formula for   $\bm\hat{v}$ stated  in Theorem \ref{magdirprops}  is a conseq
 
 \newpage
 
-\begin{ex} \label{polarformvecex} $~$
+\begin{example} \label{polarformvecex} $~$
 
 \begin{enumerate}
 
@@ -800,14 +800,14 @@ For a third way to show $\| \bm\hat{w} \| = 1$, we can appeal to Definition \ref
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Note that the second and third solutions to number \ref{preludetounitvector} in Example \ref{polarformvecex} above work for \textit{any} nonzero vector, $\vec{w}$.  We will have more to say about this shortly.
 
 The process exemplified by number \ref{resolvecomponents} in Example \ref{polarformvecex} above by which we take information about the magnitude and direction of a vector and find the component form of a vector is called \textbf{resolving} a vector into its components.  As an application of this process, we revisit Example \ref{vectorbearingex} below.
 
 
-\begin{ex} \label{vectorbearingexresolve}  A plane leaves an airport with an airspeed of 175 miles per hour with bearing N$40^{\circ}$E.  A 35 mile per hour wind is blowing at a bearing of S$60^{\circ}$E.  Find the true speed of the plane, rounded to the nearest mile per hour,  and the true bearing of the plane, rounded to the nearest degree.
+\begin{example} \label{vectorbearingexresolve}  A plane leaves an airport with an airspeed of 175 miles per hour with bearing N$40^{\circ}$E.  A 35 mile per hour wind is blowing at a bearing of S$60^{\circ}$E.  Find the true speed of the plane, rounded to the nearest mile per hour,  and the true bearing of the plane, rounded to the nearest degree.
 
 \smallskip
 
@@ -901,16 +901,16 @@ so using the arctangent function,\footnote{We could just have easily used arcsin
 \vspace{-.25in}
 \qed
 
-\end{ex}
+\end{example}
 
 In part \ref{preludetounitvector} of Example \ref{polarformvecex}, we saw that the length of the direction vector, $\bm\hat{w}$,  $\| \bm\hat{w} \| = 1$.  Vectors of length $1$  play such an important role that they are given a special name.
 
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{unitvectordefn} \index{vector ! unit vector} \index{unit vector} \textbf{Unit Vectors:}   Let $\vec{v}$ be a vector. If $\| \vec{v} \| = 1$, we say that $\vec{v}$ is a \textbf{unit vector}.
+\begin{definition} \label{unitvectordefn} \index{vector ! unit vector} \index{unit vector} \textbf{Unit Vectors:}   Let $\vec{v}$ be a vector. If $\| \vec{v} \| = 1$, we say that $\vec{v}$ is a \textbf{unit vector}.
 
-\end{defn}
+\end{definition}
 \ebm}
 \smallskip
 
@@ -966,7 +966,7 @@ Of all of the unit vectors, two deserve special mention.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{ihatjhatdefn}  \textbf{The Principal Unit Vectors:} $~$ \index{vector ! principal unit vectors, $\bm\hat{\text{i}}$, $\bm\hat{\text{j}}$} \index{principal unit vectors, $\bm\hat{\text{i}}$, $\bm\hat{\text{j}}$} 
+\begin{definition} \label{ihatjhatdefn}  \textbf{The Principal Unit Vectors:} $~$ \index{vector ! principal unit vectors, $\bm\hat{\text{i}}$, $\bm\hat{\text{j}}$} \index{principal unit vectors, $\bm\hat{\text{i}}$, $\bm\hat{\text{j}}$} 
 
 \begin{itemize}
 
@@ -978,7 +978,7 @@ Of all of the unit vectors, two deserve special mention.
 
 \smallskip
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -990,12 +990,12 @@ Geometrically, in the $xy$-plane, the vector $\bm\hat{\text{i}}$ as represents t
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{ijdecomp}  \textbf{Principal Vector Decomposition Theorem:} 
+\begin{theorem} \label{ijdecomp}  \textbf{Principal Vector Decomposition Theorem:} 
 
  Let $\vec{v}$ be a vector with component form  $\vec{v} = \left< v_{\mbox{\tiny $1$}} ,v_{\mbox{\tiny $2$}}\right>$. Then $\vec{v} = v_{\mbox{\tiny $1$}} \bm\hat{\text{i}} + v_{\mbox{\tiny $2$}} \bm\hat{\text{j}}$. \index{vector ! Decomposition Theorem ! Principal}
 
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -1041,7 +1041,7 @@ We conclude this section with a classic example which demonstrates how vectors a
 
  The following example uses all of the concepts in this section, and should be studied in great detail.
 
-\begin{ex} \label{forceex}  A $50$ pound speaker is  suspended from the ceiling by two support braces.   If one of them makes a $60^{\circ}$ angle with the ceiling and the other makes a $30^{\circ}$ angle with the ceiling, what are the tensions on each of the supports?
+\begin{example} \label{forceex}  A $50$ pound speaker is  suspended from the ceiling by two support braces.   If one of them makes a $60^{\circ}$ angle with the ceiling and the other makes a $30^{\circ}$ angle with the ceiling, what are the tensions on each of the supports?
 
 
 {\bf Solution.}  We represent the problem schematically below along with  the corresponding vector diagram. 
@@ -1148,7 +1148,7 @@ From $(E1)$, we get $\| \vec{T_{\text{\tiny $1$}}} \| = \| \vec{T_{\text{\tiny $
 \smallskip
 
 Solving, we get  $2\| \vec{T_{\text{\tiny $2$}}} \| - 50 =0$, so  $\| \vec{T_{\text{\tiny $2$}}} \| = 25$ pounds.  Hence,   $\| \vec{T_{\text{\tiny $1$}}} \| = \| \vec{T_{\text{\tiny $2$}}} \| \sqrt{3} = 25 \sqrt{3}$ pounds.   \qed
-\end{ex}
+\end{example}
 
 
 Note that the sum of the tensions on the wires in Example \ref{forceex} exceed the $50$ pounds of the speaker.  Explaining why this happens is a good exercise and gets at the heart of the concept of vectors and resolution of forces.  Speaking of exercises \ldots

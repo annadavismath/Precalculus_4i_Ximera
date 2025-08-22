@@ -19,13 +19,13 @@ If we add, subtract, or multiply polynomial functions, the result is another pol
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{rationalfunction} A \textbf{rational function} is a function which is the ratio of polynomial functions.  Said differently, $r$ is a rational function if it is of the form \index{function ! rational}
+\begin{definition}  \label{rationalfunction} A \textbf{rational function} is a function which is the ratio of polynomial functions.  Said differently, $r$ is a rational function if it is of the form \index{function ! rational}
 
 \[ r(x) = \dfrac{p(x)}{q(x)},\]
 
 where $p$ and $q$ are polynomial functions.\footnote{According to this definition, all polynomial functions are also  rational functions. (Take $q(x) = 1$).}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -36,9 +36,9 @@ As with polynomial functions, we begin our study of rational functions with what
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{laurentmonomialfunction} A \textbf{Laurent monomial function} is either a monomial function (see Definition \ref{monomialfunction}) or a function of the form $f(x) = \dfrac{a}{x^n} = ax^{-n}$ for $n \in \mathbb{N}$.
+\begin{definition}  \label{laurentmonomialfunction} A \textbf{Laurent monomial function} is either a monomial function (see Definition \ref{monomialfunction}) or a function of the form $f(x) = \dfrac{a}{x^n} = ax^{-n}$ for $n \in \mathbb{N}$.
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -115,9 +115,9 @@ The way we describe what is happening graphically is to say the line $x = 0$ is 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{va} The line $x=c$ is called a \index{asymptote ! vertical ! formal definition of}\index{vertical asymptote ! formal definition of}\textbf{vertical asymptote} of the graph of a function $y=f(x)$  if either of the limits $\ds{ \lim_{x \rightarrow c^{-}} f(x)}$ or  $\ds{ \lim_{x \rightarrow c^{+}} f(x)}$ (or both) result in $\infty$ or $-\infty$.
+\begin{definition} \label{va} The line $x=c$ is called a \index{asymptote ! vertical ! formal definition of}\index{vertical asymptote ! formal definition of}\textbf{vertical asymptote} of the graph of a function $y=f(x)$  if either of the limits $\ds{ \lim_{x \rightarrow c^{-}} f(x)}$ or  $\ds{ \lim_{x \rightarrow c^{+}} f(x)}$ (or both) result in $\infty$ or $-\infty$.
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \medskip
@@ -125,8 +125,8 @@ The way we describe what is happening graphically is to say the line $x = 0$ is 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{ha} The line $y=c$ is called a \index{asymptote ! horizontal ! formal definition of}\index{horizontal asymptote ! formal definition of}\textbf{horizontal asymptote} of the graph of a function $y=f(x)$ either  $\ds{ \lim_{x \rightarrow -\infty} f(x)=c}$ or  $\ds{ \lim_{x \rightarrow \infty} f(x)=c}$ (or both).
-\end{defn}
+\begin{definition} \label{ha} The line $y=c$ is called a \index{asymptote ! horizontal ! formal definition of}\index{horizontal asymptote ! formal definition of}\textbf{horizontal asymptote} of the graph of a function $y=f(x)$ either  $\ds{ \lim_{x \rightarrow -\infty} f(x)=c}$ or  $\ds{ \lim_{x \rightarrow \infty} f(x)=c}$ (or both).
+\end{definition}
 \ebm}
 
 \medskip
@@ -268,7 +268,7 @@ Not surprisingly, we have an analog to Theorem \ref{linearmononialgraphs} for th
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{linearlaurentlgraphs}  For real numbers $a$, $h$, and $k$ with $a \neq 0$, the graph of $F(x) = \frac{a}{(x-h)^n}+k =  a(x-h)^{-n}+k$  can be obtained from the graph of $f(x) = \frac{1}{x^n}= x^{-n}$ by performing the following operations, in sequence:
+\begin{theorem} \label{linearlaurentlgraphs}  For real numbers $a$, $h$, and $k$ with $a \neq 0$, the graph of $F(x) = \frac{a}{(x-h)^n}+k =  a(x-h)^{-n}+k$  can be obtained from the graph of $f(x) = \frac{1}{x^n}= x^{-n}$ by performing the following operations, in sequence:
 
 \begin{enumerate}
 
@@ -290,7 +290,7 @@ The  horizontal asymptote moves from $y=0$ to $y=k$.
 
 \end{enumerate}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -300,7 +300,7 @@ The proof of Theorem \ref{linearlaurentlgraphs} is \textbf{identical} to the pro
 
 We put Theorem \ref{linearlaurentlgraphs} to good use in the following example.
 
-\begin{ex} \label{linearlaurentex} Use Theorem \ref{linearlaurentlgraphs} to graph the following.  Label at least two points and the asymptotes.  State the domain and range using interval notation.
+\begin{example} \label{linearlaurentex} Use Theorem \ref{linearlaurentlgraphs} to graph the following.  Label at least two points and the asymptotes.  State the domain and range using interval notation.
 
 
 \begin{multicols}{2}
@@ -571,7 +571,7 @@ As above, we determine the domain and range of $g$ by tracking the changes in th
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 In Example \ref{linearlaurentex}, we once again see the benefit of changing the form of a function to make use of an important result.  A natural question to ask is to what extent general rational functions can be rewritten to use Theorem \ref{linearlaurentlgraphs}.  In the same way polynomial functions are sums of monomial functions, it turns out, allowing for non-real number coefficients,  that every rational function can be written as a sum of (possibly shifted) Laurent monomial functions.\footnote{i.e.,  Laurent `Polynomials.'  This result is a combination of Theorems \ref{complexfactorization} in  Section \ref{ComplexZeros} and Theorem \ref{pfdecomp} in Section \ref{ParFrac}.}
 
@@ -580,7 +580,7 @@ In Example \ref{linearlaurentex}, we once again see the benefit of changing the 
 
 We take time now to focus on behaviors of the graphs of rational functions near excluded values.  We've already seen examples of one type of behavior:  vertical asymptotes.  Our next example gives us a physical interpretation of a vertical asymptote.  This type of model arises from a family of equations cheerily named `doomsday' equations.\footnote{These functions arise in Differential Equations.  The unfortunate name will make sense shortly.}  
 
-\begin{ex}  \label{doomsdaypopex} A mathematical model for the population $P(t)$, in thousands, of a certain species of bacteria, $t$ days after it is introduced to an environment is given by $P(t) = \frac{100}{(5-t)^{2}}$, $0 \leq t < 5$.
+\begin{example}  \label{doomsdaypopex} A mathematical model for the population $P(t)$, in thousands, of a certain species of bacteria, $t$ days after it is introduced to an environment is given by $P(t) = \frac{100}{(5-t)^{2}}$, $0 \leq t < 5$.
 
 
 \begin{enumerate}
@@ -658,7 +658,7 @@ We take time now to focus on behaviors of the graphs of rational functions near 
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Will all  values excluded from the domain of a rational function produce vertical asymptotes in the graph?  The short answer is `no.'  There are milder interruptions that can occur - holes in the graph - which we explore in our next example.  
 
@@ -670,10 +670,10 @@ Suppose we have a position function $s$ defined over an interval containing some
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{averagevelocitydefn} Let $s(t)$ be the position of an object at time $t$ and $t_{0}$ be a fixed time in the domain of $s$.  The \index{average velocity}\index{velocity ! average}\textbf{average velocity} between time $t$ and time $t_{0}$  for $t \neq t_{0}$ is given by
+\begin{definition} \label{averagevelocitydefn} Let $s(t)$ be the position of an object at time $t$ and $t_{0}$ be a fixed time in the domain of $s$.  The \index{average velocity}\index{velocity ! average}\textbf{average velocity} between time $t$ and time $t_{0}$  for $t \neq t_{0}$ is given by
 
 \[ \overline{v}(t) = \dfrac{\Delta [s(t)]}{\Delta t} = \dfrac{s(t) - s(t_{0})}{t - t_{0}}. \]
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -681,7 +681,7 @@ Suppose we have a position function $s$ defined over an interval containing some
 
 We must exclude $t = t_{0}$ from the domain of $\overline{v}$ in Definition \ref{averagevelocitydefn} since, otherwise, we would have a $0$ in the denominator.  What is interesting in this case however, is that substituting $t = t_{0}$ also produces $0$ in the \textbf{numerator}. (Do you see why?)  While `$\frac{0}{0}$' is undefined, it is more precisely called an `indeterminate form' and is studied extensively in Calculus.  We explore this phenomenon  in the next example.
 
-\begin{ex} \label{averagevelocityrocketex} Let $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ give the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  
+\begin{example} \label{averagevelocityrocketex} Let $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ give the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  
 
 \begin{enumerate}
 
@@ -766,7 +766,7 @@ $\begin{array}{|r||c|}  \hline
 
 \qed
 
-\end{ex} 
+\end{example} 
 
 Some notes about Example \ref{averagevelocityrocketex}  are in order.  First, excluded values from the domain of a rational function don't necessarily cause vertical asymptotes in the graph.  Even though  $\overline{v}(15)$  doesn't exist, the fact that  $\ds{ \lim_{t \rightarrow 15} \overline{v}(t) = -50}$ means that we \textbf{expect} $\overline{v}(15)$ to be $-50$.This sentiment is exactly what a hole in the graph at $(15, -50)$ communicates.
 
@@ -777,7 +777,7 @@ We will revisit these sorts of machinations later in the text in a bit more gene
 Our next theorem generalizes our reasoning from this last example.
  
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \textbf{Location of Vertical Asymptotes and Holes:}\footnote{Or, `How to tell your asymptote from a hole in the graph.'}  \label{vavshole}  Suppose $r$ is a rational function and $c$ is not in the domain of $r$.\index{hole ! location of} \index{asymptote ! vertical ! location of} \index{vertical asymptote ! location of}
+\begin{theorem}  \textbf{Location of Vertical Asymptotes and Holes:}\footnote{Or, `How to tell your asymptote from a hole in the graph.'}  \label{vavshole}  Suppose $r$ is a rational function and $c$ is not in the domain of $r$.\index{hole ! location of} \index{asymptote ! vertical ! location of} \index{vertical asymptote ! location of}
 
 \begin{itemize}
 
@@ -787,7 +787,7 @@ Our next theorem generalizes our reasoning from this last example.
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -803,7 +803,7 @@ If $p(c) = 0$, then  as $x \rightarrow c$, $r(x)  = \frac{p(x)}{q(x)} \rightarro
 We practice this methodology in the following example.
 
 
-\begin{ex}  \label{vavsholeexample}  For each function below:
+\begin{example}  \label{vavsholeexample}  For each function below:
 
 \begin{itemize}
 
@@ -890,14 +890,14 @@ The graph of $y=h(t)$  \hspace{0.75in} & The graph of $y=r(t)$ \\
 
 \end{enumerate}
 \qed
-\end{ex}
+\end{example}
 
 \subsection{End Behavior}
 \label{ebrationalsection}
 
 Now that we've  discussed behavior near values excluded from the domains of rational functions, let's focus our attention on  end behavior.  We have already seen one example of this in the form of horizontal asymptotes.  Our next example of the section gives us a real-world application of a horizontal asymptote.\footnote{Though the population below is more accurately modeled with the functions in Chapter \ref{ExponentialandLogarithmicFunctions}, we approximate it (using Calculus, of course!) using a rational function.}
 
-\begin{ex}  \label{fluex} The number of students $N(t)$ at local college who have had the flu $t$ months after the semester begins can be modeled by: \[ N(t) = \dfrac{1500t + 50}{3t+1},  \quad t \geq 0.\]
+\begin{example}  \label{fluex} The number of students $N(t)$ at local college who have had the flu $t$ months after the semester begins can be modeled by: \[ N(t) = \dfrac{1500t + 50}{3t+1},  \quad t \geq 0.\]
 
 \begin{enumerate}
 
@@ -974,7 +974,7 @@ Using Theorem \ref{linearlaurentlgraphs}, we start with the graph of $y = \frac{
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
  
  We determined the horizontal asymptote to the graph of $y = N(t)$ in Example \ref{fluex} by rewriting $N(t)$ into a form compatible with Theorem  \ref{linearlaurentlgraphs}, and while there is nothing wrong with this approach, it will simply not work for general rational functions which cannot be rewritten this way.  To that end, we revisit this problem using Theorem \ref{EBPolynomials} from Section \ref{GraphsofPolynomials}.  The end behavior of the numerator of $N(t) = \frac{1500t + 50}{3t+1}$ is determined by its leading term,  $1500t$,  and the end behavior of the denominator is likewise determined  by its leading term, $3t$.  Hence, as $t \rightarrow  \infty$:
  
@@ -985,7 +985,7 @@ Hence $\ds{\lim_{t \rightarrow  \infty} N(t) = 500}$ so  $y = 500$ is the horizo
 \smallskip
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \index{asymptote ! horizontal ! location of}\index{horizontal asymptote ! location of}\textbf{Location of Horizontal Asymptotes:}\label{hathm} Suppose $r$ is a rational function and $r(x) = \frac{p(x)}{q(x)}$, where $p$ and $q$ are polynomial functions with leading coefficients $a$ and $b$, respectively. 
+\begin{theorem} \index{asymptote ! horizontal ! location of}\index{horizontal asymptote ! location of}\textbf{Location of Horizontal Asymptotes:}\label{hathm} Suppose $r$ is a rational function and $r(x) = \frac{p(x)}{q(x)}$, where $p$ and $q$ are polynomial functions with leading coefficients $a$ and $b$, respectively. 
 
 \begin{itemize}
 
@@ -997,7 +997,7 @@ Hence $\ds{\lim_{t \rightarrow  \infty} N(t) = 500}$ so  $y = 500$ is the horizo
 
 
 \end{itemize}
-\end{thm}
+\end{theorem}
 \ebm}
 \smallskip
 
@@ -1015,7 +1015,7 @@ Note that in the two cases which produce horizontal asymptotes, the behavior of 
 
 We put Theorem \ref{hathm}  to good use in the following example.
  
-\begin{ex} \label{haexample} For each function below:
+\begin{example} \label{haexample} For each function below:
 
 \begin{itemize}
 
@@ -1102,7 +1102,7 @@ The graph of $y=h(t)$  & The graph of $y=r(x)$ \\
 
 \qed
 
-\end{ex}
+\end{example}
 
 
 We close this section with a discussion of the \textbf{third} (and final!) kind of asymptote which can be associated with the graphs of rational functions. Let us return to the function $g(x) = \frac{x^2-4}{x+1}$ in Example \ref{haexample}. Performing long division,\footnote{See the remarks following Theorem \ref{hathm}.} we get $g(x) = \frac{x^2-4}{x+1} = x-1 - \frac{3}{x+1}$.  Since the term $\frac{3}{x+1} \rightarrow 0$ as $x \rightarrow - \infty$ and as $x \rightarrow  \infty$ , it stands to reason that as $x$ becomes unbounded, the function values   $g(x) = x-1 - \frac{3}{x+1} \approx x-1$.  Geometrically, this means that the graph of $y=g(x)$ should resemble the line $y = x-1$ as $x \rightarrow  -\infty$ and $x \rightarrow \infty$.  We see this play out both numerically and graphically below. (As usual, the asymptote $y = x-1$ is denoted by a dashed line.)
@@ -1146,10 +1146,10 @@ The way we symbolize the relationship between the end behavior of $y=g(x)$ with 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{sa} The line $y = mx+b$ where $m \neq 0$  is called a \index{asymptote ! slant ! formal definition of}\index{slant asymptote ! formal definition of}\textbf{slant asymptote} of the graph of a function $y=f(x)$ if as $x \rightarrow -\infty$ or as $x \rightarrow \infty$, $f(x)  \rightarrow mx+b$.
+\begin{definition} \label{sa} The line $y = mx+b$ where $m \neq 0$  is called a \index{asymptote ! slant ! formal definition of}\index{slant asymptote ! formal definition of}\textbf{slant asymptote} of the graph of a function $y=f(x)$ if as $x \rightarrow -\infty$ or as $x \rightarrow \infty$, $f(x)  \rightarrow mx+b$.
 
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \medskip
@@ -1164,9 +1164,9 @@ Secondly, while we have motivated what me mean intuitively by the notation `$f(x
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{sareprise} The line $y = mx+b$ where $m \neq 0$  is called a \index{asymptote ! slant ! formal definition of}\index{slant asymptote ! formal definition of}\textbf{slant asymptote} of the graph of a function $y=f(x)$ if either $\ds{\lim_{x \rightarrow -\infty} [f(x) - (mx+b)] = 0}$ or $\ds{\lim_{x \rightarrow \infty} [f(x) - (mx+b)] = 0}$ (or both!).
+\begin{definition} \label{sareprise} The line $y = mx+b$ where $m \neq 0$  is called a \index{asymptote ! slant ! formal definition of}\index{slant asymptote ! formal definition of}\textbf{slant asymptote} of the graph of a function $y=f(x)$ if either $\ds{\lim_{x \rightarrow -\infty} [f(x) - (mx+b)] = 0}$ or $\ds{\lim_{x \rightarrow \infty} [f(x) - (mx+b)] = 0}$ (or both!).
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \medskip
@@ -1178,16 +1178,16 @@ Our next task is to determine the conditions under which the graph of a rational
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \textbf{Determination of Slant Asymptotes:} \label{sathm} Suppose $r$ is a rational function and $r(x) = \frac{p(x)}{q(x)}$, where the degree of $p$ is \textbf{exactly} one more than the degree of $q$.  Then the graph of $y=r(x)$ has \index{asymptote ! slant ! determination of}\index{slant asymptote ! determination of} the slant asymptote $y=L(x)$ where $L(x)$ is the quotient obtained by dividing $p(x)$ by $q(x)$.
+\begin{theorem} \textbf{Determination of Slant Asymptotes:} \label{sathm} Suppose $r$ is a rational function and $r(x) = \frac{p(x)}{q(x)}$, where the degree of $p$ is \textbf{exactly} one more than the degree of $q$.  Then the graph of $y=r(x)$ has \index{asymptote ! slant ! determination of}\index{slant asymptote ! determination of} the slant asymptote $y=L(x)$ where $L(x)$ is the quotient obtained by dividing $p(x)$ by $q(x)$.
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
 
 In the same way that Theorem \ref{hathm} gives us an easy way to see if the graph of a rational function $r(x) = \frac{p(x)}{q(x)}$ has a horizontal asymptote by comparing the degrees of the numerator and denominator, Theorem \ref{sathm} gives us an easy way to check for slant asymptotes.  Unlike Theorem \ref{hathm}, which gives us a quick way to \textbf{find} the horizontal asymptotes (if any exist), Theorem \ref{sathm} gives us no such `short-cut'.  If a slant asymptote exists, we have no recourse but to use long division to find it.\footnote{That's OK, though.  In the next section, we'll use long division to analyze end behavior and it's worth the effort!}  
 
-\begin{ex} \label{saexample}  For each of the following functions:
+\begin{example} \label{saexample}  For each of the following functions:
 
 \begin{itemize}
 
@@ -1276,13 +1276,13 @@ The graph of $y=h(x)$  & The graph of $y=r(t)$ \\
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Our last example gives a real-world application of a slant asymptote. The problem features the concept of \textbf{average profit}. The average profit, denoted $\overline{P}(x)$,  is the total profit, $P(x)$,  divided by the number of items sold, $x$. In English, the average profit tells us the profit made per item sold. It, along with average cost, is defined below.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{averagecostprofit} Let $C(x)$ and $P(x)$ represent the cost and profit to make and sell $x$ items, respectively.
+\begin{definition} \label{averagecostprofit} Let $C(x)$ and $P(x)$ represent the cost and profit to make and sell $x$ items, respectively.
 
 \begin{itemize}
 
@@ -1296,13 +1296,13 @@ Our last example gives a real-world application of a slant asymptote. The proble
 
 \end{itemize}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
 You'll explore average cost (and its relation to variable cost) in Exercise \ref{averagevariablecostexercise}.  For now, we refer the reader to to Example \ref{PortaBoyProfit}  in Section \ref{QuadraticFunctions}.
 
-\begin{ex} \label{PortaBoyAverageProfit}  Recall the profit (in dollars) when $x$ PortaBoy game systems are produced and sold is given by $P(x) =  -1.5x^2+170x-150$, $0 \leq x \leq 166$.
+\begin{example} \label{PortaBoyAverageProfit}  Recall the profit (in dollars) when $x$ PortaBoy game systems are produced and sold is given by $P(x) =  -1.5x^2+170x-150$, $0 \leq x \leq 166$.
 
 \begin{enumerate}
 
@@ -1339,7 +1339,7 @@ You'll explore average cost (and its relation to variable cost) in Exercise \ref
 \end{enumerate}
 
 
-\end{ex}
+\end{example}
 
 \newpage
 

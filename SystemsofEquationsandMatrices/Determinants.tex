@@ -26,8 +26,8 @@ To explain how we will take an $n \times n$ matrix and distill an $(n-1) \times 
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{defn} \label{Aijdefn} Given an $n \times n$ matrix $A$ where $n>1$, the matrix $A_{ij}$ is the $(n-1) \times (n-1)$ matrix formed by deleting the $i$th row of $A$ and the $j$th column of $A$. 
-\end{defn}
+\begin{definition} \label{Aijdefn} Given an $n \times n$ matrix $A$ where $n>1$, the matrix $A_{ij}$ is the $(n-1) \times (n-1)$ matrix formed by deleting the $i$th row of $A$ and the $j$th column of $A$. 
+\end{definition}
 \ebm}
 
 \smallskip
@@ -52,7 +52,7 @@ We are now in the position to define the determinant of a matrix.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{determinantdefn} \index{matrix ! determinant ! definition of} \index{determinant of a matrix ! definition of} Given an $n \times n$ matrix $A$ the \textbf{determinant of \boldmath $A$}, denoted $\det(A)$, is defined as follows
+\begin{definition} \label{determinantdefn} \index{matrix ! determinant ! definition of} \index{determinant of a matrix ! definition of} Given an $n \times n$ matrix $A$ the \textbf{determinant of \boldmath $A$}, denoted $\det(A)$, is defined as follows
 
 \begin{itemize}
 
@@ -62,7 +62,7 @@ We are now in the position to define the determinant of a matrix.
 
 \end{itemize}
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -126,7 +126,7 @@ To evaluate the determinant of a $4 \times 4$ matrix, we would have to evaluate 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{minorcofactordefn} Let $A$ be an $n \times n$ matrix and $A_{ij}$ be defined as in Definition \ref{Aijdefn}.  
+\begin{definition}  \label{minorcofactordefn} Let $A$ be an $n \times n$ matrix and $A_{ij}$ be defined as in Definition \ref{Aijdefn}.  
 
 \begin{itemize}
 
@@ -136,7 +136,7 @@ To evaluate the determinant of a $4 \times 4$ matrix, we would have to evaluate 
 
 \end{itemize}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -160,7 +160,7 @@ We are now ready to state our main theorem concerning determinants.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{determinantprops}  \textbf{Properties of the Determinant:} Let $A = \left[a_{ij}\right]_{n \times n}$. \index{determinant of a matrix ! properties of} \index{matrix ! determinant ! properties of}
+\begin{theorem} \label{determinantprops}  \textbf{Properties of the Determinant:} Let $A = \left[a_{ij}\right]_{n \times n}$. \index{determinant of a matrix ! properties of} \index{matrix ! determinant ! properties of}
 
 \begin{itemize}
 
@@ -192,7 +192,7 @@ We are now ready to state our main theorem concerning determinants.
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -311,7 +311,7 @@ In this section, we introduce a theorem which enables us to solve a system of li
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{CramersRule} \index{Cramer's Rule} \textbf{Cramer's Rule:} Suppose  $AX = B$ is the matrix form of a system of $n$ linear equations in $n$ unknowns where $A$ is the coefficient matrix, $X$ is the unknowns matrix, and $B$ is the constant matrix. 
+\begin{theorem} \label{CramersRule} \index{Cramer's Rule} \textbf{Cramer's Rule:} Suppose  $AX = B$ is the matrix form of a system of $n$ linear equations in $n$ unknowns where $A$ is the coefficient matrix, $X$ is the unknowns matrix, and $B$ is the constant matrix. 
 
 If $\det(A) \neq 0$, then the corresponding system is consistent and independent and the solution for unknowns $x_{\mbox{\tiny$1$}}$, $x_{\mbox{\tiny$2$}}$, \ldots $x_{n}$ is given by:
 
@@ -319,7 +319,7 @@ If $\det(A) \neq 0$, then the corresponding system is consistent and independent
 
 where $A_{j}$ is the matrix $A$ whose $j$th column has been replaced by the constants in $B$.
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -329,7 +329,7 @@ In words, Cramer's Rule tells us we can solve for each unknown, one at a time, b
 
 \smallskip
 
-\begin{ex}  Use Cramer's Rule to solve for the indicated unknowns.
+\begin{example}  Use Cramer's Rule to solve for the indicated unknowns.
 
 \begin{enumerate}
 
@@ -403,7 +403,7 @@ The reader is encouraged to solve this system for $x$ and $y$ similarly and chec
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 It is worth noting that finding determinants is very `computationally expensive' meaning they take quite a bit of time and effort to compute for humans and machines alike.  For that reason, determinants, and, in particular, Cramer's Rule are used mostly in theoretical contexts as convenient ways to describe and discuss solutions to systems of linear equations.\footnote{A classic case of this is the \href{https://en.wikipedia.org/wiki/Wronskian}{\underline{Wronskian}} from Differential Equations.}
 
@@ -518,7 +518,7 @@ To generalize this to invertible $n \times n$ matrices, we need another definiti
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{matrixadjoint} Let $A$ be an $n \times n$ matrix, and $C_{ij}$ denote the $ij$ cofactor of $A$.  
+\begin{definition}  \label{matrixadjoint} Let $A$ be an $n \times n$ matrix, and $C_{ij}$ denote the $ij$ cofactor of $A$.  
 
 The \index{matrix ! adjoint}\index{adjoint of a matrix}\textbf{adjoint} of $A$, denoted $\text{adj}(A)$ is the matrix whose $ij$-entry is the $ji$ cofactor of $A$, $C_{ji}$.  That is
 
@@ -530,7 +530,7 @@ C_{\mbox{\tiny$12$}} & C_{\mbox{\tiny$22$}} & \ldots & C_{n\mbox{\tiny$2$}} \\
 C_{\mbox{\tiny$1$}n} & C_{\mbox{\tiny$2$}n} & \ldots & C_{nn} \\  \end{array} \right] \]
 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -542,11 +542,11 @@ This new notation greatly shortens the statement of the formula for the inverse 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{adjointinverse} Let $A$ be an invertible $n \times n$ matrix.  Then
+\begin{theorem}  \label{adjointinverse} Let $A$ be an invertible $n \times n$ matrix.  Then
 
 \[ A^{-1} = \dfrac{1}{\det(A)} \text{adj}(A) \]
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 

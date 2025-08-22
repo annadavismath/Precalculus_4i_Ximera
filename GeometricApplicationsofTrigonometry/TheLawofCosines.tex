@@ -24,7 +24,7 @@ In this section, we develop the Law of Cosines which handles solving triangles i
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{lawofcosines} \index{Law of Cosines} \textbf{Law of Cosines:}   Given a triangle with angle-side opposite pairs $(\alpha, a)$, $(\beta, b)$ and $(\gamma, c)$, the following equations hold
+\begin{theorem} \label{lawofcosines} \index{Law of Cosines} \textbf{Law of Cosines:}   Given a triangle with angle-side opposite pairs $(\alpha, a)$, $(\beta, b)$ and $(\gamma, c)$, the following equations hold
 
 \[ a^2 = b^2 + c^2 - 2bc \cos(\alpha) \qquad  b^2 = a^2 + c^2 - 2ac \cos(\beta)  \qquad   c^2 = a^2 + b^2 - 2ab \cos(\gamma)  \]
 
@@ -35,7 +35,7 @@ or, solving for the cosine in each equation, we have
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -95,7 +95,7 @@ Notice that the proof of the Law of Cosines relies on the distance formula which
 
 Indeed, in a triangle in which $\gamma = 90^{\circ}$, (i.e., a right triangle) then $\cos(\gamma) = \cos\left(90^{\circ}\right) = 0$  and we get the familiar relationship  $c^2 = a^2 + b^2$.  What this means is that in the larger mathematical sense, the Law of Cosines and the Pythagorean Theorem amount to pretty much the same thing.\footnote{This shouldn't come as too much of a shock.  All of the theorems in Trigonometry can ultimately be traced back to the definition of the circular functions along with the distance formula and hence, the Pythagorean Theorem.}
 
-\begin{ex}  \label{locex}  Solve the following triangles.  Give exact answers and decimal approximations (rounded to hundredths) and sketch the triangle.
+\begin{example}  \label{locex}  Solve the following triangles.  Give exact answers and decimal approximations (rounded to hundredths) and sketch the triangle.
 
 \begin{multicols}{2}
 
@@ -194,7 +194,7 @@ Now that we have obtained an angle-side opposite pair $(\beta, b)$, we could pro
 
 \end{enumerate}
 \vspace{-.5in} \qed
-\end{ex}
+\end{example}
 
 We note that, depending on how many decimal places are carried through successive calculations, and depending on which approach is used to solve the problem, the approximate answers you obtain may differ slightly from those the authors obtain in the Examples and the Exercises.  
 
@@ -203,7 +203,7 @@ We note that, depending on how many decimal places are carried through successiv
 A great example of this is number   \ref{locsss} in  Example \ref{locex}, where the \textit{approximate} values we record for the measures of the angles sum to $180.01^{\circ}$, which is geometrically impossible. 
 \smallskip
 
-\begin{ex}  \label{locapplication}  A researcher wishes to determine the width of a vernal pond as drawn below. From a point $P$, he finds the distance to the eastern-most point of the pond to be $950$ feet, while the distance to the western-most point of the pond from $P$ is $1000$ feet. If the angle between the two lines of sight is $60^{\circ}$, find the width of the pond.
+\begin{example}  \label{locapplication}  A researcher wishes to determine the width of a vernal pond as drawn below. From a point $P$, he finds the distance to the eastern-most point of the pond to be $950$ feet, while the distance to the western-most point of the pond from $P$ is $1000$ feet. If the angle between the two lines of sight is $60^{\circ}$, find the width of the pond.
 
 \begin{center}
 
@@ -229,7 +229,7 @@ A great example of this is number   \ref{locsss} in  Example \ref{locex}, where 
 
  Calling this length $w$ (for \textit{width}), we get  $w^2 = 950^2 + 1000^2 - 2(950)(1000)\cos\left(60^{\circ}\right) = 952500$ from which we get $w = \sqrt{952500} \approx 976$ feet.  \qed
 
-\end{ex}
+\end{example}
 
 In Section \ref{TheLawofSines}, we used the proof of the Law of Sines to develop Theorem \ref{areaformulasine} as an alternate formula for the area enclosed by a triangle.  In this section, we use the Law of Cosines to derive another such formula,  the so-called Heron's Formula.\footnote{Or \href{http://bit.ly/2rwhWoJ}{`\underline{Hero's Formula}.'}}
 
@@ -237,13 +237,13 @@ In Section \ref{TheLawofSines}, we used the proof of the Law of Sines to develop
 
 \colorbox{ResultColor}{\bbm 
 
-\begin{thm}  \label{HeronsFormula}  \index{Heron's Formula} \textbf{Heron's Formula:} Suppose $a$, $b$ and $c$ denote the lengths of the three sides of a triangle.  Let $s$ be the semiperimeter of the triangle, that is, let $s = \frac{1}{2}(a + b + c)$.  Then the area $A$ enclosed by the triangle is given by
+\begin{theorem}  \label{HeronsFormula}  \index{Heron's Formula} \textbf{Heron's Formula:} Suppose $a$, $b$ and $c$ denote the lengths of the three sides of a triangle.  Let $s$ be the semiperimeter of the triangle, that is, let $s = \frac{1}{2}(a + b + c)$.  Then the area $A$ enclosed by the triangle is given by
 
 \[ A = \sqrt{s (s-a) (s-b) (s-c)}\]
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -323,7 +323,7 @@ so that  $A = \sqrt{s(s-a)(s-b)(s-c)}$ as required.
 
 We close with an example of Heron's Formula.
 
-\begin{ex} \label{heronex}  Find the area enclosed of the triangle in Example \ref{locex} number \ref{locsss}.
+\begin{example} \label{heronex}  Find the area enclosed of the triangle in Example \ref{locex} number \ref{locsss}.
 
 \medskip
 
@@ -333,7 +333,7 @@ We close with an example of Heron's Formula.
 
 Per Heron's Formula,  $A = \sqrt{s(s-a)(s-b)(s-c)} = \sqrt{(8)(4)(1)(3)} = \sqrt{96} = 4\sqrt{6} \approx 9.80$ square units. \qed
 
-\end{ex}
+\end{example}
 
 \newpage
 

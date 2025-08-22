@@ -26,13 +26,13 @@ This power of abstraction has a tendency to create a language that is initially 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}
+\begin{definition}
 
 \label{functiondefn}
 
 Given two sets\footnote{Please refer to Section \ref{AppSetTheory} for a review of this terminology.} $A$ and $B$, a  \index{function ! definition} \textbf{function} from $A$ to $B$ is a process by which each element of $A$ is matched with (or `mapped to')  one and only one element of $B$.   
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -105,7 +105,7 @@ As you might expect, with functions being such an important concept in Mathemati
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}
+\begin{definition}
 
 \label{domainrangedefns}
 
@@ -128,7 +128,7 @@ Said differently, the range of a function is the set of outputs from the functio
 \end{itemize}
 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -174,7 +174,7 @@ If we let $n$ denote a generic element of $N$ then $f(n)$ is some element $t$ in
 
 While the concept of a function is very general in scope, we will be focusing primarily on functions of real numbers because most disciplines use real numbers to quantify data.  Our next example explores a function defined using a table of numerical values.
 
-\begin{ex} \label{timetempex1}   Suppose Skippy records the outdoor temperature every two hours starting at 6 a.m. and ending at 6 p.m. and summarizes the data in the table below:
+\begin{example} \label{timetempex1}   Suppose Skippy records the outdoor temperature every two hours starting at 6 a.m. and ending at 6 p.m. and summarizes the data in the table below:
 
 
 \[\begin{array}{|c||c|}  \hline
@@ -267,7 +267,7 @@ While the concept of a function is very general in scope, we will be focusing pr
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 A few remarks about Example \ref{timetempex1} are in order.  First, note that $f(2+4)$, $f(2)+f(4)$ and $f(2)+4$ all work out to be numerically different, and more importantly, all represent different things.\footnote{You may be wondering why one would ever compute these quantities.  Rest assured that we will use expressions like these in examples throughout the text.  For now, it suffices just to know that they are different.}  One of the common mistakes students make is to misinterpret expressions like these, so it's important to pay close attention to the syntax here.
 
@@ -283,7 +283,7 @@ Finally, given that the range in this example was a finite set of real numbers, 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}
+\begin{definition}
 
 \label{absmaxmindefn}
 
@@ -303,7 +303,7 @@ That is, the maximum of $f$ is the largest output from $f$, if it exists.
 
 \end{itemize}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -315,7 +315,7 @@ Definition \ref{absmaxmindefn} is an example where the name of the function, $f$
 
 By focusing our attention to functions that involve real numbers, we gain access to all of the structures and tools from prior courses in Algebra.  In this subsection, we discuss how to represent functions algebraically using formulas and begin with the following example.
 
-\begin{ex} \label{funcnotatex1} $~$
+\begin{example} \label{funcnotatex1} $~$
 
 \begin{enumerate}
 
@@ -441,7 +441,7 @@ h(t) + h(2) & = & \left(-t\,^{2} + 3t + 4\right) + 6  & \\ [2pt]
 \item   We know $h(-1) = 0$ from above, so $t=-1$ should be one of the answers to $h(t) = 0$.  In order to see if there are any more, we set  $h(t) = -t^2+3t+4 = 0$. Factoring\footnote{You may need to review Section \ref{AppFactoring}.} gives $-(t+1)(t-4) = 0$, so we get $t=-1$ (as expected) along with $t=4$. \qed   
          
 \end{enumerate}
-\end{ex}
+\end{example}
 
 A few remarks about Example \ref{funcnotatex1} are in order.  First, note that $h(2x)$ and $2 h(x)$ are different expressions.  In the former, we are multiplying the \textbf{input} by $2$;  in the latter, we are multiplying the \textbf{output} by $2$.  The same goes for $h(t + 2)$, $h(t) + 2$ and $h(t) + h(2)$.  The expression $h(t + 2)$ calls for adding $2$ to the input $t$ and then performing the function $h$.  The expression $h(t) + 2$ has us performing the process $h$ first, then adding $2$ to the output $h(t)$.  Finally, $h(t) + h(2)$ directs us to first find the outputs $h(t)$ and $h(2)$ and then add the results.  As we saw in Example \ref{timetempex1},  we see here again the importance paying close attention to syntax.\footnote{As was mentioned before, we will give meanings to the these quantities in other examples throughout the text.}
 
@@ -455,7 +455,7 @@ We could turn the tables and ask if the equation $y=3x+5$ describes $x$ as a fun
 
 \pagebreak
 
-\begin{ex} \label{equationfunction}   $~$
+\begin{example} \label{equationfunction}   $~$
 
 \begin{enumerate}
 
@@ -533,7 +533,7 @@ t & = & \sqrt[3]{\dfrac{16 - u^{4}}{u}} & \text{extract cube roots.} \\
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 We'll have more to say about using equations to describe functions in Section \ref{Relations}.  For now, we turn our attention to a geometric way to represent functions.
 
@@ -612,7 +612,7 @@ In the meantime, our next example involves a function whose domain is (almost) a
 
 \pagebreak
 
-\begin{ex}  \label{functiongraphex01} Consider the graph below.  
+\begin{example}  \label{functiongraphex01} Consider the graph below.  
 
 \begin{center}
 
@@ -858,7 +858,7 @@ Pictures showing the projection of the graph onto the $w$-axis are given below.
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 It cannot be stressed enough that when given a graphical representation of a function, certain assumptions must be made.  In the previous example, for all we know, the minimum of the graph is at $(0.001, -4.0001)$ instead of $(0,-4)$.  If we aren't given an equation or table of data, or if specific points aren't labeled, we really have no way to tell.  We also are assuming that the graph depicted in the example, while ultimately made of infinitely many points, has no gaps or holes other than those noted.  This allows us to make such bold claims as the existence of a point on the graph with a $w$-coordinate of $-3$. 
 
@@ -870,10 +870,10 @@ Before moving on to our next example, it is worth noting that the geometric argu
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \textbf{The Vertical Line Test:}   A graph in the $xy$-plane\footnote{That is, the horizontal axis is labeled with `$x$' and the vertical axis is labeled with `$y$'.}  represents $y$ as a function of $x$ if and only if no vertical line intersects the graph more than once.
+\begin{theorem}  \textbf{The Vertical Line Test:}   A graph in the $xy$-plane\footnote{That is, the horizontal axis is labeled with `$x$' and the vertical axis is labeled with `$y$'.}  represents $y$ as a function of $x$ if and only if no vertical line intersects the graph more than once.
 \label{VLT}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -928,7 +928,7 @@ There is also a geometric test to determine if the graph above represents $v$ as
 
 Our next example revisits the function $h$ from Example \ref{funcnotatex1} from a graphical perspective.
 
-\begin{ex} \label{graphalgebraicex}  With the help of a graphing utility graph $h(t) = -t\,^{2} + 3t + 4$.  From your graph, state the domain, range and extrema, if any exist.
+\begin{example} \label{graphalgebraicex}  With the help of a graphing utility graph $h(t) = -t\,^{2} + 3t + 4$.  From your graph, state the domain, range and extrema, if any exist.
 
 {\bf Solution.} The dependent variable wasn't specified so we use the default `$y$' label for the vertical axis and set about graphing $y = h(t)$.   From our work in Example \ref{funcnotatex1},  we already know  $h(-1) = 0$, $h(0) = 4$, $h(2) = 6$ and $h(4) = 0$.  These give us the points $(-1,0)$, $(0,4)$, $(2,6)$ and $(4,0)$, respectively.  Using these as a guide, we can use  \href{https://www.desmos.com/}{\underline{desmos}} to produce the graph at the top of the next page on the left.\footnote{The curve in this example is called a 	`parabola'.  In Section \ref{QuadraticFunctions}, we'll learn how to graph these accurately \textbf{by hand}.} 
 
@@ -973,11 +973,11 @@ As nice as the graph is, it is still technically incomplete.  There is no restri
 
 \vspace*{-.5in} \qed
 
-\end{ex}
+\end{example}
 
 Our last example of the section uses the interplay between algebraic and graphical representations of a function to solve a real-world problem.
 
-\begin{ex} \label{volumeex1}    The United States Postal Service mandates that when shipping parcels using `Parcel Select' service,  the sum of the length (the longest dimension) and the girth (the distance around the thickest part of the parcel perpendicular to the length) must not exceed 130 inches.\footnote{See \href{http://pe.usps.com/text/qsg300/Q201e.htm}{\underline{here}}.}  Suppose we wish to ship a rectangular box whose girth forms a square measuring $x$ inches per side as shown below.
+\begin{example} \label{volumeex1}    The United States Postal Service mandates that when shipping parcels using `Parcel Select' service,  the sum of the length (the longest dimension) and the girth (the distance around the thickest part of the parcel perpendicular to the length) must not exceed 130 inches.\footnote{See \href{http://pe.usps.com/text/qsg300/Q201e.htm}{\underline{here}}.}  Suppose we wish to ship a rectangular box whose girth forms a square measuring $x$ inches per side as shown below.
 
 \begin{center}
 
@@ -1076,7 +1076,7 @@ Finding the maximum volume using the graph of $y = V(x)$.
 It is worth noting that while the function $V$ has a maximum, it did not have a minimum.  Even though $V(x)>0$ for all $x$ in its domain,\footnote{said differently, the values of $V(x)$ are \textbf{bounded below} by $0$.} the presence of the hole at $(0,0)$ means that $0$ is not in the range of $V$.  Hence, based on our model, we can never make a box with a  `smallest' volume.\footnote{How realistic is this?}  \qed
 
 \end{enumerate}
-\end{ex}
+\end{example}
 
 \medskip
 

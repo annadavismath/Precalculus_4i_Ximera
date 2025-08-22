@@ -20,7 +20,7 @@ In this chapter, we showcase how the the tools we've developed in Chapters \ref{
 Our first example reviews the basics of right triangle trigonometry.  The reader is referred to Section \ref{AppRightTrig} for more details and practice with these concepts.
 
 
-\begin{ex}  \label{righttrianglereviewex}  Given a right triangle with a hypotenuse of length $7$ units and one leg of length $4$ units, find the length of the remaining side and the measures of the remaining angles. Express the angles in decimal degrees, rounded to the nearest hundredth of a degree.
+\begin{example}  \label{righttrianglereviewex}  Given a right triangle with a hypotenuse of length $7$ units and one leg of length $4$ units, find the length of the remaining side and the measures of the remaining angles. Express the angles in decimal degrees, rounded to the nearest hundredth of a degree.
 
 \smallskip
 
@@ -67,7 +67,7 @@ Now that we have the measure of angle $\alpha$, we could find the measure of ang
 
 Once again, in the interests of minimizing propagated error, we opt to use the data given to us in the problem. According to Definition  \ref{righttrianglesinecosinetangent},  $\sin(\beta) = \frac{4}{7}$ so $\beta = \arcsin\left(\frac{4}{7}\right)$ radians $\approx 34.85^{\circ}$.  \qed
 
-\end{ex} 
+\end{example} 
 
 A few remarks about Example \ref{righttrianglereviewex}  are in order.  First, we adhere to the convention that a lower case Greek letter denotes an angle (as well as the measure of said angle) and the corresponding lowercase English letter represents the side (as well as the length of said side) opposite that angle.  
 
@@ -91,14 +91,14 @@ Third, since many of the  applications which require solving triangles `in the w
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{lawofsines} \index{Law of Sines} \textbf{The Law of Sines:}  Given a triangle with angle-side opposite pairs $(\alpha, a)$, $(\beta, b)$ and $(\gamma, c)$, the following ratios hold:
+\begin{theorem}  \label{lawofsines} \index{Law of Sines} \textbf{The Law of Sines:}  Given a triangle with angle-side opposite pairs $(\alpha, a)$, $(\beta, b)$ and $(\gamma, c)$, the following ratios hold:
 
 
 \[ \frac{\sin(\alpha)}{a} = \frac{\sin(\beta)}{b} = \frac{\sin(\gamma)}{c} \qquad \text{or, equivalently,} \qquad  \frac{a}{\sin(\alpha)} = \frac{b}{\sin(\beta)}  = \frac{c}{\sin(\gamma)} \]
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
@@ -295,7 +295,7 @@ In order to use the Law of Sines to solve a triangle, we need at least one angle
 
 \smallskip
 
-\begin{ex}  \label{losex} Solve the following triangles.  Give exact answers and decimal approximations (rounded to hundredths) and sketch the triangle.
+\begin{example}  \label{losex} Solve the following triangles.  Give exact answers and decimal approximations (rounded to hundredths) and sketch the triangle.
 
 \begin{multicols}{2}
 
@@ -590,7 +590,7 @@ Hence,  $\beta = 180^{\circ} - 30^{\circ} - 30^{\circ} = 120^{\circ}$.  The Law 
 
   \qed
 
-\end{ex}
+\end{example}
 
 Some remarks about Example \ref{losex} are in order. First note that if we are given the measures of two of the angles in a triangle, say $\alpha$ and $\beta$, the measure of the third angle $\gamma$ is uniquely determined using the equation  $\gamma = 180^{\circ} - \alpha - \beta$.  Knowing the measures of all three angles of a triangle completely determines the triangle's  \textit{shape}.
 
@@ -614,7 +614,7 @@ In number \ref{losnotriangleex}, the length of the one given side $a$ was too sh
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{ASScase}  Suppose $(\alpha,a)$ and $(\gamma, c)$ are intended to be angle-side pairs in a triangle where $\alpha$, $a$ and $c$ are given.  Let $h = c\sin(\alpha)$
+\begin{theorem} \label{ASScase}  Suppose $(\alpha,a)$ and $(\gamma, c)$ are intended to be angle-side pairs in a triangle where $\alpha$, $a$ and $c$ are given.  Let $h = c\sin(\alpha)$
 
 \begin{itemize}
 
@@ -630,7 +630,7 @@ In number \ref{losnotriangleex}, the length of the one given side $a$ was too sh
 
 \smallskip
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -764,7 +764,7 @@ In many of the derivations and arguments in this section, we used the height of 
 
 \colorbox{ResultColor}{\bbm 
 
-\begin{thm} \label{areaformulasine}  Suppose $(\alpha, a)$, $(\beta, b)$ and $(\gamma, c)$ are the angle-side opposite pairs of a triangle.  Then the area $A$ enclosed by the triangle is given by
+\begin{theorem} \label{areaformulasine}  Suppose $(\alpha, a)$, $(\beta, b)$ and $(\gamma, c)$ are the angle-side opposite pairs of a triangle.  Then the area $A$ enclosed by the triangle is given by
 
 \[A = \frac{1}{2}bc\sin(\alpha) =  \frac{1}{2}ac\sin(\beta) =  \frac{1}{2}ab\sin(\gamma)\]
 
@@ -772,13 +772,13 @@ In many of the derivations and arguments in this section, we used the height of 
 
 That is, the area enclosed by the triangle $A = \frac{1}{2} \, (\text{the product of two sides}) \, \sin(\text{of the included angle})$.
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
 \smallskip
 
-\begin{ex} \label{areaformulasineex}  Find the area of the triangle in Example \ref{losex} number \ref{losaas}.
+\begin{example} \label{areaformulasineex}  Find the area of the triangle in Example \ref{losex} number \ref{losaas}.
 
 \smallskip
 
@@ -788,7 +788,7 @@ That is, the area enclosed by the triangle $A = \frac{1}{2} \, (\text{the produc
 
 We are given  $a = 7$ and $\beta = 45^{\circ}$, and we calculated $c = \frac{7\sin\left(15^{\circ}\right)}{\sin\left(120^{\circ}\right)}$.   Using these values, we find the area  $A =  \frac{1}{2}(7)\left(\frac{7\sin\left(15^{\circ}\right)}{\sin\left(120^{\circ}\right)} \right) \sin\left(45^{\circ}\right) =  \approx 5.18$ square units. The reader is encouraged to check this answer against the results obtained using the other formulas in Theorem \ref{areaformulasine}. \qed
 
-\end{ex}
+\end{example}
 
 \subsection{Bearings}
 \label{bearings} 
@@ -855,7 +855,7 @@ We make good use of bearings and the Law of Sines in our next example.
 
 \smallskip 
 
-\begin{ex} \label{losapplication}  Sasquatch Island lies off the coast of Ippizuti Lake.  As illustrated below, from a point $P$ on the shore, the bearing to Sasquatch Island is observed to be  N$60^{\circ}$E.  From a point $Q$ that is  5 miles due East of $P$, the bearing to the island is observed to be N$45^{\circ}$E.  
+\begin{example} \label{losapplication}  Sasquatch Island lies off the coast of Ippizuti Lake.  As illustrated below, from a point $P$ on the shore, the bearing to Sasquatch Island is observed to be  N$60^{\circ}$E.  From a point $Q$ that is  5 miles due East of $P$, the bearing to the island is observed to be N$45^{\circ}$E.  
 
 \smallskip
 
@@ -968,7 +968,7 @@ To  find the point on the coast closest to the island, which we've labeled as $C
  \smallskip
  
  To find the distance from $Q$ to $C$, we note that $\beta = 180^{\circ} - 90^{\circ} - 45^{\circ} = 45^{\circ}$ so by symmetry,\footnote{Or by Definition  \ref{righttrianglesinecosinetangent} again \ldots} we get $x = y \approx 6.83$ miles.  Hence, the point on the shore closest to the island is approximately $6.83$ miles down the coast from the second observation point $Q$. \qed
-\end{ex} 
+\end{example} 
 
 
 

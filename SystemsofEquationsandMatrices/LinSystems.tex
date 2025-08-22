@@ -23,14 +23,14 @@ We assume the reader has some experience with systems of equations from high sch
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{lineareqnnvariables}  A \index{equation ! linear of $n$ variables}\index{linear equation ! $n$ variables}\textbf{linear equation in \textit{n} variables}, $x_{\mbox{\tiny $1$}}$, $x_{\mbox{\tiny $2$}}$, \ldots, $x_{n}$, is an equation of the form:
+\begin{definition}  \label{lineareqnnvariables}  A \index{equation ! linear of $n$ variables}\index{linear equation ! $n$ variables}\textbf{linear equation in \textit{n} variables}, $x_{\mbox{\tiny $1$}}$, $x_{\mbox{\tiny $2$}}$, \ldots, $x_{n}$, is an equation of the form:
 
  \[a_{\mbox{\tiny $1$}} x_{\mbox{\tiny $1$}} + a_{\mbox{\tiny $2$}} x_{\mbox{\tiny $2$}} + \ldots + a_{n} x_{n} = c,\]
  
  
   where $a_{\mbox{\tiny $1$}}$, $a_{\mbox{\tiny $2$}}$, \dots $a_{n}$  and $c$ are real numbers and at least one of $a_{\mbox{\tiny $1$}}$, $a_{\mbox{\tiny $2$}}$, \dots, $a_{n}$ is nonzero.
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -46,7 +46,7 @@ Coupling more than one linear equation in $n$ variables results in a \textbf{sys
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{equationmoves} Given a system of equations, the following moves will result in an equivalent system:
+\begin{theorem}  \label{equationmoves} Given a system of equations, the following moves will result in an equivalent system:
 
 \begin{itemize}
 
@@ -59,7 +59,7 @@ Coupling more than one linear equation in $n$ variables results in a \textbf{sys
 
 \end{itemize}
 
-\end{thm}  
+\end{theorem}  
 
 \ebm}
 
@@ -96,7 +96,7 @@ we note the reason it was so easy to solve is because of its structure.  The thi
 We formalize this pattern below for the most general systems of linear equations.  Again, we use subscripted variables to describe the general case.  The variable with the smallest subscript in a given equation is typically called the \index{system of equations ! leading variable} \textit{leading variable} of that equation.
 
 \smallskip
-\colorbox{ResultColor}{\bbm  \begin{defn} \label{systemtriangularform} A system of linear equations with variables $x_{\mbox{\tiny$1$}}$, $x_{\mbox{\tiny$2$}}$, \ldots $x_{n}$ is said to be in \index{system of equations ! triangular form} \index{triangular form} \textbf{triangular form} provided all of the following conditions hold:
+\colorbox{ResultColor}{\bbm  \begin{definition} \label{systemtriangularform} A system of linear equations with variables $x_{\mbox{\tiny$1$}}$, $x_{\mbox{\tiny$2$}}$, \ldots $x_{n}$ is said to be in \index{system of equations ! triangular form} \index{triangular form} \textbf{triangular form} provided all of the following conditions hold:
 
 \begin{enumerate}
 
@@ -110,7 +110,7 @@ We formalize this pattern below for the most general systems of linear equations
 
 \end{enumerate}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -122,7 +122,7 @@ In our previous system, if we make the obvious choices $x = x_{\mbox{\tiny$1$}}$
 
 Our goal henceforth will be to transform a given system of linear equations into triangular form using the moves in Theorem \ref{equationmoves}.
 
-\begin{ex} \label{GaussEqnEx} Use Theorem \ref{equationmoves} to put the following systems into triangular form and then solve the system if possible.  Classify each system as consistent independent, consistent dependent, or inconsistent.\footnote{See Section \ref{AppLinearSystems} for a review of these terms.}
+\begin{example} \label{GaussEqnEx} Use Theorem \ref{equationmoves} to put the following systems into triangular form and then solve the system if possible.  Classify each system as consistent independent, consistent dependent, or inconsistent.\footnote{See Section \ref{AppLinearSystems} for a review of these terms.}
 
 \begin{multicols}{3}
 
@@ -596,7 +596,7 @@ Equation $E3$ reduces to $0=0$,which is always true.  Since we have no equations
 We `parametrize' the solution set by letting $x_{\mbox{\tiny$3$}} = s$ and $x_{\mbox{\tiny$4$}} = t$.  From $E2$, we get $x_{\mbox{\tiny$2$}} =  3s + 2t$.  Substituting this and $x_{\mbox{\tiny$4$}} = t$ into $E1$, we have $x_{\mbox{\tiny$1$}} + \frac{1}{3}\left( 3s+2t \right) + \frac{1}{3}t = 2$ which gives $x_{\mbox{\tiny$1$}} = 2 - s - t$.  Our solution is the set $\{ (2-s-t,2s+3t,s,t) \, | \, -\infty < s, t < \infty\}$.\footnote{Here, any choice of $s$ and $t$ determines a point in $4$-dimensional space.  Yeah, we have trouble visualizing that, too.}  We leave it to the reader to verify that the substitutions $x_{1} = 2-s-t$, $x_{2} = 3s+2t$, $x_{3} = s$ and $x_{4} = t$ satisfy the equations in the original system regardless of the choices made for the parameters $s$ and $t$. \qed
 
 \end{enumerate}
-\end{ex}
+\end{example}
 
 Like all algorithms, Gaussian Elimination has the advantage of always producing what we need, but it can also be inefficient at times. For example, when solving the second system in Example \ref{GaussEqnEx}, it is clear after we eliminated the $x$'s in the second step to get the system
  
@@ -610,7 +610,7 @@ We also note that substitution in Gaussian Elimination is delayed until all the 
 
 Lastly, we note that the last system in Example \ref{GaussEqnEx} is underdetermined,\footnote{Recall this means we have fewer equations than unknowns.}  and as it is consistent, we necessarily have free variables in our answer.  We close this section with a standard `mixture' type application of systems of linear equations which features an application of a consistent dependent system.
 
-\begin{ex} \label{lucasmixex} Lucas needs to create a $500$ milliliters (mL) of a $40 \%$ acid solution.  He has stock solutions of $30 \%$ and $90 \%$ acid as well as all of the distilled water he wants. Set-up and solve a system of linear equations which determines all of the possible combinations of the stock solutions and water which would produce the required solution.
+\begin{example} \label{lucasmixex} Lucas needs to create a $500$ milliliters (mL) of a $40 \%$ acid solution.  He has stock solutions of $30 \%$ and $90 \%$ acid as well as all of the distilled water he wants. Set-up and solve a system of linear equations which determines all of the possible combinations of the stock solutions and water which would produce the required solution.
 
 \smallskip
 
@@ -703,7 +703,7 @@ The constraint $x \geq 0$ gives us  $-\frac{3}{2} t + \frac{1250}{3} \geq 0$, or
 
 Of what practical use is our answer?  Suppose there is only $100$ mL of the $90 \%$ solution remaining and it is due to expire.  Can we use all of it to make our required solution?  We would have $y = 100$ so that $\frac{1}{2} t + \frac{250}{3} = 100$, and we get $t = \frac{100}{3}$.  This means the amount of $30 \%$ solution required is $x = -\frac{3}{2} t + \frac{1250}{3} =  -\frac{3}{2} \left(\frac{100}{3}\right) + \frac{1250}{3} = \frac{1100}{3}$ mL, and for the water, $w = t = \frac{100}{3}$ mL.  The reader is invited to check that mixing these three amounts of our constituent solutions produces the required $40 \%$ acid mix.  \qed
 
-\end{ex}
+\end{example}
 
 \newpage
 

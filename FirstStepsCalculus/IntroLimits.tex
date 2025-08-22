@@ -95,8 +95,8 @@ The hole in the graph tells us that even though $F(1)$ is undefined, we'd \textb
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{informallimitdefn} \textbf{Informal Definition of Limit:}  Given a function $f$ defined on an open interval containing $x=a$, except possibly at $x=a$, the notation $\ds{\lim_{x \rightarrow a} f(x) = L}$,\index{limit ! informal definition} means as input values, $x$, approach\footnote{ignoring what is happening at $x=a$} the number $a$, the output values, $f(x)$, approach the number $L$.  The notation ` $\ds{\lim_{x \rightarrow a} f(x) = L}$'  is read read `the \textbf{limit} as $x$ approaches $a$ of $f(x)$ equals $L$.' 
-\end{defn}
+\begin{definition} \label{informallimitdefn} \textbf{Informal Definition of Limit:}  Given a function $f$ defined on an open interval containing $x=a$, except possibly at $x=a$, the notation $\ds{\lim_{x \rightarrow a} f(x) = L}$,\index{limit ! informal definition} means as input values, $x$, approach\footnote{ignoring what is happening at $x=a$} the number $a$, the output values, $f(x)$, approach the number $L$.  The notation ` $\ds{\lim_{x \rightarrow a} f(x) = L}$'  is read read `the \textbf{limit} as $x$ approaches $a$ of $f(x)$ equals $L$.' 
+\end{definition}
 
 \ebm}
 
@@ -179,7 +179,7 @@ Even though $\ds{ \lim_{A \rightarrow 6} p(A)}$ does not exist, we've used so-ca
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{onesidedimitdefn} \textbf{One-sided Limits:}  
+\begin{definition} \label{onesidedimitdefn} \textbf{One-sided Limits:}  
 
 \begin{itemize}
 
@@ -190,7 +190,7 @@ Even though $\ds{ \lim_{A \rightarrow 6} p(A)}$ does not exist, we've used so-ca
 
 \end{itemize}
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -203,17 +203,17 @@ In order for the (two-sided) limit to exist, both one-sided limits need to exist
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{onesidedlimit}  Given a function $f$ defined on an open interval containing $x=a$, except possibly at $x=a$,  $\ds{\lim_{x \rightarrow a} f(x) = L}$ if and only if $\ds{\lim_{x \rightarrow a^{-}} f(x) = L}$ and $\ds{\lim_{x \rightarrow a^{+}} f(x) = L}$.
+\begin{theorem}  \label{onesidedlimit}  Given a function $f$ defined on an open interval containing $x=a$, except possibly at $x=a$,  $\ds{\lim_{x \rightarrow a} f(x) = L}$ if and only if $\ds{\lim_{x \rightarrow a^{-}} f(x) = L}$ and $\ds{\lim_{x \rightarrow a^{+}} f(x) = L}$.
 
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
 
 It's time for an example.
 
-\begin{ex} \label{limitfromgraphex} Use the \textbf{complete} graph\footnote{Recall this means this is the entire graph of $f$.  There's nothing hidden offscreen.} of $y = f(x)$ below to answer the following questions.
+\begin{example} \label{limitfromgraphex} Use the \textbf{complete} graph\footnote{Recall this means this is the entire graph of $f$.  There's nothing hidden offscreen.} of $y = f(x)$ below to answer the following questions.
 
 
 
@@ -342,7 +342,7 @@ It's time for an example.
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 Another use of limits we've seen is to codify unbounded behavior.  Since $\infty$ and $-\infty$ aren't real numbers,  we used limit notation to help us describe end behavior  (as $x \rightarrow - \infty$ or $x \rightarrow \infty$) and unbounded function behavior ($f(x)\rightarrow -\infty$ or $f(x) \rightarrow \infty$.)  Let's take a moment to think about what it means to write $\ds{\lim_{x \rightarrow \infty} f(x) = \infty}$.  How does one `approach' infinity anyhow?  
@@ -360,7 +360,7 @@ We can adjust the inequality signs in the sort of argument\footnote{If this sort
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}  \label{infinitelimitsatinfinity}  $~$
+\begin{definition}  \label{infinitelimitsatinfinity}  $~$
 
 \begin{enumerate}
 
@@ -386,7 +386,7 @@ We can adjust the inequality signs in the sort of argument\footnote{If this sort
 
 \end{enumerate}
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \medskip
@@ -538,7 +538,7 @@ We would be remiss in our duties as (pre)Calculus instructors if we failed to po
 Our last example of this section turns the tables and has you construct the graph of function given information provided by limits.
 
 
-\begin{ex} \label{graphfromlimits} Sketch the graph of a function $f$ which satisfies all of the following criteria:
+\begin{example} \label{graphfromlimits} Sketch the graph of a function $f$ which satisfies all of the following criteria:
 
 \begin{center}
 
@@ -658,7 +658,7 @@ Connecting these pieces together (careful to not violate the Vertical Line Test,
 
 \hfill \qed
 
-\end{ex}
+\end{example}
 
 
 
@@ -681,7 +681,7 @@ What about $\ds{\lim_{x \rightarrow 5}  (x+6)}$?  Since $\ds{\lim_{x \rightarrow
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{LimitProp01}  \textbf{(Some of the) Properties of Limits:}
+\begin{theorem}  \label{LimitProp01}  \textbf{(Some of the) Properties of Limits:}
 
 \begin{enumerate}
 
@@ -737,7 +737,7 @@ $\ds{\lim_{x \rightarrow a} \left[f(x)\right]^{n} = \left[
 
 \end{enumerate}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \medskip
@@ -762,7 +762,7 @@ We put the limit properties to good use in the following example.
 
 \pagebreak
 
-\begin{ex} \label{limitpropex} Let $f(x)=  \dfrac{ x \sqrt{x+1}}{x^2+2x-4}$.  Use Theorem \ref{LimitProp01} to find $\ds{\lim_{x \rightarrow 3} f(x) }$.
+\begin{example} \label{limitpropex} Let $f(x)=  \dfrac{ x \sqrt{x+1}}{x^2+2x-4}$.  Use Theorem \ref{LimitProp01} to find $\ds{\lim_{x \rightarrow 3} f(x) }$.
 
 \medskip
 
@@ -791,7 +791,7 @@ We put the limit properties to good use in the following example.
 
 \end{array} \] 
 
-\end{ex}
+\end{example}
 
 \medskip
 
@@ -803,14 +803,14 @@ It is worth noting that we could have arrived at the same (correct) answer to Ex
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn}\index{continuous ! limit definition}  \label{continuousdefn}  A function $f$ is said to be \textbf{continuous} at an input $x  = a$ if $\ds{\lim_{x \rightarrow a} f(x) = f(a)}$.  
+\begin{definition}\index{continuous ! limit definition}  \label{continuousdefn}  A function $f$ is said to be \textbf{continuous} at an input $x  = a$ if $\ds{\lim_{x \rightarrow a} f(x) = f(a)}$.  
 
 \medskip
 
 Said differently, a function $f$ is said to be continuous at a real number $a$ if what we \textbf{get}, $f(a)$, exactly what we \textbf{expect to get}, $\ds{\lim_{x \rightarrow a} f(x)}$. 
 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -824,7 +824,7 @@ Said differently, a function $f$ is said to be continuous at a real number $a$ i
 
 \pagebreak
 
-\begin{ex} \label{piecewisecontex}    Let $f(x) = \begin{mycases}  2x-1 &  \text{if $x  < 2$}  \\  x^2   & \text{if $x \geq 2$} \\  \end{mycases}$.
+\begin{example} \label{piecewisecontex}    Let $f(x) = \begin{mycases}  2x-1 &  \text{if $x  < 2$}  \\  x^2   & \text{if $x \geq 2$} \\  \end{mycases}$.
 
 \begin{enumerate}
 
@@ -875,7 +875,7 @@ To ensure the limit exists, we need  $\ds{\lim_{x \rightarrow 2^{-}} g(x) = \lim
  \end{center}
 
 \end{enumerate}
-\end{ex}
+\end{example}
 
 It is worth noting that despite each `piece' of the piecewise-defined function $f$ in Example \ref{piecewisecontex} being continuous, the pieces don't match up at $x=2$ causing what is called a\index{discontinuity ! jump} \textbf{discontinuity}.   A discontinuity is a place where a function is \textbf{not} continuous.  The particular variety of discontinuity appearing here  is usually called a `jump' discontinuity - a type of discontinuity belonging to a larger class of  `non-removable' or `essential' discontinuities.  We'll point out other types of discontinuities as we encounter them.\footnote{Probably in the footnotes because, after all, this is (supposedly) a \underline{pre}calculus book, not a Calculus book \ldots} 
 
@@ -885,7 +885,7 @@ We close this section with an example that ties (most of) the fundamental concep
 
 \medskip
 
-\begin{ex} \label{rationallimit}  Let  $f(x) =  \frac{x^2-2x-3}{x^2-1}$.  Find $\ds{\lim_{x \rightarrow -1} f(x)}$ analytically\footnote{i.e, using properties of limits} and interpret graphically.
+\begin{example} \label{rationallimit}  Let  $f(x) =  \frac{x^2-2x-3}{x^2-1}$.  Find $\ds{\lim_{x \rightarrow -1} f(x)}$ analytically\footnote{i.e, using properties of limits} and interpret graphically.
 
 \medskip
 
@@ -915,7 +915,7 @@ Putting all of this work together, we get $\ds{\lim_{x \rightarrow -1} f(x) =   
 
 
 
-\end{ex}
+\end{example}
 
 \medskip
 
@@ -925,10 +925,10 @@ The above reasoning is sound and is true in general.  We'll be getting a lot of 
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{limitsagree} If $f$ and $g$ are two functions which agree on an open interval containing $x = a$, except possibly at $x = a$, then if $\ds{\lim_{x \rightarrow a} g(x)}$ exists, $\ds{ \lim_{x \rightarrow a} f(x) = \lim_{x \rightarrow a} g(x)}$.
+\begin{theorem}  \label{limitsagree} If $f$ and $g$ are two functions which agree on an open interval containing $x = a$, except possibly at $x = a$, then if $\ds{\lim_{x \rightarrow a} g(x)}$ exists, $\ds{ \lim_{x \rightarrow a} f(x) = \lim_{x \rightarrow a} g(x)}$.
 
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 

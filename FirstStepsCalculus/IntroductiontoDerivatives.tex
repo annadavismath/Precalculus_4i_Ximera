@@ -50,7 +50,7 @@ The above formula measures the average velocity between time $t_{0}$ and time $t
 We now revisit Example \ref{averagevelocityrocketex} in Section \ref{IntroRational} using this new formulation.\footnote{Along with some of the new tools we learned in Section \ref{IntroLimits}.}
 
 
-\begin{ex} \label{averagevelocityrocketexreprise} Let $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ give the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  
+\begin{example} \label{averagevelocityrocketexreprise} Let $s(t) = -5t^2+100t$, $0 \leq t \leq 20$ give the height of a model rocket above the Moon's surface, in feet,  $t$ seconds after liftoff.  
 
 \begin{enumerate}
 
@@ -135,7 +135,7 @@ Recall from Example \ref{averagevelocityrocketex} that the limit value here, $-5
 
 
 
-\end{ex}
+\end{example}
 
 The reader is invited to compare Example \ref{averagevelocityrocketex} in Section \ref{IntroRational} with Exercise \ref{averagevelocityrocketexreprise} above. We obtain the \text{exact same} information because we are asking the \textit{exact same} questions - they are just framed differently.  We now take the time to formally define \index{instantaneous velocity}\index{velocity ! instantaneous}\textbf{instantaneous velocity}:
 
@@ -145,11 +145,11 @@ The reader is invited to compare Example \ref{averagevelocityrocketex} in Sectio
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} Let $s(t)$ be the position of an object at time $t$ and $t_{0}$  a fixed time in the domain of $s$.  The \index{instantaneous velocity}\index{velocity ! instantaneous}\textbf{instantaneous velocity} at $t_{0}$ is given by:
+\begin{definition} Let $s(t)$ be the position of an object at time $t$ and $t_{0}$  a fixed time in the domain of $s$.  The \index{instantaneous velocity}\index{velocity ! instantaneous}\textbf{instantaneous velocity} at $t_{0}$ is given by:
 
 \[ v\left(t_{0}\right) = \lim_{\Delta t \rightarrow 0} \dfrac{\Delta [s(t)]}{\Delta t} = \lim_{\Delta t \rightarrow 0} \dfrac{s(t_{0} + \Delta t) - s(t_{0})}{\Delta t}, \quad \text{provided this limit exists.} \]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -234,13 +234,13 @@ In Section \ref{avginstantvelocity}, taking the limit of average velocity as $\D
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{derivativedefn} Given a function $f$ defined on an open interval containing $x=a$, the \textbf{derivative} of $f$ at $a$, denoted $f'(a)$, is defined as
+\begin{definition} \label{derivativedefn} Given a function $f$ defined on an open interval containing $x=a$, the \textbf{derivative} of $f$ at $a$, denoted $f'(a)$, is defined as
 
 \[ f'(a) = \lim_{h \rightarrow 0} \dfrac{f(a+h) - f(a)}{h}, \quad \text{provided this limit exists.} \]
 
  The number $f'(a)$ represents the \index{instantaneous rate of change}\index{rate of change ! instantaneous}\textbf{instantaneous rate of change} of $f$ with respect to $x$ at the input $x = a$.  If $f'(a)$ exists, we say $f$ is \index{differentiable}\textbf{differentiable} at $x = a$.
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -257,11 +257,11 @@ As in Section \ref{avginstantvelocity},  $f'(a)$ represents the slope of the tan
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{tangentlinedefn}  If $f$ is differentiable at $x = a$, then $f'(a) =  m_{\text{tan}}$, the slope of the \index{tangent line}\index{line ! tangent}\textbf{tangent line}\textbf{tangent line} to $y = f(x)$ at $(a, f(a))$.   The equation of the tangent line is therefore:  $y = f'(a)(x-a) + f(a)$.  
+\begin{definition} \label{tangentlinedefn}  If $f$ is differentiable at $x = a$, then $f'(a) =  m_{\text{tan}}$, the slope of the \index{tangent line}\index{line ! tangent}\textbf{tangent line}\textbf{tangent line} to $y = f(x)$ at $(a, f(a))$.   The equation of the tangent line is therefore:  $y = f'(a)(x-a) + f(a)$.  
 
 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -271,7 +271,7 @@ We put these definitions to good use in the following example.
 
 \pagebreak
 
-\begin{ex}  \label{tangentlineex}  Let $f(x) = -x^2 + 3x-1$.  
+\begin{example}  \label{tangentlineex}  Let $f(x) = -x^2 + 3x-1$.  
 
 \begin{enumerate}
 
@@ -339,7 +339,7 @@ Graphing $y = 7x+3$ and $y = f(x)$ near $(-2,-11)$ reveals the local linearity w
 
 
 
-\end{ex}
+\end{example}
 
 What if we wanted to find the equation of the tangent line to the graph of the function in Example \ref{tangentlineex}  at $x = 0$?  $x = 1$?  $x = 5$?  We'd ostensibly need to run through difference quotients and limit calculations for each and every input value: $x = 0$, $x = 1$, and $x = 5$.  Or we could do a single limit with a generic `$x$', simplify the difference quotient and take the limit once, and substitute in particular values of $x$:
 
@@ -347,11 +347,11 @@ What if we wanted to find the equation of the tangent line to the graph of the f
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{derivativefcndefn} Given a function $f$ defined on an open interval, the \textbf{derivative} of $f$, denoted  $f'(x)$, is the function
+\begin{definition} \label{derivativefcndefn} Given a function $f$ defined on an open interval, the \textbf{derivative} of $f$, denoted  $f'(x)$, is the function
 
 \[ f'(x) = \lim_{h \rightarrow 0} \dfrac{f(x+h) - f(x)}{h}, \quad \text{provided the limit exists.}\]
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -362,7 +362,7 @@ It is worth noting that if we set $h = \Delta x$, and consider the graph $y = f(
 \pagebreak
 
 
-\begin{ex}  \label{derivativeex}  Let $f(x) = -x^2 + 3x-1$.  
+\begin{example}  \label{derivativeex}  Let $f(x) = -x^2 + 3x-1$.  
 
 \begin{enumerate}
 
@@ -441,7 +441,7 @@ Our last step is to take the limit:   $f'(x) = \ds{ \lim_{h \rightarrow 0} \dfra
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 The astute reader will note that the graph of $f(x) = -x^2+3x-1$ in Example \ref{derivativeex} is a parabola and finding where $f'(x) = 0$ lead us right back to the vertex.  Using a derivative to find the vertex may seem a bit excessive given that we've algebraically derived a handy `vertex formula' in Section \ref{QuadraticFunctions}.   However, as the functions we aim to analyze become more and more sophisticated, the tools we use to analyze them must also become more sophisticated.  The derivative is one such tool that has a near universal application.\footnote{As we'll see in Section \ref{DerivativeAnalysis}.}
 
@@ -449,7 +449,7 @@ The astute reader will note that the graph of $f(x) = -x^2+3x-1$ in Example \ref
 
 
 
-\begin{ex}  \label{morederivativesex} $~$
+\begin{example}  \label{morederivativesex} $~$
 
 \begin{enumerate}
 
@@ -695,7 +695,7 @@ We get \[r'(t) =  \lim_{h \rightarrow 0} \frac{1}{\sqrt{t+h} + \sqrt{t}} = \frac
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 

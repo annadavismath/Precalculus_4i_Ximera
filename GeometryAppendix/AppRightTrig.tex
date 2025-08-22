@@ -37,10 +37,10 @@ We now state and prove the most famous result about right triangles:  \index{Pyt
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{PythagoreanTheorem} (\textbf{The Pythagorean Theorem}) The square of the length of the hypotenuse of a right triangle is equal to the sums of the squares of the other two sides.  More specifically, if $c$ is the length of the hypotenuse of a right triangle and $a$ and $b$ are the lengths of the other two sides, then $a^2 + b^2 = c^2$.
+\begin{theorem} \label{PythagoreanTheorem} (\textbf{The Pythagorean Theorem}) The square of the length of the hypotenuse of a right triangle is equal to the sums of the squares of the other two sides.  More specifically, if $c$ is the length of the hypotenuse of a right triangle and $a$ and $b$ are the lengths of the other two sides, then $a^2 + b^2 = c^2$.
 
 
-\end{thm}
+\end{theorem}
 
 
 \ebm}
@@ -164,7 +164,7 @@ Focusing on the arrangement of the sides of the triangle with respect to the ang
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{righttrianglesinecosinetangent}    Suppose $\theta$ is an acute angle residing in a right triangle as depicted above.
+\begin{definition} \label{righttrianglesinecosinetangent}    Suppose $\theta$ is an acute angle residing in a right triangle as depicted above.
 
 \begin{itemize}
 
@@ -178,7 +178,7 @@ Focusing on the arrangement of the sides of the triangle with respect to the ang
 
 \smallskip
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -356,7 +356,7 @@ Our first example requires the concept of an `angle of inclination.'  The \index
 The angle of inclination from the base line to the object is $\theta$
 \end{center}
 
-\begin{ex} \label{righttriangleex1} $~$
+\begin{example} \label{righttriangleex1} $~$
 
 \begin{enumerate}
 
@@ -487,7 +487,7 @@ Hence, the tree is approximately $273$ feet tall.  \qed
 
 \end{enumerate}
 
-\end{ex} 
+\end{example} 
 
 There are three more trigonometric ratios which are commonly used and they are defined in the same manner the ratios in Definition \ref{righttrianglesinecosinetangent} are defined.  They are listed below.
 
@@ -496,7 +496,7 @@ There are three more trigonometric ratios which are commonly used and they are d
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{righttriangletherest}
+\begin{definition} \label{righttriangletherest}
 
 \smallskip
 
@@ -515,7 +515,7 @@ Suppose $\theta$ is an acute angle residing in a right triangle as depicted on p
 
 \smallskip
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -524,7 +524,7 @@ Suppose $\theta$ is an acute angle residing in a right triangle as depicted on p
 
 We practice these definitions in the following example.
 
-\begin{ex} \label{righttriangleex2}  Suppose $\theta$ is an acute angle with $\cot(\theta) = 3$.  Find the values of the remaining five trigonometric ratios:  $\sin(\theta)$, $\cos(\theta)$, $\tan(\theta)$, $\csc(\theta)$, and $\sec(\theta)$.
+\begin{example} \label{righttriangleex2}  Suppose $\theta$ is an acute angle with $\cot(\theta) = 3$.  Find the values of the remaining five trigonometric ratios:  $\sin(\theta)$, $\cos(\theta)$, $\tan(\theta)$, $\csc(\theta)$, and $\sec(\theta)$.
 
 {\bf Solution.}  We are given $\cot(\theta) = 3 $.  So, to proceed, we construct a right triangle in which the length of the side adjacent to $\theta$ and the length of the side opposite of $\theta$ has a ratio of $3 = \frac{3}{1}$.  Note there are infinitely many such right triangles - we have produced two below for reference.  We will focus our attention on the triangle below on the left and encourage the reader to work through the details using the triangle below on the right to verify the choice of triangle doesn't matter.
 
@@ -557,7 +557,7 @@ We practice these definitions in the following example.
 From the diagram, we see immediately $\tan(\theta) = \frac{1}{3}$, but in order to determine the remaining four trigonometric ratios, we need to first find the value of the hypotenuse. The Pythagorean Theorem gives $1^2 + 3^2 = c^2$ so $c^2 = 10$ or $c = \sqrt{10}$.   Rationalizing denominators, we find $\sin(\theta) = \frac{1}{\sqrt{10}} = \frac{\sqrt{10}}{10}$, $\cos(\theta) = \frac{3}{\sqrt{10}} = \frac{3\sqrt{10}}{10}$, $\csc(\theta) = \frac{\sqrt{10}}{1} = \sqrt{10}$ and $\sec(\theta) = \frac{\sqrt{10}}{3}$.  \qed
 
 
-\end{ex}
+\end{example}
 
 While we learned all about the trigonometric ratios of $\theta$ in Example \ref{righttriangleex2}, the identity of $\theta$ remains unknown.  Since $\sin(\theta) = \frac{\sqrt{10}}{10} \approx 0.316 $ is decidedly less than $\sin\left(30^{\circ}\right) = \frac{1}{2} = 0.5$, it stands to reason that $\theta < 30^{\circ}$. It turns out the calculator can provide for us a decimal approximation of $\theta$ by way of the `$\sin^{-1}(x)$' function.  Here, the `$-1$' exponent denotes an inverse function (see Section \ref{InverseFunctions}) does \textbf{not} mean reciprocal.\footnote{That is, $\sin^{-1}(x) \neq \frac{1}{\sin(x)} $.  That being said, $(\sin(x))^{-1} = \frac{1}{\sin(x)} = \csc(x)$.}  That is, $\sin^{-1}(x)$ (read `sine-inverse of $x$') gives an angle whose sine is $x$.  Hence, we may write $\theta = \sin^{-1}\left(\frac{\sqrt{10}}{10}\right) \approx 18.43^{\circ}$.  The functions $\cos^{-1}(x)$ and $\tan^{-1}(x)$ work similarly.  Indeed, \[ \theta = \sin^{-1}\left(\frac{\sqrt{10}}{10}\right)  = \cos^{-1}\left(\frac{3 \sqrt{10}}{10}\right)  = \tan^{-1} \left( \frac{1}{3} \right),\] and the reader is encouraged to use a calculator to verify these statements.
 
@@ -565,7 +565,7 @@ While we learned all about the trigonometric ratios of $\theta$ in Example \ref{
 
 Please note there is \textbf{much} more to these inverse functions than the `angle finder' description use here.\footnote{See Section \ref{TheInverseTrigonometricFunctions} for all of the pedantic details.}  That being said, we finish this section showcasing a use for the $\tan^{-1}(x)$ function below.
 
-\begin{ex}\footnote{The authors would like to thank Dan Stitz for this problem and associated graphics.} \label{roofpitchex}  The roof on the house below has a  `$6/12$ pitch'.  This means that when viewed from the side, the roof line has a rise of 6 feet over a run of 12 feet.  Find the angle of inclination from the bottom of the roof to the top of the roof. Round your answer to the  nearest hundredth of a degree.
+\begin{example}\footnote{The authors would like to thank Dan Stitz for this problem and associated graphics.} \label{roofpitchex}  The roof on the house below has a  `$6/12$ pitch'.  This means that when viewed from the side, the roof line has a rise of 6 feet over a run of 12 feet.  Find the angle of inclination from the bottom of the roof to the top of the roof. Round your answer to the  nearest hundredth of a degree.
 
 \begin{center}
 
@@ -601,7 +601,7 @@ Front View &  \hspace{0.75in} Side View \\
 
 The angle of inclination, $\theta$, satisfies $\tan(\theta) = \frac{6}{12} = \frac{1}{2}$.  Hence,  $\theta = \tan^{-1}\left( \frac{1}{2}\right)  \approx 26.56^{\circ}$. \qed 
 
-\end{ex}
+\end{example}
 
 
 \newpage

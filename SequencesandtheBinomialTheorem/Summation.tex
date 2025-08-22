@@ -25,13 +25,13 @@ In the previous section, we introduced sequences.  Each of the numbers in the se
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \textbf{Summation Notation:} \label{sigmanotation} \index{summation notation ! definition of} Given a sequence $\left\{ a_{n} \right\}_{n=k}^{\infty}$ and numbers $m$ and $p$ satisfying $k \leq m \leq p$, the summation from $m$ to $p$ of the sequence $\left\{a_{n}\right\}$ is written  
+\begin{definition} \textbf{Summation Notation:} \label{sigmanotation} \index{summation notation ! definition of} Given a sequence $\left\{ a_{n} \right\}_{n=k}^{\infty}$ and numbers $m$ and $p$ satisfying $k \leq m \leq p$, the summation from $m$ to $p$ of the sequence $\left\{a_{n}\right\}$ is written  
 
 \[ \sum_{n=m}^{p} a_{n} = a_{m} + a_{m \mbox{\scriptsize$+ 1$}} + \ldots + a_{p}\]
 
 The variable $n$ is called the \index{summation notation ! index of summation} \textbf{index of summation}.   The number $m$ is called the \index{summation notation ! lower limit of summation} \textbf{lower limit of summation} while the number $p$ is called the \index{summation notation ! upper limit of summation} \textbf{upper limit of summation}.
 
-\end{defn}
+\end{definition}
 
 
 \ebm}
@@ -61,7 +61,7 @@ for real numbers $a_{k}$, $k = 0, 1, \ldots n$.  The reader is invited to compar
 
 Again, the reader is encouraged to write out the sum and compare it to Definition \ref{rowcolumnproduct}.  Our next example gives us practice with this new notation. 
 
-\begin{ex} \label{seriesex1} $~$
+\begin{example} \label{seriesex1} $~$
 
 \begin{enumerate}
 
@@ -161,7 +161,7 @@ Since $n$ is used in the limits of the summation, we need to choose a different 
 
 \end{enumerate}
                     
-\end{ex}          
+\end{example}          
 
 The following theorem presents some general properties of summation notation. 
 
@@ -169,7 +169,7 @@ The following theorem presents some general properties of summation notation.
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{sigmaprops} \textbf{Properties of Summation Notation:} Suppose $\left\{a_{n}\right\}$ and $\left\{b_{n}\right\}$ are sequences so that the following sums are defined. \index{summation notation ! properties of}
+\begin{theorem}  \label{sigmaprops} \textbf{Properties of Summation Notation:} Suppose $\left\{a_{n}\right\}$ and $\left\{b_{n}\right\}$ are sequences so that the following sums are defined. \index{summation notation ! properties of}
 
 \begin{itemize}
 
@@ -183,7 +183,7 @@ The following theorem presents some general properties of summation notation.
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -193,7 +193,7 @@ The following theorem presents some general properties of summation notation.
 There is much to be learned by thinking about why the properties hold, so we leave the proof of these properties to the reader.\footnote{To get started, remember the mantra ``When in doubt, write it out!''}  
 
 
-\begin{ex}  \label{summationpropsex}  $~$
+\begin{example}  \label{summationpropsex}  $~$
 
 \begin{enumerate}
 
@@ -237,7 +237,7 @@ which is the same sum we had before, just with a different dummy variable. \qed
 \end{enumerate}
 
 
-\end{ex}
+\end{example}
 
 
 We now turn our attention to the sums involving arithmetic and geometric sequences. Given an arithmetic sequence $a_{k} = a + (k-1) d$ for $k \geq 1$, we let $S$ denote the sum of the first $n$ terms. To derive a formula for $S$, we write it out in two different ways \[ \begin{array}{ccccccccccc}
@@ -321,7 +321,7 @@ Our results are summarized below.\footnote{Alternatively, we can use Exercise \r
 
 While we have made an honest effort to derive the formulas in Equation \ref{arithgeosum}, formal proofs require the machinery in Section \ref{Induction}.   
 
-\begin{ex} \label{arithgeosumex} $~$
+\begin{example} \label{arithgeosumex} $~$
 
 \begin{enumerate}
 
@@ -365,7 +365,7 @@ in accordance with Equation \ref{arithgeosum}. (The weight of these grains would
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 \smallskip
@@ -419,7 +419,7 @@ If we let $t$ be the number of years this investment strategy is followed, then 
 The reader is encouraged to substitute  $i = \frac{r}{n}$ into Equation \ref{fvannuity} and simplify.  Some familiar equations arise which are cause for pause and meditation.  One last note: if the deposit $P$ is made a the \textit{beginning} of the compounding period instead of at the end, the annuity is called an \index{annuity ! annuity-due} \textit{annuity-due}.  We leave the derivation of the formula for the future value of an annuity-due as an exercise for the reader.
 
 
-\begin{ex} \label{annuityex}  An ordinary annuity offers a $6 \%$ annual interest rate, compounded monthly.
+\begin{example} \label{annuityex}  An ordinary annuity offers a $6 \%$ annual interest rate, compounded monthly.
 
 \begin{enumerate}
 
@@ -461,7 +461,7 @@ This means that it takes just over $40$ years for the investment to grow to $\$1
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 \subsection{Geometric Series}
 \label{GeometricSeries}
@@ -494,13 +494,13 @@ Note that in this manner, any non-terminating decimal can be thought of as an in
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{geoseries} \textbf{Geometric Series:} Given the sequence $a_{k} = ar^{k-1}$ for $k \geq 1$, where $|r| < 1$,
+\begin{theorem}  \label{geoseries} \textbf{Geometric Series:} Given the sequence $a_{k} = ar^{k-1}$ for $k \geq 1$, where $|r| < 1$,
 
 \[ a + ar + ar^2 + \ldots = \displaystyle{\sum_{k=1}^{\infty} ar^{k-1}} = \displaystyle{\lim_{n \rightarrow \infty} \sum_{k=1}^{n} ar^{k-1}} =  \dfrac{a}{1-r}\]
 
 If $|r| \geq 1$, the sum $a + ar + ar^2 + \ldots $ does not exist. \index{geometric series}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -514,7 +514,7 @@ Assuming $|r|<1$ means $-1 < r < 1$, so per Theorem \ref{limitsofgeometricsequen
 
 We'll explore what goes wrong when $|r| \geq 1$ in some of the Exercises. For now, we put this theorem to good use in the following example.
 
-\begin{ex} \label{geoseriesex} $~$
+\begin{example} \label{geoseriesex} $~$
 
 \begin{enumerate}
 
@@ -538,7 +538,7 @@ Hence, $4.2\overline{17} = 4.2 + \dfrac{17}{990} = \dfrac{42}{10} + \dfrac{17}{9
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 We note that another popular method for converting repeating decimals to fractions goes something like this:  let $x =4.2\overline{17}$. Then, $100x = 421.7\overline{17}$.  Hence, $99x = 100x - x = 421.7\overline{17} - 4.2\overline{17} = 417.5$.  Hence,  $x = \frac{417.5}{99}  = \frac{835}{198}$.  While this procedure results in the same (correct!) answer, the manipulations involved (such as the multiplication and subtraction) are actually using some of the properties listed in Theorem \ref{sigmaprops}  extended to infinite sums via Theorem \ref{LimitProp01}.
 
@@ -695,7 +695,7 @@ Below we summarize some common summation formulas we'll need when actually compu
 
 It is high time for an example.
 
-\begin{ex} \label{rightsumex}  Consider $f(x) = 4x-x^2$ over the interval $[0,4]$.
+\begin{example} \label{rightsumex}  Consider $f(x) = 4x-x^2$ over the interval $[0,4]$.
 
 \begin{enumerate}
 
@@ -851,7 +851,7 @@ To find  $\ds{\lim_{n \rightarrow \infty} RS_{n}=\lim_{n \rightarrow \infty}}$  
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 It is worth noting that, as with other examples in the text,  Example \ref{rightsumex} is more or less lifted straight out of  a Calculus lecture.  That being said, the vast majority of the mechanics here involve precalculus notions.\footnote{The only Calculus bit is the limit concept which I guess is precalculus now \ldots}   In general, the machinations in Calculus amount to applying the limit concept to the mechanics of precalculus.  
 

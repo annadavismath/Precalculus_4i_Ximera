@@ -89,9 +89,9 @@ Indeed, the above shows $x^2-2x+5  = (x-[1+2i])(x-1+2i)= (x-[1+2i])(x-[1-2i])$ w
 
 
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{ftoa} \textbf{The Fundamental Theorem of Algebra:}  Suppose $f$ is a polynomial function with complex number coefficients of degree $n \geq 1$, then $f$ has at least one complex zero.
+\begin{theorem} \label{ftoa} \textbf{The Fundamental Theorem of Algebra:}  Suppose $f$ is a polynomial function with complex number coefficients of degree $n \geq 1$, then $f$ has at least one complex zero.
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 
@@ -104,16 +104,16 @@ Suppose  $f$ is a polynomial function of degree $n \geq 1$.  The Fundamental The
 
 
 \colorbox{ResultColor}{\bbm
-\begin{thm} \label{complexfactorization} \textbf{Complex Factorization Theorem:} Suppose $f$ is a polynomial function with complex number coefficients.  If the degree of $f$ is $n$ and $n \geq 1$, then  $f$ has exactly $n$ complex zeros, counting multiplicity.  If $z_{\mbox{\tiny $1$}}$, $z_{\mbox{\tiny $2$}}$, \ldots, $z_{\mbox{\tiny $k$}}$ are the distinct zeros of $f$, with multiplicities $m_{\mbox{\tiny $1$}}$, $m_{\mbox{\tiny $2$}}$, \ldots, $m_{\mbox{\tiny $k$}}$, respectively, then $f(x) = a\left(x - z_{\mbox{\tiny $1$}}  \right)^{m_{\mbox{\tiny $1$}}}\left(x - z_{\mbox{\tiny $2$}}  \right)^{m_{\mbox{\tiny $2$}}} \cdots \left(x - z_{\mbox{\tiny $k$}}  \right)^{m_{\mbox{\tiny $k$}}}$. \index{Complex Factorization Theorem}
+\begin{theorem} \label{complexfactorization} \textbf{Complex Factorization Theorem:} Suppose $f$ is a polynomial function with complex number coefficients.  If the degree of $f$ is $n$ and $n \geq 1$, then  $f$ has exactly $n$ complex zeros, counting multiplicity.  If $z_{\mbox{\tiny $1$}}$, $z_{\mbox{\tiny $2$}}$, \ldots, $z_{\mbox{\tiny $k$}}$ are the distinct zeros of $f$, with multiplicities $m_{\mbox{\tiny $1$}}$, $m_{\mbox{\tiny $2$}}$, \ldots, $m_{\mbox{\tiny $k$}}$, respectively, then $f(x) = a\left(x - z_{\mbox{\tiny $1$}}  \right)^{m_{\mbox{\tiny $1$}}}\left(x - z_{\mbox{\tiny $2$}}  \right)^{m_{\mbox{\tiny $2$}}} \cdots \left(x - z_{\mbox{\tiny $k$}}  \right)^{m_{\mbox{\tiny $k$}}}$. \index{Complex Factorization Theorem}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
 
 Theorem \ref{complexfactorization} says two important things:  first, every polynomial is a product of linear factors;  second, every polynomial function is completely determined by its zeros, their multiplicities, and its leading coefficient.  We put this theorem to good use in the next example.
 
-\begin{ex}  Let $f(x) = 12x^5 - 20x^4+19x^3-6x^2-2x+1$.
+\begin{example}  Let $f(x) = 12x^5 - 20x^4+19x^3-6x^2-2x+1$.
 
 \begin{enumerate}
 
@@ -158,7 +158,7 @@ Our quotient is $12x^2 - 12x + 12$, whose zeros we find to be $\frac{1 \pm i \sq
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 A true test of Theorem \ref{complexfactorization} would be to take the factored form of $f(x)$ in the previous example and multiply it out\footnote{This is a good chance to test your algebraic mettle and see that all of this does actually work.} to see that it really does reduce to  $f(x) = 12x^5 - 20x^4+19x^3-6x^2-2x+1$.  When factoring a polynomial using Theorem \ref{complexfactorization}, we say that it is \index{polynomial function ! completely factored ! over the complex numbers} \textbf{factored completely over the complex numbers}, meaning that it is impossible to factor the polynomial any further using complex numbers.  If we wanted to  \index{polynomial function ! completely factored ! over the real numbers} completely factor $f(x)$ over the \textbf{real numbers} then we would have stopped short of finding the nonreal zeros of $f$ and factored $f$ using our work from the synthetic division to write $f(x) = \left(x - \frac{1}{2} \right)^2 \left(x + \frac{1}{3} \right)\left(12x^2 - 12x + 12\right)$, or $f(x) = 12\left(x - \frac{1}{2} \right)^2 \left(x + \frac{1}{3} \right)\left(x^2 - x + 1\right)$.  Since the zeros of $x^2-x+1$ are nonreal, we call $x^2-x+1$ an \index{quadratic function ! irreducible quadratic}\index{irreducible quadratic}\textbf{irreducible quadratic} meaning it is impossible to break it down any further using \textbf{real} numbers.  
 
@@ -170,9 +170,9 @@ The last two results of the section show us that, theoretically, the non-real ze
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{conjugatepairsthm}\textbf{Conjugate Pairs Theorem:} If $f$ is a polynomial function with real number coefficients and $z$ is a complex zero of $f$, then so is $\overline{z}$. \index{Conjugate Pairs Theorem}
+\begin{theorem} \label{conjugatepairsthm}\textbf{Conjugate Pairs Theorem:} If $f$ is a polynomial function with real number coefficients and $z$ is a complex zero of $f$, then so is $\overline{z}$. \index{Conjugate Pairs Theorem}
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -206,15 +206,15 @@ This shows that $\overline{z}$ is a zero of $f$.  So, if $f$ is a polynomial fun
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm}\label{realfactorization}\textbf{Real Factorization Theorem:} Suppose $f$ is a polynomial function with real number coefficients.  Then $f(x)$ can be factored into a product of linear factors corresponding to the real zeros of $f$ and irreducible quadratic factors which give the nonreal zeros of $f$. \index{Real Factorization Theorem}
-\end{thm}
+\begin{theorem}\label{realfactorization}\textbf{Real Factorization Theorem:} Suppose $f$ is a polynomial function with real number coefficients.  Then $f(x)$ can be factored into a product of linear factors corresponding to the real zeros of $f$ and irreducible quadratic factors which give the nonreal zeros of $f$. \index{Real Factorization Theorem}
+\end{theorem}
 \ebm}
 
 \smallskip
 
 We now present an example which pulls together all of the major ideas of this section.
 
-\begin{ex}  Let $f(x) = x^4+64$.  
+\begin{example}  Let $f(x) = x^4+64$.  
 
 \begin{enumerate}
 
@@ -268,12 +268,12 @@ Our quotient polynomial is $x^2+4x+8$.  Using the quadratic formula, we solve $x
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 
 We close this section with an example where we are asked to manufacture a polynomial function with certain characteristics.
 
-\begin{ex}  
+\begin{example}  
 
 \begin{enumerate}
 
@@ -325,7 +325,7 @@ We close this section with an example where we are asked to manufacture a polyno
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 This example concludes our study of polynomial functions.\footnote{With the exception of the Exercises on the next page, of course.}  The last few sections have contained what is considered by many to be `heavy' Mathematics.  Like a heavy meal, heavy Mathematics takes time to digest.  Don't be overly concerned if it doesn't seem to sink in all at once, and pace yourself in the Exercises or you're liable to get mental cramps.  But before we get to the Exercises, we'd like to offer a bit of an epilogue.  
 

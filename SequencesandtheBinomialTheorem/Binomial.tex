@@ -28,12 +28,12 @@ If we wanted the expansion for $(a+b)^4$ we would write $(a+b)^4 = (a+b)(a+b)^3$
 
 \colorbox{ResultColor}{\bbm 
 
-\begin{defn}  \label{factorialdefn}  \textbf{Factorials:}  
+\begin{definition}  \label{factorialdefn}  \textbf{Factorials:}  
 
 For a whole number $n$, \index{factorial} {\boldmath $n$} \textbf{factorial}, denoted $n!$,  is the term $f_{n}$ of the sequence: \[ f_{\mbox{\tiny$0$}} = 1, f_{n} =n \cdot f_{n-\mbox{\tiny$1$}}, \quad n \geq 1.\]
 
 
-\end{defn}
+\end{definition}
 
 \ebm}
 
@@ -42,7 +42,7 @@ For a whole number $n$, \index{factorial} {\boldmath $n$} \textbf{factorial}, de
 
 Recall this means $0! = 1$ and $n! = n(n-1)!$ for $n \geq 1$.  Hence, $1! = 1 \cdot 0! = 1 \cdot 1 = 1$, $2! = 2 \cdot 1! = 2 \cdot 1 = 2$, $3! = 3 \cdot 2! = 3 \cdot 2 \cdot 1 = 6$ and  $4! = 4 \cdot 3! = 4 \cdot 3 \cdot 2 \cdot 1 = 24$. Informally, $n! = n\cdot(n -1)\cdot(n -2) \cdots 2 \cdot 1$ with $0! = 1$ as our `base case.'  Our first example familiarizes us with some of the basics of factorial computations.
 
-\begin{ex}  \label{factorialex}  $~$
+\begin{example}  \label{factorialex}  $~$
 
 \begin{enumerate} 
 
@@ -121,7 +121,7 @@ Putting all of this together, we have $(k+1)! = (k+1) k! > (k+1)3^{k} > 3^{k+1}$
 
 \end{enumerate}
 
-\end{ex} 
+\end{example} 
 
 Of all of the mathematical functions we have discussed in the text, factorials grow most quickly.  In  Example \ref{factorialex} above, we proved that $n!$ overtakes $3^{n}$ at $n=7$.  `Overtakes' may be too polite a word, since $n!$ thoroughly trounces $3^n$ for $n \geq 7$, as any reasonable set of data will show. 
 
@@ -145,11 +145,11 @@ If you wish to select only ten of the songs to create a playlist, then there are
 
 \colorbox{ResultColor}{\bbm
 
-\begin{defn} \label{binomialcoeff}  \textbf{Binomial Coefficients:}  Given two whole numbers $n$ and $j$ with $n \geq j$, the \index{binomial coefficient} binomial coefficient  {\boldmath $\displaystyle \binom{n}{j}$} (read, `$n$ choose $j$') is the whole number given by
+\begin{definition} \label{binomialcoeff}  \textbf{Binomial Coefficients:}  Given two whole numbers $n$ and $j$ with $n \geq j$, the \index{binomial coefficient} binomial coefficient  {\boldmath $\displaystyle \binom{n}{j}$} (read, `$n$ choose $j$') is the whole number given by
 
 \[ \binom{n}{j} = \dfrac{n!}{j! (n-j)!} \]
 
-\end{defn}
+\end{definition}
 \ebm}
 
 \smallskip
@@ -170,13 +170,13 @@ We now state and prove a theorem which is crucial to the proof of the Binomial T
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{addbinomcoeff}  For natural numbers $n$ and $j$ with $n \geq j$, 
+\begin{theorem}  \label{addbinomcoeff}  For natural numbers $n$ and $j$ with $n \geq j$, 
 
 \[ \binom{n}{j-1} + \binom{n}{j} = \binom{n+1}{j} \]
 
 
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -214,13 +214,13 @@ We are now in position to state and prove the Binomial Theorem where we see that
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{BinomialTheorem} \index{Binomial Theorem} \textbf{Binomial Theorem:}  For nonzero real numbers $a$ and $b$,
+\begin{theorem}  \label{BinomialTheorem} \index{Binomial Theorem} \textbf{Binomial Theorem:}  For nonzero real numbers $a$ and $b$,
 
 \[(a+b)^{n} =\displaystyle{\sum_{j=0}^{n} \binom{n}{j} a^{n-j} b^{\, j}} \]
 
 for all natural numbers $n$.
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -325,7 +325,7 @@ Using this and the fact that $\binom{k+1}{0} = 1$ and $\binom{k+1}{k+1} = 1$, we
  
 which shows that $P(k+1)$ is true.  Hence, by induction, we have established that the Binomial Theorem holds for all natural numbers $n$.
 
-\begin{ex} \label{binomialthmex}  Use the Binomial Theorem to find the following.
+\begin{example} \label{binomialthmex}  Use the Binomial Theorem to find the following.
 
 \begin{enumerate}
 
@@ -373,7 +373,7 @@ Since we are concerned with only the term containing $x^3$, there is no need to 
 
 
 \end{enumerate}
-\end{ex}
+\end{example}
 
 
 An important application of binomial coefficients is computing probabilities using the eponymous \index{binomial distribution}\textit{binomial distribution}.  Suppose an experiment has a probability $p$ of `success' and a probability of $1-p$ of `failure.'\footnote{In other words, there are just two possible outcomes: success or failure, and the fact these probabilities add to $1$ means one or the other, but not both, will happen.  This situation is called a \textit{Bernoulli Trial}.}   For instance, suppose we roll a `fair' six-sided die.  Let us say a `success' is rolling a four. Then the probability here of a success is $p = \frac{1}{6}$ while the probability of failure here, or \textit{not} rolling a four,  is $1-\frac{1}{6} = \frac{5}{6}$.
@@ -419,7 +419,7 @@ Suppose we wanted to compute the probability of rolling \textit{at least} $2$ fo
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm}  \label{BinomialDistribution} \index{Binomial Theorem} \textbf{Binomial Distribution:}  If an experiment has a probability of success of $p$ then the probability of \textit{exactly} $j$ successes in $n$ independent Bernoulli Trials is:
+\begin{theorem}  \label{BinomialDistribution} \index{Binomial Theorem} \textbf{Binomial Distribution:}  If an experiment has a probability of success of $p$ then the probability of \textit{exactly} $j$ successes in $n$ independent Bernoulli Trials is:
 
 \[ \displaystyle{\binom{n}{j} p^{\, j} (1-p)^{n-j}} \]
 
@@ -431,7 +431,7 @@ The probability of \textit{at least} $k$ successes in $n$ independent Bernoulli 
 
 for $0 \leq k \leq n$.
 
-\end{thm}
+\end{theorem}
 
 \ebm}
 

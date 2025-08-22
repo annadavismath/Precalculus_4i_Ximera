@@ -19,8 +19,8 @@ In Section \ref{Polydivision}, we found that we can use synthetic division to de
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{CauchysBound}\index{Cauchy's Bound}\textbf{Cauchy's Bound:}  Suppose $f(x) = a_{n} x^{n} + a_{n-\mbox{\tiny$1$}}x^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} x + a_{\mbox{\tiny$0$}}$ is a polynomial of degree $n$ with $n \geq 1$.  Let $M$ be the largest of the numbers: $\frac{|a_{0}|}{|a_{n}|}$, $\frac{|a_{1}|}{|a_{n}|}$, \ldots, $\frac{|a_{n-1}|}{|a_{n}|}$.  Then all the real zeros of $f$ lie in in the interval $[-(M+1),M+1]$.
-\end{thm}
+\begin{theorem} \label{CauchysBound}\index{Cauchy's Bound}\textbf{Cauchy's Bound:}  Suppose $f(x) = a_{n} x^{n} + a_{n-\mbox{\tiny$1$}}x^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} x + a_{\mbox{\tiny$0$}}$ is a polynomial of degree $n$ with $n \geq 1$.  Let $M$ be the largest of the numbers: $\frac{|a_{0}|}{|a_{n}|}$, $\frac{|a_{1}|}{|a_{n}|}$, \ldots, $\frac{|a_{n-1}|}{|a_{n}|}$.  Then all the real zeros of $f$ lie in in the interval $[-(M+1),M+1]$.
+\end{theorem}
 
 \ebm}
 
@@ -28,13 +28,13 @@ In Section \ref{Polydivision}, we found that we can use synthetic division to de
 There's a lot going on in the statement of Cauchy's Bound, so we'll get right to an example and show how it is used. For those wanting a proof of Cauchy's Bound, see Exercise \ref{CauchyBoundProofExercise} in Section \ref{Summation}.
 
 
-\begin{ex} \label{CBex} Let $f(x) = 2x^4+4x^3-x^2-6x-3$.  Determine an interval which contains all of the real zeros of $f$.
+\begin{example} \label{CBex} Let $f(x) = 2x^4+4x^3-x^2-6x-3$.  Determine an interval which contains all of the real zeros of $f$.
 
 \smallskip
 
 {\bf Solution.} To find the $M$ stated in Cauchy's Bound, we take the absolute value of the leading coefficient, in this case $|2| = 2$ and divide it into the largest (in absolute value) of the remaining coefficients, in this case $|-6| = 6$.   This yields $M=3$ so it is guaranteed that all of the real zeros of $f$ lie in the interval $[-4,4]$.  \qed
 
-\end{ex}
+\end{example}
 
 Whereas the previous result tells us \textbf{where} we can find the real zeros of a polynomial, the next theorem gives us a list of \textbf{possible} real zeros.
 
@@ -42,8 +42,8 @@ Whereas the previous result tells us \textbf{where} we can find the real zeros o
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \label{RZT}\index{Rational Zeros Theorem}\textbf{Rational Zeros Theorem:}  Suppose $f(x) = a_{n} x^{n} + a_{n-\mbox{\tiny$1$}}x^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} x + a_{\mbox{\tiny$0$}}$ is a polynomial of degree $n$ with $n \geq 1$, and $a_{\mbox{\tiny$0$}}$, $a_{\mbox{\tiny$1$}}$, \ldots $a_{n}$ are integers.  If $r$ is a rational zero of $f$, then $r$ is of the form $\pm \frac{p}{q}$, where $p$ is a factor of the constant term $a_{\mbox{\tiny$0$}}$, and $q$ is a factor of the leading coefficient $a_{n}$.  
-\end{thm}
+\begin{theorem} \label{RZT}\index{Rational Zeros Theorem}\textbf{Rational Zeros Theorem:}  Suppose $f(x) = a_{n} x^{n} + a_{n-\mbox{\tiny$1$}}x^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} x + a_{\mbox{\tiny$0$}}$ is a polynomial of degree $n$ with $n \geq 1$, and $a_{\mbox{\tiny$0$}}$, $a_{\mbox{\tiny$1$}}$, \ldots $a_{n}$ are integers.  If $r$ is a rational zero of $f$, then $r$ is of the form $\pm \frac{p}{q}$, where $p$ is a factor of the constant term $a_{\mbox{\tiny$0$}}$, and $q$ is a factor of the leading coefficient $a_{n}$.  
+\end{theorem}
 
 \ebm}
 
@@ -51,13 +51,13 @@ Whereas the previous result tells us \textbf{where} we can find the real zeros o
 
 The Rational Zeros Theorem gives us a list of numbers to try in our synthetic division and that is a lot nicer than simply guessing.  If none of the numbers in the list are zeros, then either the polynomial has no real zeros at all, or all of the real zeros are irrational numbers.  To see why the Rational Zeros Theorem works, suppose $c$ is a zero of $f$ and $c = \frac{p}{q}$ in lowest terms.  This means $p$ and $q$ have no common factors.  Since $f(c) = 0$, we have \[a_{n} \left(\frac{p}{q}\right)^{n} + a_{n-\mbox{\tiny$1$}}\left(\frac{p}{q}\right)^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} \left(\frac{p}{q}\right) + a_{\mbox{\tiny$0$}} = 0.\]  Multiplying both sides of this equation by $q^n$, we clear the denominators to get \[a_{n}p^{n} + a_{n-\mbox{\tiny$1$}}p^{n-\mbox{\tiny$1$}}q + \ldots + a_{\mbox{\tiny$1$}}p q^{n-\mbox{\tiny$1$}} + a_{\mbox{\tiny$0$}}q^n = 0\]  Rearranging this equation, we get  \[a_{n}p^{n} = -a_{n-\mbox{\tiny$1$}}p^{n-\mbox{\tiny$1$}}q - \ldots - a_{\mbox{\tiny$1$}}p q^{n-\mbox{\tiny$1$}} -a_{\mbox{\tiny$0$}}q^n\] Now, the left hand side is an integer multiple of $p$, and the right hand side is an integer multiple of $q$. (Can you see why?)  This means $a_{n}p^{n}$ is both a multiple of $p$ and a multiple of $q$.  Since $p$ and $q$ have no common factors, $a_{n}$ must be a multiple of $q$.  If we rearrange the equation \[a_{n}p^{n} + a_{n-\mbox{\tiny$1$}}p^{n-\mbox{\tiny$1$}}q + \ldots + a_{\mbox{\tiny$1$}}p q^{n-\mbox{\tiny$1$}} + a_{\mbox{\tiny$0$}}q^n = 0\] as \[a_{\mbox{\tiny$0$}}q^n = -a_{n}p^{n} - a_{n-\mbox{\tiny$1$}}p^{n-\mbox{\tiny$1$}}q - \ldots - a_{\mbox{\tiny$1$}}p q^{n-\mbox{\tiny$1$}}\] we can play the same game and conclude $a_{\mbox{\tiny$0$}}$ is a multiple of $p$, and we have the result.
 
-\begin{ex}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$. Use the Rational Zeros Theorem to list all of the possible rational zeros of $f$.
+\begin{example}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$. Use the Rational Zeros Theorem to list all of the possible rational zeros of $f$.
 
 \smallskip
 
 {\bf Solution.}  To generate a complete list of rational zeros, we need to take each of the factors of constant term, $a_{\mbox{\tiny$0$}} = -3$, and divide them by each of the factors of the leading coefficient $a_{\mbox{\tiny$4$}} = 2$.  The factors of $-3$ are $\pm \, 1$ and $\pm \, 3$.  Since the Rational Zeros Theorem tacks on a $\pm$ anyway, for the moment, we consider only the positive factors $1$ and $3$.  The factors of $2$ are  $1$ and $2$, so the Rational Zeros Theorem gives the list $\left\{\pm \, \frac{1}{1}, \pm \, \frac{1}{2},  \pm \, \frac{3}{1}, \pm \, \frac{3}{2}\right\}$ or $\left\{\pm \, \frac{1}{2}, \pm \, 1, \pm \, \frac{3}{2}, \pm \, 3\right\}$. \qed
 \label{RZTex}
-\end{ex}
+\end{example}
 
 Our discussion now diverges between those who wish to use technology and those who do not.  
 
@@ -65,7 +65,7 @@ Our discussion now diverges between those who wish to use technology and those w
 
 At this stage, we know not only the interval in which all of the zeros of $f(x) = 2x^4+4x^3-x^2-6x-3$ are located, but we also know some potential candidates.  We can now use our calculator to help us determine all of the real zeros of $f$, as illustrated in the next example.
 
-\begin{ex}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$.  
+\begin{example}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$.  
 
 \begin{enumerate}
 
@@ -128,12 +128,12 @@ Since $f$ is a fourth degree polynomial, we know that our quotient is a third de
 
  \qed
 
-\end{ex}
+\end{example}
 
 
 Our next example shows how even a mild-mannered polynomial can cause problems.
 
-\begin{ex}  \label{polyquadinform} Let $f(x) = x^4 + x^2 - 12$.
+\begin{example}  \label{polyquadinform} Let $f(x) = x^4 + x^2 - 12$.
 
 \begin{enumerate}
 
@@ -174,7 +174,7 @@ Our next example shows how even a mild-mannered polynomial can cause problems.
 
 \label{usubex}
 
-\end{ex}
+\end{example}
 
 A couple of remarks are in order.  First, the graph of $f(x) = x^4 + x^2 - 12$ appears to be symmetric about the $y$-axis.  Sure enough, we find $f(-x) = (-x)^4+(-x)^2  - 12 = x^4+x^2=12 = f(x)$ proving $f$ is, indeed, an even function, thus \textbf{proving} the symmetry \textbf{suggested} by the graph.  Second, the technique used to factor $f(x)$ in Example \ref{usubex} is called \index{$u$-substitution} \textbf{{\boldmath $u$}-substitution}.  We shall this technique now and then in the sections to come, so it is worth taking the time to let this idea sink in.  In general, substitution can help us identify a `quadratic in disguise' - in essence, it helps us `see the forest for the trees.'  Last, but not least, it is entirely possible that a polynomial has no real roots at all, or worse, it has real roots but none of the techniques discussed in this section can help us find them exactly.  In the latter case, we are forced to approximate using technology.  
 
@@ -187,7 +187,7 @@ Suppose we wish to find the zeros of $f(x) = 2x^4+4x^3-x^2-6x-3$ \textbf{without
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \index{Descartes' Rule of Signs}\label{DRS}  \textbf{Descartes' Rule of Signs:}  Suppose $f(x)$ is the formula for a polynomial function written with descending powers of $x$.
+\begin{theorem} \index{Descartes' Rule of Signs}\label{DRS}  \textbf{Descartes' Rule of Signs:}  Suppose $f(x)$ is the formula for a polynomial function written with descending powers of $x$.
 
 \begin{itemize}
 
@@ -197,14 +197,14 @@ Suppose we wish to find the zeros of $f(x) = 2x^4+4x^3-x^2-6x-3$ \textbf{without
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 \smallskip
 
 A few remarks are in order. First, to use Descartes' Rule of Signs, we need to understand what is meant by a \index{polynomial function ! variations in sign}\index{variations in sign}`\textbf{variation in sign}' of a polynomial function.  Consider $f(x) = 2x^4+4x^3-x^2-6x-3$.  If we focus on only the \textbf{signs} of the coefficients, we start with a $(+)$, followed by another $(+)$, then switch to $(-)$, and stay $(-)$ for the remaining two coefficients.  Since the signs of the coefficients switched \textbf{once} as we read from left to right, we say that $f(x)$ has \textbf{one} variation in sign.  When we speak of the variations in sign of a polynomial function $f$ we assume the formula for $f(x)$ is written with descending powers of $x$, as in Definition \ref{polynomialfunction}, and concern ourselves only with the nonzero coefficients.  Second, unlike the Rational Zeros Theorem, Descartes' Rule of Signs gives us an estimate to the \textbf{number} of positive and negative real zeros, not the actual \textbf{value} of the zeros. Lastly, Descartes' Rule of Signs counts multiplicities.  This means that, for example, if one of the zeros has multiplicity $2$, Descsartes' Rule of Signs would count this as \textbf{two} zeros.  Lastly, note that the number of positive or negative real zeros always starts with the number of sign changes and decreases by an even number.  For example, if $f(x)$ has $7$ sign changes, then, counting multplicities, $f$ has either $7$, $5$, $3$ or $1$ positive real zero.  This implies that the graph of $y=f(x)$ crosses the positive $x$-axis at least once.  If $f(-x)$ results in $4$ sign changes, then, counting multiplicities, $f$ has $4$, $2$ or $0$ negative real zeros;  hence, the graph of $y=f(x)$ may not cross the negative $x$-axis at all.  The proof of Descartes' Rule of Signs is a bit technical, and can be found \href{http://www.cut-the-knot.org/fta/ROS2.shtml}{\underline{here}}. 
 
-\begin{ex}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$.  Use Descartes' Rule of Signs to determine the possible number and location of the real zeros of $f$.
+\begin{example}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$.  Use Descartes' Rule of Signs to determine the possible number and location of the real zeros of $f$.
 
 \smallskip
 
@@ -212,14 +212,14 @@ A few remarks are in order. First, to use Descartes' Rule of Signs, we need to u
 
 \label{DRSex}
 
-\end{ex}
+\end{example}
 
 Cauchy's Bound gives us a general bound on the zeros of a polynomial function.  Our next result helps us determine bounds on the real zeros of a polynomial as we synthetically divide which are often sharper\footnote{That is, better, or more accurate.} bounds than Cauchy's Bound.   
 
 \smallskip
 
 \colorbox{ResultColor}{\bbm
-\begin{thm}  \label{ULbounds} \textbf{Upper and Lower Bounds:}  Suppose $f$ is a polynomial of degree $n \geq 1$. \index{Upper and Lower Bounds Theorem}\index{polynomial function ! zero ! upper bound}\index{polynomial function ! zero ! lower bound}\index{zero ! upper and lower bounds}
+\begin{theorem}  \label{ULbounds} \textbf{Upper and Lower Bounds:}  Suppose $f$ is a polynomial of degree $n \geq 1$. \index{Upper and Lower Bounds Theorem}\index{polynomial function ! zero ! upper bound}\index{polynomial function ! zero ! lower bound}\index{zero ! upper and lower bounds}
 
 \begin{itemize}
 
@@ -231,7 +231,7 @@ Cauchy's Bound gives us a general bound on the zeros of a polynomial function.  
 
 \end{itemize}
 
-\end{thm}
+\end{theorem}
 \ebm}
 
 
@@ -239,7 +239,7 @@ Cauchy's Bound gives us a general bound on the zeros of a polynomial function.  
 
 The Upper and Lower Bounds Theorem works because of Theorem \ref{polydivthm}.  For the upper bound part of the theorem, suppose $c>0$ is divided into $f$ and the resulting line in the division tableau contains, for example, all nonnegative numbers.  This means $f(x) = (x-c) q(x) + r$, where the coefficients of the quotient polynomial and the remainder are nonnegative.  (Note that the leading coefficient of $q$ is the same as $f$ so $q(x)$ is not the zero polynomial.)  If $b > c$, then $f(b) = (b-c) q(b) + r$, where $(b-c)$ and  $q(b)$ are both positive and $r \geq 0$.  Hence $f(b) > 0$ which shows $b$ cannot be a zero of $f$.  Thus no real number $b > c$ can be a zero of $f$, as required.  A similar argument proves $f(b) < 0$ if all of the numbers in the final line of the synthetic division tableau are non-positive.  To prove the lower bound part of the theorem, we note that a lower bound for the negative real zeros of $f(x)$ is an upper bound for the positive real zeros of $f(-x)$, since all we are doing is reflecting the numbers across the $x=0$.  Applying the upper bound portion to $f(-x)$ gives the result.  (Do you see where the alternating signs come in?) With the additional mathematical machinery of Descartes' Rule of Signs and the Upper and Lower Bounds Theorem, we can find the real zeros of $f(x) = 2x^4+4x^3-x^2-6x-3$ without the use of a graphing utility.
 
-\begin{ex}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$.
+\begin{example}  Let $f(x) = 2x^4+4x^3-x^2-6x-3$.
 
 \begin{enumerate}
 
@@ -352,7 +352,7 @@ Setting the quotient polynomial equal to zero yields $2x^2 - 3 = 0$, so that $x^
 
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 \subsection{The Intermediate Value Theorem and Inequalities}
 \label{IVTaninequalities}
@@ -362,10 +362,10 @@ As we mentioned in Section \ref{GraphsofPolynomials}, polynomial functions are c
 
 \colorbox{ResultColor}{\bbm
 
-\begin{thm} \textbf{The Intermediate Value Theorem (Zero Version):} If $f$ is continuous over an interval containing $a$ and $b$ and $f(a)$ and $f(b)$ have different signs, then $f$ has a zero between $a$ and $b$.  That is, for at least one value $c$ between $a$ and $b$, $f(c) = 0$. \index{Intermediate Value Theorem ! polynomial zero version}
+\begin{theorem} \textbf{The Intermediate Value Theorem (Zero Version):} If $f$ is continuous over an interval containing $a$ and $b$ and $f(a)$ and $f(b)$ have different signs, then $f$ has a zero between $a$ and $b$.  That is, for at least one value $c$ between $a$ and $b$, $f(c) = 0$. \index{Intermediate Value Theorem ! polynomial zero version}
 
 \label{IVT}
-\end{thm}
+\end{theorem}
 
 \ebm}
 
@@ -414,7 +414,7 @@ To solve an inequality using a sign diagram:
 \ebm}
 
 
-\begin{ex}  \label{polyeqineqexample} $~$
+\begin{example}  \label{polyeqineqexample} $~$
 
 \begin{enumerate}
 
@@ -496,13 +496,13 @@ The solution to $p(x) < 0$ is $\left(-\infty, -\frac{1}{2}\right)$, and we know 
 \qed
 \end{enumerate}
 
-\end{ex}
+\end{example}
 
 Note that we could have used end behavior and the concept of multiplicity to create the sign diagram used in Example \ref{polyeqineqexample} as follows.  We know the end behavior of $p(x) = 2x^5-3x^4+6x^3-8x^2+3$ matches that of $y = 2x^5$ which means $\ds{\lim_{x \rightarrow -\infty} p(x) = -\infty}$.  This means for the interval $\left(-\infty, -\frac{1}{2}\right)$, $p(x) < 0$ or $(-)$. From our work finding the zeros of $p$, we can deduce the multiplicity of the zero $x = -\frac{1}{2}$ is $1$ which means the graph of $y = p(x)$ crosses through the $x$-axis at $\left( -\frac{1}{2}, 0 \right)$, hence, changing sign from $(-)$ to $(+)$.  Finally, we can deduce the multiplicity of the zero $x = 1$ is $2$ which means the graph of $y = p(x)$ rebounds here, meaning the sign of $p(x)$ for $x > 1$ is $(+)$.  This matches the end behavior, since $\ds{\lim_{x \rightarrow \infty} p(x) = \infty}$.  The reader is encouraged to tackle any given problem using whatever tools are comfortable and convenient, but it also never hurts to think outside the box and revisit a problem from a variety of perspectives.
 
 Next up is an application problem torn  from page \pageref{LCDmaxprofit} in the Exercises of Section \ref{GraphsofPolynomials}.
 
-\begin{ex} Suppose the profit $P$, in \textbf{thousands} of dollars, from producing and selling $x$ \textbf{hundred} LCD TVs is given by  $P(x)=-5x^3+35x^2-45x-25$, $0 \leq x \leq 10.07$.  How many TVs should be produced to make a profit?  Check your answer using a graphing utility.
+\begin{example} Suppose the profit $P$, in \textbf{thousands} of dollars, from producing and selling $x$ \textbf{hundred} LCD TVs is given by  $P(x)=-5x^3+35x^2-45x-25$, $0 \leq x \leq 10.07$.  How many TVs should be produced to make a profit?  Check your answer using a graphing utility.
 
 \smallskip
 
@@ -540,7 +540,7 @@ We see immediately that $P(x)>0$ on $(1+\sqrt{2},5)$.  Since $x$ measures the nu
 
  \qed
 
-\end{ex}
+\end{example}
 
 
 It would be a sin of omission if the authors left the reader with the impression that the theory in this section is compete in that given \textbf{any} polynomial function, provided here are the tools to find all of its real zeros exactly.  The reality is this couldn't be further from the truth.  In general, no matter how many theorems you throw at a polynomial, it may well be impossible to express its zeros exactly.  The polynomial $f(x) = x^5-x-1$ is one such beast.\footnote{See this \href{http://en.wikipedia.org/wiki/Galois_theory}{\underline{page}}.}  According to Descartes' Rule of Signs, $f$ has exactly one positive real zero, and it could have two negative real zeros, or none at all.  The Rational Zeros Test gives us $\pm 1$ as rational zeros to try but neither of these work since $f(1) = f(-1) = -1$.  If we try the substitution technique we used in Example \ref{usubex}, we find $f(x)$ has three terms, but the exponent on the $x^5$ isn't exactly twice the exponent on $x$.  How could we go about approximating the positive zero?   We use the \index{Bisection Method} \textbf{Bisection Method}.  
