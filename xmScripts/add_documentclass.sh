@@ -17,3 +17,8 @@ done
 
 
 ## for f in *; do [[ -f $f/$f.tex ]] && mv $f/$f.tex $f/$f.txt; done 
+
+## sed -i "s?\\\\begin{defn}?\\\\^Cgin{definition}?" */*.tex     # etcetera ...
+
+## sed -i  's?^\\colorbox{ResultColor}{\\bbm?%% \\colorbox{ResultColor}{\\bbm?' */*.tex
+## sed -i  "s?\\\\ebm}?%% \\\\ebm}?" */*.tex
