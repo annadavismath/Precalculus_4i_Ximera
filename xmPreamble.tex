@@ -257,4 +257,11 @@
   \hfil$\m@th\displaystyle{##}$}{$\m@th\displaystyle{##}$\hfil}{\lbrace}{.}
 \makeatother
 
-\let\ref\textbf
+% \let\ref\textbf
+
+% \usepackage{enumitem}
+% \setlistdepth{9} % allow up to 9 nested levels
+
+%% OTHERWITE 'Counter too large' errors   (Ximera sets this ot \Alph ...?)
+\renewcommand{\theenumi}{\arabic{enumi}}
+\renewcommand{\labelenumi}{\theenumi.}
