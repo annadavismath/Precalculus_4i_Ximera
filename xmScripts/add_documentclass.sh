@@ -12,3 +12,5 @@ done
 
 ##  sed -i "s?\\\\input{Ex?%% SKIPPED %% \\\\input{Ex?" */*.tex
 ##  sed -i "s/PNG/png/" */*.tex
+
+## for f in */Exe*.tex; do sed -i "6i\\\\\\mfpicnumber{1} \\\\opengraphsfile{$(basename $f .tex)} % mfpic settings added " $f; done 
