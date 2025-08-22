@@ -591,9 +591,10 @@ Fix proof spacing
 div.d-flex div.d-flex{
     min-width: 100%;
 }
+/* Commented Wim 22/8/2025
 span.fbox {
     border: 1px solid black;
-}
+} */
 
 /* poor-mans tabular for \begin{description} */
 dt.description {
