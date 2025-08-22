@@ -54,9 +54,9 @@ jobs:
           # git config --global http.postBuffer 524288000
           # git config --global core.compression 9
           ./xmScripts/xmlatex bake  course.tex --compile "html,handout.pdf" || echo NOK
-          ./xmScripts/xmlatex frost course.tex || echo NOK
-          # ./xmScripts/xmlatex name
-          # ./xmScripts/xmlatex serve
+          ./xmScripts/xmlatex frost course.tex --nodependencies || echo NOK
+          ./xmScripts/xmlatex name
+          ./xmScripts/xmlatex serve
           # ./xmScripts/xmlatex ghaction
           echo "✅ Published to $XIMERA_URL$XIMERA_NAME " >> $GITHUB_STEP_SUMMARY
 
