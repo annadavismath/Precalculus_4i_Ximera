@@ -14,3 +14,6 @@ done
 ##  sed -i "s/PNG/png/" */*.tex
 
 ## for f in */Exe*.tex; do sed -i "6i\\\\\\mfpicnumber{1} \\\\opengraphsfile{$(basename $f .tex)} % mfpic settings added " $f; done 
+
+
+## for f in *; do [[ -f $f/$f.tex ]] && mv $f/$f.tex $f/$f.txt; done 
