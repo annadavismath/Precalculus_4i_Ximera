@@ -53,8 +53,8 @@ jobs:
           rm -rf ximera-downloads/with-answers
           # git config --global http.postBuffer 524288000
           # git config --global core.compression 9
-          ./xmScripts/xmlatex bake --compile "html,handout.pdf"
-          ./xmScripts/xmlatex frost
+          ./xmScripts/xmlatex bake --compile "html,handout.pdf" || echo NOK
+          ./xmScripts/xmlatex frost || echo NOK
           # ./xmScripts/xmlatex name
           # ./xmScripts/xmlatex serve
           # ./xmScripts/xmlatex ghaction
