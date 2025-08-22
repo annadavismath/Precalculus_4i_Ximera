@@ -55,7 +55,7 @@ jobs:
           # git config --global http.postBuffer 524288000
           # git config --global core.compression 9
           ./xmScripts/xmlatex bake  course.tex --compile "html,handout.pdf" || echo NOK
-          ./xmScripts/xmlatex frost course.tex --nodependencies || echo NOK
+          ./xmScripts/xmlatex frost course.tex || echo NOK
           ./xmScripts/xmlatex name || echo NOK
           ./xmScripts/xmlatex serve || echo NOK
           # ./xmScripts/xmlatex ghaction
@@ -71,37 +71,37 @@ jobs:
           key: ximeraSERVE-${{ github.ref_name }}-${{ github.sha }}
 
 
-  publish-ximera:
-    name: Publish Ximera Courses
-    needs: build-ximera # Waits for the build job to complete
-    runs-on: ubuntu-latest
-    environment: production
-    steps:
+  # publish-ximera:
+  #   name: Publish Ximera Courses
+  #   needs: build-ximera # Waits for the build job to complete
+  #   runs-on: ubuntu-latest
+  #   environment: production
+  #   steps:
 
 
-      - name: Restore ximera serve cache (only .git)
-        id: serve-cache-restore
-        uses: actions/cache/restore@v4
-        with:
-          fail-on-cache-miss: true
-          path: | 
-            xmScripts/**
-            .git/**
-          key: ximeraSERVE-${{ github.ref_name }}-${{ github.sha }}
+  #     - name: Restore ximera serve cache (only .git)
+  #       id: serve-cache-restore
+  #       uses: actions/cache/restore@v4
+  #       with:
+  #         fail-on-cache-miss: true
+  #         path: | 
+  #           xmScripts/**
+  #           .git/**
+  #         key: ximeraSERVE-${{ github.ref_name }}-${{ github.sha }}
           
-      - name: Serve
-        env:
-          GPG_KEY: ${{ secrets.GPG_KEY }}
-          GPG_KEY_ID: ${{ secrets.GPG_KEY_ID }}
-          # XIMERA_URL: ${{ vars.XIMERA_URL }}
-          # XIMERA_NAME: ${{ vars.XIMERA_NAME }}
-          XIMERA_URL: "https://xerxes.ximera.org/"
-          XIMERA_NAME: "testprecalc"
-        run: |
-          chmod +x xmScripts/xmlatex
-          ./xmScripts/xmlatex name    || echo NOK
-          ./xmScripts/xmlatex serve   || echo NOK
-          echo "✅ Published to $XIMERA_URL$XIMERA_NAME " >> $GITHUB_STEP_SUMMARY
+  #     - name: Serve
+  #       env:
+  #         GPG_KEY: ${{ secrets.GPG_KEY }}
+  #         GPG_KEY_ID: ${{ secrets.GPG_KEY_ID }}
+  #         # XIMERA_URL: ${{ vars.XIMERA_URL }}
+  #         # XIMERA_NAME: ${{ vars.XIMERA_NAME }}
+  #         XIMERA_URL: "https://xerxes.ximera.org/"
+  #         XIMERA_NAME: "testprecalc"
+  #       run: |
+  #         chmod +x xmScripts/xmlatex
+  #         ./xmScripts/xmlatex name    || echo NOK
+  #         ./xmScripts/xmlatex serve   || echo NOK
+  #         echo "✅ Published to $XIMERA_URL$XIMERA_NAME " >> $GITHUB_STEP_SUMMARY
 
 
 
