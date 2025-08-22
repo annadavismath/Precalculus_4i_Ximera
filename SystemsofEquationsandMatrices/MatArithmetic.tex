@@ -35,7 +35,7 @@ With this new notation we can define what it means for two matrices to be equal.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{matrixequality} \textbf{Matrix Equality:}  Two matrices are said to be \index{matrix ! equality} \textbf{equal} if they are the same size and their corresponding entries are equal.  More specifically, if $A =\left[a_{ij}\right]_{m \times n}$ and $B =\left[b_{ij}\right]_{p \times r}$, we write $A=B$ provided 
 
@@ -49,7 +49,7 @@ With this new notation we can define what it means for two matrices to be equal.
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -60,13 +60,13 @@ Essentially, two matrices are equal if they are the same size and they have the 
 Now that we have an agreed upon understanding of what it means for two matrices to equal each other, we may begin defining arithmetic operations on matrices.  Our first operation is addition.
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{matrixaddition} \index{matrix ! addition ! definition of} \textbf{Matrix Addition:}  Given two matrices of the same size, the matrix obtained by adding the corresponding entries of the two matrices is called the \index{matrix ! sum} \textbf{sum} of the two matrices. More specifically,  if $A =\left[a_{ij}\right]_{m \times n}$ and $B =\left[b_{ij}\right]_{m \times n}$, we define \[A + B = \left[a_{ij}\right]_{m \times n} + \left[b_{ij}\right]_{m \times n} = \left[ a_{ij} + b_{ij} \right]_{m \times n}\] 
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -79,7 +79,7 @@ It is worth the reader's time to think what would have happened had we reversed 
 A similar argument shows the \index{matrix ! addition ! associative property}\index{associative property ! matrix ! addition}\textit{associative property} of matrix addition also holds, inherited in turn from the associative law of real number addition.  Specifically, for matrices $A$, $B$, and $C$ of the same size, $(A+B)+C = A+(B+C)$.  In other words, when adding more than two matrices, it doesn't matter how they are grouped.  This means that we can write $A+B+C$ without parentheses and there is no ambiguity as to what this means.\footnote{We have seen this idea before in Sections \ref{FunctionArithmetic} and \ref{FunctionComposition}.} These properties and more are summarized in the following theorem.
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem} \label{matrixadditionprops}  \textbf{Properties of Matrix Addition} \index{matrix ! addition ! properties of}
 \begin{itemize}
 
@@ -95,7 +95,7 @@ That is, the additive inverse of a matrix is the matrix of the additive inverses
 
 \end{itemize}
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -120,13 +120,13 @@ Our next task is to define what it means to multiply a matrix by a real number. 
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{scalarmultmatrix} \index{scalar multiplication ! matrix ! definition of} \index{matrix ! scalar multiplication ! definition of}\textbf{Scalar\footnote{The word `scalar' here refers to real numbers.  `Scalar multiplication' in this context means we are multiplying a matrix by a real number (a scalar).  We will discuss this term momentarily.} Multiplication:} We define the product of a real number and a matrix to be the matrix obtained by multiplying each of its entries by said real number.  More specifically, if $k$ is a real number and $A = \left[a_{ij}\right]_{m \times n}$, we define \[kA = k\left[a_{ij}\right]_{m \times n} = \left[ka_{ij}\right]_{m \times n}\]
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -141,7 +141,7 @@ Suppose we take the point $(-2,1)$ and multiply its position matrix by $3$.  We 
 As did matrix addition, scalar multiplication inherits many properties from real number arithmetic.  Below we summarize these properties.
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}  \label{matrixscalarmultprops}\textbf{Properties of Scalar Multiplication} \index{matrix ! scalar multiplication ! properties of} \index{scalar multiplication ! matrix ! properties of}
 
 \begin{itemize}
@@ -167,7 +167,7 @@ For every  $m \times n$ matrix $A$ and scalars  $k$ and $r$, \[(k+r)A = kA + rA\
 \end{itemize}
 
 \end{theorem}
-\ebm}
+%% \ebm}
 \smallskip
 
 As with the other results in this section, Theorem \ref{matrixscalarmultprops} can be proved using the definitions of scalar multiplication and matrix addition.  For example, to prove that $k(A+B) = kA + kB$ for a scalar $k$ and $m \times n$ matrices $A$ and $B$, we start by adding $A$ and $B$, then multiplying by $k$ and seeing how that compares with the sum of $kA$ and $kB$. \[ k(A+B) = k \left(\left[a_{ij}\right]_{m \times n} + \left[b_{ij}\right]_{m \times n}\right) = k \left[a_{ij} + b_{ij} \right]_{m \times n} = \left[k \left(a_{ij}+b_{ij}\right)\right]_{m \times n} = \left[ka_{ij} + kb_{ij}\right]_{m \times n}\]
@@ -318,14 +318,14 @@ Generalizing this process, we have the following definition.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{rowcolumnproduct} \textbf{Product of a Row and a Column:}  Suppose $A = [a_{ij}]_{m \times n}$ and $B = [b_{ij}]_{n \times r}$.  Let $Ri$ denote the $i$th row of $A$ and let $Cj$ denote the $j$th column of $B$.  The \index{matrix ! product of row and column} \textbf{product of \boldmath $R_{i}$ and \boldmath $C_{j}$, denoted $R_{i} \cdot C_{j}$} is the real number defined by
 \[ Ri \cdot Cj = a_{i\mbox{\tiny$1$}}b_{\mbox{\tiny$1$}j} + a_{i\mbox{\tiny$2$}}b_{\mbox{\tiny$2$}j} + \ldots a_{in}b_{nj}\]
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -333,7 +333,7 @@ Note that in order to multiply a row by a column, the number of entries in the r
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{matrixproduct} \textbf{Matrix Multiplication:}  Suppose $A = [a_{ij}]_{m \times n}$ and $B = [b_{ij}]_{n \times r}$.  Let $Ri$ denote the $i$th row of $A$ and let $Cj$ denote the $j$th column of $B$.  The \index{matrix ! matrix multiplication ! definition of} \textbf{product of \boldmath $A$ and \boldmath $B$}, denoted $AB$, is the matrix
 \[AB = \left[ Ri \cdot Cj \right]_{m \times r} \]
@@ -349,7 +349,7 @@ Rm \cdot C1 & Rm \cdot C2 & \ldots & Rm \cdot Cr \\  \end{array} \right] \]
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -381,7 +381,7 @@ Note that the product $BA$ is not defined, since $B$ is a $3 \times \underline{4
 Even when the dimensions of $A$ and $B$ are compatible such that $AB$ and $BA$ are both defined, the product $AB$ and $BA$ aren't necessarily equal.\footnote{And may not even have the same dimensions.  For example, if $A$ is a $2 \times 3$ matrix and $B$ is a $3 \times 2$ matrix, then $AB$ is defined and is a $2 \times 2$ matrix while $BA$ is also defined... but is a $3 \times 3$ matrix!} In other words, $AB$ may not equal $BA$ which means matrix multiplication is not, in general, commutative.  That being said, several other real number properties are inherited by matrix multiplication, as illustrated in our next theorem.
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}  \label{matrixmultprops}\textbf{Properties of Matrix Multiplication} \index{matrix ! matrix multiplication ! properties of} Let $A$, $B$ and $C$ be matrices such that all of the matrix products below are defined and let $k$ be a real number.
 
 \begin{itemize}
@@ -399,7 +399,7 @@ For a natural number $k$, the \textbf{\boldmath $k \times k$ identity matrix}, d
 \end{itemize}
 
 \end{theorem}
-\ebm}
+%% \ebm}
 \smallskip
 
 The one property in Theorem \ref{matrixmultprops} which begs further investigation is, without doubt, the multiplicative identity.  \label{maindiagonal} The entries in a matrix where $i=j$ comprise what is called the \index{matrix ! main diagonal}\index{main diagonal}\textit{main diagonal} of the matrix.  The identity matrix has $1$'s along its main diagonal and $0$'s everywhere else.  A few examples of the matrix $I_{k}$ mentioned in Theorem \ref{matrixmultprops} are given below.  The reader is encouraged to see how they match the definition of the identity matrix presented there.

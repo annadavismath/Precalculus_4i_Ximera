@@ -16,7 +16,7 @@
 In Section \ref{Vectors}, we learned how add and subtract vectors and how to multiply vectors by scalars.  In this section, we define a product of vectors.  We begin with the following definition.
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{definition} \label{dotproductdefn}    Given vectors  $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ and $\vec{w} = \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right>$,  the \textbf{dot product}\index{vector ! dot product ! definition of}\index{vector ! scalar product ! definition of}\index{dot product ! definition of} of $\vec{v}$ and $\vec{w}$ is given by
 
 \[ \vec{v} \cdot \vec{w} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right> \cdot \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right> = v_{\mbox{\tiny $1$}}w_{\mbox{\tiny $1$}} + v_{\mbox{\tiny $2$}}w_{\mbox{\tiny $2$}} \]
@@ -26,7 +26,7 @@ In Section \ref{Vectors}, we learned how add and subtract vectors and how to mul
 
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -38,7 +38,7 @@ Note that the dot product takes two \textit{vectors} and produces a \textit{scal
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{dotprodprops} \textbf{Properties of the Dot Product} \index{vector ! dot product ! properties of} \index{vector ! scalar product ! properties of} \index{dot product ! properties of}
 
@@ -58,7 +58,7 @@ Note that the dot product takes two \textit{vectors} and produces a \textit{scal
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -203,13 +203,13 @@ The following theorem gives us some insight into the geometric role the dot prod
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem} \label{dotproductgeo} \textbf{Geometric Interpretation of Dot Product:}  If $\vec{v}$ and $\vec{w}$ are nonzero vectors then \[ \vec{v} \cdot \vec{w} = \|\vec{v}\| \|\vec{w}\| \cos(\theta),\] where $\theta$ is the angle between $\vec{v}$ and $\vec{w}$. \index{vector ! dot product ! geometric interpretation} \index{dot product ! geometric interpretation}
 
 \smallskip
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -290,7 +290,7 @@ An immediate consequence of Theorem \ref{dotproductgeo} is the following.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{anglebetweenvectorthm} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors and let $\theta$ the angle between $\vec{v}$ and $\vec{w}$.  Then \index{vector ! angle between two} \index{angle ! between two vectors}
 
@@ -300,7 +300,7 @@ An immediate consequence of Theorem \ref{dotproductgeo} is the following.
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -531,11 +531,11 @@ Of the three cases diagrammed above, the one which has the most mathematical sig
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem} \label{dotprodorththm}   For nonzero vectors $\vec{v}$ and $\vec{w}$,  $\vec{v} \perp \vec{w}$ if and only if $\vec{v} \cdot \vec{w} = 0$. \index{vector ! dot product ! relation to orthogonality} \index{dot product ! relation to orthogonality}  
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -717,7 +717,7 @@ If the angle between $\vec{v}$ and $\vec{w}$ is $\frac{\pi}{2}$ then it is easy 
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{vectorproj} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors.  
 
@@ -728,7 +728,7 @@ The \textbf{orthogonal projection of $\vec{v}$ onto $\vec{w}$}, denoted $\text{p
 \smallskip
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -740,14 +740,14 @@ While the formula given in Definition \ref{vectorproj} is theoretically appealin
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{altprojformulas} \textbf{Alternate Formulas for Vector Projections:}  If $\vec{v}$ and $\vec{w}$ are nonzero vectors then
 
 \[\text{proj}_{\vec{w}}(\vec{v}) = (\vec{v} \cdot \bm\hat{w}) \bm\hat{w} = \left(\dfrac{\vec{v} \cdot \vec{w}}{\| \vec{w}\|^2}\right) \vec{w} = \left(\dfrac{\vec{v} \cdot \vec{w}}{\vec{w} \cdot \vec{w}}\right) \vec{w} \]
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -831,14 +831,14 @@ In Example \ref{projex} above, writing $\vec{v} = \vec{p} + \vec{q}$ is an examp
  
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{generalizeddecompthm}  \textbf{Generalized Decomposition Theorem:} \index{vector ! Decomposition Theorem ! Generalized} Let $\vec{v}$ and $\vec{w}$ be nonzero vectors.  There are unique vectors $\vec{p}$ and $\vec{q}$  such that $\vec{v} = \vec{p} + \vec{q}$ where $\vec{p} = k \vec{w}$ for some scalar $k$, and $\vec{q} \cdot \vec{w} = 0$.
 
 \end{theorem}
 
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -918,7 +918,7 @@ Since the distance the object travels is $\| \overrightarrow{PQ} \|$, we get $W 
 Using Theorem \ref{dotproductgeo}, we can rewrite  $W = \vec{F} \cdot \overrightarrow{PQ} =  \| \vec{F} \| \| \overrightarrow{PQ} \| \cos(\theta)$, where $\theta$ is the angle between the applied force $\vec{F}$ and the trajectory of the motion $\overrightarrow{PQ}$.  We have proved the following.
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{workthm}\index{dot product ! work}\index{vector ! dot product ! work} \textbf{Work as a Dot Product:}  Suppose a constant force $\vec{F}$ is applied along the vector $\overrightarrow{PQ}$.  The work $W$ done by $\vec{F}$ is given by
 
@@ -928,7 +928,7 @@ where $\theta$ is the angle between $\vec{F}$ and $\overrightarrow{PQ}$.
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 

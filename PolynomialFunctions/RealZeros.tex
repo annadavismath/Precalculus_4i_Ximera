@@ -17,12 +17,12 @@ In Section \ref{Polydivision}, we found that we can use synthetic division to de
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{CauchysBound}\index{Cauchy's Bound}\textbf{Cauchy's Bound:}  Suppose $f(x) = a_{n} x^{n} + a_{n-\mbox{\tiny$1$}}x^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} x + a_{\mbox{\tiny$0$}}$ is a polynomial of degree $n$ with $n \geq 1$.  Let $M$ be the largest of the numbers: $\frac{|a_{0}|}{|a_{n}|}$, $\frac{|a_{1}|}{|a_{n}|}$, \ldots, $\frac{|a_{n-1}|}{|a_{n}|}$.  Then all the real zeros of $f$ lie in in the interval $[-(M+1),M+1]$.
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 
 There's a lot going on in the statement of Cauchy's Bound, so we'll get right to an example and show how it is used. For those wanting a proof of Cauchy's Bound, see Exercise \ref{CauchyBoundProofExercise} in Section \ref{Summation}.
@@ -40,12 +40,12 @@ Whereas the previous result tells us \textbf{where} we can find the real zeros o
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{RZT}\index{Rational Zeros Theorem}\textbf{Rational Zeros Theorem:}  Suppose $f(x) = a_{n} x^{n} + a_{n-\mbox{\tiny$1$}}x^{n-\mbox{\tiny$1$}} + \ldots + a_{\mbox{\tiny$1$}} x + a_{\mbox{\tiny$0$}}$ is a polynomial of degree $n$ with $n \geq 1$, and $a_{\mbox{\tiny$0$}}$, $a_{\mbox{\tiny$1$}}$, \ldots $a_{n}$ are integers.  If $r$ is a rational zero of $f$, then $r$ is of the form $\pm \frac{p}{q}$, where $p$ is a factor of the constant term $a_{\mbox{\tiny$0$}}$, and $q$ is a factor of the leading coefficient $a_{n}$.  
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -185,7 +185,7 @@ Suppose we wish to find the zeros of $f(x) = 2x^4+4x^3-x^2-6x-3$ \textbf{without
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \index{Descartes' Rule of Signs}\label{DRS}  \textbf{Descartes' Rule of Signs:}  Suppose $f(x)$ is the formula for a polynomial function written with descending powers of $x$.
 
@@ -198,7 +198,7 @@ Suppose we wish to find the zeros of $f(x) = 2x^4+4x^3-x^2-6x-3$ \textbf{without
 \end{itemize}
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -218,7 +218,7 @@ Cauchy's Bound gives us a general bound on the zeros of a polynomial function.  
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}  \label{ULbounds} \textbf{Upper and Lower Bounds:}  Suppose $f$ is a polynomial of degree $n \geq 1$. \index{Upper and Lower Bounds Theorem}\index{polynomial function ! zero ! upper bound}\index{polynomial function ! zero ! lower bound}\index{zero ! upper and lower bounds}
 
 \begin{itemize}
@@ -232,7 +232,7 @@ Cauchy's Bound gives us a general bound on the zeros of a polynomial function.  
 \end{itemize}
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 
 \smallskip
@@ -360,18 +360,18 @@ Setting the quotient polynomial equal to zero yields $2x^2 - 3 = 0$, so that $x^
 As we mentioned in Section \ref{GraphsofPolynomials}, polynomial functions are continuous.  An important property of continuous functions is that they cannot change sign between  two values unless there is a zero in between.  We used this property of quadratic functions when constructing sign diagrams to help us solve inequalities (see Section \ref{QuadraticInequalities}.)   This property is a version of the celebrated  \textbf{Intermediate Value Theorem}. 
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \textbf{The Intermediate Value Theorem (Zero Version):} If $f$ is continuous over an interval containing $a$ and $b$ and $f(a)$ and $f(b)$ have different signs, then $f$ has a zero between $a$ and $b$.  That is, for at least one value $c$ between $a$ and $b$, $f(c) = 0$. \index{Intermediate Value Theorem ! polynomial zero version}
 
 \label{IVT}
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 The Intermediate Value Theorem is discussed in greater detail in Calculus, and its proof is usually delayed until a formal analysis course.  It is an example of an `existence' theorem - it tells us that, under suitable conditions, a zero exists - but offers us no algorithm to find it.\footnote{See the notes on the `Bisection Method' at the end of this section.} Its use to us in this section is that it provides the justification needed to create sign diagrams for general polynomial functions in the same manner in which we constructed them for quadratic functions.
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \centerline{\textbf{Steps for Constructing a Sign Diagram for a Polynomial Function}}
 
@@ -388,14 +388,14 @@ Suppose $f$ is a polynomial function. \index{sign diagram ! polynomial function}
 
 \end{enumerate}
 
-\ebm}
+%% \ebm}
 
 The Intermediate Value Theorem justifies the use of just one `test' value in the algorithm above, since a continuous function cannot change signs on an interval without there being a zero on that interval.  Since we have found the zeros in Step 1 of the algorithm and used these to create the intervals for Step 2, there cannot be any sign changes on any of the intervals in Step 2.
 
 Not surprisingly, we use sign diagrams to solve inequalities involving higher order polynomial functions in the same way we used them to solve inequalities involving quadratic functions. We reproduce our algorithm from section \ref{QuadraticInequalities} for reference.
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \centerline{\textbf{Solving Inequalities using Sign Diagrams}} \index{inequality ! solution using sign diagram }
 
@@ -411,7 +411,7 @@ To solve an inequality using a sign diagram:
 
 \end{enumerate}
 
-\ebm}
+%% \ebm}
 
 
 \begin{example}  \label{polyeqineqexample} $~$

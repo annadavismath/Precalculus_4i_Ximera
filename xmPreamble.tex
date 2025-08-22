@@ -203,16 +203,18 @@
 \usepackage{bm}
 \definecolor{ResultColor}{gray}{0.9}
 \theoremstyle{definition}  % this prevents the text in definitions, theorems, and corollaries from being italicized
-\newtheorem{defn}{\bf Definition}[section]
+%replaced \newtheorem{defn}{\bf Definition}[section]
 \newtheorem*{defnrecall}{\bf Definition}
-\newtheorem{thm}{\bf Theorem}[section]
-\newtheorem{cor}[thm]{\bf Corollary}
+%replaced \newtheorem{thm}{\bf Theorem}[section]
+%notused \newtheorem{cor}[thm]{\bf Corollary}
 \newtheorem{eqn}{\bf Equation}[section]
-\newtheorem{ex}{\bf Example}[section]
-\newtheorem{fig}{\bf Figure}[section]
+%replaced \newtheorem{ex}{\bf Example}[section]
+%notused \newtheorem{fig}{\bf Figure}[section]
 \setlength{\parindent}{0in}
-\newcommand{\bbm}{\begin{boxedminipage}{6.41in}}
-\newcommand{\ebm}{\end{boxedminipage}}
+\newcommand{\bbm}{\relax}
+\newcommand{\ebm}{\relax}
+%notneeded \newcommand{\bbm}{\begin{boxedminipage}{6.41in}}
+%notneeded \newcommand{\ebm}{\end{boxedminipage}}
 \newcommand{\ds}{\displaystyle}
 \usepackage{array}
 \setlength{\extrarowheight}{2pt}

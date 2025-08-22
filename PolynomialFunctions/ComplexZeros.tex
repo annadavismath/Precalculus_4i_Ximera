@@ -15,7 +15,7 @@
 
 In Section \ref{RealZeros}, we were focused on finding the real zeros of a polynomial function.  In this section, we expand our horizons and look for the non-real zeros as well. By `non-real' here we mean we will be discussing `imaginary,' and, more generally, `complex' numbers.  Even though the monikers `non-real' and `imaginary' suggests these numbers play no role in `real' world applications, we assure you that electrical engineers live a `complex' life and these numbers are invaluable to them.\footnote{Even a cursory web search for `use of imaginary numbers in electrical engineering' provides a wealth of source material - enough to convince anyone of their importance to the field (pun intended.)  Most of it, however, requires more electrical background than the authors feel comfortable including in the text.  Be aware, however, that in electrical applications, the letter $j$ is used to represent $\sqrt{-1}$ since the letter $i$ is reserved for current.}  That being said, our main use of complex numbers in this section is to present some powerful structure theorems for polynomial functions (this is, after all, a math book!)  For a detailed review of the Complex Number system, we refer the reader to Section \ref{AppCmpNums}.  For us, it suffices to review the basic vocabulary.  
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{itemize}
  
@@ -35,7 +35,7 @@ In Section \ref{RealZeros}, we were focused on finding the real zeros of a polyn
 
 \end{itemize}
 
-\ebm}
+%% \ebm}
 
 Note that every real number is a complex number, that is $\mathbb{R} \subseteq \mathbb{C}$.  To see this, take your favorite real number, say $117$.  We may write $117 = 117 + 0 i$ which puts in the form $a + bi$.  Hence, we we speak of the `complex zeros' of a polynomial function, we are talking about not just the non-real, but also the real zeros.
 
@@ -88,11 +88,11 @@ Indeed, the above shows $x^2-2x+5  = (x-[1+2i])(x-1+2i)= (x-[1+2i])(x-[1-2i])$ w
 
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem} \label{ftoa} \textbf{The Fundamental Theorem of Algebra:}  Suppose $f$ is a polynomial function with complex number coefficients of degree $n \geq 1$, then $f$ has at least one complex zero.
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 
 
@@ -103,11 +103,11 @@ The Fundamental Theorem of Algebra is an example of an `existence' theorem in Ma
 Suppose  $f$ is a polynomial function of degree $n \geq 1$.  The Fundamental Theorem of Algebra guarantees us at least one complex zero, $z_{\mbox{\tiny $1$}}$.  The Factor Theorem guarantees that $f(x)$ factors as $f(x) = \left(x - z_{\mbox{\tiny $1$}}\right) q_{\mbox{\tiny $1$}}(x)$ for a polynomial function $q_{\mbox{\tiny $1$}}$,  which has degree $n-1$.  If $n-1 \geq 1$, then the Fundamental Theorem of Algebra guarantees a complex zero of $q_{\mbox{\tiny $1$}}$ as well, say $z_{\mbox{\tiny $2$}}$, so then the Factor Theorem gives us $q_{\mbox{\tiny $1$}}(x) = \left(x - z_{\mbox{\tiny $2$}}\right) q_{\mbox{\tiny $2$}}(x)$, and hence $f(x) = \left(x - z_{\mbox{\tiny $1$}}\right) \left(x - z_{\mbox{\tiny $2$}}\right) q_{\mbox{\tiny $2$}}(x)$.  We can continue this process exactly $n$ times, at which point our quotient polynomial $q_{\mbox{\tiny $n$}}$ has degree $0$ so it's a constant.  This constant is none-other than the leading coefficient of $f$ which is carried down line by line each time we divide by factors of the form $x-c$.
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem} \label{complexfactorization} \textbf{Complex Factorization Theorem:} Suppose $f$ is a polynomial function with complex number coefficients.  If the degree of $f$ is $n$ and $n \geq 1$, then  $f$ has exactly $n$ complex zeros, counting multiplicity.  If $z_{\mbox{\tiny $1$}}$, $z_{\mbox{\tiny $2$}}$, \ldots, $z_{\mbox{\tiny $k$}}$ are the distinct zeros of $f$, with multiplicities $m_{\mbox{\tiny $1$}}$, $m_{\mbox{\tiny $2$}}$, \ldots, $m_{\mbox{\tiny $k$}}$, respectively, then $f(x) = a\left(x - z_{\mbox{\tiny $1$}}  \right)^{m_{\mbox{\tiny $1$}}}\left(x - z_{\mbox{\tiny $2$}}  \right)^{m_{\mbox{\tiny $2$}}} \cdots \left(x - z_{\mbox{\tiny $k$}}  \right)^{m_{\mbox{\tiny $k$}}}$. \index{Complex Factorization Theorem}
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -168,13 +168,13 @@ The last two results of the section show us that, theoretically, the non-real ze
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{conjugatepairsthm}\textbf{Conjugate Pairs Theorem:} If $f$ is a polynomial function with real number coefficients and $z$ is a complex zero of $f$, then so is $\overline{z}$. \index{Conjugate Pairs Theorem}
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -205,10 +205,10 @@ This shows that $\overline{z}$ is a zero of $f$.  So, if $f$ is a polynomial fun
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}\label{realfactorization}\textbf{Real Factorization Theorem:} Suppose $f$ is a polynomial function with real number coefficients.  Then $f(x)$ can be factored into a product of linear factors corresponding to the real zeros of $f$ and irreducible quadratic factors which give the nonreal zeros of $f$. \index{Real Factorization Theorem}
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \smallskip
 

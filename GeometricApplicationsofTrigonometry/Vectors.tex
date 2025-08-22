@@ -71,14 +71,14 @@ The component form of a vector is what ties these very geometric objects back to
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{definition} \label{componentformvector}  Suppose $\vec{v}$ is represented by a directed line segment with initial point $P\left(x_{\mbox{\tiny $0$}}, y_{\mbox{\tiny $0$}}\right)$ and terminal point $Q\left(x_{\mbox{\tiny $1$}}, y_{\mbox{\tiny $1$}}\right)$.  The \textbf{component form} of $\vec{v}$ is given by \index{component form of a vector}
 
 \[ \vec{v} = \overrightarrow{PQ} = \left< x_{\mbox{\tiny $1$}} - x_{\mbox{\tiny $0$}}, y_{\mbox{\tiny $1$}} - y_{\mbox{\tiny $0$}} \right> \]
 
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -215,14 +215,14 @@ Our next step is to define addition of vectors component-wise to match the geome
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{definition} \label{vectoradd}  Suppose $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$ and $\vec{w} = \left<w_{\mbox{\tiny $1$}},w_{\mbox{\tiny $2$}}\right>$.  The vector $\vec{v} + \vec{w}$ is defined by \index{vector ! addition ! definition of}
 
 \[ \vec{v} + \vec{w}  = \left< v_{\mbox{\tiny $1$}} + w_{\mbox{\tiny $1$}}, v_{\mbox{\tiny $2$}} + w_{\mbox{\tiny $2$}} \right> \]
 
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \begin{example}  \label{vectoraddex}  Let  $\vec{v} = \left<3,4\right>$ and suppose  $\vec{w} = \overrightarrow{PQ}$ where $P(-3,7)$ and $Q(-2,5)$.  Find $\vec{v} + \vec{w}$ and interpret this sum geometrically.
 
@@ -274,7 +274,7 @@ Geometrically,  $\vec{0}$ represents a point, which we can (very broadly) think 
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem} \label{vectoradditionprops}  \textbf{Properties of Vector Addition} \index{vector ! addition ! properties of}
 \begin{itemize}
 
@@ -292,7 +292,7 @@ That is, the additive inverse of a vector is the vector of the additive inverses
 
 \end{itemize}
 \end{theorem}
-\ebm}
+%% \ebm}
 
 
 The properties in Theorem \ref{vectoradditionprops} are easily verified using the definition of vector addition,\footnote{The interested reader is encouraged to compare Theorem \ref{vectoradditionprops} and the ensuing discussion with Theorem \ref{matrixadditionprops} in Section \ref{MatArithmetic}.}  and are a direct consequence of the definition of vector addition along with properties inherited from real number arithmetic.
@@ -451,13 +451,13 @@ Next, we discuss \textit{scalar} multiplication -- that is, taking a real number
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{scalarmultvector} \index{vector ! scalar multiplication ! definition of} \index{scalar multiplication ! vector ! definition of} If $k$ is a real number and $\vec{v} = \left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right>$, we define $k\vec{v}$ by \[k\vec{v} = k\left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right> =\left<k v_{\mbox{\tiny $1$}},k v_{\mbox{\tiny $2$}}\right> \]
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -485,7 +485,7 @@ Scalar multiplication by $k$ in vectors can be understood geometrically as scali
 Note  by definition \ref{scalarmultvector}, $(-1)\vec{v} = (-1)\left<v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right> = \left<(-1)v_{\mbox{\tiny $1$}}, (-1)v_{\mbox{\tiny $2$}}\right> = \left<-v_{\mbox{\tiny $1$}},-v_{\mbox{\tiny $2$}}\right> = -\vec{v}$, which is what we would expect.   This and other properties of scalar multiplication are summarized in the theorem below. 
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}  \label{vectorscalarmultprops}\textbf{Properties of Scalar Multiplication} \index{vector ! scalar multiplication ! properties of} \index{scalar multiplication ! vector ! properties of}
 
 \begin{itemize}
@@ -511,7 +511,7 @@ For all vectors $\vec{v}$ and $\vec{w}$ and scalars $k$, \[k(\vec{v}+\vec{w}) = 
 \end{itemize}
 
 \end{theorem}
-\ebm}
+%% \ebm}
 \smallskip
 
 The proof of Theorem \ref{vectorscalarmultprops}, like the proof of Theorem \ref{vectoradditionprops}, ultimately boils down to the definition of scalar multiplication and properties of real numbers.  
@@ -611,7 +611,7 @@ This motivates the following definition.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{definition} \label{polarformvector}  Suppose $\vec{v}$ is a vector with component form $\vec{v} =\left< v_{\mbox{\tiny $1$}} , v_{\mbox{\tiny $2$}}  \right>$.  Let $\theta$ be an angle in standard position whose terminal side contains the point $\left(v_{\mbox{\tiny $1$}},v_{\mbox{\tiny $2$}}\right)$.
 
 \begin{itemize}
@@ -625,7 +625,7 @@ This motivates the following definition.
 Taken together, we get $\vec{v} =  \left< \| \vec{v} \| \cos(\theta), \| \vec{v} \| \sin(\theta) \right>$.
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -646,7 +646,7 @@ The following theorem summarizes the important facts about the magnitude and dir
 \smallskip
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}  \label{magdirprops}  \textbf{Properties of Magnitude and Direction}: Suppose $\vec{v}$ is a vector. \index{vector ! magnitude ! properties of} \index{vector ! direction ! properties of}
 
 \begin{itemize}
@@ -663,7 +663,7 @@ The following theorem summarizes the important facts about the magnitude and dir
 
 \smallskip
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -907,11 +907,11 @@ In part \ref{preludetounitvector} of Example \ref{polarformvecex}, we saw that t
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{definition} \label{unitvectordefn} \index{vector ! unit vector} \index{unit vector} \textbf{Unit Vectors:}   Let $\vec{v}$ be a vector. If $\| \vec{v} \| = 1$, we say that $\vec{v}$ is a \textbf{unit vector}.
 
 \end{definition}
-\ebm}
+%% \ebm}
 \smallskip
 
 Note that if $\vec{v}$ is a unit vector, then necessarily,  $\vec{v} = \| \vec{v} \| \bm\hat{v} = 1 \cdot \bm\hat{v} = \bm\hat{v}$.  Conversely,  in the solution of part \ref{preludetounitvector} of Example \ref{polarformvecex}, two different arguments show for any nonzero vector $\vec{v}$, $\| \bm\hat{v} \| = 1$, so $\bm\hat{v}$ is a unit vector.  
@@ -964,7 +964,7 @@ Of all of the unit vectors, two deserve special mention.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{ihatjhatdefn}  \textbf{The Principal Unit Vectors:} $~$ \index{vector ! principal unit vectors, $\bm\hat{\text{i}}$, $\bm\hat{\text{j}}$} \index{principal unit vectors, $\bm\hat{\text{i}}$, $\bm\hat{\text{j}}$} 
 
@@ -980,7 +980,7 @@ Of all of the unit vectors, two deserve special mention.
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -988,7 +988,7 @@ Geometrically, in the $xy$-plane, the vector $\bm\hat{\text{i}}$ as represents t
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{ijdecomp}  \textbf{Principal Vector Decomposition Theorem:} 
 
@@ -997,7 +997,7 @@ Geometrically, in the $xy$-plane, the vector $\bm\hat{\text{i}}$ as represents t
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 

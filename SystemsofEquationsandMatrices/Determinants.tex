@@ -25,10 +25,10 @@ To explain how we will take an $n \times n$ matrix and distill an $(n-1) \times 
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{definition} \label{Aijdefn} Given an $n \times n$ matrix $A$ where $n>1$, the matrix $A_{ij}$ is the $(n-1) \times (n-1)$ matrix formed by deleting the $i$th row of $A$ and the $j$th column of $A$. 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -50,7 +50,7 @@ We are now in the position to define the determinant of a matrix.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{determinantdefn} \index{matrix ! determinant ! definition of} \index{determinant of a matrix ! definition of} Given an $n \times n$ matrix $A$ the \textbf{determinant of \boldmath $A$}, denoted $\det(A)$, is defined as follows
 
@@ -63,7 +63,7 @@ We are now in the position to define the determinant of a matrix.
 \end{itemize}
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -99,14 +99,14 @@ This formula is worth remembering
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{eqn} \label{2by2determinant} For a $2 \times 2$ matrix,
 
 
 \[ \det \left( \left[ \begin{array}{cc}  a & b \\ c & d \\ \end{array} \right] \right) = ad-bc \]
 
 \end{eqn}
-\ebm}
+%% \ebm}
 \smallskip
 
 Applying Definition \ref{determinantdefn} to the $3 \times 3$ matrix $A =  \left[ \begin{array}{rrr} 3 & 1 & \hphantom{-}2 \\ 0 & -1 & 5 \\ 2 & 1 & 4 \\ \end{array} \right]$ we obtain
@@ -124,7 +124,7 @@ To evaluate the determinant of a $4 \times 4$ matrix, we would have to evaluate 
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition}  \label{minorcofactordefn} Let $A$ be an $n \times n$ matrix and $A_{ij}$ be defined as in Definition \ref{Aijdefn}.  
 
@@ -138,7 +138,7 @@ To evaluate the determinant of a $4 \times 4$ matrix, we would have to evaluate 
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -158,7 +158,7 @@ We are now ready to state our main theorem concerning determinants.
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{determinantprops}  \textbf{Properties of the Determinant:} Let $A = \left[a_{ij}\right]_{n \times n}$. \index{determinant of a matrix ! properties of} \index{matrix ! determinant ! properties of}
 
@@ -194,7 +194,7 @@ We are now ready to state our main theorem concerning determinants.
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -309,7 +309,7 @@ In this section, we introduce a theorem which enables us to solve a system of li
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{CramersRule} \index{Cramer's Rule} \textbf{Cramer's Rule:} Suppose  $AX = B$ is the matrix form of a system of $n$ linear equations in $n$ unknowns where $A$ is the coefficient matrix, $X$ is the unknowns matrix, and $B$ is the constant matrix. 
 
@@ -321,7 +321,7 @@ where $A_{j}$ is the matrix $A$ whose $j$th column has been replaced by the cons
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -516,7 +516,7 @@ To generalize this to invertible $n \times n$ matrices, we need another definiti
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition}  \label{matrixadjoint} Let $A$ be an $n \times n$ matrix, and $C_{ij}$ denote the $ij$ cofactor of $A$.  
 
@@ -532,7 +532,7 @@ C_{\mbox{\tiny$1$}n} & C_{\mbox{\tiny$2$}n} & \ldots & C_{nn} \\  \end{array} \r
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -540,7 +540,7 @@ This new notation greatly shortens the statement of the formula for the inverse 
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem}  \label{adjointinverse} Let $A$ be an invertible $n \times n$ matrix.  Then
 
@@ -548,7 +548,7 @@ This new notation greatly shortens the statement of the formula for the inverse 
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 \smallskip
 
@@ -556,7 +556,7 @@ For $2 \times 2$ matrices, Theorem \ref{adjointinverse} reduces to a fairly simp
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{eqn}   \label{2by2inverse}  For an invertible $2 \times 2$ matrix,
 
@@ -565,7 +565,7 @@ For $2 \times 2$ matrices, Theorem \ref{adjointinverse} reduces to a fairly simp
 
 
 \end{eqn}
-\ebm}
+%% \ebm}
 \smallskip
 
 The proof of Theorem \ref{adjointinverse} is, like so many of the results in this section, best left to a course in Linear Algebra.  In such a course, not only do you gain some more sophisticated proof techniques, you also gain a larger perspective.  Within the scope of this text, we will prove a few results involving determinants in Section \ref{Induction} using the Principle of Mathematical Induction.  Until then, make sure you have a handle on the \textit{mechanics} of matrices and the theory will come eventually.

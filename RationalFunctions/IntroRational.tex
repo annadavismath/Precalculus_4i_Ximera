@@ -17,7 +17,7 @@ If we add, subtract, or multiply polynomial functions, the result is another pol
 
 \smallskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition}  \label{rationalfunction} A \textbf{rational function} is a function which is the ratio of polynomial functions.  Said differently, $r$ is a rational function if it is of the form \index{function ! rational}
 
@@ -27,20 +27,20 @@ where $p$ and $q$ are polynomial functions.\footnote{According to this definitio
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \subsection{Laurent Monomial Functions}
 \label{LaurentMonomialFunctionsSection}
 
 As with polynomial functions, we begin our study of rational functions with what are, in some sense, the building blocks of rational functions, \index{monomial function ! Laurent}\index{function ! monomial ! Laurent}\textbf{Laurent monomial functions}.  
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition}  \label{laurentmonomialfunction} A \textbf{Laurent monomial function} is either a monomial function (see Definition \ref{monomialfunction}) or a function of the form $f(x) = \dfrac{a}{x^n} = ax^{-n}$ for $n \in \mathbb{N}$.
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 Laurent monomial functions are named in honor of \href{https://en.wikipedia.org/wiki/Pierre_Alphonse_Laurent}{\underline{Pierre Alphonse Laurent}} and generalize the notion of `monomial function' from Chapter \ref{PolynomialFunctions} to terms with negative exponents. Our study of these functions begins with an analysis of   $r(x) = \frac{1}{x} = x^{-1}$, the reciprocal function. The first item worth  noting is that $r(0)$ is not defined owing to the presence of $x$  in the denominator.  That is, the domain of $r$ is $\{ x \in \mathbb{R} \, | \, x \neq 0\}$ or, using interval notation, $(-\infty, 0) \cup (0, \infty)$.   Of course excluding $0$ from the domain of $r$ serves only to pique our curiosity about the behavior of $r(x)$ when $x \approx 0$.  Thinking from a number sense perspective, the closer the denominator of $\frac{1}{x}$ is to $0$, the larger the value of the  fraction (in absolute value.)\footnote{Technically speaking, $-1 \times 10^{117}$ is a `small' number (since it is very far to the left on the number line.)  However, it's absolute value, $1 \times 10^{117}$ is very large.  If you read footnotes, you've seen this clarification before \ldots (see Section \ref{GraphsofPolynomials}.)}  So it stands to reason that as $x$ gets closer and closer to $0$, the values for $r(x) = \frac{1}{x}$ should grow larger and larger (in absolute value.)  This is borne out in the table below on the left where it is apparent that for $x \approx 0$, $r(x)$ is becoming unbounded.
 
@@ -113,21 +113,21 @@ We can also use this notation to describe the end behavior, but here the numeric
 
 The way we describe what is happening graphically is to say the line $x = 0$ is a  \index{asymptote ! vertical ! intuitive definition of}\index{vertical asymptote ! intuitive definition of}\textbf{vertical asymptote}  to the graph of $y = r(x)$ and the line $y = 0$ is a \index{asymptote ! horizontal ! intuitive definition of}\index{horizontal asymptote ! intuitive definition of}\textbf{horizontal asymptote} to the graph of $y = r(x)$.  Roughly speaking, asymptotes are lines which approximate functions as either the inputs or outputs become unbounded. 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{va} The line $x=c$ is called a \index{asymptote ! vertical ! formal definition of}\index{vertical asymptote ! formal definition of}\textbf{vertical asymptote} of the graph of a function $y=f(x)$  if either of the limits $\ds{ \lim_{x \rightarrow c^{-}} f(x)}$ or  $\ds{ \lim_{x \rightarrow c^{+}} f(x)}$ (or both) result in $\infty$ or $-\infty$.
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \medskip
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{ha} The line $y=c$ is called a \index{asymptote ! horizontal ! formal definition of}\index{horizontal asymptote ! formal definition of}\textbf{horizontal asymptote} of the graph of a function $y=f(x)$ either  $\ds{ \lim_{x \rightarrow -\infty} f(x)=c}$ or  $\ds{ \lim_{x \rightarrow \infty} f(x)=c}$ (or both).
 \end{definition}
-\ebm}
+%% \ebm}
 
 \medskip
 
@@ -266,7 +266,7 @@ $\begin{array}{|r||c|c|c|}  \hline
 
 Not surprisingly, we have an analog to Theorem \ref{linearmononialgraphs} for this family of Laurent monomial functions.
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \label{linearlaurentlgraphs}  For real numbers $a$, $h$, and $k$ with $a \neq 0$, the graph of $F(x) = \frac{a}{(x-h)^n}+k =  a(x-h)^{-n}+k$  can be obtained from the graph of $f(x) = \frac{1}{x^n}= x^{-n}$ by performing the following operations, in sequence:
 
@@ -292,7 +292,7 @@ The  horizontal asymptote moves from $y=0$ to $y=k$.
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 
 The proof of Theorem \ref{linearlaurentlgraphs} is \textbf{identical} to the proof of Theorem \ref{linearmononialgraphs} - just replace $x^n$ with $x^{-n}$.  We nevertheless encourage the reader to work through the details\footnote{We are, in fact, building to Theorem \ref{transformationsthm} in Section \ref{Transformations}, so the more you see the forest for the trees, the better off you'll be when the time comes to generalize these moves to all functions.} and compare the results of this theorem with Theorems \ref{linearabsvaluegraphs}, \ref{standardformgraph}, and  \ref{linearmononialgraphs}.
@@ -668,14 +668,14 @@ Suppose we have a position function $s$ defined over an interval containing some
 
 \bigskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{averagevelocitydefn} Let $s(t)$ be the position of an object at time $t$ and $t_{0}$ be a fixed time in the domain of $s$.  The \index{average velocity}\index{velocity ! average}\textbf{average velocity} between time $t$ and time $t_{0}$  for $t \neq t_{0}$ is given by
 
 \[ \overline{v}(t) = \dfrac{\Delta [s(t)]}{\Delta t} = \dfrac{s(t) - s(t_{0})}{t - t_{0}}. \]
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 \bigskip
 
@@ -776,7 +776,7 @@ We will revisit these sorts of machinations later in the text in a bit more gene
 
 Our next theorem generalizes our reasoning from this last example.
  
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 \begin{theorem}  \textbf{Location of Vertical Asymptotes and Holes:}\footnote{Or, `How to tell your asymptote from a hole in the graph.'}  \label{vavshole}  Suppose $r$ is a rational function and $c$ is not in the domain of $r$.\index{hole ! location of} \index{asymptote ! vertical ! location of} \index{vertical asymptote ! location of}
 
 \begin{itemize}
@@ -789,7 +789,7 @@ Our next theorem generalizes our reasoning from this last example.
 
 \end{theorem}
 
-\ebm}
+%% \ebm}
 
 Of course the first question to ask is how do we  know if $\ds{\lim_{x \rightarrow c} r(x)}$ results in a real number, $L$, and if so, how do we find $L$?  It turns out that if the limit exists, then the same sort of algebraic cancellation which occurred  Example \ref{averagevelocityrocketex} is guaranteed to happen. 
 
@@ -983,7 +983,7 @@ Using Theorem \ref{linearlaurentlgraphs}, we start with the graph of $y = \frac{
 Hence $\ds{\lim_{t \rightarrow  \infty} N(t) = 500}$ so  $y = 500$ is the horizontal asymptote.  This same reasoning can be used in general to argue the following theorem.
 
 \smallskip
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \index{asymptote ! horizontal ! location of}\index{horizontal asymptote ! location of}\textbf{Location of Horizontal Asymptotes:}\label{hathm} Suppose $r$ is a rational function and $r(x) = \frac{p(x)}{q(x)}$, where $p$ and $q$ are polynomial functions with leading coefficients $a$ and $b$, respectively. 
 
@@ -998,7 +998,7 @@ Hence $\ds{\lim_{t \rightarrow  \infty} N(t) = 500}$ so  $y = 500$ is the horizo
 
 \end{itemize}
 \end{theorem}
-\ebm}
+%% \ebm}
 \smallskip
 
 
@@ -1144,13 +1144,13 @@ The way we symbolize the relationship between the end behavior of $y=g(x)$ with 
 \medskip
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{sa} The line $y = mx+b$ where $m \neq 0$  is called a \index{asymptote ! slant ! formal definition of}\index{slant asymptote ! formal definition of}\textbf{slant asymptote} of the graph of a function $y=f(x)$ if as $x \rightarrow -\infty$ or as $x \rightarrow \infty$, $f(x)  \rightarrow mx+b$.
 
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \medskip
 
@@ -1162,12 +1162,12 @@ Secondly, while we have motivated what me mean intuitively by the notation `$f(x
 \medskip
 
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{sareprise} The line $y = mx+b$ where $m \neq 0$  is called a \index{asymptote ! slant ! formal definition of}\index{slant asymptote ! formal definition of}\textbf{slant asymptote} of the graph of a function $y=f(x)$ if either $\ds{\lim_{x \rightarrow -\infty} [f(x) - (mx+b)] = 0}$ or $\ds{\lim_{x \rightarrow \infty} [f(x) - (mx+b)] = 0}$ (or both!).
 
 \end{definition}
-\ebm}
+%% \ebm}
 
 \medskip
 
@@ -1176,12 +1176,12 @@ Our next task is to determine the conditions under which the graph of a rational
 
 \medskip
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{theorem} \textbf{Determination of Slant Asymptotes:} \label{sathm} Suppose $r$ is a rational function and $r(x) = \frac{p(x)}{q(x)}$, where the degree of $p$ is \textbf{exactly} one more than the degree of $q$.  Then the graph of $y=r(x)$ has \index{asymptote ! slant ! determination of}\index{slant asymptote ! determination of} the slant asymptote $y=L(x)$ where $L(x)$ is the quotient obtained by dividing $p(x)$ by $q(x)$.
 
 \end{theorem}
-\ebm}
+%% \ebm}
 
 \medskip
 
@@ -1280,7 +1280,7 @@ The graph of $y=h(x)$  & The graph of $y=r(t)$ \\
 
 Our last example gives a real-world application of a slant asymptote. The problem features the concept of \textbf{average profit}. The average profit, denoted $\overline{P}(x)$,  is the total profit, $P(x)$,  divided by the number of items sold, $x$. In English, the average profit tells us the profit made per item sold. It, along with average cost, is defined below.
 
-\colorbox{ResultColor}{\bbm
+%% \colorbox{ResultColor}{\bbm
 
 \begin{definition} \label{averagecostprofit} Let $C(x)$ and $P(x)$ represent the cost and profit to make and sell $x$ items, respectively.
 
@@ -1298,7 +1298,7 @@ Our last example gives a real-world application of a slant asymptote. The proble
 
 \end{definition}
 
-\ebm}
+%% \ebm}
 
 You'll explore average cost (and its relation to variable cost) in Exercise \ref{averagevariablecostexercise}.  For now, we refer the reader to to Example \ref{PortaBoyProfit}  in Section \ref{QuadraticFunctions}.
 
