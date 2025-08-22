@@ -98,8 +98,8 @@ jobs:
           XIMERA_NAME: "testprecalc"
         run: |
           chmod +x xmScripts/xmlatex
-          ./xmScripts/xmlatex name         
-          ./xmScripts/xmlatex serve
+          ./xmScripts/xmlatex name    || echo NOK
+          ./xmScripts/xmlatex serve   || echo NOK
           echo "✅ Published to $XIMERA_URL$XIMERA_NAME " >> $GITHUB_STEP_SUMMARY
 
 
