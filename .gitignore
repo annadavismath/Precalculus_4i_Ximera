@@ -1,4 +1,3 @@
-*Zone.Identifier
 ## Ignore.xmKeyFile  (contains dummy key, but potential real key should probably never be committed)
 .xmKeyFile*
 ## Don't push ximeraserve  (Obsolete now: till 11/2024 used instead of .xmKeyFile)
@@ -337,8 +336,3 @@ gpgkey
 
 # File used to update DevEnv config-files  (xmlatex updateDevEnv)
 xmDevEnvFiles.tgz
-
-# Bart told me to do this
-ximera.cls
-xourse.cls
-
