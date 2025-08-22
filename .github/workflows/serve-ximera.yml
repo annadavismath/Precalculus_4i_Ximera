@@ -56,8 +56,8 @@ jobs:
           # git config --global core.compression 9
           ./xmScripts/xmlatex bake  course.tex --compile "html,handout.pdf" || echo NOK
           ./xmScripts/xmlatex frost course.tex --nodependencies || echo NOK
-          ./xmScripts/xmlatex name
-          ./xmScripts/xmlatex serve
+          ./xmScripts/xmlatex name || echo NOK
+          ./xmScripts/xmlatex serve || echo NOK
           # ./xmScripts/xmlatex ghaction
           echo "✅ Published to $XIMERA_URL$XIMERA_NAME " >> $GITHUB_STEP_SUMMARY
 
